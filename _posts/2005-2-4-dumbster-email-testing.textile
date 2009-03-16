@@ -1,0 +1,5 @@
+---
+layout: post
+title: Dumbster, email testing.
+---
+Sweet! <a href="http://quintanasoft.com/dumbster/">Dumbster,  Fake SMTP Server</a>, written in Java and designed for email testing.  <em>via <a href="http://www.j2eegeek.com/blog/archives/2005_02_01_j2eegeek_archive.html#110736570757475676">Vinny Carpenter</a></em>

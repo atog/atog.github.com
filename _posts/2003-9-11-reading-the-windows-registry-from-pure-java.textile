@@ -1,0 +1,7 @@
+---
+layout: post
+title: reading the windows registry from pure java
+---
+<a href='http://www.livejournal.com/users/subtlety/18130.html'>Paul found a way</a> to update the windows registry from pure java. i never had to update the registry myself but i can imagine i will need it some day :p
+
+maybe there are a million other ways of doing this... i don't know (haven't looked in to it), this is the first time i bumped in to something like this.

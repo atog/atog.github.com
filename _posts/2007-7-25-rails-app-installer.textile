@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails app installer.
+---
+"Rails app installer":http://scottstuff.net/blog/articles/2007/07/24/free-to-good-home-rails-app-installer, anyone?

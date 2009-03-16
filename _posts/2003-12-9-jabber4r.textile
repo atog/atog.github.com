@@ -1,0 +1,7 @@
+---
+layout: post
+title: Jabber4R
+---
+as one might expect there is a <a href="http://jabber4r.rubyforge.org/">ruby-way</a> to play with <a href="http://jabber.org">jabber</a> :)
+
+i think i know <a href="http://nephilim.vinean.be/blog">someone</a> who is interested in this... :p

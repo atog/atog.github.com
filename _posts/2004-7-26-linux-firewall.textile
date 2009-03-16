@@ -1,0 +1,9 @@
+---
+layout: post
+title: Linux Firewall
+---
+If I ever get my wlan configured I want a decent firewall as well of course.
+After some googling I came up with the following links:
+<ul class="list"><li class="list"><a href="http://www.iptables.org/">iptables.org</a></li><li class="list"><a href="http://rcf.mvlan.net/">The rcf linux firewall</a></li><li class="list"><a href="http://projectfiles.com/firewall/">Projectfiles.com rc.firewall</a></li><li class="list"><a href="http://www.simonzone.com/software/guarddog/">Guarddog</a></li><li class="list"><a href="http://firestarter.sourceforge.net/">Firestarter</a></li></ul>
+
+I guess I got some reading to do, and/or maybe there's somebody out there who can give me some advice?

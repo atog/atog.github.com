@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails stage.
+---
+"Ruby en Rails stages bij Openminds":http://www.openminds.be/article/ruby-en-rails-stages, dat wilt ge toch wel doen zekers ;)

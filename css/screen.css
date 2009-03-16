@@ -1,0 +1,21 @@
+.site {
+	width: 500px;
+}
+
+.right {
+	float: right;
+}
+
+.contact {
+	float: left;
+	margin: 3em;
+}
+
+.adhese {
+	margin-top: 2em;
+}
+
+.date {
+	font-size: 0.8em;
+	text-transform: uppercase;
+}

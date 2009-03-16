@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruby and Rails at fosdem 2008.
+---
+Een beetje later dan "Peter":http://www.vandenabeele.com/fosdem-RoR-devroom-CFP en "Tom":http://www.tomklaasen.net/blog/2007/12/15/first-ruby-and-rails-devroom-at-fosdem-2008/ maar even belangrijk ;)
+
+bq. The Belgian Ruby User Group is happy to announce the first Ruby and Rails devroom at Fosdem 2008. Fosdem is a gathering of Free and Open Source Software developers and the ideal occasion to meet fellow Ruby and Rails developers (and 2000 other open source developers). If you have a good idea for a talk or tutorial, consider sending in an abstract. You can find the Call for Papers at "http://wiki.rubyist.be/wiki/show/CallForPapers":http://wiki.rubyist.be/wiki/show/CallForPapers.
+
+Tijd om eens na te denken wat ik daar kan gaan vertellen.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: TextDrive
+---
+Webhosting for life, only $200: <a href="http://forum.textpattern.com/viewtopic.php?id=1827">TextDrive</a> <em>via <a href="http://www.alexking.org/blog/2004/05/25/textdrive/">Alex</a> </em> 

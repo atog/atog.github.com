@@ -1,0 +1,5 @@
+---
+layout: post
+title: Easy AJAX, DWR.
+---
+<a href="http://today.java.net/pub/a/today/2005/08/25/dwr.html">Developing AJAX Applications the Easy Way</a>

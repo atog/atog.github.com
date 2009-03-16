@@ -1,0 +1,5 @@
+---
+layout: post
+title: Three reasons to reinvent the wheel.
+---
+<a href="http://www.journalhome.com/codecraft/11785/">Three reasons to reinvent the wheel</a>. <em>via <a href="http://blog.curthibbs.us/articles/2005/09/20/challenging-conventional-wisdom-let-s-reinvent-the-wheel">Curt</a></em>

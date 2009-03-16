@@ -1,0 +1,11 @@
+---
+layout: post
+title: Reddit for Ruby hackers.
+---
+Mooi. "Dat":http://reddit.com/r/ruby/ zou nog een goede ruby resource _kunnen_ worden. "Reddit for ruby hackers":http://reddit.com/r/ruby/.
+
+"Blijkbaar":http://www.rubyinside.com/ruby-gets-its-own-reddit-702.html#comment-34556 krijgt het ook een eigen ruby-reddit-manneke-logo als het populair genoeg wordt. 
+
+Alee vooruit met de geit. "Allen daarheen":http://reddit.com/r/ruby/! ...al is het maar voor dat manneke. ;)
+
+<em>via "Ruby Inside":http://www.rubyinside.com/ruby-gets-its-own-reddit-702.html</em>.

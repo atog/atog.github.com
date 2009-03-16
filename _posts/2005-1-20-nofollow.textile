@@ -1,0 +1,9 @@
+---
+layout: post
+title: nofollow.
+---
+Now <a href="http://www.google.com/googleblog/2005/01/preventing-comment-spam.html">this</a> is great initiative!! Google want's to do something about comment spam, I can only support that!!
+
+A lot of blog-software-makers already signed on.  Go go go!! ;)
+
+<em>via <a href="http://www.webfred.org/index.php?p=58">Frederik</a></em>

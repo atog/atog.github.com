@@ -1,0 +1,5 @@
+---
+layout: post
+title: CSS Cheat Sheet.
+---
+<a href="http://www.ilovejackdaniels.com/css/css-cheat-sheet/">CSS Cheat Sheet</a>. Thanks <a href="http://blogs.cocoondev.org/tomk/archives/003088.html">Tom</a>!

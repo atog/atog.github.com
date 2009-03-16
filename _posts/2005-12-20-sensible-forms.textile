@@ -1,0 +1,5 @@
+---
+layout: post
+title: Sensible Forms.
+---
+"A Form Usability Checklist":http://www.alistapart.com/articles/sensibleforms. Check! ;)

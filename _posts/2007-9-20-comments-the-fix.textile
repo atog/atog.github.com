@@ -1,0 +1,13 @@
+---
+layout: post
+title: Comments. The fix.
+---
+"Gisteren had ik ontdekt, dat het hele comment gebeuren hier kaput was":http://atog.be/2007/9/19/comments/.
+
+Ondertussen weet ik waarom het zo ineens gebeurd is. Bij "dreamhost":http://dreamhost.com was het apache en bij "openminds":http://openminds.be lighttpd en blijkbaar doet het probleem zich enkel voor bij lighttpd. Na wat surfen, "de oplossing gevonden":http://groups.google.com/group/MephistoBlog/browse_thread/thread/df3eb580f740bb3d/e85cf674eaa81fa0?lnk=gst&q=Justin+Hernandez+&rnum=6#e85cf674eaa81fa0. Geen caching voor comments.
+
+Hoe? Zet als eerste lijn in de mephisto_controller, methods dispatch_comments en dispatch_comment, <code>@skip_caching = true</code>.
+
+Voila. Happy commenting! :P
+
+[*update*] Dit probleem was blijkbaar terug opgedoken met de "theme change":http://atog.be/2007/12/18/theme-change/, ik heb toen ook mephisto terug ge-synced met dus de gekende gevolgen.

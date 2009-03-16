@@ -1,0 +1,5 @@
+---
+layout: post
+title: Reading Pattern.
+---
+"F-Shaped Pattern For Reading Web Content":http://www.useit.com/alertbox/reading_pattern.html.

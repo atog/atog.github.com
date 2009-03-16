@@ -1,0 +1,7 @@
+---
+layout: post
+title: css typography
+---
+From now on I'll use em's in my css' :)  and I will use Capitals in my posts, and I...  :p. I promise.
+
+Just to make sure I don't forget it. <a href="http://www.thenoodleincident.com/tutorials/typography/index.html">Here's the link to <em> sane css typography</em></a>

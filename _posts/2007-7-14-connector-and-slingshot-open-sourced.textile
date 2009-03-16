@@ -1,0 +1,5 @@
+---
+layout: post
+title: Connector and Slingshot open-sourced.
+---
+Van goed en interessant nieuws gesproken: "Connector and Slingshot Open-sourced and Free":http://joyeur.com/2007/07/13/connector-and-slingshot-open-sourced-and-free -- al is het maar om gewoon de source is te bekijken.

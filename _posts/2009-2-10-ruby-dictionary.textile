@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Ruby dictionary
+--- 
+"Pritt Haamer":http://www.priithaamer.com/ heeft iets gemaakt: "Een Ruby dictionary voor Mac OS X":http://www.priithaamer.com/blog/ruby-dictionary-for-mac-os-x.
+
+Right, wat doet dat dan? Wel, het laat u toe om de ruby docs te doorzoeken dmv van Spotlight, en via Dictionary.app natuurlijk. Het is vooral het eerste wat interessant is mijn gedacht. Snel, gemakkelijk en system-wide accessible.
+
+<a href="http://www.flickr.com/photos/atog/3269038485/" title="Ruby dictionary by atog, on Flickr"><img src="http://farm4.static.flickr.com/3398/3269038485_3c3aa615b4.jpg" width="500" height="329" alt="Ruby dictionary" /></a>
+
+"Er is ook eentje voor Rails":http://www.priithaamer.com/blog/ruby-on-rails-dictionary-for-macosx.
+
+<small><em>via "RubyInside":http://www.rubyinside.com/access-ruby-19-docs-from-the-os-x-dictionary-and-spotlight-1495.html</em></small>

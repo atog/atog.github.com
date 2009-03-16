@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rails cheat sheet.
+---
+Nifty! "Ruby on Rails cheat sheet":http://www.ilovejackdaniels.com/ruby-on-rails/ruby-on-rails-cheat-sheet/! <em>via "OnRails.be":http://www.onrails.be/Nieuws/ruby-on-rails-cheatsheets</em>
+
+*[update]* I had to remove 197 trackback entries.

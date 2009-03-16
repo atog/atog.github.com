@@ -1,0 +1,5 @@
+---
+layout: post
+title: Vertical centering with a Shiv Div.
+---
+"Vertical Centering with a Shiv Div":http://exanimo.com/examples/css/vertical-centering-with-a-shiv-div.html <em>via "Jon Hicks":http://www.hicksdesign.co.uk/journal/vertical-centering-with-a-shiv-div</em>

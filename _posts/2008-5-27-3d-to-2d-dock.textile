@@ -1,0 +1,15 @@
+---
+layout: post
+title: 3D to 2D dock.
+---
+Af en toe wil een mens al eens iets anders. Zo kunt ge dus ook uw OS X Leopard Dock van 3D naar 2D wijzigen in 2 lijnen:
+
+@defaults write com.apple.dock no-glass -boolean YES@
+
+@killall Dock@
+
+... of terug wanneer ge'r niet content van zijt:
+
+@defaults write com.apple.dock no-glass -boolean NO@
+
+<em>via "OSXDaily":http://www.osxdaily.com/2007/12/24/change-the-105-leopard-dock-from-3d-to-2d/</em>

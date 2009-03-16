@@ -1,0 +1,11 @@
+---
+layout: post
+title: Openminds Belgische OpenID provider!
+---
+"Openminds eerste Belgische OpenID provider":http://frank.be/articles/2007/03/07/openminds-eerste-belgische-openid-provider, "http://openid.openminds.be/":http://openid.openminds.be/
+
+Ik was altijd al een beetje terughoudend tegenover het hele OpenID gebeuren, nu nog, maar toch al iets minder nu ik weet dat mijn gegevens bij "Openminds":http://openminds.be staan. :)
+
+Zodus, ik heb nu ook een OpenID.  Tof. Nooit gedacht. Toch nu nog niet.
+
+<em>via "Netlash":http://www.netlash.com/log/openminds_eerste_belgische_openid_provider</em>.

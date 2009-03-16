@@ -1,0 +1,5 @@
+---
+layout: post
+title: 100 line tetris.
+---
+"Tetris in 100 lines of python":http://www.nikolajbaer.us/2006/05/stepping-it-up-notch-tetris-in-100.html.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: DWR.
+---
+<a href="https://dwr.dev.java.net/">DWR (Direct Web Remoting)</a>, this seems to be pretty cool stuff, I don't have a use for it at the moment, but by taking a look at<a href="http://eireneh.thorubio.org/dwr/index.html"> the examples</a> I knew I had to <a href="http://del.icio.us/atog">bookmark</a> it. 
+
+<em>via <a href="http://today.java.net/pub/n/2457">java.net</a></em>

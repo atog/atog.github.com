@@ -1,0 +1,7 @@
+---
+layout: post
+title: NewsFire now free.
+---
+"NewsFire 1.5 is released":http://www.newsfirex.com/blog/?p=201 en met deze is release is het meteen ook gratis geworden. Nu kan echt _iedereen_ een deftige feedreader gebruiken ;)
+
+<em>via "Daring Fireball":http://daringfireball.net/linked/2008/march#sat-01-newsfire</em>.

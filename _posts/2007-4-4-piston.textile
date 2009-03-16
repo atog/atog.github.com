@@ -1,0 +1,15 @@
+---
+layout: post
+title: Piston.
+---
+"Piston":http://piston.rubyforge.org, easy vendor branch management.
+
+Schoon ding, diene Piston. Het doet ongeveer het zelfde als "svn:externals":http://atog.be/2006/8/22/svn-externals,
+met het verschil dat ge een locale copy hebt van de files, welke je dan ook kan wijzigen.
+
+<em>"As long as the changes are mergeable, you should have no problems."</em> :)
+
+Het voordeel hiervan is dat je altijd alles in uw eigen repository beschikbaar hebt terwijl je toch nog steeds
+de wijzigingen in de remote repository kan blijven volgen. 
+
+"More info on the daily usage":http://piston.rubyforge.org/usage.html

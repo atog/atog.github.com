@@ -1,0 +1,11 @@
+---
+layout: post
+title: Buildr.
+---
+"When Ruby Builds Faster Than Java: Buildr":http://www.infoq.com/news/2007/05/fast-ruby-builds-with-buildr.
+
+Het ziet er interessant uit. Het is ruby, rake, java, ant en "het zou nog vooruit gaan":http://blog.labnotes.org/2007/05/03/buildr-or-when-ruby-is-faster-than-java/ ook. Dat kan toch niet slecht zijn!  We weten maar al te goed dat een build vooruit moet gaan, zeker wanneer je die een paar tientallen keren per dag moet runnen.  
+
+_en dan nog is +1 omdat het in ruby te doen is_ ;)
+
+<em>via "Tim Bray":http://www.tbray.org/ongoing/When/200x/2007/05/07/BuildR</em>.

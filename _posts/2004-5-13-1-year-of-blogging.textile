@@ -1,0 +1,18 @@
+---
+layout: post
+title: +1 year of blogging
+---
+Damn, I forgot my blog-birthday.  Here's a little bit of history:
+
+I started blogging at <a href="http://web.archive.org/web/20030619043748/http://atog.blog-city.com/">blog-city</a>, I tracked it back via <a href="http://www.archive.org/">the internet archive</a> but didn't find anything before Wednesday, 2 April 2003. That's about the time I started so it will do. :)
+
+On Monday April 07, 2003 I moved over to <a href="http://jroller.com/page/atog/20030407">JRoller</a> and I stayed there for a while. It was very slow at that time, but that seems be fixed nowadays.
+
+On August 11, 2003 I moved over to <a href="http://typepad.com">Typepad</a> (Couldn't find anything about that in the archive).  Luckily I brought <a href="http://atog.be/archives/2003/08/11/first-post/">that first post</a> over here.
+
+I was very happy with the typepad service, but I wanted more control without paying more. So <a href="http://atog.be/archives/2003/11/21/yipee-kay-yee/">on November 21, 2003</a> I found myself a very good <a href="http://priorweb.be">host</a> and installed <a href="http://movabletype.org">movabletype</a>
+
+And now <a href="http://atog.be/archives/2004/05/04/wordpress-got-it/">just recently</a> I switched from <a href="http://movabletype.org">movabletype</a> to <a href="http://wordpress.org">Wordpress</a>
+
+Now that I look back, I think I can say I moved a lot. :)
+Or do you think that's an understatement? :P

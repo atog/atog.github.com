@@ -1,0 +1,9 @@
+---
+layout: post
+title: Staticize Plugin
+---
+<a href="http://www.cowpimp.com/archives/2004/06/08/staticize-plugin-for-wordpress/">A staticize plugin</a> for <a href="http://wordpress.org">Wordpress</a>. I just installed it and it appears to be much faster. :D
+
+<a href="http://www.bfroehle.com/archives/2004/06/09/staticize/">Brad</a> said it's incompatible with the <em>Search Hilite</em> so I disabled that one. I prefer speed over the highlighting.
+
+<em>via <a href="http://photomatt.net/archives/2004/06/08/staticize-plugin/">Matt</a></em>

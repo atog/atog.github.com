@@ -1,0 +1,5 @@
+---
+layout: post
+title: Yahoo! mail sms interface.
+---
+"The new Yahoo! mail has a sms-interface":http://yodel.yahoo.com/2007/08/27/introducing-the-all-new-yahoo-mail/, not in Belgium though. :(

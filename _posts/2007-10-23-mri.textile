@@ -1,0 +1,11 @@
+---
+layout: post
+title: MRI.
+---
+Van dezelfde mijnheer welke u "XRAY":http://www.westciv.com/xray/ gebracht heeft, komt nu "MRI":http://www.westciv.com/mri/.
+
+bq. MRI is a free cross browser tool that lets you test selectors with any web page. Selectors, particularly complex ones can be difficult to get exactly right - MRI lets you experiment with them on any web page (local or online, static or dynamic).
+
+Heel gewoon naar uw bookmarks slepen!
+
+<em>via "Ajaxian":http://ajaxian.com/archives/mri-css-selector-inpage-tester</em>.

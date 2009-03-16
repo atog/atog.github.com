@@ -1,0 +1,11 @@
+---
+layout: post
+title: Ning.
+---
+p. Ik ben nog niet zeker of ik weet wat het juist moet doen maar het ziet er wel iets plezant uit. :)
+
+From the homepage, "ning":http://www.ning.com/:
+bq. Ning is a free online service (or, as we like to call it, a Playground) for building and using social applications.
+Social apps are web applications that enable anyone to match, transact, and communicate with other people.
+
+_ via "Diego":http://www.dynamicobjects.com/d2r/archives/003278.html _

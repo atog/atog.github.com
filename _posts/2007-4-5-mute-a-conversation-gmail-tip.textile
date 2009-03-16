@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mute a conversation. Gmail tip.
+---
+"Mute a Gmail thread with 'm'":http://www.almaer.com/blog/archives/001442.html

@@ -1,0 +1,12 @@
+---
+layout: post
+title: A theme of my own.
+---
+Yes, I did it. I finally got my <a href="http://www.wordpress.org">wordpress</a>-theme up. I started this theme using <a href="http://binarybonsai.com/kubrick/">Kubrick (Wordpress default theme)</a> as a base. For the rounded corners I used "<a href="http://pro.html.it/esempio/nifty/">Nifty Corners</a>" and everything else, well that's me (except for that <strong>great</strong> picture of my son). 
+
+An example:
+<blockquote>Nifty Corners: rounded corners without images ... [<a href="http://pro.html.it/esempio/nifty/">more</a>]</blockquote>
+
+Euhm, if you don't see any rounded corners, you have to enable javascript ;)
+
+Now, it's not yet completely finished, like some of the menu-items, but it's getting there.  I just couldn't hold myself anymore to put it online. If you see/notice anything suspicious, please let me know.

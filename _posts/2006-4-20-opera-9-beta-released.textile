@@ -1,0 +1,11 @@
+---
+layout: post
+title: Opera 9 beta released!
+---
+"De eerste beta van Opera 9 is released":http://my.opera.com/community/blog/show.dml/225845. 
+
+*"Go get it!":http://www.opera.com/download/index.dml?ver=9.0b while it's hot!*
+
+Ik ben al enige tijd zonder echte problemen "de weekly builds":http://my.opera.com/desktopteam/ aan het gebruiken dus ge moet gene schrik hebben. :P
+
+Moest ge u afvragen waarom de build-nr van de beta lager is dan de build-nr van de laatste weekly, awel "hier is het antwoord":http://my.opera.com/community/forums/topic.dml?id=134606&t=1145537487&page=1#comment1529821.

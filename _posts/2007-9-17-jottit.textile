@@ -1,0 +1,5 @@
+---
+layout: post
+title: Jottit.
+---
+"Jottit":http://jottit.com/, too cool! :) <em>via "Paul":http://paulstamatiou.com/2007/09/15/jottit-what-a-simple-ui-looks-like/</em>.

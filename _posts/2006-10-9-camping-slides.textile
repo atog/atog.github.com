@@ -1,0 +1,5 @@
+---
+layout: post
+title: Camping slides.
+---
+"Camping slides":http://blog.evanweaver.com/articles/2006/10/06/introduction-to-camping-presentation <em>via "why":http://redhanded.hobix.com/inspect/evanSCampingSlides.html</em>.

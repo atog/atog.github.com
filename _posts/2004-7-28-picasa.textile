@@ -1,0 +1,5 @@
+---
+layout: post
+title: Picasa
+---
+<a href="http://www.picasa.com/picasa/">Picasa</a>, digital photo organizing and sharing. <em>via <a href="http://www.sken.be/blog/2004/07/26/picasa_a_review/">Stijn</a></em>

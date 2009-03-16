@@ -1,0 +1,17 @@
+---
+layout: post
+title: Changing runlevels
+---
+On my linux-journey I learned the following last weekend:
+
+In order to use a display manager to login, instead of the command line, you just need to change to following line in <code>/etc/inittab</code>
+
+<code># Default runlevel. (Do not set to 0 or 6)
+id:3:initdefault:</code>
+
+to
+
+<code># Default runlevel. (Do not set to 0 or 6)
+id:4:initdefault:</code>
+
+The next time you boot you'll see <a href="http://www.5z.com/jirka/gdm.html">this</a>.

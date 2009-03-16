@@ -1,0 +1,11 @@
+---
+layout: post
+title: XML serialization
+---
+Yet another useful library I will probably be forgotten by the time I need it: <a href="http://xstream.codehaus.org/">XStream</a>
+
+<blockquote><a href="http://xstream.codehaus.org/">XStream</a> is a simple library to serialize objects to XML and back again.</blockquote>
+
+Maybe I should put something in place like <a href="http://www.airbag.ca/">Greg's longboard</a> or <a href="http://www.7nights.com/asterisk/">Asterisk's quicklinks</a>.
+
+<em>via <a href="http://jroller.com/page/fdiotalevi/20040517#xstream_in_5_minutes">Filippo</a></em>

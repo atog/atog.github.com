@@ -1,0 +1,12 @@
+---
+layout: post
+title: Ruby appscript.
+---
+"Ruby appscript (rb-appscript)":http://rb-appscript.rubyforge.org/index.html, plezant speelgoed:
+
+bq. Ruby appscript (rb-appscript) is a high-level, user-friendly Apple event bridge that allows you to control scriptable Mac OS X applications using ordinary Ruby scripts. Appscript makes Ruby a serious alternative to Apple's own AppleScript language for automating your Mac.
+
+Dat wilt dus eigenlijk zeggen dat ge kunt Applescripten in Ruby, dat is toch iets wat ge altijd al hebt willen doen! :)
+Op "MacDevCenter vind ge zelfs een kleine tutorial":http://www.macdevcenter.com/pub/a/mac/2007/02/27/replacing-applescript-with-ruby.html?page=1.
+
+<em>via "TUAW":http://www.tuaw.com/2007/03/01/skip-the-applescript-with-ruby/</em>

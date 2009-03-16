@@ -1,0 +1,7 @@
+---
+layout: post
+title: hibernate IDE
+---
+<a href='http://www.xam.dk/hibern8ide/'>an IDE for hibernate</a>, don't know whether it's useful yet, but at first sight it looks promising :)
+
+via <a href='http://www.kevinelliott.net/archives/000133.php'>kevin elliot</a>

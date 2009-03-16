@@ -1,0 +1,7 @@
+---
+layout: post
+title: Browse Happy!
+---
+<a href="http://browsehappy.com/" title="Browse Happy: Switch to a safer browser today"><img src="http://atog.be/p/r/browsehappy.gif" alt="Browse Happy logo" width="185" height="75"  class="right" /></a>I consider this a good initiative so it has my support. Or is it just because I like the logo? :P
+
+Why don't you add the button to your site?

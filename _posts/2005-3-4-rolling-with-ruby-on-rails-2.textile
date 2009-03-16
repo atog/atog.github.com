@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rolling with Ruby on Rails (2).
+---
+<a href="http://www.onlamp.com/pub/a/onlamp/2005/03/03/rails.html">Rolling with Ruby on Rails part 2 is published</a>!

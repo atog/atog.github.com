@@ -1,0 +1,5 @@
+---
+layout: post
+title: Technorati now has Authority.
+---
+"Technorati now has Authority":http://www.techcrunch.com/2006/02/13/technorati-now-has-authority/.

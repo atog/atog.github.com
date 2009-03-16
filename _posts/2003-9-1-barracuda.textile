@@ -1,0 +1,6 @@
+---
+layout: post
+title: barracuda
+---
+on <a href='http://www.javalobby.org/thread.jsp?forum=17&thread=8739'>javalobby</a> there is a new version of <a href='http://barracudamvc.org/Barracuda/index.html'>barracuda</a> announced. now i was asking myself, would there be someone out there who is actually using this framework? i've never read, or even heard something, anything about it. strange isn't it. ok, i must admit that i never googled it also but hey, i don't need to google on the other ones either so...
+the two frameworks who always come back (in articles and blogs) are <a href='http://jakarta.apache.org/struts/'>struts</a> and <a href='http://www.opensymphony.com/webwork/'>webwork</a>.

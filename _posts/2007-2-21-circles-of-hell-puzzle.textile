@@ -1,0 +1,5 @@
+---
+layout: post
+title: Circles of Hell Puzzle.
+---
+Have fun! "Circles of Hell Puzzle":http://diveintomark.org/puzzles/circles-of-hell.

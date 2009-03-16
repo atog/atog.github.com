@@ -1,0 +1,10 @@
+---
+layout: post
+title: regex coach
+---
+the <a href="http://www.weitz.de/regex-coach/">Regex Coach</a> seems to be one damn useful application. it let's you interactively experiment with regular expressions.
+
+if only i could download it :( i tried it a couple of times and they were all corrupted. will give it another try tomorrow.
+
+<strong>update</strong>: the download worked...and it is one fine application!
+tomk: <a href="http://blogs.cocoondev.org/tomk/archives/001096.html">thank you</a> but i prefer a stand-alone app. :)

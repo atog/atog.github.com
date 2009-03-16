@@ -1,0 +1,5 @@
+---
+layout: post
+title: List of AJAX sites.
+---
+"50 AJAX Reference Websites From Around the World":http://www.maxkiesler.com/index.php/weblog/comments/50_ajax_reference_websites_from_around_the_world/ <em>via "Ajaxian":http://ajaxian.com/archives/50-ajax-reference-websites-from-around-the-world</em>.

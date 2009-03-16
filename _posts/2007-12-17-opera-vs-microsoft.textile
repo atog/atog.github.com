@@ -1,0 +1,7 @@
+---
+layout: post
+title: Opera vs Microsoft.
+---
+"Opera has filed a formal complaint with the European Commission to force Microsoft to support open Web standards in its Web browser, Internet Explorer.":http://people.opera.com/howcome/2007/msft/
+
+Ik ben niet echt zeker of dat wel zo'n goede zet is/was. "Eric":http://meyerweb.com/eric/thoughts/2007/12/13/bad-timing/ vindt alvast van niet. Ze hebben zo in elk geval weer even het nieuws gehaald, dat was dan misschien weer wel nodig :)

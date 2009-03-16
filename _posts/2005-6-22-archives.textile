@@ -1,0 +1,7 @@
+---
+layout: post
+title: Archives.
+---
+Check out my <a href="http://www.atog.be/archives/">archives-page</a>, it's build using <a href="http://www.navidazimi.com/projects/wp-exec/">wp-exec</a> and <a href="http://justinblanton.com/projects/smartarchives/">smartarchives</a>.
+
+All you have to do is enable two plugins, create the page and you'll get a pretty nice result if you ask me.

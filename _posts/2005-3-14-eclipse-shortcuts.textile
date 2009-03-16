@@ -1,0 +1,9 @@
+---
+layout: post
+title: Eclipse shortcuts.
+---
+<a href="http://beust.com/weblog/archives/000258.html">Cedric</a> just showed me the way to a better eclipse experience.
+
+<blockquote>... it's simple: Ctrl-Shift-l (that's an "l" as in "little"), ... and which lists all the key bindings available in the current context.  Great way to make discoveries. <a href="http://beust.com/weblog/archives/000258.html">[more]</a></blockquote>
+
+so <code>Ctrl-Shift-l</code> it is!

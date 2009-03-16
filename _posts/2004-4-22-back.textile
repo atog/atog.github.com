@@ -1,0 +1,8 @@
+---
+layout: post
+title: Back
+---
+First day back at work. I hated to leave the house this morning, to say goodbye to my son. I left pretty early, so I'll be home a bit sooner.
+
+I just saw my blog with IE, damn ugly if you ask me :p
+So until I fix that, peeps use <a href="http://www.mozilla.org/products/firefox/">Firefox</a> please. If you all do that, I don't have to fix anything :)

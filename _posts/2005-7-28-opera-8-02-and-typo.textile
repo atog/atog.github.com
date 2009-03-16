@@ -1,0 +1,14 @@
+---
+layout: post
+title: Opera 8.02 and typo.
+---
+With <a href="http://www.opera.com/windows/changelogs/802/">the new release</a> of <a href="http://www.opera.com">Opera 8.02</a> (I believe it was today?) I was pleasantly surprised, or maybe that's an understatement. :P
+Amongst some other fixes, there was one important to me:
+
+<blockquote><strong> Improved support for XMLHttpRequest.</strong></blockquote>
+
+Since I keep an eye on the <a href="http://typo.leetsoft.com/">typo</a> <a href="http://typo.leetsoft.com/trac/wiki/DownloadCurrent">repository</a> I immediately updated to the latest version and tested the so called improved support. 
+
+It works like a charm! And <a href="http://typo.leetsoft.com/">typo</a> is starting to look really nifty. It looks like it now also has themes so as soon as I designed my own, I'll switch to typo. Damn sure.
+
+<em>On a sidenote: <a href="http://script.aculo.us/demos/">the script.aculo.us demos</a> also work with Opera now, isn't all this great news?</em>

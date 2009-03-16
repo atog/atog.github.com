@@ -1,0 +1,7 @@
+---
+layout: post
+title: Jakarta Commons - Net
+---
+<a href="http://www.informit.com/guides/content.asp?g=java&seqNum=40">Jakarta Commons - Net Class Library</a>. This guide contains a good example on how to use the <a href="http://jakarta.apache.org/commons/net/apidocs/org/apache/commons/net/telnet/TelnetClient">TelnetClient</a>. Oh well, IMHO it is a good example. :P
+
+It also provides examples from a couple of other protocols in the <a href="http://jakarta.apache.org/commons/net/">Commons - Net lib</a>.

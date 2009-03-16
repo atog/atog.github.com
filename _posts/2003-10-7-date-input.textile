@@ -1,0 +1,7 @@
+---
+layout: post
+title: date input
+---
+<a href="http://simon.incutio.com/code/js/date-parser/">nice!</a> another way of entering dates, i wouldn't necessarily call it better. it's a different approach, but a good one :)
+
+via <a href="http://techno-weenie.com/archives/2003/10/06/003240.php">rick</a>

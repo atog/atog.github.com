@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby ruby ruby!
+---
+"Exactly, Ruby Isn't An Insurgency":http://hackety.org/2007/11/14/rubyIsMoney.html

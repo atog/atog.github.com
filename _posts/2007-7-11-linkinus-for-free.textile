@@ -1,0 +1,5 @@
+---
+layout: post
+title: Linkinus for free.
+---
+IRC client "Linkinus":http://www.linkinus.com/ for "free":http://macheist.com/free <em>via "TUAW":http://www.tuaw.com/2007/07/10/macheist-giving-away-linkinus/</em>.

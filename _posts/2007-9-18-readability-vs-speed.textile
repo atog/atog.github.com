@@ -1,0 +1,5 @@
+---
+layout: post
+title: Readability vs. Speed.
+---
+"Readability vs. Speed":http://blog.zenspider.com/archives/2007/09/readability_vs_speed_1.html

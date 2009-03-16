@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java db in Mustang.
+---
+"Java DB is now part of Sun's JDK":http://weblogs.java.net/blog/forsini/archive/2006/06/java_db_is_now.html - now all I need to do is see what "this Java DB":http://developers.sun.com/prodtech/javadb/index.jsp is all about.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: JXTA Killer Applications
+---
+<blockquote><a href="http://weblogs.java.net/pub/wlg/1096">Killer Applications and JXTA</a> by Daniel Brookshier -- Where is the value in JXTA? What is a killer app for JXTA?</blockquote>
+
+Nice post, makes you want to start using JXTA right away. Develop the killer app! :)

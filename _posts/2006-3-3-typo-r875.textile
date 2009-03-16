@@ -1,0 +1,27 @@
+---
+layout: post
+title: Typo r875.
+---
+Voila se, "atog.be":http://www.atog.be is nu powered by "typo - r875":http://www.typosphere.org/trac/wiki/DownloadCurrent. Maar het was weer niet simpel. Blijkbaar was een of andere sidebar-plugin file corrupt. Raar, na veel vijven en zessen de file in kwestie gewoon terug ge-upload en alles was in orde.
+
+Het moet eveneens gezegd worden, <code>rake migrate</code> works like charm. Geen enkel probleem, aangezien ik toch van versie 2.6.0 kwam wat toch weeral efkes geleden is.
+
+Ik heb dan ineens maar al mijn categories omgezet naar tags, qua buzzwords klinkt dat beter tegenwoordig ;)
+
+Voor diegene die het interesseert, hier zijn de queries die het deden. Heel simpel natuurlijk:
+
+<code>
+insert into tags (name, display_name) select name, name from categories;
+</code>
+<br /><br />
+<code>
+insert into articles_tags (article_id, tag_id) select ac.article_id, t.id from articles_categories ac, categories c, tags t where ac.category_id = c.id and c.name = t.name;
+</code>
+<br /><br />
+<code>
+delete from articles_categories;
+</code>
+<br /><br />
+Een nieuwe layout/theme is nog onderweg, voorlopig doen we het met het default theme.
+<br /><br />
+_als ik het zo nog is nalees was het al bij al toch wel simpel_ :)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Firefox problems fixed
+---
+As I <a href="http://atog.be/archives/2004/06/17/firefox-weirdness/">posted previously</a>, I had some problems with the new version of <a href="http://mozilla.org/products/firefox/">Firefox</a>.
+
+So today, first day back at work, I installed <a href="http://mozilla.org/products/firefox/">the update (Firefox 0.9.1)</a>.  
+
+After this new installation I still had the same problems related to the default browser behaviour.
+Solution: <a href="http://johnhaller.com/jh/mozilla/firefox_bug_246078.asp">this registry patch</a>
+
+Next problem was that it was still opening new windows from external programs.
+Solution: <a href="http://www.mozthemes.tk/">the single window extension</a>
+
+...now I'm fine. Happy browsing. Still, these issues should be solved in a next release.

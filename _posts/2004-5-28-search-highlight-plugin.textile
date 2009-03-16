@@ -1,0 +1,12 @@
+---
+layout: post
+title: Search Highlight Plugin
+---
+<a href="http://wordpress.org">Wordpress 1.2</a> comes with a new fancy plugin : Search Highlighting.
+<img src="http://atog.be/p/r/searchH.jpg" alt="Example of Search Highlight" class="right" />
+What it does? 
+
+As the name suggests, when people stumble upon your site via a search engine, the search parameters are highlighted.  
+
+Nice, isn't it.
+<div class="clearer"></div>

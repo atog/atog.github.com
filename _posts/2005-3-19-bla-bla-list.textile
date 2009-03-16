@@ -1,0 +1,9 @@
+---
+layout: post
+title: Bla-bla List.
+---
+First the good news:
+<a href="http://blablalist.com/">Bla-bla List</a>, a Java implementation of the famous <a href="http://tadalist.com/">Ta-da List</a>. It's build using <a href="http://rife.dev.java.net/">RIFE</a> and <a href="http://openlaszlo.org/">OpenLaszlo</a> and it's <a href="https://blablalist.dev.java.net/">open source</a>.
+
+Now the bad news:
+I don't understand why this has to turn into a <a href="http://weblog.rubyonrails.com/archives/2005/03/19/bla-bla-list-cloning-a-rails-app-in-rife/">ruby</a> vs <a href="http://www.theserverside.com/news/thread.tss?thread_id=32723">java</a> blabla-tada-war. Too bad. I like both technologies, each with it's advantages.

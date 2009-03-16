@@ -1,0 +1,7 @@
+---
+layout: post
+title: FancyEncoding plugin
+---
+thanks to the <a href="http://www.pyrojection.com/fancyencoding.html">FancyEncoding plugin for MT</a> i now got smiley's. :) :p :(
+
+tjak tjak Soetaert! :p

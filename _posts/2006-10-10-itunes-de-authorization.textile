@@ -1,0 +1,10 @@
+---
+layout: post
+title: iTunes (de)authorization.
+---
+"Clopin heeft daar een punt":http://www.clopin.be/archives/2006/10/10/5-computers/. Wat te doen wanneer je reeds 5 computers hebt geauthorized? Weeral iets waar ik eerlijk gezegd nog niet bij had stilgestaan maar toch weer goed om weten. :)
+
+Ook dit is goed om weten:
+bq. Please deauthorize your computer before you send it for repair, upgrade it, sell it or give it away.
+
+Meer info bij Apple support: "Authorizing your computer":http://www.apple.com/support/itunes/musicstore/authorization/

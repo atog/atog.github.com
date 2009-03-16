@@ -1,0 +1,9 @@
+---
+layout: post
+title: Atom of me
+---
+Recently I noticed via <a href="http://atog.be/archives/2004/05/29/404-script/">the 404 script</a> that someone was looking for an atom feed.
+
+So for those who are interested : <a href="http://atog.be/feed/atom/">atom of me</a>
+
+<strong>//TODO:</strong> <em>Make all the different feeds available on one page or another.</em>

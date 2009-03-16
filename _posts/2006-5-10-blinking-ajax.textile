@@ -1,0 +1,5 @@
+---
+layout: post
+title: Blinking Ajax.
+---
+*lol* "Blink-tag now in Ajax":http://cheese.blartwendo.com/web21-demo.html <em>via "rebelutionary":http://blogs.atlassian.com/rebelutionary/archives/000640.html</em>

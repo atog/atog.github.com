@@ -1,0 +1,5 @@
+---
+layout: post
+title: My Asides for 1.5
+---
+My asides are working again, in the end it was only a minor change I had to make.  If anyone is interested I'll write down on how it's working over here, just say it. ;)

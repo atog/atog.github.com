@@ -1,0 +1,13 @@
+---
+layout: post
+title: PNG Transparancy
+---
+<a href="http://www.atog.be/blog/archives/000164.html">I once talked about square smiley's in IE</a>. Since I posted that I never really looked any further into it. Until last night, I don't know how I got there anymore, but I ran into <a href="http://www.koivi.com/ie-png-transparency/">this site</a>.
+
+The proposed php-solution looks very appealing except for :
+<blockquote>&lt;quote&gt;(Only supports inline CSS at  this point.)&lt;/quote&gt;</blockquote>
+...and I don't want inline css.
+
+So I tried the <a href="http://webfx.eae.net/dhtml/pngbehavior/pngbehavior.html">Javascript with a .htc solution</a> and it works. (<a href="http://nephilim.vinean.be/blog/">nephilim</a> already mentioned this solution, in <a href="http://www.atog.be/blog/archives/000164.html">my previous post</a>.)
+
+Now I'm happy :)

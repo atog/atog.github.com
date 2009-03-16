@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby Symbols.
+---
+<a href="http://glu.ttono.us/articles/2005/08/19/understanding-ruby-symbols">Understanding Ruby Symbols</a>

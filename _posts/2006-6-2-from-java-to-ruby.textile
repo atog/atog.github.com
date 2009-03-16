@@ -1,0 +1,5 @@
+---
+layout: post
+title: From Java to Ruby.
+---
+"From Java to Ruby, Programmer's view":http://blog.rapidred.com/articles/2006/06/01/from-java-to-ruby-programmers-view. - "the book":http://www.pragmaticprogrammer.com/titles/fr_j2r/ by "Bruce Tate":http://blog.rapidred.com/.

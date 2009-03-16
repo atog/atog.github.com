@@ -1,0 +1,5 @@
+---
+layout: post
+title: IE7 tweaks.
+---
+IE7 is nog maar juist uit en: "IE7 CSS tweak show and tell":http://www.zeldman.com/2006/10/27/ie7showandtell/.

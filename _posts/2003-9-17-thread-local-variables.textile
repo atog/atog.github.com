@@ -1,0 +1,5 @@
+---
+layout: post
+title: thread-local variables
+---
+<a href='http://www-106.ibm.com/developerworks/java/library/j-threads3.html'>i learned something new today</a> :)

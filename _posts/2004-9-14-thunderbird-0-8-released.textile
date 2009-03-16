@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird 0.8 released!
+---
+<a href="http://www.mozilla.org/products/thunderbird/">Thunderbird 0.8 released!</a>

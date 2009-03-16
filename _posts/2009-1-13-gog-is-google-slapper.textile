@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Gog.is, a Google slapper
+--- 
+"A simple Google Slapper":http://gogglis.appspot.com/
+
+bq. Ever felt like slapping someone with a google search, while in an IM conversation, chatrooms, or on Twitter? simply write http://gog.is and put the keywords in the url, like this: http://gog.is/clerks. This will redirect them to the google search for clerks. 
+
+"I LIKE":http://gog.is/i/like. :) 
+
+<small><em>via "bnox":http://www.bnox.be/2009/01/google-slapper.html</em></small>
+
+*update:*<br /> Net "deze link":http://letmegooglethatforyou.com/?q=i+like toegestuurd gekregen van "@maxvoltar":http://twitter.com/maxvoltar. Ook niet slecht zenne :)

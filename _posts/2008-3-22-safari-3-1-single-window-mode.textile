@@ -1,0 +1,23 @@
+---
+layout: post
+title: Safari 3.1 single window mode.
+---
+_Yes I know, weer een Safari post. Het zal wel een van de laatste zijn zekers._
+
+In Safari kan je via de preferences kiezen om links in andere applications te openen in een nieuwe tab. Het probleem is echter altijd geweest dat gewone links nog altijd nieuwe windows kunnen openen. bv in Gmail of reddit.
+
+"Wel, in Safari 3.1 kan je dat nu wijzigen via de command line":http://www.tuaw.com/2008/03/21/terminal-tip-safari-3-1-brings-true-one-window-mode/, thanks "TUAW":http://www.tuaw.com/! ;)
+
+Enable:
+
+<code>defaults write com.apple.Safari TargetedClicksCreateTabs -bool true</code>
+<br />
+<br />
+Disable:
+<br />
+<br />
+<code>defaults write com.apple.Safari TargetedClicksCreateTabs -bool false</code>
+<br />
+<br />
+Meer moet een mens toch niet hebben? ;)
+<br />

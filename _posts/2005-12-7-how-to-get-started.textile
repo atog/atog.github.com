@@ -1,0 +1,5 @@
+---
+layout: post
+title: How to Get Started.
+---
+"Small Biz 101: How to Get Started":http://37signals.com/svn/archives2/small_biz_101_how_to_get_started.php, nice read.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Groovy with XML
+---
+<a href="http://today.java.net/pub/a/today/2004/08/12/groovyxml.html">Getting Groovy with XML</a> , an interesting article.  Not because of the XML part, but because it shows that you can do some cool things with <a href="http://groovy.codehaus.org/">Groovy</a>. <em>mm, never thought I would say that.</em>
+
+<blockquote>... But I do think that this article should spur your imagination with ideas about how you can use a flexible scripting language like Groovy to simplify your application and to make it more extensible. ... <a href="http://today.java.net/pub/a/today/2004/08/12/groovyxml.html?page=4#Conclusions">[more]</a></blockquote>
+
+Well Jack Herrington definitely spurred my imagination, how about yours? :)

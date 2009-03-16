@@ -1,0 +1,9 @@
+---
+layout: post
+title: Internet problems (again).
+---
+This is the third time in a very short time frame that we can't connect to the internet, at home that is.  Our provider is <a href="http://telenet.be">Telenet</a> and I must say, I'm really happy with their customer service.
+
+The previous two times, I called and within a day, there was a guy who fixed the problem. Well, fixed? We could surf the net again, but now after the third time, I don't think I can say the problem was fixed. We now have a new appointment on Wednesday. It's not within a day but it's ok. It still is  reasonably fast.
+
+I hope they will solve the problem this time.

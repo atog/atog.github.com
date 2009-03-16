@@ -1,0 +1,11 @@
+---
+layout: post
+title: DocWeb.
+---
+"DocWeb, The Documentation Web":http://doc.java.sun.com/DocWeb/ - James Gosling's "spare-time fun hacking project for the past couple of months":http://blogs.sun.com/jag/entry/community_translation_experiment.
+
+bq. It is essentially equivalent to the JavaDoc documentation web pages that are distributed with the JDK (JDK6). The key difference is that it is designed to be internationalized cooperatively by the community.
+
+Fijn. De vraag die ik me daar bij stel is: Is dat een probleem? Is er vraag naar javadoc in het Nederlands?
+
+<em>via "Tim Bray":http://www.tbray.org/ongoing/When/200x/2006/10/17/Translation</em>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: YSlow.
+---
+"Yahoo! released YSlow":http://com3.devnet.re3.yahoo.com/yslow/
+
+bq. YSlow analyzes web pages and tells you why they're slow based on the rules for high performance web sites. YSlow is a Firefox add-on integrated with the popular Firebug web development tool.
+
+Zoals "Dion":http://ajaxian.com/archives/yahoo-announces-yslow-firebug-based-performance-tool zei: _"You should give it a run on your sites and post how you did"_  -- volgen hieronder de resultaten van "atog.be":http://atog.be.
+
+p=. <a href="http://www.flickr.com/photos/atog/903707296/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1220/903707296_85e16a49fe_o.png" width="367" height="370" alt="YSlow on atog.be" /></a>
+
+66%, dat is gene vette mijn gedacht.
+
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Sometimes less is more.
+---
+" Sometimes less is more":http://www.rubyrailways.com/sometimes-less-is-more/ <em>via "Javalobby":http://www.javalobby.org/java/forums/t83275.html</em>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: P6Spy and Spring.
+---
+Waarvoor een blog niet allemaal goed voor is. _Follow me._
+
+We hadden een paar rare hibernate-problemen, dus wat is het eerste wat een mens dan wilt doen? Juist, de communicatie tussen de hibernate en db loggen. Aan welke tool denkt een mens dan? Juist, "P6Spy":http://www.p6spy.com/.
+
+Nu hoe moest ge heel dat ding nu weer gebruiken? Ik wist dat ik dat ooit al is gedaan had en via "http://atog.be/search?q=P6Spy":http://atog.be/search?q=P6Spy  kreeg ik bevestiging.  
+
+"Voila, dat heb ik op dus 12 juli 2005 nog al een keer gedaan":http://atog.be/2005/7/12/p6spy-and-spring.
+
+Dank u Koen :D

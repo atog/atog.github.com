@@ -1,0 +1,7 @@
+---
+layout: post
+title: eclipse velocity plugin
+---
+i just installed <a href="http://veloedit.sourceforge.net/">velocity ui for eclipse </a> via the eclipse update manager. guess what, it worked like a charm (i must say i was really surprised :))
+
+good stuff.

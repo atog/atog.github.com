@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Air Sharing
+--- 
+Dit is HET. Écht. Dit is het: "Air Sharing":http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289943355&mt=8 (iTunes link).
+
+bq. With Air Sharing you can mount you iPhone/iPod as a wireless drive on any Mac, Windows or Linux computer; drag-drop files between your iPhone or iPod and your computers; view documents in many common formats.
+
+Dus, met Air Sharing wordt een iPhone/iPod een WebDAV server. Daardoor wordt het mogelijk om van verschillende systemen (OS X, Windows of Linux) de bestanden te delen. _Sharen_ zoals we zeggen. Het is ook mogelijk om de bestanden te previewen (zoals images, Office, iWork, pdf, ...).
+
+In het kort: *de max*.
+
+De applicatie is de eerste 2 weken gratis (tot 22 september), daarna zal ze $6.99 kosten. 
+
+FileMagnet? Wat was dat ook alweer? :P
+
+<em>via "Ben Branders":http://branders.name/archives/2008/09/10/air-sharing-wireless-usb-stick</em>.

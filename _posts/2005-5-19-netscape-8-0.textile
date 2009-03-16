@@ -1,0 +1,11 @@
+---
+layout: post
+title: Netscape 8.0
+---
+Installed.  After less then 5 min. uninstalled.
+
+<a href="http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=8548002&src=rss/technologyNews">Netscape launches next-generation Web browser</a>. Sounds interesting, no? Well I immediately <a href="http://browser.netscape.com/ns8/">downloaded, installed and uninstalled it</a>. That's where <em>first impressions</em> come in. 
+
+First impressions: ugly as hell, bloated, and just unbelievable they dare to release something like that. It already started during the install process, they asked to install partner software! Just the question alone was almost enough to abort the installation, but no, as I said: almost (and the story continues on the first line of this post).
+
+Please keep in mind that these are personal first impressions, so maybe you should try it yourself.

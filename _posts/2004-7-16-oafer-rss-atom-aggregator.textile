@@ -1,0 +1,16 @@
+---
+layout: post
+title: Oafer - RSS/Atom aggregator.
+---
+A couple of weeks ago <a href="http://atog.be/archives/2004/06/16/read-some-feeds/#comments">I was going to experiment</a> with <a href="http://magpierss.sourceforge.net/">magpierss</a>, a php rss parser. Well, I did.
+
+I was never really happy with all the aggregators out there (although <a href="http://www.rssbandit.org/">RSS Bandit</a> came pretty close) so I made one of my own using <a href="http://magpierss.sourceforge.net/">magpierss</a> and <a href="http://www.mysql.com/">MySQL</a>  :)
+
+Here's a screenshot of the result (click for a larger view):
+<a href="http://atog.be/p/r/oaferb.jpg"><img src="http://atog.be/p/r/oafers.jpg" class="left"  alt="Oafer screenshot" /></a>
+
+The most important thing is that it runs on a server so whether you're at home or at work you only see those items which you haven't read. 
+
+The <code>code</code> could probably be improved cause this is my first php-project, but it has been fun so far :P
+
+<em>...and Oafer is the name.</em>

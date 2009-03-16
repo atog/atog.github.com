@@ -1,0 +1,5 @@
+---
+layout: post
+title: Adding/Changing JVM command line args.
+---
+"NetBeans IDE: Adding/Changing JVM command line args":http://blogs.sun.com/roller/page/charliebrown?entry=netbeans_ide_adding_changing_jvm.

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Reset text in NSTextView
+--- 
+Cocoa/Objective-c programming; ik ben er nog niet zo lang mee bezig. Vanavond wou ik o.a. een NSTextView resetten. Met andere woorden: _clear all text_.
+
+Voor "Oak":http://oakapp.com (iPhone app, UITextView) was dat simpelweg:
+
+<% coderay(:lang => "c", :line_numbers => "inline") do -%>
+[textView setText:nil];
+<% end -%>
+
+Met een gewone desktop app (NSTextView), is het blijkbaar een heel ander verhaal:
+
+<% coderay(:lang => "c", :line_numbers => "inline") do -%>
+NSRange range = NSMakeRange (0, [[[textView textStorage] string] length]);	
+[textView setSelectedRange: range];
+[textView delete:nil];
+<% end -%>
+
+Laat het me zeker weten als er een andere/betere manier bestaat!

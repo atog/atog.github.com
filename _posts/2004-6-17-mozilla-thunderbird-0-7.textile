@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mozilla Thunderbird 0.7
+---
+<a href="http://www.mozilla.org/products/thunderbird/">Mozilla Thunderbird 0.7 is released!</a> <em>via <a href="http://blog.codefront.net/archives/2004/06/17/mozilla_thunderbird_07_freshly_roasted.php">Cheah Chu Yeow</a></em>

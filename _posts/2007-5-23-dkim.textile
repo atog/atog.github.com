@@ -1,0 +1,5 @@
+---
+layout: post
+title: DKIM.
+---
+"One small step for email, one giant leap for Internet safety":http://yodel.yahoo.com/2007/05/22/one-small-step-for-email-one-giant-leap-for-internet-safety/. Goed nieuws mijn gedacht.

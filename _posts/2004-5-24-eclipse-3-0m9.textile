@@ -1,0 +1,5 @@
+---
+layout: post
+title: Eclipse 3.0M9
+---
+<a href="http://download.eclipse.org/downloads/drops/S-3.0M9-200405211200/eclipse-news-all-M9.html">Eclipse 3.0M9</a> is out. I must have missed that last weekend. Downloading asap.

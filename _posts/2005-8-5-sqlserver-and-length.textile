@@ -1,0 +1,8 @@
+---
+layout: post
+title: SQLServer and Length.
+---
+Blogs <strong>are</strong> useful, and <a href="http://rasterweb.net/raster/2003/04/29/20030429121446/">here's another example why</a>.
+
+So how do you get the length of a field (the value) on SQLServer?
+<blockquote><code>select  datalength(rtrim(acolumn)) from  foo;</code></blockquote>

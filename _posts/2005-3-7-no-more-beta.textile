@@ -1,0 +1,5 @@
+---
+layout: post
+title: No more beta.
+---
+<a href="http://desktop.google.com/">Google Desktop is out of beta</a>, and it now searches Thunderbird mail as well!

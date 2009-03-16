@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby Logo Contest.
+---
+"Ruby Logo Contest":http://www.ruby-assn.org/logo-contest.html.en - Anyone?

@@ -1,0 +1,25 @@
+---
+layout: post
+title: GitHub and Lighthouse.
+---
+"Sinds kort":http://atog.be/2008/4/30/migrate-from-subversion-to-git gebruiken we "GitHub":http://github.com en nu wil dat lukken dat die mannen daar _Service hooks_ hebben ingebouwd.
+
+We zijn al een tijdje happy "lighthouse":http://lighthouseapp.com/ gebruikers en toevallig is dat toch wel Ã©Ã©n van de services waar GitHub goed mee overweg kan. :)
+
+_Hoe gebruik je dat nu?_
+
+# Genereer een token voor je lighthouse project (in Lighthouse onder My Profile).
+# Vul de nodige gegevens in voor de Service hook in Github (repo -> edit -> services)
+# Zet je ticketnr mee in je commit message en je ziet in Lighthouse _'changes'_ verschijnen voor dat ticket.
+
+Die changes bevatten dan je commit message + een link naar alle details voor die commit. Proper.
+
+@git commit -a -m "my commit message [#345]"@
+
+Je hebt ook de mogelijkheid om je ticket ineens te sluiten via een commit message. Nog Properder.
+
+@git commit -a -m "my commit message [#345 state:resolved]"@
+
+Mooi mooi. En vooral gemakkelijk.
+
+<em>via "Service Integration":http://github.com/blog/41-service-integration</em>

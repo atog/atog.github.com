@@ -1,0 +1,5 @@
+---
+layout: post
+title: SLAX 5.1.6
+---
+"SLAX now with NTFS write support":http://distrowatch.com/?newsid=03454#0!

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Fork You
+--- 
+Onder het motto: <em>Show "GitHub":http://github.com some love!</em> zat deze vandaag in de bus.
+
+<div style='text-align:center'><a href="http://www.flickr.com/photos/atog/2882823194/" title="Fork you by atog, on Flickr"><img src="http://farm4.static.flickr.com/3231/2882823194_0cd56ee1b5.jpg" width="500" height="375" alt="Fork you" /></a></div>
+
+"Ook één hebben?":http://rubyrags.com/

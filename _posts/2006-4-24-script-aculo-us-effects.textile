@@ -1,0 +1,5 @@
+---
+layout: post
+title: Script.aculo.us effects.
+---
+"Scriptaculous Cheat Sheet #1":http://www.slash7.com/articles/2006/04/22/scriptaculous-cheat-sheet-1 by "Amy Hoy":http://www.slash7.com/ <em>via "Thomas":http://mir.aculo.us/articles/2006/04/23/script-aculo-us-effects-cheat-sheet</em>

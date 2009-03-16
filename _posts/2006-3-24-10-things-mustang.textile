@@ -1,0 +1,5 @@
+---
+layout: post
+title: 10 things Mustang.
+---
+"The 10 Things You Need to Know About Java SE 6 'Mustang'":http://blogs.sun.com/roller/page/dannycoward?entry=the_10_things_you_need

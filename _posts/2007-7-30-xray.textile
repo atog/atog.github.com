@@ -1,0 +1,11 @@
+---
+layout: post
+title: XRAY.
+---
+"What is XRAY?":http://westciv.com/xray/
+
+bq. XRAY is the first in hopefully a suite of free cross browser tools for helping web designers and developers better visualize what their code is doing in a browser. XRAY is designed to help you get beneath the skin of your web page.<br /><br/>XRAY let's you see the box model for any element on a page in action - where is the top and left of an element, how big is each margin, how big is the padding, how wide and high is the content box?
+
+Ge moet het zelf maar is proberen. Het is knap gedaan mijn gedacht. Ik heb dezelfde funtionaliteit (ongeveer toch) al in "CSSEdit":http://www.macrabbit.com/cssedit/ maar om zoiets ook beschikbaar te hebben in een browser is, euhm, nifty! ;)
+
+<em>via "Dan Cederholm":http://www.simplebits.com/notebook/2007/07/30/xray.html</em>.

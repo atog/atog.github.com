@@ -1,0 +1,5 @@
+---
+layout: post
+title: Calcoolate.com
+---
+"Calcoolate, the coolest calculator on the web":http://www.calcoolate.com/index.html!

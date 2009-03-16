@@ -1,0 +1,5 @@
+---
+layout: post
+title: No Java 6 on Leopard.
+---
+"Java Code That Explains the 'No Java 6 on Leopard' Reaction":http://www.javalobby.org/java/forums/t102924.html, idd een spijtige zaak.

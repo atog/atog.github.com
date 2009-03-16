@@ -1,0 +1,9 @@
+---
+layout: post
+title: run linux on your xbox
+---
+cool! one day... one day... :)
+
+<a href="http://xbox-linux.sourceforge.net/">Xbox-Linux-Project</a>
+
+via <a href="http://www.dominicdasilva.com/index.do?date=20031209#154030">dsuspense</a>

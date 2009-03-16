@@ -1,0 +1,7 @@
+---
+layout: post
+title: Trackback test
+---
+Testing trackback using <a href="http://wordpress.org">Wordpress</a> RC1
+
+<strong>update:</strong> as far as I know, it's not working. :(

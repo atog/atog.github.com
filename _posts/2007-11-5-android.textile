@@ -1,0 +1,13 @@
+---
+layout: post
+title: Android.
+---
+Voila se, eindelijk horen we iets van "zij die het kunnen weten":http://googleblog.blogspot.com/2007/11/wheres-my-gphone.html. Nee er komt geen Gphone. Wat komt er wel? "Android":http://www.youtube.com/watch?v=6rYozIZOgDk.
+
+bq. Android is the first truly open and comprehensive platform for mobile devices. It includes an operating system, user-interface and applications -- all of the software to run a mobile phone, but without the proprietary obstacles that have hindered mobile innovation.
+
+Na "OpenSocial":http://code.google.com/apis/opensocial/, hebben we nu (binnenkort) een "Android SDK":http://www.openhandsetalliance.com/developers.html, ik ben curieus wat "Google":http://google.com ons nog gaat brengen van de maand.
+
+"Meer info hier":http://googleblog.blogspot.com/2007/11/wheres-my-gphone.html en "hier":http://www.openhandsetalliance.com/android_overview.html.
+
+<em>via "TechCrunch":http://www.techcrunch.com/2007/11/05/breaking-google-announces-android-and-open-handset-alliance/</em>.

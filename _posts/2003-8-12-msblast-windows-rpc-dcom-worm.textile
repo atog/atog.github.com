@@ -1,0 +1,5 @@
+---
+layout: post
+title: msblast windows rpc/dcom worm
+---
+i think ms in unbeatable in these type of things, they really provide the perfect playground for worms, viruses,...<br><br>via <a href='http://fishbowl.pastiche.org/archives/001451.html#001451'>charles</a>, where you can also find more links related to this worm :p

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruby tool survey.
+---
+Ben je bezig met "Ruby":http://www.ruby-lang.org/en/ en/of "Rails":http://www.rubyonrails.org/ dan wil je misschien ook wel eens weten welke tools _de rest/anderen_  gebruiken.
+
+Op dit moment loopt er een "Ruby Tool Survey":http://www.surveymonkey.com/s.aspx?sm=GFR_2fGqqmOaL1zWDiuGhL0w_3d_3d (waar ge toch wel zeker 3 keer moet klikken ;)) door "Tim Bray":http://www.tbray.org/ongoing/When/200x/2007/11/20/Ruby-IDE-Survey.
+
+"Invullen die handel!":http://www.surveymonkey.com/s.aspx?sm=GFR_2fGqqmOaL1zWDiuGhL0w_3d_3d

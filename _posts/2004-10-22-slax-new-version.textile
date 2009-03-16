@@ -1,0 +1,13 @@
+---
+layout: post
+title: SLAX, new version.
+---
+<a href="http://slax.linux-live.org/"><img src="http://atog.be/p/r/slax_icon.png" class="left" alt="SLAX" /></a>There's been a new release of <a href="http://slax.linux-live.org/">SLAX</a>. Lot's of new things, check out <a href="http://slax.linux-live.org/changelog.php">the changelog</a>, the part I like best is the addition of <a href="http://ndiswrapper.sourceforge.net/">ndiswrapper</a>. This allows users to use Windows drivers for wifi cards.
+
+There even are special versions these days,  quote from the changelog:
+<blockquote>New special SLAX versions released, based on SLAX 4.2.0!
+Kill-Bill edition with WINE, FreeDOS, DosEMU and Qemu
+Popcorn edition with XFce, Mozilla and beep-media-player (xmms clone)
+Professional edition with GCC and other devel stuff</blockquote>
+
+Oh and for those who don't know <a href="http://slax.linux-live.org/">SLAX</a> yet, it's a small Linux Live CD based on <a href="http://www.slackware.com">Slackware</a>. 

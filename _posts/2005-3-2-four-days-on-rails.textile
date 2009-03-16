@@ -1,0 +1,11 @@
+---
+layout: post
+title: Four Days on Rails.
+---
+<a href="http://rails.homelinux.org/">Four Days on Rails</a>, exactly what I needed to <strong>really</strong> get started with <a href="http://wiki.rubyonrails.com/rails/show/HomePage">Rails</a>. Before I was browsing the api-docs, they are useful as well, but <a href="http://rails.homelinux.org/">Four Days on Rails</a> gives a lot more insight in Rails development. Nice work!
+
+<blockquote>Rails is well documented on-line; in fact, possibly too well documented for beginners, with over 30,000 words of on-line documentation in the format of a reference manual. What's missing is a roadmap (railmap?) pointing to the key pages that you need to know to get up and running in Rails development.
+
+Four Days on Rails is designed to fill that gap. <a href="http://rails.homelinux.org/">[more]</a></blockquote>
+
+<a href="http://www.rubyonrails.com/media/text/Rails4Days.pdf">Four days on rails is also mirrored on the Rails server</a>.

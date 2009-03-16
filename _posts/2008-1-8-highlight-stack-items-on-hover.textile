@@ -1,0 +1,15 @@
+---
+layout: post
+title: Highlight stack items on hover.
+---
+Interessante tip op "OS X Daily":http://osxdaily.com, "Highlight stack items on hover":http://osxdaily.com/2008/01/07/highlight-stack-items-on-hover/.
+
+Met onderstaand command krijg je een mooi hover effect wanneer je met je muis over een item in een stack gaat (In het engels krijgt ge zoiets toch beter uitgelegd, mijn gedacht ;)).
+
+On: <code>defaults write com.apple.dock mouse-over-hilte-stack -boolean yes</code>
+
+Off: <code>defaults write com.apple.dock mouse-over-hilte-stack -boolean no</code>
+
+Om het effect te zien, moet je nog wel even de dock herstarten (<code>killall Dock</code>).
+
+Nice. Nog van dat. :)

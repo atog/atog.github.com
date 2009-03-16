@@ -1,0 +1,5 @@
+---
+layout: post
+title: JVM options.
+---
+<a href="http://blogs.sun.com/roller/resources/watt/jvm-options-list.html">A JVM option list</a> <em>via <a href="http://jroller.com/page/cpurdy/20041116#woohoo_jvm_options">Cameron</a></em>

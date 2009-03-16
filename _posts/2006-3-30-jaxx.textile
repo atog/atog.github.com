@@ -1,0 +1,7 @@
+---
+layout: post
+title: JAXX.
+---
+I just quickly went through a new article on java.net: "Introducing JAXX: A New Way to Swing":http://today.java.net/pub/a/today/2006/03/30/introducing-jaxx.html and the first thing to come to mind is:
+
+It's all very nice but do we still need it when we got "Matisse":http://form.netbeans.org/ and "Fuse":https://fuse.dev.java.net/ which are much more pleasant to use IMO?

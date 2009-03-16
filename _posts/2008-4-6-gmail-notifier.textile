@@ -1,0 +1,21 @@
+---
+layout: post
+title: Gmail notifier.
+---
+Vanmiddag dacht ik _'hey er bestond vroeger zoiets als een gmail notifier'_.
+
+Straf dat ik daar niet vroeger aan gedacht heb. Het is gedome handig dat ding. "Google Notifier for Mac OS X":http://toolbar.google.com/gmail-helper/notifier_mac.html, dat is het dus.
+
+EÃ©ntje was dan natuurlijk weer niet goed genoeg :P - Om het te laten werken voor meerdere accounts moet ge "een beetje foefelen":http://www.macosxhints.com/article.php?story=20061117161341318
+
+# duplicate the Google Notification App
+# show package contents for the duplicate (rechts klikken)
+# open Contens/Info.plist
+# wijzig de property 'CFBundleIdentifier'
+# save
+
+Vermits ge na dit alles 2 gmail icoontjes ziet staan weet ge natuurlijk nog niet welk icoontje er nu bij welke account hoort. Om dit op te lossen kan je in de 'Contents/Resources' folder de images 'nounread.png' en 'unread.png' wijzigen. 
+
+p=. !http://atog.be/assets/2008/4/6/Google_Notifier.jpg!
+
+Ik heb ze gewoon omgedraaid. :)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Krugle! Live!
+---
+Apparently "Krugle":http://krugle.com went live "on June 14":http://corp.krugle.com/, and I missed it.
+
+What I did notice today is that they support "Opera":http://opera.com in this version.  Before I had to open FF each time I wanted to krugle (let's make it a verb, just like google). It's a good thing they fixed that.
+
+"Krugle.com":http://krugle.com - _go on, click the link, I know you want to_ :P

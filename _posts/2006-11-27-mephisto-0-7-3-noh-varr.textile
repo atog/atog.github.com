@@ -1,0 +1,13 @@
+---
+layout: post
+title: Mephisto 0.7.3 Noh-Varr
+---
+test post after upgrade. yet another test for fixing asides. just one more. I think this is the last one.
+
+
+Cava, het is in orde. Ik heb zojuist geupgrade van "mephisto 0.6.1 naar 0.7.3":http://mephistoblog.com/2006/11/23/mephisto-0-7-3-annoying-bugs-fixed. Het is eigenlijk nog nooit zo vlot gegaan. Normaal zit ik tot een kot in de nacht te werken om "het hele gebeuren":http://atog.be terug online te krijgen.
+
+Moest ge rare dingen zien/gebeuren, laat het mij aub weten. ;)
+
+
+<strong>[update]</strong> zoals "mijn broertje":http://www.withouthego.com terecht opmerkte: _ik zie geen comments_ zeg ik nu: _het is gefixed_. :P

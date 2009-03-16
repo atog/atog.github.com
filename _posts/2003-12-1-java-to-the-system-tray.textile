@@ -1,0 +1,7 @@
+---
+layout: post
+title: java to the system tray
+---
+i think i've put this link here already some time ago, but i just want to make sure i don't forget it :p
+
+<a href="http://systray.sourceforge.net/">Systray for Java</a>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: WordPress? Got it!
+---
+Maybe this is a bit of an overreaction on <a href="http://atog.be/archives/2004/05/03/wordpress/">yesterday's post</a> but as of <strong>now</strong> I'm one happy <a href="http://wordpress.org">WordPress</a> user.
+
+As <a href="http://wordpress.org/docs/tutorials/import-mt/">the docs</a> state, the transition from <a href="http://movabletype.org">movabletype</a> to <a href="http://wordpress.org">WordPress</a> is really way too easy :D
+
+I just noticed one little problem : my <a href="http://atog.be/feed/rss2/">rss feed</a> is invalid.  I'll take a look at it.
+
+<strong>update:</strong> <a href="http://atog.be/feed/rss2/">rss 2.0</a> and <a href="http://atog.be/feed/rss/">rss 0.92</a> are working. Apparently it doesn't like  non-breaking spaces.

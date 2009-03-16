@@ -1,0 +1,7 @@
+---
+layout: post
+title: Do not learn Ruby.
+---
+"Do not learn Ruby":http://webmat.wordpress.com/2008/02/20/do-not-learn-ruby/, goed en plezant  geschreven mijn gedacht.
+
+<em>via "Reddit for ruby hackers":http://reddit.com/r/ruby/</em>

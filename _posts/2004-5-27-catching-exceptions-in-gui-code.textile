@@ -1,0 +1,5 @@
+---
+layout: post
+title: Catching Exceptions in GUI code
+---
+<a href="http://www.javaspecialists.co.za/archive/Issue081.html">Catching Exceptions in GUI Code</a> by <a href="http://www.javaspecialists.co.za">Dr. Heinz M. Kabutz</a> 

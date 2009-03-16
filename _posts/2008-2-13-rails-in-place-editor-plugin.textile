@@ -1,0 +1,21 @@
+---
+layout: post
+title: Rails in place editor plugin.
+---
+Vandaag had ik toch wel zo'n _'in place editing'_ dingske van doen zeker. We weten allemaal dat we vandaag de dag zo'n dingen niet meer zelf moeten schrijven. Vermits "24 ways, Edit-in-Place with Ajax":http://24ways.org/2005/edit-in-place-with-ajax, dateert van 2005 had ik in ieder geval toch dat vermoeden ;)
+
+"Rails plugins to the rescue":http://dev.rubyonrails.org/browser/plugins!
+
+@script/plugin install http://dev.rubyonrails.com/svn/rails/plugins/in_place_editing@
+
+In de ApplicationController, zet ge het volgende ("zoals beschreven in de README":http://dev.rubyonrails.org/browser/plugins/in_place_editing/README):
+
+@in_place_edit_for :object, :attribute@
+
+... en in de view:
+
+@<%= in_place_editor_field :object, :attribute %>@
+
+Dat werkt. Out of the box. Mooi, niet?
+
+Wanneer ge den boel nog wat wilt customizen, kan "deze post van the.railsi.st":http://the.railsi.st/2007/5/9/roll-your-own-in-place-editor wel helpen.

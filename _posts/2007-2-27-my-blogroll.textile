@@ -1,0 +1,9 @@
+---
+layout: post
+title: My blogroll.
+---
+Het kwam overlaatst in mij op dat ik eigenlijk geen ene link naar andere blogs had staan hier. Dat is niet schoon eh. "Voila, daar is sinds vandaag verandering in gekomen":http://atog.be/more/blogroll. :)
+
+"Mijn blogroll":http://atog.be/more/blogroll bestaat uit alle feeds/blogs die ik recent als opml uit "Google Reader":http://reader.google.com getrokken heb. Vervolgens "een beetje ruby-magic toegepast":http://pastie.textmate.org/43322 en daar is "een lijst met alfabetisch gesorteerde links":http://atog.be/more/blogroll uitgekomen.
+
+_Als iemand "dit":http://pastie.textmate.org/43322 kan verbeteren of anders zou doen, dan zou ik het ook graag weten._

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Google Code Search.
+---
+"Google launches search service for computer code":http://today.reuters.com/news/articlenews.aspx?type=technologyNews&storyID=2006-10-05T062835Z_01_N04304180_RTRUKOC_0_US-GOOGLE-CODE.xml&pageNumber=1&imageid=&cap=&sz=13&WTModLoc=NewsArt-C1-ArticlePage1
+
+Het moest er van komen. Niks aan te doen. "Google Code Search":http://google.com/codesearch is a fact (op het moment nog in de "labs":http://labs.google.com/ maar kom).
+
+Spijtige zaak voor "krugle":http://krugle.com, of toch niet? "krugle":http://krugle.com ziet er volgens mij niet alleen beter uit, het *is* ook beter. De resultaten van "Google Code Search":http://google.com/codesearch zijn maar poverkes mijn gedacht.
+
+We zullen wel zien hoe het evolueert zekers.
+
+<em>via "OSNews":http://www.osnews.com/story.php?news_id=16074</em>

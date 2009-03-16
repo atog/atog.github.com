@@ -1,0 +1,34 @@
+---
+layout: post
+title: Migrate from Subversion to Git.
+---
+Sinds kort zijn "we":http://10to1.be ook lid van de "Git":http://git.or.cz/ club. :)
+
+Wanneer je al een paar jaar Subversion gebruikt, en je wil overschakelen naar Git, dan wil het al wel eens gebeuren dat je een svn repository wil/moet migreren naar een Git repository. Ik had her en der al opgevangen dat het te doen was, maar niets is zo plezant als het zelf een keer te doen. Spannend.
+
+Wanneer je "Cleanly Migrate Your Subversion Repository To a GIT Repository":http://www.simplisticcomplexity.com/2008/03/05/cleanly-migrate-your-subversion-repository-to-a-git-repository/ van Jon Maddox volgt (via "import from Subversion":http://github.com/guides/import-from-subversion) dan komt ge uit op volgende stappen:
+
+# maak een textfile met daarin de mapping van je svn users naar git users.
+# @mkdir my_app_tmp@
+# @cd my_app_tmp@
+# @git-svn init http://code.yoursite.net/my_app/trunk/ --no-metadata@
+# @git config svn.authorsfile your_users_mapping.txt@
+# @git-svn fetch@
+
+Na dat laatste commando zult ge zien dat elke svn-revision wordt binnengehaald. Afhankelijk van het aantal revisions kan ik me inbeelden dat dat wreed lang kan duren.
+
+Vervolgens nog die tmp repository clonen om een echt propere Git repository over te houden.
+
+* @git clone my_app_tmp my_app@
+
+Maar dan zit die repository nog niet in/bij GitHub (in ons geval). Again "de GitHub guides":http://github.com/guides to the rescue: " Changing Your Origin":http://github.com/guides/changing-your-origin
+
+bq. You will need to edit your @.git/config@ file to change the @url@ variable to be the new repo.
+
+@url@ wordt dan zoiets als: @git@github.com:username/myproject.git@
+
+Ik heb in mijn @.git/config@ ook nog de volgende lijn moeten toevoegen om deftig te kunnen _pushen_:
+
+@push = refs/heads/master:refs/heads/master@
+
+Easy as pie.

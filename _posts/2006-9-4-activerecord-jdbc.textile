@@ -1,0 +1,5 @@
+---
+layout: post
+title: ActiveRecord-JDBC.
+---
+"The JRuby story just keeps getting better":http://headius.blogspot.com/2006/09/using-activerecord-jdbc-adapter.html!

@@ -1,0 +1,8 @@
+---
+layout: post
+title: eclipse + local cvs repository
+---
+it seems like it's not possible to use a local cvs repository in <a href="http://eclipse.org">eclipse</a> :|
+you have to use pserver. damn, i find this is quiet annoying. apparently eclipse' cvs support isn't as good <a href="http://atog.typepad.com/atog/2003/10/eclipse_and_its.html">as i thought</a>.
+
+...or maybe there is a way of doing this, needs more investigation.

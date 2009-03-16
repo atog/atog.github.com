@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: RMagick, read image width
+--- 
+Een tijdje geleden moest ik in mijn code de _width_ van een image zien te pakken te krijgen. Blijkt dat dat redelijk simpel is met "RMagick":http://rmagick.rubyforge.org/:
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+require "RMagick"
+
+def image_width(image)
+  Magick::Image.read(image)[0].columns
+end
+<% end -%>

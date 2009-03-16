@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Maandag
+--- 
+Maandag. Op maandag komt onzen Dries, mijn jongste* broer. Vorig (school)jaar zijn we gestart met _de maandag_. Tijdens de vakantie ligt dat stil natuurlijk maar sinds vorige week zijn we terug bezig.
+
+Op _de maandag_, zitten we samen zo'n 2 uur achter de computer en probeer ik onzen Dries interessante dingen aan te leren. Heel gevarieerd. Van gewone weetjes tot xhtml, OOP, ruby, version control, ...  Of wanneer hij met een school-probleem zit, dan gaan wie we in die richting.
+
+Vanavond heeft hij zijn eerste Rails app gemaakt (gegenereerd). *Met* authentication! :)
+
+Wel, ik vind dat fijn, plezant, en ik hoop dat we zo nog veel _maandagen_ gaan krijgen.
+
+<small>* jongste = (me.age - 12)</small>

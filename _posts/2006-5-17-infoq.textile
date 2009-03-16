@@ -1,0 +1,5 @@
+---
+layout: post
+title: InfoQ.
+---
+"InfoQ - Tracking change and innovation in the enterprise software development community":http://www.infoq.com/.

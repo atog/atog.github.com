@@ -1,0 +1,12 @@
+---
+layout: post
+title: OpenMoko.
+---
+De "OpenMoko FreeRunner":http://www.openmoko.com/product.html is blijkbaar nog geen Ã©cht "iPhone":http://www.apple.com/benl/iphone/ alternatief.
+
+* "OpenMoko Train Wreck":http://www.vimeo.com/1366042
+* "More OpenMoko Train Wrecking (Now with Qt!)":http://www.vimeo.com/1366923
+
+Zouden er hier in BelgiÃ« al mensen ervaring hebben de Neo FreeRunner?
+
+<em>via "Daring Fireball":http://daringfireball.net/linked/2008/07/19/openmoko</em>.

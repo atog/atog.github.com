@@ -1,0 +1,7 @@
+---
+layout: post
+title: mickeysoft warns of critical IE flaws
+---
+<a href='http://news.com.com/2100-1002_3-5066511.html?tag=fd_top'>they just don't know when to stop, do they?</a>
+
+luckily i'm one happy <a href='http://mozilla.org/products/firebird/'>firebird</a> user :)

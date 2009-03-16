@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mini?
+---
+Check this out: <a href="http://www.opera.com/products/mobile/operamini/">Opera Mini</a>. Isn't technology nice :)
+
+<blockquote>Opera MiniÃ¢â€žÂ¢ is a fast and easy alternative to Opera's mobile browser, allowing users to access the Web on mobile phones that would normally be incapable of running a Web browser. This includes the vast majority of today's WAP-enabled phones. <a href="http://www.opera.com/products/mobile/operamini/">[more]</a></blockquote>
+
+<em>via <a href="http://operawatch.blogspot.com/2005/08/opera-mini-web-browser-for-virtually.html">Opera Watch</a></em>

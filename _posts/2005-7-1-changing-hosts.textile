@@ -1,0 +1,7 @@
+---
+layout: post
+title: Changing hosts.
+---
+If you noticed some strange behaviour over here, no worries, I just changed to <a href="http://www.dreamhost.com">dreamhost</a> for the hosting of <a href="http://atog.be">atog.be</a>
+
+Why? For a number of reasons actually, one of them being <a href="http://www.rubyonrails.org">Ruby on Rails</a> ;)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Sky for Google Earth.
+---
+Nifty! "Google Earth Heads For The Stars":http://www.techcrunch.com/2007/08/22/google-earth-heads-for-the-stars/

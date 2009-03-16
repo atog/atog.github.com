@@ -1,0 +1,13 @@
+---
+layout: post
+title: Tasklist. Taskkill.
+---
+"Ongelooflijk goeie windows tip":http://photomatt.net/2006/10/13/windows-tip/. Thanks, "Matt":http://photomatt.net/!
+
+Daar zit nu toch al enige tijd op te wachten, nog nooit echt de moeite gedaan om het zelf op te zoeken en nu kwam "het":http://photomatt.net/2006/10/13/windows-tip/ zomaar in mijne schoot gevallen.
+
+De beroemde <code>kill/killall</code> in *nix is dus <code>taskkill</code>. Vraag de process-info met <code>tasklist</code> en vervolgens kill! kill! kill!
+
+_sorry ik liet me efkes gaan._ 
+
+Voor meer info <code>tasklist /?</code>. Enjoy! ;)

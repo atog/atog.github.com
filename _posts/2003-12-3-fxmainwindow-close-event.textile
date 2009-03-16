@@ -1,0 +1,23 @@
+---
+layout: post
+title: FXMainWindow close event
+---
+while i was looking for some other answers, i found another interesting <a href="http://groups.google.com/groups?hl=en&lr=&ie=UTF-8&oe=UTF-8&selm=3DEFEEAB.7060705%40users.sourceforge.net">post</a> on the <a href="http://groups.google.com/groups?hl=en&lr=&ie=UTF-8&oe=UTF-8&selm=3DEFEEAB.7060705%40users.sourceforge.net">comp.lang.ruby</a> newsgroup.
+
+how to capture the close-event from the main window assuming your using <a href="http://fxruby.sourceforge.net/">FXRuby</a> :p (snippet from post):
+
+<blockquote>theMainWindow.connect(SEL_CLOSE) do<br />
+&nbsp;&nbsp;&nbsp;# Do fun things<br />
+&nbsp;&nbsp;&nbsp;verify_things<br />
+&nbsp;&nbsp;&nbsp;clean_up_things<br />
+<br />
+&nbsp;&nbsp;&nbsp;if ok_to_quit?<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# All is well to shut down, so go ahead<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# and send the ID_QUIT message to the<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# application.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;theMainWindow.app.handle(theMainWindow,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MKUINT(FXApp::ID_QUIT, SEL_COMMAND), nil)<br />
+&nbsp;&nbsp;&nbsp;else<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#We've decided not to shut down after all<br />
+&nbsp;&nbsp;&nbsp;end<br />
+end</blockquote>

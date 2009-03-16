@@ -1,0 +1,5 @@
+---
+layout: post
+title: New stuff in Ruby 1.9
+---
+"Ten Things I like about Ruby 1.9":http://www.oreillynet.com/ruby/blog/2007/06/on_the_horizon_ten_things_i_li.html <em>via "Shareomatic!":http://twitter.com/shareomatic/statuses/121279682</em>.

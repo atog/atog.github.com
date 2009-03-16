@@ -1,0 +1,5 @@
+---
+layout: post
+title: Project Blackbox.
+---
+"Project Blackbox":http://www.sun.com/emrkt/blackbox/index.jsp <em>via "tobi":http://blog.leetsoft.com/2006/10/17/boxed-terraflops</em>

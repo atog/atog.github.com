@@ -1,0 +1,7 @@
+---
+layout: post
+title: JavaWorld is back
+---
+<a href="http://www.javaworld.com/">JavaWorld</a> is back! They announced it already a while ago, and now it's that time.
+
+I noticed it this morning since their news (feed) showed up again in my <a href="http://sharpreader.net">aggregator</a>.

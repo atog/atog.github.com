@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby Facets.
+---
+"Ruby Facets":http://facets.rubyforge.org/ <em>via "Save Time and Effort with Facets":http://www.oreillynet.com/ruby/blog/2006/12/save_time_and_effort_with_face.html</em>.

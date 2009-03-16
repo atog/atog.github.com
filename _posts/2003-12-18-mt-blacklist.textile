@@ -1,0 +1,5 @@
+---
+layout: post
+title: MT-Blacklist
+---
+i just plugged in the <a href="http://www.jayallen.org/projects/mt-blacklist/">MT-Blacklist</a>  -  just to be prepared :p

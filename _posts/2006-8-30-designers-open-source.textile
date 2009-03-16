@@ -1,0 +1,5 @@
+---
+layout: post
+title: Designers. Open Source?
+---
+"The Real Reason Designers Don't Contribute To Open Source":http://encytemedia.com/blog/articles/2006/08/28/the-real-reason-designers-dont-contribute-to-open-source <em>via "dzone":http://www.dzone.com/rsslinks/the_real_reason_designers_dont_contribute_to_open.html</em>.

@@ -1,0 +1,19 @@
+---
+layout: post
+title: P6Spy and Spring.
+---
+I had some problems integrating <a href="http://www.p6spy.com/">P6Spy</a> in our application following the docs.  <a href="http://www.p6spy.com/documentation/index.htm">The docs</a>,  which btw make it look pretty easy but they don't say much about datasources...
+
+Thankfully I stumbled upon <a href="http://templth.blogspot.com/2004/11/integrate-p6spy-with-spring.html">this post: Integrate P6Spy with Spring</a>.  Mucho easier, yes yes. I tweaked it a bit though,  like using <code>P6ConnectionPoolDataSource</code> and the normal (provided with the distribution) <code>spy.properties</code> instead of <a href="http://templth.blogspot.com/2004/11/integrate-p6spy-with-spring.html">the described <code>sp6spy.log</code> file</a>.
+
+So using P6Spy with <a href="http://www.springframework.org">Spring</a> is actually a lot easier then the easy way it's supposed to be (wow, does that sentence makes sense? ;)) You actually don't need to know anything about specific P6Spy configuration details.
+
+Now let's take a look at the output...
+
+<strong>[update as requested]</strong>
+
+"Here's the relevant snipped from my Spring config":http://pastie.caboo.se/12869
+
+As you can see, piece of cake. ;)
+
+*[update 12/09/2006]* moved the snipped to "pastie":http://pastie.caboo.se/

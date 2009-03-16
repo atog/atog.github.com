@@ -1,0 +1,12 @@
+---
+layout: post
+title: Firefox spell-checking dictionaries.
+---
+De spell-checking feature in "Firefox 2.0":http://www.mozilla.com/en-US/firefox/ is redelijk handig. Ik weet niet of ik het zou installeren moest het een plugin zijn, maar het zit er nu standaard in dus waarom zouden we het niet gebruiken?
+
+Het wordt nog veel handiger wanneer je bijkomende _dictionaries_ kan installeren.
+
+Hoe? 2 manieren:
+
+*  "gebruik de install-knop naar keuze op deze pagina":https://addons.mozilla.org/firefox/dictionaries/?lang=en-US.
+* in spell-check context menu >> languages >> add dictionaries (en dan komt ge terecht op bovenstaande link).

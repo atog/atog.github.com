@@ -1,0 +1,7 @@
+---
+layout: post
+title: mahjongg solitaire
+---
+i never played this game, don't know what it's about but i definitely gonna try it out tonight :p
+
+i bounced on this <a href="http://www.progeeks.com/pspeed/mahjongg.shtml">java-game</a> via <a href="http://javalobby.org/index.jsp">javalobby</a>...

@@ -1,0 +1,7 @@
+---
+layout: post
+title: ruby blog test this is
+---
+ruby blog test
+
+this is a test via ruby xml rpc

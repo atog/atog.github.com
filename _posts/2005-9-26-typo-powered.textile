@@ -1,0 +1,14 @@
+---
+layout: post
+title: Typo powered!
+---
+<p>Yes! Finally I'm <a href="http://typo.leetsoft.com/trac/">typo powered</a>! ;)</p>
+<p>
+It took a while, but although the default theme is very nice, I wanted something new. I still have to figure something out for the 'asides', as it is now, they are shown as regular posts (which they are, but then again, they are not)</p>
+
+<blockquote>The lovely icons are designed by <a href="http://e-lusion.com/design/greyscale/">Ian Main</a></blockquote>
+
+<p>By now you are probably wondering, what happened to the beautiful pictures of your son? Well, I'm working on that :) I can tell you already, it will be something <a href="http://openlaszlo.org">OpenLaszlo</a> / <a href="http://flickr.com">Flickr</a> related.</p>
+
+<p>One <em>rather big downside</em> on the conversion from <a href="http://wordpress.org">Wordpress</a> is/are the permalinks. I could keep the posts but the permalinks are different (one could problably work something out, but there's no time for that at the moment).
+<p>You can always use the wonderful live search if you want to find something over here.</p>

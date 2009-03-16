@@ -1,0 +1,5 @@
+---
+layout: post
+title: JRuby Steps Into the Sun.
+---
+Wonderful news: "JRuby Steps Into the Sun":http://headius.blogspot.com/2006/09/jruby-steps-into-sun.html.

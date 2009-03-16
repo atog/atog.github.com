@@ -1,0 +1,14 @@
+---
+layout: post
+title: ilist. Lists, twitter style.
+---
+Vandaag op Barcamp Gent heb ik "onze":http://10to1.be nieuwe app(je) voorgesteld. _Brand New_, live sinds gisterenavond ;)
+
+Meet "ili.st":http://ili.st, *lists, twitter style*
+
+Voor meer informatie is het beter om naar "de presentatie te verwijzen":http://www.slideshare.net/atog/ilist.
+
+<div style="width:425px;text-align:left" id="__ss_326881"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=ilist-1206809138789250-3"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=ilist-1206809138789250-3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"><img src="http://static.slideshare.net/swf/logo_embd.png" style="border:0px none;margin-bottom:-5px" alt="SlideShare"/></a> | <a href="http://www.slideshare.net/atog/ilist?src=embed" title="View 'Ilist' on SlideShare">View</a> | <a href="http://www.slideshare.net/upload?src=embed">Upload your own</a></div></div>
+
+<br/><br/><br/>
+"Gezien?":http://ili.st Waarom nog wachten? "Use your list today!":http://twitter.com/ilist

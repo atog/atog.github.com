@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: X# aka X-sharp
+--- 
+"Zou dat om te lachen zijn?":http://www.xsharp.org/
+
+bq. X# (pronounced X-sharp) is an XML-oriented programming language designed to quickly create Web applications and services. In X# everything is represented as an XML tree and instead of using functions to manipulate information or perform actions, all possible operations you can think of are done by adding, removing or changing nodes from this tree. Since there are no functions to learn and everything is done intuitively, even inexperienced developers can create complex Web applications and services in record time.
+
+<small><em>"via Hacker News":http://news.ycombinator.com/item?id=443727</em></small>

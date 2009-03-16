@@ -1,0 +1,7 @@
+---
+layout: post
+title: Compressing your CSS
+---
+it's nice to learn something new every single day :)
+
+<a href="http://www.fiftyfoureleven.com/sandbox/compress-css-with-php/">compressing your css with php</a>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: New typo theme.
+---
+Sinds gisterenavond eindelijk een nieuw design online, running the latest and greatest "typo svn":http://typosphere.org :D
+
+Ik vind het een goeike, ik hoop de rest van het internet ook, niet dat dat belangrijk is natuurlijk maar wel plezant eh.
+
+"Nu dat Dreamhost rails ge-upgrade heeft naar 1.1":http://blog.dreamhost.com/2006/03/28/new-rails zou ik het straf vinden dat alles blijft marcheren sinds typo nog niet echt compatible is met 1.1, maar alee we zullen wel zien zekers.
+
+En voor ik het vergeet:
+*The lovely icons are courtesy of "famfamfam":http://www.famfamfam.com/lab/icons/silk/.*

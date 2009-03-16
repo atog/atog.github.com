@@ -1,0 +1,5 @@
+---
+layout: post
+title: VIM nobackup
+---
+VIM tip 1, <code>set nobackup</code> :)

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Google Calendar is live.
+---
+"Google Calendar":http://calendar.google.com is live en het ziet er weer wreed goed uit. Ik had natuurlijk niets anders verwacht. De eerste pagina die ik te zien kreeg was *"Sorry - service is unavailable - try again in a few moments"*. Niet echt goeie reclame natuurlijk maar na een refresh was alles ok. ;)
+
+
+We zullen het efkes proberen, ttz, iedereen zal het proberen mijn gedacht en we zullen dan rap genoeg weten of het de moeite waard is.
+
+
+Opera wordt nog niet gesupporteerd, maar het werkt wel op het eerste zicht.
+
+<em>net iets meer info op "TechCrunch":http://www.techcrunch.com/2006/04/12/google-calendar-is-live/</em>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Create an Icon
+---
+<a href="http://www.simplebits.com">Dan</a> gives a quick look at how he creates an icon in <a href="http://www.simplebits.com/notebook/2004/08/23/anatomy.html">The Anatomy of an Icon</a>.
+
+Most of it looks pretty straightforward, but what surprises me the most is that he starts with a canvas of 16x16 to double it's size later to get the 32x32 icon. I never thought about it that way, but then again, I'm not a web-designer either :)

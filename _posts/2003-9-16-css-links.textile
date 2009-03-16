@@ -1,0 +1,9 @@
+---
+layout: post
+title: css links
+---
+interesting css-info:
+
+<a href='http://www.meyerweb.com/eric/css/edge/'>css / edge</a>
+
+<a href='http://css-discuss.incutio.com/?page=FrontPage'>The css-discuss Wiki</a>

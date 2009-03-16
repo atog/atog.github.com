@@ -1,0 +1,15 @@
+---
+layout: post
+title: Recent posts wp-hack
+---
+My index page first showed the five recent posts. I just changed that to show the most recent 5 days. Since I use the <a href="http://wiki.wordpress.org/index.php/Recent%20Posts">recent posts</a> hack, there was a small problem. It showed the 10 most recent posts skipping the first 5 (because they used to be on the main page).
+
+A quick look at the hack and <a href="http://dev.mysql.com/doc/mysql/en/Date_and_time_functions.html">MySQL date functions</a> made me come up with this:
+
+basically replace this line:
+<code>$request = "SELECT ID, post_title FROM $tableposts WHERE post_status = 'publish' ";</code>
+
+by this line:
+<code>$request = "SELECT ID, post_title FROM $tableposts WHERE post_status = 'publish' AND DATE_SUB(CURDATE(),INTERVAL 4 DAY) > post_date ";</code>
+
+To make it a bit cleaner, <a href="http://atog.be/playground/get_recent_posts.txt">here's</a> the modified function. It takes an extra parameter "skip_days" which specifies the number of days to skip.

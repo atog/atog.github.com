@@ -1,0 +1,5 @@
+---
+layout: post
+title: BugMeNot.com
+---
+Great service! <a href="http://www.bugmenot.com/">bugmenot.com</a>, read the <a href="http://www.bugmenot.com/faq.php">faq</a>. There's even a <a href="http://extensions.roachfiend.com/index.html#bugmenot">Firefox extension</a>.

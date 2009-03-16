@@ -1,0 +1,7 @@
+---
+layout: post
+title: fast rollovers, no preload needed
+---
+<a href='http://www.pixy.cz/blogg/clanky/cssnopreloadrollovers/'>here's</a> an interesting way for image based CSS rollovers that doesnÃ¢â‚¬â„¢t need images to be preloaded.
+
+via <a href='http://exp.hicksdesign.co.uk/archives/000059.php'>// hicksdesign</a>

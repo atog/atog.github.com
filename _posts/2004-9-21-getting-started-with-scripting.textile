@@ -1,0 +1,5 @@
+---
+layout: post
+title: Getting started with scripting
+---
+<a href="http://today.java.net/pub/a/today/2004/09/20/javascript.html">Java Sketchbook: Getting Started With Scripting</a>

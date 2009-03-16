@@ -1,0 +1,9 @@
+---
+layout: post
+title: Spring Rich 0.1.0
+---
+Finally it's there - a 0.1.0 release of "Spring rich-client":http://spring-rich-c.sourceforge.net/
+
+I assume more people will check it out now that there's _something_ released.
+
+Good news. <em>via "Javalobby":http://www.javalobby.org/java/forums/t68850.html</em>

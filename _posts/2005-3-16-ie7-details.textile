@@ -1,0 +1,5 @@
+---
+layout: post
+title: IE7 details.
+---
+<a href="http://www.theregister.co.uk/2005/03/16/ie7_leak/">IE7 details leak onto web</a>. 

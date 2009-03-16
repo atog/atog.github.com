@@ -1,0 +1,9 @@
+---
+layout: post
+title: Valid is we
+---
+2 minutes before I'm typing this, my xhtml and css were valid.  So unless I do something really dirty now... they still are. :)
+
+<a href="http://validator.w3.org/check/referer"><img class="smile" src="http://atog.be/p/valid-xhtml10.png" alt="Valid XHTML 1.0!" height="31" width="88" /></a><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://atog.be/index.php"><img class="smile" src="http://atog.be/p/valid-css.png" height="31" width="88"  alt="Valid CSS!" /></a>
+
+It's kinda special, it's my first time. :P

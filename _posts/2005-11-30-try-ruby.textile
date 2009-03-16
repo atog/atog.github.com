@@ -1,0 +1,9 @@
+---
+layout: post
+title: Try Ruby!
+---
+Ooit al is ruby willen uitproberen maar er niet toe gekomen om het installeren? Awel "Try Ruby":http://tryruby.hobix.com/!
+
+p. Het is toch straf wat ze tegenwoordig allemaal op het net toveren mijn gedacht. Zodus 2 woorden: "Try Ruby":http://tryruby.hobix.com/.
+
+p. _ via "Robby on Rails":http://www.robbyonrails.com:8680/articles/2005/11/29/try-ruby _

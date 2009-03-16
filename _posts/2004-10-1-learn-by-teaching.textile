@@ -1,0 +1,5 @@
+---
+layout: post
+title: Learn by teaching.
+---
+<a href="http://weblogs.java.net/blog/johnreynolds/archive/2004/10/learn_by_teachi.html">Examples using the Tapestry Table component</a>.  Good timing, <a href="http://atog.be/archives/2004/09/28/happy-amazon-customer/">as I'm reading Tapestry in action</a>.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Wordpress 1.5
+---
+Maybe you've noticed, maybe you don't, but I upgraded my blog to <a href="http://www.wordpress.org">wordpress 1.5</a>. Looks great so far.  Much an improvement over previous version, although 1.2.2 was very good as well ;)
+
+<em>...damn, I'm a fan!</em>
+
+For now I use the <a href="http://binarybonsai.com/kubrick/">default theme</a>, which is very nice (with some small modifications of course), until I get some time to dig into this new concept of <a href="http://codex.wordpress.org/Using_Themes">themes</a>.  I need to fix some other things as well, asides, about, ...

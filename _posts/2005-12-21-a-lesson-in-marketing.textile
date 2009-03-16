@@ -1,0 +1,5 @@
+---
+layout: post
+title: A lesson in Marketing.
+---
+"RoR: A Lesson in Marketing â€œSeth Godin Styleâ€, or why Bruce Tate was almost right":http://www.ryanripley.com/?p=49.

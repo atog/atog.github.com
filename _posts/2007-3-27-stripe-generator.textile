@@ -1,0 +1,5 @@
+---
+layout: post
+title: Stripe Generator.
+---
+"Meet the Stripe Generator":http://www.stripegenerator.com/ <em>via "Ajaxian":http://ajaxian.com/archives/stripe-generator-web-20-go-faster-stripes</em>. ;)

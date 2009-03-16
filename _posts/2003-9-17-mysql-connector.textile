@@ -1,0 +1,9 @@
+---
+layout: post
+title: mysql connector
+---
+i just implemented the open session in view pattern, and after i deployed it on my host, i had <a href='http://www.raibledesigns.com/comments/rd/sunsets/mysql_problem_no_operations_allowed'>exact the same problem as Matt</a>
+
+<b>No operations allowed after connection closed</b>
+
+so, i did the same thing as Matt and used a connector from the nightly builds...we'll see how it turns out. i'll let you know tomorrow :p

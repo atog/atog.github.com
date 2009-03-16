@@ -1,0 +1,11 @@
+---
+layout: post
+title: webwork info
+---
+as i recently became a webwork-user. i found these docs pretty usefull. they don't give you the whole thing but it's a good start.
+
+<a href='http://enigmastation.com/technology/webwork/advocacy.html'>What WebWork Is</a>
+
+<a href='http://enigmastation.com/technology/webwork/competency.html'>Gaining Core Competency</a>
+
+thanks to <a href='http://enigmastation.com/'>Joseph B. Ottinger</a> a person i don't know :)

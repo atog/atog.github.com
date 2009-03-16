@@ -1,0 +1,5 @@
+---
+layout: post
+title: Browers comparison.
+---
+"Which New Browser Is Best: Firefox 2, Internet Explorer 7, or Opera 9?":http://www.extremetech.com/article2/0,1697,1990859,00.asp 

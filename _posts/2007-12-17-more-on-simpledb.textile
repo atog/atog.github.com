@@ -1,0 +1,5 @@
+---
+layout: post
+title: More on SimpleDB.
+---
+"What You Need To Know About Amazon SimpleDB":http://www.satine.org/archives/2007/12/13/amazon-simpledb/.

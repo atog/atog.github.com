@@ -1,0 +1,12 @@
+---
+layout: post
+title: OpenLaszlo - Opera.
+---
+In case you try (tried) to develop an <a href="http://openlaszlo.org/">OpenLaszlo</a> app using <a href="http://www.opera.com">Opera</a>, you've most probably noticed that it doesn't work.
+
+You'll get something like this:
+<code>The requested URL /pub/shockwave/cabs/flash/console.lzx was not found on this server.</code>
+
+How do you get it to work? Just add the following to you query string <code>.../console.lzx?<strong>lzt=v1</strong></code> (<a href="http://www.laszlosystems.com/developers/community/forums/showthread.php?s=99d6998accf830e939c3b431ea60bcf1&threadid=1629&highlight=opera">as stated in the forums</a>).
+
+...or you can just use <a href="http://www.mozilla.org/products/firefox/">Firefox</a>. But as I said already,<a href="http://atog.be/archives/2005/05/15/ajax-opera/"> I'm just starting to like Opera</a>. :D

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Colorize Java
+---
+<a href="http://www.kataba.com/smalltools/ColorJava.asp">Colorize Java</a>, Colorizes Java code using Javascript. <em>via <a href="http://javalobby.org/thread.jspa?forumID=61&threadID=13837">Javalobby</a></em>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: JRuby tricks.
+---
+<code>b.steal_method A, :foo</code>
+
+Zoiets is toch om schrik van te krijgen, niet? Wel plezant, maar toch, brrr. ;)
+
+"More on this here":http://ola-bini.blogspot.com/2007/07/some-jruby-tricks.html.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails login generator.
+---
+<a href="http://wiki.rubyonrails.com/rails/show/LoginGenerator">Rails Login Generator</a>.

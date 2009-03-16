@@ -1,0 +1,5 @@
+---
+layout: post
+title: Tackling Comment Spam
+---
+<a href="http://www.tamba2.org.uk/wordpress/spam/">Wordpress: Tackling Comment Spam</a>

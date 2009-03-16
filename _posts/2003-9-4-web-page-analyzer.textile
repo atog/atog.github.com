@@ -1,0 +1,7 @@
+---
+layout: post
+title: web page analyzer
+---
+<a href='http://www.websiteoptimization.com/services/analyze/'>Web Page Analyzer - 0.80</a> is a nice and useful tool. via <a href='http://zeldman.com/'>jeffrey zeldman</a>
+
+special thanks to <a href='http://blog.codefront.net/'>Cheah Chu Yeow</a> for giving me a pointer to <a href='http://zeldman.com/'>zeldmans blog</a> :)

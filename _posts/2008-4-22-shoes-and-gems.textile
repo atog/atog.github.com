@@ -1,0 +1,26 @@
+---
+layout: post
+title: Shoes and gems.
+---
+Ik heb een tijdje "_why's Shoes development":http://code.whytheluckystiff.net/shoes niet gevolgd en ik heb nu gemerkt dat ik dat niet meer mag doen :)
+
+Er zijn een paar mooie dingen bijgekomen. bv, Shoes setup en de console.
+
+Shoes setup, laat je toe om de nodige gems te installeren wanneer een user de app voor de eerste keer gebruikt. (Uit de samples dir).
+
+
+@Shoes.setup do@<br />
+&nbsp;&nbsp;&nbsp;@gem 'RedCloth'@<br />
+&nbsp;&nbsp;&nbsp;@gem 'hpricot >= 0.6'@<br />
+@end@<br />
+<br /><br />
+@require 'redcloth'@<br />
+@require 'hpricot'@<br />
+<br /><br />
+@Shoes.app ...@<br />
+
+
+De Shoes console kan je tevoorschijn toveren via Apple+/ (of Alt+/ op windows). Je kan schrijven naar de console door bv: 
+
+@info "dit komt in de console"@ 
+

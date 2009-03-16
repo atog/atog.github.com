@@ -1,0 +1,5 @@
+---
+layout: post
+title: Humane Interface.
+---
+"Humane Interface":http://martinfowler.com/bliki/HumaneInterface.html.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Linux tickles
+---
+Do you say that in English? Linux tickles? Well, never mind, you know what I mean.
+
+Every once in a while I read an article about Linux and when this happens I always want to get my hands dirty and start downloading some live cd's.  Keep in mind that I'm a complete newbie when it comes to Linux.
+
+So yesterday was such a day. I downloaded <a href="http://suse.com">Suse</a> and <a href="http://slax.linux-live.org/">Slax</a>. They both looked very good, but I must say that the boot-time of <a href="http://slax.linux-live.org/">Slax</a> was way shorter then the one from <a href="http://suse.com">Suse</a>. They both run very smooth, but neither of them found my  soundcard or configured my wifi correctly. (I use a Toshiba)
+
+I tried <a href="http://mepis.org">MEPIS</a> a while ago and I think it's much easier to use for a complete newbie, but I prefer the speed of <a href="http://slax.linux-live.org/">Slax</a> :)
+For tonight I'm gonna try <a href="http://www.freesbie.org/">FreeSBIE</a>. It's a live cd based on FreeBSD.
+
+What always follows on these tickles is the following thought:
+<blockquote><em>Why would I leave windows behind? It's just to easy to use, I know the system.</em></blockquote>
+...and then I just wait for the next article on Linux to pass by.

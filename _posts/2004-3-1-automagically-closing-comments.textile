@@ -1,0 +1,7 @@
+---
+layout: post
+title: automagically closing comments
+---
+...with the <a href="http://www.rayners.org/2003/12/27/closing_comments_on_old_entries.php">David Raynes script</a>. works like a charm.
+
+thanks <a href="http://www.rayners.org/">David</a> :)

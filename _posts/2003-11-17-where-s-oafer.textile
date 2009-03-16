@@ -1,0 +1,11 @@
+---
+layout: post
+title: where's oafer?
+---
+first things first, what is oafer? oafer is an online rss aggregator. the basic service was already running, though it's still needs some work  (all these features... :))
+
+now because we recentely found our new house, which obviousley needs some work, and since we're expecting a baby :) there's no development-time left at the evenings.
+
+so i froze my oafer for about 3 to 4 months, and if it's still a good thing to build by then it will be up and running again.
+
+i had 3 alpha-beta-test-friendly-users and i guess they understand it, so for now, oafer is down :(

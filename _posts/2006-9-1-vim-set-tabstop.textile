@@ -1,0 +1,5 @@
+---
+layout: post
+title: VIM set tabstop.
+---
+VIM tip: <code>set tabstop=2</code>

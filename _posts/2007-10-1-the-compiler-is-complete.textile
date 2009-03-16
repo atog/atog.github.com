@@ -1,0 +1,5 @@
+---
+layout: post
+title: The Compiler Is Complete
+---
+""It is a glorious day in JRuby-land, for the compiler is now complete.":http://headius.blogspot.com/2007/09/compiler-is-complete.html"

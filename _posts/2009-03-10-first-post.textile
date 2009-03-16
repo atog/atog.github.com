@@ -1,0 +1,6 @@
+---
+layout: post
+title: First post
+---
+
+w00t first post!!!

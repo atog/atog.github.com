@@ -1,0 +1,8 @@
+---
+layout: post
+title: Thunderbird 0.6
+---
+<table width="100%"><tr><td align="center"><a href="http://www.mozilla.org/products/thunderbird/"><img src="http://atog.be/p/thunderbird06.png" alt="Thunderbird 0.6" /></a></td></tr></table>
+Thunderbird 0.6 is released! Woo woo, downloading as we speak. :)
+
+<em>via <a href="http://www.teezeh.info/archives/2004/05/03/thunderbird-06-is-out/">Thomas</a></em>

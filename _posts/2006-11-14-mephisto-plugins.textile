@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mephisto plugins.
+---
+"Mark Guzman has written 3 mephisto plugins":http://hasno.info/2006/11/11/mephisto-plugins.

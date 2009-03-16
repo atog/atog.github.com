@@ -1,0 +1,5 @@
+---
+layout: post
+title: Getting Real for free.
+---
+if there is anyone out there who hasn't read it yet: "Getting Real - now for free":http://gettingreal.37signals.com/ <em>via "Jason":http://www.37signals.com/svn/posts/85-getting-real-the-book-now-comes-in-three-flavors</em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java 2 Ruby - Part II.
+---
+<a href="http://www.magpiebrain.com/archives/2005/06/15/java_to_ruby2">Ruby For Java (and C#) Programmers, Part 2 - Operators, methods, and more on classes</a>.

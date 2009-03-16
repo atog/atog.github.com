@@ -1,0 +1,9 @@
+---
+layout: post
+title: Microsoft to offer bounty on hackers
+---
+<a href="http://rss.com.com/2100-7355_3-5102110.html?part=rss&tag=feed&subj=news">a new approach...</a>
+
+from the article:
+
+<blockquote><em>Microsoft will announce on Wednesday that it will offer two $250,000 bounties for information that leads to the arrest of the people who released the MSBlast worm and the SoBig virus.</em></blockquote>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Launch4j 1.4.0
+---
+<a href="http://launch4j.sourceforge.net/">Launch4j 1.4.0 released</a>. <em>via <a href="http://www.javalobby.org/forums/thread.jspa?threadID=16926&messageID=91824272&tstart=0">Javalobby</a></em>

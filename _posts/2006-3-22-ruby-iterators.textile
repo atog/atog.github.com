@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby iterators.
+---
+"Ruby, the why and how of iterators":http://blog.grayproductions.net/articles/2006/03/21/the-why-and-how-of-iterators by James.

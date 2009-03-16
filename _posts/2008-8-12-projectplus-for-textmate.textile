@@ -1,0 +1,16 @@
+---
+layout: post
+title: ProjectPlus for Textmate.
+---
+Sinds een paar dagen gebruik ik de "Textmate ProjectPlus plugin":http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus en ik ben er redelijk content van (anders zou ik dit niet schrijven natuurlijk). Het is ook moeilijk om er _niet_ content van te zijn mijn gedacht.
+
+Wat doet het?
+
+* SVN of Git status badges - dat is de beste feature IMO.
+* Sorteren van de tree, zoals 'Folders on top' en op file extension - ook niet slecht.
+* State van de Foldertree bewaren - ook zeker niet slecht.
+* "en nog vele anderen":http://ciaranwal.sh/2008/08/05/textmate-plug-in-projectplus
+
+Het zit niet in de weg en er zitten een paar mooie features in, installeren die handel.
+
+<em>via "TUAW":http://www.tuaw.com/2008/08/06/projectplus-for-textmate/</em>

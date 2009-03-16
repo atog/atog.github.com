@@ -1,0 +1,22 @@
+---
+layout: post
+title: History meme.
+---
+Na "Mark":http://diveintomark.org/archives/2008/04/15/history-meme en "Matt":http://raibledesigns.com/rd/entry/history_meme was ik toch wel benieuwd naar wat mijn resultaat zou zijn.
+
+Bij deze:
+
+@Wed Apr 16 20:19:41 atog (~) >> history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head@<br />
+@89 cd@<br />
+@65 rake@<br />
+@57 spec@<br />
+@57 ls@<br />
+@49 script/console@<br />
+@30 mongrel_rails@<br />
+@26 sudo@<br />
+@20 exit@<br />
+@16 mysql5@<br />
+@13 tail@<br />
+<br />
+
+Spannend eh :)

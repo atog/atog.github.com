@@ -1,0 +1,7 @@
+---
+layout: post
+title: think about it
+---
+nice quote, got it from <a href="http://fishbowl.pastiche.org/2003/10/08/sig_quote_of_the_day">charles</a>
+
+<blockquote>Ã¢â‚¬Å“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.Ã¢â‚¬? Ã¢â‚¬â€œ Brian W. Kernighan</blockquote>

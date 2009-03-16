@@ -1,0 +1,5 @@
+---
+layout: post
+title: A (Re)-Introduction to JavaScript.
+---
+"A (Re)-Introduction to JavaScript":http://www.flickr.com/photos/simon/sets/72057594077197868/ - "by Simon Willison":http://simon.incutio.com/archive/2006/03/07/etech <em>via "Ajaxian":http://ajaxian.com/archives/a-reintroduction-to-javascript</em>

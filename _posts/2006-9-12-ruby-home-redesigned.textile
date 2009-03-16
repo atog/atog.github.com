@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby home redesigned.
+---
+"The official Ruby language website has been redesigned.":http://www.ruby-lang.org/en/ - en dat was nodig ook - <em>via "Riding Rails":http://weblog.rubyonrails.com/2006/9/12/new-ruby-site-goes-online.</em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Leopard spaces.
+---
+"A proposal for improving Spaces in Leopard":http://www.pascal.com/diary/?p=183 <em>via "Daring Fireball":http://daringfireball.net/linked/2007/november#thu-15-spaces</em>.

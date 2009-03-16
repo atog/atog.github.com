@@ -1,0 +1,11 @@
+---
+layout: post
+title: Google Web Toolkit.
+---
+"Google Web Toolkit - Build AJAX apps in the Java language":http://code.google.com/webtoolkit/.
+
+Sounds good when you read it like that: "_Build AJAX apps in the Java language_" Is there anybody who wouldn't want to do that?
+
+That's yet another entry in my check-it-out-todo-list. ;)
+
+<em>via "ClientJava":http://www.clientjava.com/blog/2006/05/17/1147912110133.html</em>.

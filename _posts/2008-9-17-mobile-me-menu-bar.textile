@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: MobileMe icon in Menu Bar
+--- 
+Vanmorgen viel het me ineens op dat er een icoontje meer in de OS X menu bar stond. Ik kan daar niet goed tegen, zeker wanneer ik het niet gebruik. :)
+
+<div style="text-align:center"><a href="http://www.flickr.com/photos/atog/2864268305/" title="iSync Icon by atog, on Flickr"><img src="http://farm4.static.flickr.com/3242/2864268305_b643d42882_o.jpg" width="474" height="40" alt="iSync Icon" /></a></div>
+
+Waarschijnlijk is dat meegekomen met de laatste OS X update (10.5.5) "gisterenavond":http://twitter.com/atog/statuses/923747175.
+
+Na een "kleine zoektocht":http://bit.ly/4574Fm blijkt dat niet het icon van MobileMe te zijn, maar dat van iSync app. Men moet het dus disablen vanuit de preferences van iSync.
+
+Beter nog, je kan het verwijderen door de command key ingedrukt te houden en het icon uit de menu bar te slepen. :)

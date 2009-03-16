@@ -1,0 +1,5 @@
+---
+layout: post
+title: JFormDesigner
+---
+<a href="http://www.jformdesigner.com/">JFormDesigner</a>, Java/Swing GUI designer. <em>via <a href="http://www.clientjava.com/blog/2004/09/08.html">Scott</a></em>

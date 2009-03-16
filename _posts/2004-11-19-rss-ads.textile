@@ -1,0 +1,7 @@
+---
+layout: post
+title: RSS ads.
+---
+Yeah right, <a href="http://www.37signals.com/svn/archives/000930.php">that's just what I was waiting for</a>. :(
+
+Come on, now we soon have to go write an aggregator which filters ads out of our feeds. Damn.

@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: Created With Webby
+--- 
+
+"Een tijdje geleden had ik het al gezegd":http://atog.be/2008/07/25/nieuw/ , ik wou hier iets nieuws.
+
+Het is er van gekomen, "atog.be":http://atog.be is _created with "Webby":http://webby.rubyforge.org/_. Om eerlijk te zijn, ik had gezien dat "Bruce Williams":http://codefluency.com/ het zo doet, en ben het eens van dichtbij gaan bekijken.
+
+*Het is nieuw want:*
+
+* het is geen rails app
+* het is statische html
+* plezant om mijn "mephisto":http://mephistoblog.com posts te migreren
+* ik kan posts offline typen in textmate (ja kon ervoor ook via de metaweblogapi, maar dit is toch anders)
+* nieuwe posts maken via een rake task
+* nieuwe posts deployen via een rake task met rsync
+* comments gebeuren nu met "Disqus":http://www.disqus.com/ wat ik toch wel een fijne service vind (al moet de toekomst het natuurlijk uitwijzen of het echt de moeite is)
+
+Het kan zijn dat er hier en daar nog wat scheef zit. Dat is niks, dat komt wel goed. :) Je mag het altijd laten weten, misschien weet ik het zelf nog niet.
+
+*Wat moet er nog gebeuren?*
+
+* oude comments migreren (mephisto)
+* archives page
+* blogroll
+
+Maar tot nu amuseer ik me rot, dat belooft! :P 
+
+_mm net ondervonden dat ge het spel ook heel makkelijk kunt kapot doen. Oppassen geblazen dus. Living on the edge! :)_
+
+*update*
+
+Vorige comments (disqus) zijn verdwenen door een permalink probleem op te lossen, "je kan ze hier vinden":http://atog.be/2008/08/22/created-with-webby/.

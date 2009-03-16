@@ -1,0 +1,6 @@
+---
+layout: post
+title: Intel Mac.
+---
+"How to build an Intel Mac":http://www.extremetech.com/article2/0,1697,1886910,00.asp - "The OSx86 Project":http://www.osx86project.org/
+ _ via "OSNews":http://www.osnews.com/story.php?news_id=12673 _

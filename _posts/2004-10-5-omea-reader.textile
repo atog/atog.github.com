@@ -1,0 +1,16 @@
+---
+layout: post
+title: Omea Reader.
+---
+[<strong>update:</strong> I uninstalled it already.]
+
+<a href="http://www.jetbrains.com/omea_reader/index.html">Omea Reader</a>, <em>via <a href="http://www.thauvin.net/linkblog/">Erik's linkblog</a></em>.
+
+First thoughts which came up in my mind:
+<ul class="list"><li class="list">It's from <a href="http://www.jetbrains.com/index.html">JetBrains</a>, so it's bound to be good.</li><li class="list"><strong>&lt;disappointed&gt;</strong>Oh, it's a .NET thingy.<strong>&lt;/disappointed&gt;</strong></li><li class="list">Let's give it a try.</li></ul>
+
+And so I did. 
+
+<a href="http://www.jetbrains.com/omea_reader/index.html"><img src="http://atog.be/p/r/omea.jpg" class="nice&quot; alt="JetBrains Omea Reader" /></a>
+
+At first sight it looks OK, a bit bloated, but you can enable/disable plugins as you choose.  <strong>But</strong> for the moment I'm very happy with <a href="http://bloglines.com">Bloglines</a>, so <a href="http://www.jetbrains.com/omea_reader/index.html">Omea</a> will have to prove itself in the next coming days or... ;)

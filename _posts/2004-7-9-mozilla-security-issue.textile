@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mozilla security issue
+---
+What Mozilla users should know about the <a href="http://mozilla.org/security/shell.html">shell: protocol security issue</a>

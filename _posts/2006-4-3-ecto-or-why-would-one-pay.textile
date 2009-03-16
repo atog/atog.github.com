@@ -1,0 +1,12 @@
+---
+layout: post
+title: Ecto, or why would one pay.
+---
+I think a found a reason why one would pay for ecto. ;) 
+
+Because it just works and you don't have to do it yourself. Of course I like to build my own - just as "Oafer42":http://oafer42.atog.be wich stopped working at typo version 2.6.0 
+
+Maybe I'll rewrite Oafer42 in java since ruby-fox has some unicode issues. Compared to other desktop blogging software I still prefer the minimalistic approach of Oafer42. 
+
+
+_Probably because I build it_ :D

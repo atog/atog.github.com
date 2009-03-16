@@ -1,0 +1,5 @@
+---
+layout: post
+title: Wordpress Themes.
+---
+<a href="http://www.urbangiraffe.com/2005/04/12/themeguide1/">Dissection of a Wordpress Theme</a>

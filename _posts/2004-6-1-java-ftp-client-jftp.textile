@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java FTP Client, JFTP
+---
+<a href="http://www.myjavaworld.com/">A Java FTP client, JFTP</a>. Nice, although I'll keep using <a href="http://filezilla.sourceforge.net/">FileZilla</a> for the moment. 

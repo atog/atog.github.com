@@ -1,0 +1,5 @@
+---
+layout: post
+title: NetBeans and Rails.
+---
+Miljaar! "If You Thought Rails Development Was Fast Before...":http://weblogs.java.net/blog/bleonard/archive/2007/03/if_you_thought_1.html.

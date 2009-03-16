@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google gzipped.
+---
+"Google now GZIPs their web pages send to Opera":http://my.opera.com/dstorey/blog/show.dml/121098 _ via "Opera Watch":http://my.opera.com/dstorey/blog/show.dml/121098 _

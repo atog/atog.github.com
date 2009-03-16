@@ -1,0 +1,11 @@
+---
+layout: post
+title: &apos;
+---
+[<code>&apos;</code> is de standard XML entity voor een apostrophe/single quote]
+
+In tegenstelling to "Opera":http://opera.com en "Firefox":http://www.mozilla.com/firefox/ komt het niet goed wanneer je <code>&apos;</code> gebruikt in "IE":http://www.microsoft.com/windows/ie/default.mspx (_en nee het werkt zelfs niet in IE7)_
+
+Gelukkig kwam "Charles":http://fishbowl.pastiche.org/2003/07/01/the_curse_of_apos met een aannemelijke uitleg op de proppen. :)
+
+...en zo weten we weeral iets meer.

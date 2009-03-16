@@ -1,0 +1,14 @@
+---
+layout: post
+title: First steps.
+---
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
+ <a href="http://www.flickr.com/photos/atog/20902489/" title="photo sharing"><img src="http://photos15.flickr.com/20902489_ae42049b9c_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+ <br />
+</div>
+After the <a href="http://atog.be/archives/2005/06/18/first-contact/">First contact with the sand</a>, we now have the first steps caught on picture.<br />
+<br />
+This time we were in <a href="http://www.centerparcs.com">Centerparcs</a>, <a href="http://www.centerparcs.com/servlet/ContentServer?pagename=CPE/Village&c=CP_Village&cid=100000000061&t=VillageFullOriginal&Regionid=1000304763685&Countryid=1000304763410&lang=BENL&showcat=true">De Kempervennen</a>.
+<br clear="all" />
+
+Tomorrow we're heading  back to the sea side, but this time it will be the Dutch Coast ;)

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Websphere 6.1 released.
+---
+Aha, "Websphere 6.1 is released, and it's updated for Java 5":http://www.infoq.com/news/WebSphere-6.1-Released. In an ideal world all Websphere-customers would migrate to this new version and "we would all be using Java 5 in no time":http://www.tomklaasen.net/blog/2006/02/22/why-iÃ¢â‚¬â„¢m-not-on-java-5-yet-bis/! ;)
+
+...but as I said: "_In an ideal world_."
+

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Jakarta HttpClient
+---
+<a href="http://atog.typepad.com/atog/2003/10/url_connection_.html">remember</a> i was looking for a way to set the connection timeout on a URL. no? well, doesn't matter, i <a href="http://atog.typepad.com/atog/2003/10/url_connection_.html">did</a>. :p
+
+so, instead of doing it in that horrible way of setting a system property, i used <a href="http://jakarta.apache.org/commons/httpclient/">Jakartas HttpClient</a>. very easy. you create a new HttpClient object and set the connection timeout.  tjak, tjak, Soetaert, lol :)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: PayPal widget.
+---
+Ziet er interessant uit: "Paypal Launches Storefront Widget":http://www.techcrunch.com/2007/12/03/paypal-launches-storefront-widget/.

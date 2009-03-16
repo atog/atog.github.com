@@ -1,0 +1,14 @@
+---
+layout: post
+title: Being picky.
+---
+When you enter <a href="http://www.vrtnieuws.net">vrtnieuws.net</a> for the first time you see the following message (only a piece of it):
+<blockquote>De site is gebouwd voor <strong>PC computers</strong> met minstens Windows 98 als besturingssysteem en Internet Explorer 5.5 voor Windows als internetbrowser. Bij Apple computers verwachten we OS 9.2 en Netscape 6.2 of hoger, of Internet Explorer 5.1 voor Mac.
+<strong>U kunt de site gebruiken met andere besturingssystemen en browsers, maar we garanderen dan geen optimaal resultaat.</strong></blockquote>
+
+I hear you, why do I want to post this? 2 reasons (bold).
+<ul class="list"><li class="list">PC computers, I thought PC stands for Personal Computer, so it actually says Personal Computer computer.</li><li class="list">I don't like it when people say in advance things can go bad when you use something else then Windows/IE. Just make sure it works.</li></ul>
+
+Am I wrong here? Overreaction? Perhaps.
+
+Besides, <a href="http://www.vrtnieuws.net">the site</a> works fine using <a href="http://www.mozilla.org/products/firefox/">Firefox</a>.  It's ugly but it works. ;)

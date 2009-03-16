@@ -1,0 +1,9 @@
+---
+layout: post
+title: Background colors.
+---
+"Always Specify A Background Colour":http://www.designdetector.com/2007/01/always-specify-a-background-colour.php. Blijkbaar kunt ge in de meeste browsers een default background color kiezen. Niet dat het ooit in mij zo opkomen om  dat op _geel_ of een andere ambetante kleur te zetten maar "diene mens":http://www.designdetector.com/ heeft wel gelijk.
+
+Nu ik er zo aan denk, ik geloof wel dat ik dat altijd doe voor het <code><body></code> element, maar niet voor <code><html></code>. Dan zullen de problemen wel meevallen zekers :P
+
+<em>via "Natalie Downe":http://notes.natbat.net/2007/01/17/links-for-2007-01-17</em>.

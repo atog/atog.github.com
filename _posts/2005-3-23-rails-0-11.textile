@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rails 0.11
+---
+Rails 0.11 is out and it includes native Ajax support!
+
+<blockquote>With the inclusion of Ajax helpers in Rails 0.11.0, weÃ¢â‚¬â„¢ve addressed the most important concern holding back large scale Ajax use: Writing DHTML by hand. Manipulating the DOM by hand is a labor-intensive and error-prone process rife with frustration and cross-browser compatibility. With the Ajax support in Rails, writing manual Javascript/DHTML is (almost) a thing of the past. <a href="http://weblog.rubyonrails.com/archives/2005/03/22/rails-0110-ajax-pagination-non-vhost-incoming-mail/">[more]</a></blockquote>

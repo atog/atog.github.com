@@ -1,0 +1,17 @@
+---
+layout: post
+title: Google talk adds voicemail.
+---
+"Nieuwe features voor Google Talk":http://www.google.com/talk/whatsnew_more.html:
+
+* File Transfer
+* Voicemail
+* Music Status
+
+Vooral de *voicemail* vind ik op het eerste zicht fantastisch. Zeker wanneer de andere persoon GTalk niet eens hoeft te gebruiken, ze krijgen dan gewoon een mail met het bericht als attachment.
+
+*File Transfer*, well that was inevitable. ;)
+
+*Music Status* is mijn inziens compleet overbodig. Maar er zullen er waarschijnlijk wel zijn die dat plezant vinden.
+
+<em>via "TechCrunch":http://www.techcrunch.com/2006/07/28/google-talk-swings-back/</em>.

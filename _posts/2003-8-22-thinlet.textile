@@ -1,0 +1,15 @@
+---
+layout: post
+title: thinlet
+---
+woo woo, looks like someone has been busy :)  <a href='http://www.thinlet.com/'>http://www.thinlet.com</a>
+
+<blockquote><i>Thinlet is a GUI toolkit, a single Java class, parses the hierarchy and properties of the GUI, handles user interaction, and calls business logic. Separates the graphic presentation (described in an XML file) and the application methods (written as Java code).
+
+Its compressed size is 36KB, and it is LGPL licensed.
+
+Thinlet runs with Java 1.1 (browsers' default JVM) to 1.4, Personal Java, and Personal (Basis) Profile. Swing isn't required.</i></blockquote>
+
+Robert Bajzat is already on his sixth beta version of thinlet. last time i checked was only 2.8 or something like that. looks like the documentation has also been improved. good job!
+
+although i signed-up for e-mail notification, i never got notified :( (but that's not really a problem, is it?)

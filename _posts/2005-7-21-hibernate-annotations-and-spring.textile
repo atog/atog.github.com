@@ -1,0 +1,9 @@
+---
+layout: post
+title: Hibernate Annotations and Spring
+---
+I decided to try something new yesterday so I downloaded <a href="http://www.netbeans.org">NetBeans 4.1</a> (I'm an <a href="http://www.eclipse.org">eclipse</a>-user) and <a href="http://www.hibernate.org">Hibernate 3 with it's annotations</a>.
+
+So far, I like it. NetBeans is kind of the most difficult part since it's a totally new environment. The hibernate annotations I like best - less xml, no more <a href="http://xdoclet.sourceforge.net/">xdoclet</a> (for hibernate stuff) and <a href="http://www.springframework.org">Spring</a> takes care of all the wiring. I don't think I should mention that Spring rocks, now do I? ;)
+
+As I already said, so far I'm having fun!

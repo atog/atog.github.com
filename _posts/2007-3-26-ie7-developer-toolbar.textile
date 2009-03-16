@@ -1,0 +1,11 @@
+---
+layout: post
+title: IE7 developer toolbar.
+---
+Wat moet ge doen wanneer _"het (1)"_ in Firefox werkt maar in IE7 de mist in draait? "De IE7 developer toolbar installeren":http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&displaylang=en.
+
+Ja, ik weet dat "Firebug":http://www.getfirebug.com/ stukken interessanter en beter is, maar daar zijt ge niet veel mee wanneer alles loopt zoals het moet in Firefox.
+
+<small>(1) ajax-toestanden.</small>
+
+<em>via "Dave Burke":http://dbvt.com/blog/archive/2007/02/03/the-ie-developer-toolbar-is-a-serious-requirement.aspx</em>.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: java2html
+---
+when you want to post/publish some code, this looks like a nice tool : <a href="http://www.java2html.de/">java2html</a>
+
+<blockquote>&lt;quote&gt;Java2Html converts Java (and other) source code (complete files or snippets) to HTML, RTF, TeX and XHTML with syntax highlighting. This open source Java project consists of an extendible library along with a Java application, a Java applet and many plugins in order to integrate the library into other programs.&lt;/quote&gt;</blockquote>
+
+via <a href="http://juntao.blog-city.com/read/382987.htm">http://juntao.blog-city.com/</a>

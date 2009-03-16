@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rails op school.
+---
+Kijk, "UC Berkeley":http://www.cs.berkeley.edu/ geeft "Ruby on Rails":http://radlab.cs.berkeley.edu/wiki/Cs198. Straffe toeren, het zal mijn gedacht nog wel een tijdje duren voor we zoiets in ons Belgenland zullen zien.
+
+<em>via "Riding Rails":http://weblog.rubyonrails.com/2007/9/28/uc-berkley-teaches-ruby-on-rails</em>.

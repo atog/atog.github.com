@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby tool survey results.
+---
+De "Ruby tool survey results":http://www.tbray.org/ongoing/When/200x/2007/11/26/Ruby-Tool-Survey

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mephisto 0.8
+---
+Groot nieuws! "Er is een nieuwe versie":http://blog.caboo.se/articles/2008/2/3/mephisto-0-8 van "Mephisto":http://mephistoblog.com/ onderweg.
+
+Dat zou wel eens een mooie oppertuniteit kunnen worden om met git te spelen. Ik ben curieus naar de change-list.
+
+Laat maar komen!

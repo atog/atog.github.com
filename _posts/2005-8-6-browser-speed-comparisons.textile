@@ -1,0 +1,5 @@
+---
+layout: post
+title: Browser speed comparisons.
+---
+<a href="http://www.howtocreate.co.uk/browserSpeed.html">Browser speed comparisons</a>.

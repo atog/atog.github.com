@@ -1,0 +1,6 @@
+---
+layout: post
+title: Web 3.0
+---
+Very. Very nice read: "Web 3.0
+by Jeffrey Zeldman":http://alistapart.com/articles/web3point0.

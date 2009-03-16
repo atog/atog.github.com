@@ -1,0 +1,5 @@
+---
+layout: post
+title: VacuumMail.
+---
+"Remember this?":http://atog.be/2007/2/23/speed-up-mail-app, "now there is an app to automate things":http://www.musingsfrommars.org/2007/03/vacuummail-will-speed-up-apple-mail.html <em>via "TUAW":http://www.tuaw.com/2007/03/18/vacuummail-automate-vacuuming-your-mail-index/</em>.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Eye candy
+---
+When I first opened <a href="http://eclipse.org">eclipse</a>, after a fresh installation of 3.0 M8, I was really impressed :)
+
+<a href="http://eclipse.org"><img src="http://atog.be/p/eclipse_intro.png" border=0 alt="eclipse intro" /></a>
+
+I just love eye candy. :p

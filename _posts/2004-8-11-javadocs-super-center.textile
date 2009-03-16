@@ -1,0 +1,13 @@
+---
+layout: post
+title: Javadocs super-center
+---
+This morning I received the <a href="http://www.javalobby.org/thread.jspa?forumID=91&threadID=13792&start=0&mode=flat">Javalobby newsletter</a> in my inbox and it's all about ... come on ... I know you already know it.
+
+18, that's how many <a href="http://www.jdocs.com/">links</a> there are in the mail to <a href="http://www.jdocs.com/">JDocs.com</a>  :P
+
+<blockquote>... and users can contribute their own notes to virtually any class, field, method.</blockquote>
+
+As I find this is a very good initiative, I checked it out, and I must say it looks promising. Nice to have all the popular api's centralized. Useful. A handy tool. Good that this is still in an early stage, because I think it's rather slow and there are some annoying glitches in the html.
+
+As with all search-thingies today, there is a <a href="http://www.mozilla.org/products/firefox/">firefox</a> plugin available.

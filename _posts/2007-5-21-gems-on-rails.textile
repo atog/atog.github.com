@@ -1,0 +1,11 @@
+---
+layout: post
+title: Gems on Rails.
+---
+Met de "GemsOnRails gem":http://gemsonrails.rubyforge.org/ is uw applicatie niet langer afhankelijk van de environment waar ge uw rails app op deployed. Ge moet u met andere woorden geen zorgen meer maken over het feit dat een of andere gem op uw host beschikbaar zal zijn of niet.
+
+"GemsOnRails":http://gemsonrails.rubyforge.org/ werkt eigenlijk volgens hetzelfde principe als <code>rake rails:freeze:edge</code>("more":http://wiki.rubyonrails.com/rails/pages/EdgeRails). Vanaf dat uw rails app gem-aware is kunt ge eender welke gem freezen in uw vendor directory.
+
+bv: <code>rake gems:freeze hpricot</code>
+
+Wat heeft een mens nu nog meer nodig? ;)

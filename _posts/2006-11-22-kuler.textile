@@ -1,0 +1,11 @@
+---
+layout: post
+title: kuler.
+---
+Dat moet de mooiste/beste _color-chooser-picker-tool_ zijn die tot op heden gezien heb: "kuler":http://kuler.adobe.com/. 
+
+Er zijn verschillende 'rules' die je kan toepassen (Analogous, Monochromatic, Triad, Complementary, Compound, Shades of Custom) en je kan je 'themes' bewaren. Tof. Plus, het *ziet* er gewoon zo goed uit.
+
+Ik was nog aan het denken om deze post in mijn asides te zetten, maar "kuler":http://kuler.adobe.com/ verdient een volwaardige post mijn gedacht. ;)
+
+<em>via "Veerle":http://veerle.duoh.com/blog/comments/kuler/, thanks!</em>

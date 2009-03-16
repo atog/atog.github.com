@@ -1,0 +1,31 @@
+---
+layout: post
+title: Rails, REST, Java HttpClient.
+---
+Ondertussen weten we allemaal dat heel het REST gebeuren tegenwoordig in "Rails":http://rubyonrails.org/ zit ingebakken. REST resources implementeren wordt u bijna in de schoot geworpen en met "ActiveResource":http://api.rubyonrails.org/classes/ActiveResource/Base.html is het nog makkelijk te gebruiken ook.
+
+Vandaag moest ik onze Rails app aanspreken vanuit Java. Eenvoudigste weg is dus via REST, en in Java was dat nieuw voor mij. Wat heb gebruikt? "Jakarta Commons HttpClient":http://hc.apache.org/httpclient-3.x/.
+
+Hoe ziet dat er uit (in een vereenvoudigde versie)?
+
+<pre><code>
+HttpClient client = new HttpClient();
+client.getState().setCredentials(
+    new AuthScope("localhost", 3000),
+    new UsernamePasswordCredentials(username, password));
+PostMethod pm = new PostMethod("http://localhost:3000/examples");
+try {
+    String xml = "<example><title>first example</title></example>"
+    pm.setRequestEntity(new StringRequestEntity(xml,"text/xml","ISO-8859-1"));
+    client.executeMethod(pm);
+} finally {
+    pm.releaseConnection();
+}
+</code></pre>
+<p />
+
+<p>Rails maakt automatisch van de binnengekomen xml een hash met de 'Example' attributen:</p>
+
+ @{ "example" => { "title" => "first example" } }@
+
+<p /><p>Zo hebben we dan vanuit Java een nieuw 'Example' resource gecreëerd in onze Rails app. Zijn er betere manieren? Let me know.</p>

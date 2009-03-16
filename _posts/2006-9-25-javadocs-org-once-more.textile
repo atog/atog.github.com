@@ -1,0 +1,9 @@
+---
+layout: post
+title: Javadocs.org once more.
+---
+Ik dacht al, ik ken "dat":http://www.dzone.com/rsslinks/java_documentation_project_url_shortcut_for_java.html... en ja zenne: "2 jaar geleden hadden we dat al gezien":http://atog.be/2004/5/12/javadocs-org. Ondertussen nooit echt gebruikt. 
+
+Vandaag dus opnieuw ontdekt en "een quick search geconfigureerd in Firefox":http://www.mozilla.org/products/firefox/smart-keywords.html. Tsjak! Tsjak!
+
+<code>jd = http://javadocs.org/%s</code>

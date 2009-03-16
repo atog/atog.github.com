@@ -1,0 +1,5 @@
+---
+layout: post
+title: Bloglines Web Service.
+---
+Fun! <a href="http://www.oreillynet.com/pub/a/network/2004/09/28/bloglines.html">The New Bloglines Web Services</a>

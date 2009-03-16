@@ -1,0 +1,5 @@
+---
+layout: post
+title: Python phones?
+---
+<a href="http://www.theregister.co.uk/2005/02/01/nokia_mobile_python/">Nokia blesses mobile Python</a>

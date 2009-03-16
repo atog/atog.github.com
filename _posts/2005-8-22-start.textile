@@ -1,0 +1,5 @@
+---
+layout: post
+title: Start.
+---
+Today is my first working day after one week of vacation. Let us do some .NET again ;)

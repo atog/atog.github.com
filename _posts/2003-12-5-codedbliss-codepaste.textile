@@ -1,0 +1,10 @@
+---
+layout: post
+title: codedbliss codepaste
+---
+check it out : <a href="http://codedbliss.com/codepaste/">codepaste</a>, it's a syntax-highlighting code-paste with a blog-like feel :p
+i can imagine this can be pretty useful.
+
+<blockquote>(from <a href="http://codedbliss.com/codepaste/">codepaste</a>) <br /><br />Don't feel like flooding a channel? Paste your code <a href="http://codedbliss.com/codepaste/paste.rhtml">here</a> and get syntax highlighting for free. </blockquote>
+
+you do have to keep in mind that the code expires after 14 days.

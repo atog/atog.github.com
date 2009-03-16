@@ -1,0 +1,5 @@
+---
+layout: post
+title: java encryption
+---
+i just read <a href="http://weblog.anthonyeden.com/archives/000035.html">anthony's post on JCE</a>, i never did any encryption before but i seems to be very interesting. following joel's comment, i looked at <a href="http://www.bouncycastle.org/index.html">bouncycastle</a> and that seems to be something i would like to try out...they provide some examples so we'll see how it goes :)

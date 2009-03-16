@@ -1,0 +1,20 @@
+---
+layout: post
+title: Rails and MySQL full text search
+---
+We hebben in onze app eenvoudige full text search nodig. In "rails":http://http://rubyonrails.org/ heb je dan plugins voor "Sphinx":http://www.sphinxsearch.com/, "Ferret":http://ferret.davebalmain.com/trac/ en "Solr":http://lucene.apache.org/solr/. Maar je kan natuurlijk ook "die van MySQL":http://dev.mysql.com/doc/refman/5.0/en/fulltext-search.html gebruiken.
+
+MySQL full text search kan je enkel gebruiken met MyISAM tables. In ons geval is dat niet echt een probleem. _Who needs transactions anyway?_ :P
+
+Goed, we genereren een nieuwe migration om de table engine aan te passen en de fulltext index toe te voegen.
+
+@execute "alter table mytable engine = MyISAM"@<br />
+@execute "alter table mytable add fulltext index fulltext_recipe (title, description)"@
+
+Tof. Dat werkt allemaal, tot je in je testen ook de full text search wil gebruiken. @rake db:test:prepare@ werkt namelijk niet meer. 
+
+De "rails schema dumper":http://api.rubyonrails.org/files/vendor/rails/activerecord/lib/active_record/schema_dumper_rb.html houdt geen rekening met de MySQL fulltext indexen, en blijkbaar heeft die ook niet gezien dat ik de table engine gewijzigd heb. Op zich is het normaal want het fulltext gebeuren is MySQL specifiek, maar wel vervelend als het in de weg zit.
+
+Een korte zoektocht op _the internets_ en kijk "Zak Mandhro":http://mandhro.com/2006/11/20/using-mysql-full-text-querying-with-rails/ _had/heeft_ hetzelfde probleem en geeft ons "een pluginnetje":http://www.mandhro.com/wp-content/uploads/2006/11/ar_mysql_full_text.zip.
+
+Het werkt, iedereen tevreden (ik toch) en we kunnen verder testen.

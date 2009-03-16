@@ -1,0 +1,5 @@
+---
+layout: post
+title: Solo is Simple, part two.
+---
+<a href="http://openlaszlo.org/tips/2005/solo-2">Solo is Simple, part two</a>.

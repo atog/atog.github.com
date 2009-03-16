@@ -1,0 +1,7 @@
+---
+layout: post
+title: fortisbank.be
+---
+damn, can you believe this : <a href='http://www.fortisbank.be'>http://www.fortisbank.be</a> doesn't work in firebird, you have to use iexplorer!?!
+
+<strong>update</strong>: it does work these days :p (just tested it againg using <a href="http://www.mozilla.org/products/firefox/">firefox</a>)

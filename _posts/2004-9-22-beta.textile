@@ -1,0 +1,9 @@
+---
+layout: post
+title: Beta?!
+---
+I like the sound of this:
+
+<em>Windows is the biggest beta test in history.</em>
+
+<a href="http://www.theregister.co.uk/2004/09/21/gartner_security_summit/">read on at The Register</a>

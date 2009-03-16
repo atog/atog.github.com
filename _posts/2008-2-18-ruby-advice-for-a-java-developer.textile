@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruby advice for a Java developer.
+---
+"Frank had het er laatst nog over":http://blog.futtta.be/2008/01/31/van-java-naar-ruby-on-rails-of-grails/, van Java naar Ruby (of iets anders).
+
+Naar mijn mening zijn er wel wat Java-developers die naar Ruby gaan (of "Ruby meepakken in hun toolset":http://www.tomklaasen.net/blog/2008/02/15/van-java-naar-ruby-on-rails-of-grails-futttaâ€™s-blog), ik ook ;)
+
+En zo komt "Bruce Williams":http://codefluency.com met een postje "Advice for a Java Developer":http://codefluency.com/articles/2008/02/17/advice-for-a-java-developer/.

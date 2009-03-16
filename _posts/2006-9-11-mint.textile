@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mint.
+---
+"MINT: A YEAR IN GREEN":http://www.shauninman.com/plete/2006/09/mint-a-year-in-green.
+
+Straf dat alles zo snel gaat tegenwoordig. Diene "Mint-mens":http://www.shauninman.com is ook weeral een jaar bezig. Ik gebruik "Mint":http://haveamint.com/ sinds april en ik het alleen maar aanraden. Als je op zoek bent naar iets degelijks, of zoals Shaun het omschrijft, _a well-designed, focused, extensible stats package that runs on your own server and is immune to referrer spam_. Awel dan moet ge "Mint":http://haveamint.com/ maar is bezien. Knap, overzichtelijk en zonder zever.
+
+-- From one happy customer. :)

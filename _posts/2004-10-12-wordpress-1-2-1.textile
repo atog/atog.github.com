@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wordpress 1.2.1
+---
+I just upgraded to <a href="http://www.wordpress.org">wordpress 1.2.1</a> which is kind of a bugfix release.
+<blockquote>This release addresses a few bugs and minor security issues with 1.2. WeÃ¢â‚¬â„¢ve also backported the new login system from 1.3 that is much friendlier and should address many of the problems people have had with logging in and cookies.</blockquote>
+
+If anyone experiences any problems here, let me know ;)
+
+<a href="http://wordpress.org/download/">download wordpress 1.2.1</a>

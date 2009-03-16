@@ -1,0 +1,11 @@
+---
+layout: post
+title: Nummerplaten.
+---
+Ik vroeg me vanmorgen of ik dat nu alleen had? Zou ik nu echt de enige zijn die daar op let?
+
+Wanneer ik op de baan ben, met de auto of de fiets, of zelfs te voet. Ik kijk _altijd_ naar de nummerplaten van de auto's. Rijdende of stilstaande auto's, het maakt niet uit. Ik kijk naar de nummerplaat. Nog straffer, ik kijk naar de eerste drie letters van de nummerplaat (wanneer deze in dit formaat is ABC-999).
+
+Met die eerste drie letters leg ik dan altijd een link naar een of andere werkgerelateerde afkorting. Een paar simpele voorbeelden kunnen zijn: XML, JSF, SQL, ... noem maar op.
+
+Altijd. Zouden er nog mensen zijn die dat doen?

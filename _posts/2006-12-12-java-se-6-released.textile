@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java SE 6 released.
+---
+"Java SE 6 is released":http://java.sun.com/javase/6/ - Ik ben is curieus hoe lang het zal duren voor we die effectief gebruiken...

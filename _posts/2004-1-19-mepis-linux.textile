@@ -1,0 +1,9 @@
+---
+layout: post
+title: MEPIS Linux
+---
+after reading this:
+<blockquote>&lt;quote&gt;Imagine KDE's ease of use, Knoppix' functionality and really well done own wizards in one distro, paired with nearly all really useful apps available, KDE as the one and only desktop and the most usual server software on two CDROM's ... there you have it: Mepis Linux. <a href="http://www.pclinuxonline.com/modules.php?name=News&file=article&sid=7115">[read more]</a>&lt;/quote&gt;</blockquote>
+and a lot more about <a href="http://www.mepis.org/">mepis</a>, i definitely gonna try the <a href="http://www.mepis.org/">mepis</a> live cd before my new <a href="http://www.gentoo.org">gentoo</a> experience. :) maybe i'll never get to <a href="http://www.gentoo.org">gentoo</a> anymore... :p
+
+other more recent reviews on <a href="http://www.osnews.com/story.php?news_id=5348">osnews</a> and <a href="http://www.newsforge.com/article.pl?sid=04/01/12/135232&mode=thread&tid=2&tid=82&tid=94&pagenum=1">newsforge</a>

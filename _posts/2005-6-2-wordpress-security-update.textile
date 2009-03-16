@@ -1,0 +1,9 @@
+---
+layout: post
+title: Wordpress Security Update.
+---
+Upgrading has never been as easy as with <a href="http://wordpress.org/download/">Wordpress 1.5.x</a> :) 
+You can find <a href="http://wordpress.org/development/2005/05/security-update/">more details over here</a>.
+
+k, peeps <a href="http://atog.be">atog.be</a> is currently powered by <a href="http://wordpress.org/">Wordpress 1.5.1.2</a>  and happy with that.
+

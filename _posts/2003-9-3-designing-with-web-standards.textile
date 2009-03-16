@@ -1,0 +1,9 @@
+---
+layout: post
+title: designing with web standards
+---
+just ordered this book : <a href='http://www.amazon.com/exec/obidos/ASIN/0735712018/ref%3Dnosim/jeffreyzeldmanprA/104-6600142-7215921'>Designing with Web Standards</a> from Jeffrey Zeldman.
+
+<center><a href='http://www.amazon.com/exec/obidos/tg/detail/-/0735712018/ref=lib_dp_TFCV/104-6600142-7215921?v=glance&s=books&vi=reader#reader-link'><img src='http://images.amazon.com/images/P/0735712018.01._PE30_PIdp-schmoo2,TopRight,7,-26_SCMZZZZZZZ_.jpg' border='0'/></a></center>
+
+now, all i can do is wait until it arrives and hope it's worth it :)

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: iScrobbler
+--- 
+Ongeveer een jaar geleden "ben ik last.fm beginnen gebruiken":http://atog.be/2008/1/30/last-fm/ en tot over een paar weken gebeurde het scrobblen en streamen met "de standaard last.fm client":http://www.last.fm/download. Ik heb de standaard client van in het begin een lelijk ding gevonden en dat dat spel daar constant in de weg stond in de OS X dock stoorde mij mateloos.
+
+<a href="http://www.flickr.com/photos/atog/3182647568/" title="iScrobbler by atog, on Flickr"><img src="http://farm4.static.flickr.com/3514/3182647568_30c4cd3214_o.jpg" width="347" height="80" alt="iScrobbler" /></a>
+
+Na een korte zoektocht gebruik ik nu al een paar weken "iScrobbler":http://www.last.fm/group/iScrobbler en dat is echt mijn ding. Het doet wat het moet doen en het zit niet in de weg. 
+
+Een aanrader, op OS X that is.

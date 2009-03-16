@@ -1,0 +1,5 @@
+---
+layout: post
+title: cinenews.be
+---
+<a href="http://www.cinenews.be/index.cfm?lang=nl">cinenews.be</a>

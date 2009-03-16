@@ -1,0 +1,5 @@
+---
+layout: post
+title: CSS Resources PDF
+---
+<a href="http://veerle.duoh.com/index.php?id=P243">CSS Resources in one handy hyperlinked PDF file</a> <em>Thanks <a href="http://veerle.duoh.com/">Veerle</a>!</em>

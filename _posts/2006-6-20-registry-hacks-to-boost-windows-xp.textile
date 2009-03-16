@@ -1,0 +1,17 @@
+---
+layout: post
+title: Registry hacks to boost Windows XP.
+---
+"My favorite registry hacks to boost performance of Windows XP":http://weblogs.java.net/blog/inder/archive/2006/06/my_favorite_reg.html.
+Ik heb ze nog niet geprobeerd maar op het eerste zicht klinkt het allemaal redelijk logisch en _moet_ het wel werken.
+
+Kleine summary van mijnentwege:
+* Remove DLLs from loading for applications that are not running anymore.
+* Place Windows Kernel in RAM.
+* Disable 8.3 Name creation in NTFS
+* Make network browsing to be faster by preventing checking of remote scheduled tasks.
+* Disable services that are no longer being used. 
+* Remove error message at Startup that refuses to go away.
+* For deleting programs from starting up at the boot time: delete their entries from...
+* For uninstalling unruly programs from "Add Remove Programs" control panel applet...
+* Displaying Ghosted or nonpresent devices (to uninstall them afterwards). 

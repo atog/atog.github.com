@@ -1,0 +1,7 @@
+---
+layout: post
+title: faux columns
+---
+in <a href="http://www.alistapart.com/articles/fauxcolumns/">this article</a> <a href="http://www.simplebits.com/archives/2004/01/13/faux_columns_at_a_list_apart.html">Dan</a> describes how to extend positioned or floated columns to full browser heights, regardless of each columnâ€™s contents. as you may or may not have noticed, i'm having the same problem here with the column on the left.
+
+so apparently it should be fairly easy to fix, but first things first : our house.

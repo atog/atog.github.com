@@ -1,0 +1,10 @@
+---
+layout: post
+title: Short names.
+---
+Small but _sometimes_ useful tip:
+<code>dir /X</code>
+
+p. When you enter the above command on a command prompt in windows, you'll get to see the short names (8 chars) for those extra long dir/filenames.
+
+p. e.g. <code>"C:\Documents and Settings"</code> becomes <code>"C:\DOCUME~1"</code>

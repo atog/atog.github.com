@@ -1,0 +1,5 @@
+---
+layout: post
+title: hasLayout.
+---
+"Using hasLayout to fix bugs in IE":http://notes.natbat.net/2006/12/02/haslayout/.

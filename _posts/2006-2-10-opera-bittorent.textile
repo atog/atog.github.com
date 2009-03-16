@@ -1,0 +1,10 @@
+---
+layout: post
+title: Opera - BitTorent.
+---
+Gisteren avond de laatste release van "Ubuntu":http://www.ubuntu.com/ gedownload (_ ne mens moet toch alles is bezien _)
+, en zodoende ineens de "BitTorrent functionaliteit":http://labs.opera.com/news/2006/02/07/2/ van "Opera":http://www.opera.com 
+is getest. 
+
+*Conclusie*: niks op aan te merken, works like a charm. Het was trouwens al een eeuwigheid geleden dat ik nog download
+snelheden gezien van 1.1 tot 1.4MB/s. Ni slecht mijn gedacht, zeker ni slecht.

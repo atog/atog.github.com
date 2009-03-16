@@ -1,0 +1,15 @@
+---
+layout: post
+title: Freebase.
+---
+"Freebase":http://www.freebase.com/, doeme toch, imagine the possibilities!
+
+bq. Free + Database = Freebase <br />
+It's about film, sports, politics, music, science and everything else all connected together. Our contributors are collecting data from all over the internet to build a massive, collaboratively-edited database of cross-linked data. Its a big job and we're just getting started.
+
+and 
+
+bq. How free? <br />
+Really free. We want to make it possible for you to add high quality structured information to your websites, mashups and applications without worrying about restrictive corporate licenses. All data is licensed Creative Commons Attribution. We only ask that you link back to us.
+
+<em>via "TechCrunch":http://www.techcrunch.com/2007/03/09/this-is-cool-unless-it-achieves-consciousness-and-kills-us-all/</em>.

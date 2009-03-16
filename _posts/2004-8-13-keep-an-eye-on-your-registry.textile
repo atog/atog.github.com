@@ -1,0 +1,7 @@
+---
+layout: post
+title: Keep an eye on your registry.
+---
+Now this is very good utitilty: <a href="http://www.sysinternals.com/ntw2k/freeware/autoruns.shtml">Autoruns</a>. It shows you what programs are configured to run during system boot or login from all sorts of registry keys.
+
+Because the internet is hostile place these days, this comes in pretty handy.

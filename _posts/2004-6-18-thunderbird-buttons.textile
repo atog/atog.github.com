@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird buttons
+---
+<a href="http://www.mozilla.org/products/thunderbird/buttons.html">Thunderbird, use the buttons!</a> <em>via <a href="http://blog.codefront.net/archives/2004/06/17/mozilla_thunderbird_07_freshly_roasted.php">Cheah Chu Yeow</a></em>

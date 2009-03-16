@@ -1,0 +1,17 @@
+---
+layout: post
+title: cvs module problems
+---
+today i wanted to install cvs (on winxp) so i downloaded the latest version from <a href="http://www.cvshome.org/">http://www.cvshome.org</a>, i created a repository, added my source and modified the modules-file.
+
+i think this version of cvs didn't me like cause time after time (when i tried to checkout my source) it failed to open the modules-file :(
+
+<blockquote><b>cvs [checkout aborted]: failed to open the modules file</b></blockquote>
+
+so after a while, i almost gave up, i decided to give <a href="http://www.wincvs.org/index.html">wincvs</a> a try. i installed it and guess what,  the cvs which comes with wincvs did exactly what it was supposed to do: display my modules! :p
+
+<blockquote><b>CVSROOT&nbsp;&nbsp;&nbsp;CVSROOT<br />
+       modules&nbsp;&nbsp;&nbsp;CVSROOT modules<br />
+       src&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;src</b></blockquote>
+
+now i would like to know why the cvshome version (1.11.5) doesn't work, but in the mean time i use the executable of wincvs.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: beanshell
+---
+i'm glad <a href='http://weblog.cemper.com/a/200308/14-dynamically-interpreted-java.php'>christoph</a> mentions <a href='http://www.beanshell.org/'>it (beanshell)</a> again. it's really worth it to give it a go. since i'm aware of it's existance (via <a href='http://www.freeroller.net/page/aeden/20030625#java_and_scripting_languages'>anthony</a>) i use it very often. it's easy to test, debug and experiment. you just type and run.

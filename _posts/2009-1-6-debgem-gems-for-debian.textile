@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: DebGem, gems for Debian
+--- 
+Een tijdje gelezen las ik bij "Wouter":http://grep.be hoe "moeilijk / lastig":http://grep.be/blog/en/computer/cluebat/rails_followup?show_comments=yes het wel niet is om "RubyGems":http://www.rubygems.org/ te gebruiken op "Debian":http://www.debian.org/.
+
+Ik zou het zelf niet weten maar er liggen blijkbaar wel meer mensen wakker van want vandaag is er "een oplossing de wereld in gestuurd":http://blog.phusion.nl/2009/01/06/announcing-debgem-beta-the-rubygem-to-apt-conversion-service/. "DebGem":http://www.debgem.com/, nu nog in beta, zou toelaten om gems te installeren op dezelfde manier als al de rest op een Debian systeem.
+
+bq. Virtually all Ruby gems at your disposal as Debian packages!
+
+Dat klinkt toch goed, niet? Hoe de gebruikers tegenover een "subscription fee":http://www.debgem.com/pricing_signup zullen staan, dat valt nog af te wachten mijn gedacht. Als het écht werkt en veel tijd bespaart, waarom ook niet?
+
+<small><em>via "RubyInside":http://www.rubyinside.com/debgem-ruby-libraries-packaged-for-debian-and-ubuntu-1436.html</em></small>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ruby2HTML.
+---
+Another nice <a href="http://www.rubyonrails.org">rails</a> app: <a href="http://syntax.carldr.com/">Ruby Syntax Highlighting</a> written by <a href="http://www.carldr.com/blog/article/3/ruby-syntax-highlighting">Carl</a>. Extremely helpful when you want to post a piece of ruby-code on the web.
+
+Apparently there's also some sort of a rumour (I read it on the <a href="http://one.textdrive.com/pipermail/railshttp://one.textdrive.com/pipermail/rails/2005-March/004681.html/">rails-list</a>) that <a href="http://atog.be/archives/2003/12/05/codedbliss-codepaste/">Codepaste</a> will make a comeback using <a href="http://www.rubyonrails.org">rails</a>.

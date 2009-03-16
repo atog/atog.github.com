@@ -1,0 +1,8 @@
+---
+layout: post
+title: hibernate rocks!
+---
+<a href='http://hibernate.bluemars.net/'>hibernate</a> rocks! it really does!
+i've been playing with it lately and i find it amazing how it handles everything.  it's easy to learn and well documented, but hey i'm not the first one to say all of this, am i? :p
+
+just try to <a href='http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&q=hibernate+rocks&btnG=Google+Search'>google on 'hibernate rocks'</a>  :)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: 10 reasons.
+---
+"Ten reasons to learn and use web standards":http://www.456bereastreet.com/archive/200512/ten_reasons_to_learn_and_use_web_standards/.

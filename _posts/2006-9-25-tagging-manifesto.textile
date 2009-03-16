@@ -1,0 +1,5 @@
+---
+layout: post
+title: Tagging manifesto.
+---
+"A manifesto for tags":http://vagueware.com/2006/9/19/a-manifesto-for-tagging.

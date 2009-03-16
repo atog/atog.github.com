@@ -1,0 +1,7 @@
+---
+layout: post
+title: AJAX Activity indicators.
+---
+p. "Thomas makes it look so easy":http://mir.aculo.us/articles/2005/11/14/ajax-activity-indicators-with-rails-0-14-3! 
+
+p. Wait! Unbelievable. It *is* that easy! ;)

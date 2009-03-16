@@ -1,0 +1,11 @@
+---
+layout: post
+title: Feed problems?
+---
+I just got word from a colleague of mine that my feed is pretty messed up. Every post shows up more than once or
+everyday all items appear to be new.
+
+If someone experiences similar problems, please let me know. It's either a "feedburner":http://www.feedburner.com or 
+"typo":http://typo.leetsoft.com bug.
+
+*update*: I modified feedburner to use my atom feed (before it was rss 2.0), maybe that will be better. Anyways, let me know.

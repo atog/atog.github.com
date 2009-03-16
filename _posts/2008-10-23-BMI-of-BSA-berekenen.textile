@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: BMI Of BSA Berekenen
+--- 
+Voor een recent project moest ik het BMI en BSA berekenen. BMI is ondertussen wel bij iedereen bekend maar van BSA had ik persoonlijk nog niet gehoord.
+
+*BMI* - <a href="http://en.wikipedia.org/wiki/Body_Mass_Index_(BMI)">Body Mass Index</a>
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+bmi = weight/((length.to_f/100)**2))
+<% end -%>
+
+*BSA* - "Body Surface Area":http://en.wikipedia.org/wiki/Body_surface_area
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+bsa = (weight**0.425)*(length**0.725))*0.007184
+<% end -%>
+
+Voila. <small>For future reference</small>.

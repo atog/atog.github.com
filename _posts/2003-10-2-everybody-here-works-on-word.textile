@@ -1,0 +1,5 @@
+---
+layout: post
+title: everybody here works on word
+---
+<a href='http://headblender.com/joe/blog/archives/personal/001264.html'>funny story</a>, but true. it's often difficult to explain what your job is, what you actually do the whole day, in the big IT-world.

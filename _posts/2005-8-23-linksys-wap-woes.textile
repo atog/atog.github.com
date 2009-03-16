@@ -1,0 +1,17 @@
+---
+layout: post
+title: Linksys WAP woes.
+---
+Passwords, WEP, who needs them?
+
+Last weekend I decided to reinstall XP on my (wife's) laptop. No problem there, it runs very smooth again. :)
+Yesterday I tried to connect to my <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B00007KDVJ/104-0380438-2397564?v=glance">access point</a> and now I can't remember the key anymore. Damn.
+
+After some time, and trying some keys/passwords I decided to reset the damn thing. I thought reconfiguring it should do it.  Hell no! 
+
+<blockquote><em>enter default password ... default password is <strong>admin</strong> ... password is incorrect!</em></blockquote>
+
+Go figure!? I went to bed and I'll give it another try tonight.
+
+<strong>[update]:</strong> It works now. Last time, a couple of months ago, I upgraded the firmware and apparently there's an upgrade for the setup-wizard as well. duh!
+So I downloaded the upgraded setup-wizard, ran it, katsjing, works like a charm.

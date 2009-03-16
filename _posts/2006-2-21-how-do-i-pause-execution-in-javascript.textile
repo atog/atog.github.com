@@ -1,0 +1,5 @@
+---
+layout: post
+title: How do I pause execution in JavaScript?
+---
+"How do I pause execution in JavaScript?":http://www.faqts.com/knowledge_base/view.phtml/aid/1602/fid/143, _ via "Robby":http://spaces.msn.com/robbyvandamme/Blog/ _ ;)

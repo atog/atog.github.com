@@ -1,0 +1,7 @@
+---
+layout: post
+title: Firefox Memory Consumption.
+---
+<a href="http://www.chimshaw.com/blog/?p=35">Minimize and restore back</a>. It just works! Mine just went from about 114MB to 72MB, not bad.
+
+<em>via <a href="http://www.thauvin.net/linkblog">Erik's linkblog</a></em>

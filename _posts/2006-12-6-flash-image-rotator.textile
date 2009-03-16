@@ -1,0 +1,22 @@
+---
+layout: post
+title: Flash Image Rotator.
+---
+<blockquote>DreamHost has licensed Jeroen Wijering's excellent Flash Image Rotator . This tool enables all DreamHost customers to embed flash slideshows into any of their web pages! The current version installed at DreamHost is 3.1</blockquote>
+
+<p>Als dat niet fijn is. :)</p>
+
+<script type="text/javascript" src="https://media.dreamhost.com/ufo.js"></script>
+<p id="playlist"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</p>
+
+<script type="text/javascript">
+  var FO = { movie:"https://media.dreamhost.com/imagerotator.swf",width:"150",height:"120",majorversion:"7",build:"0",bgcolor:"#000000",
+             flashvars:"file=http://api.flickr.com/services/feeds/photos_public.gne%3Fid%3D38851050@N00%26format%3Drss_200&transition=random&lightcolor=0x990066" };
+UFO.create(FO,"playlist");
+</script>
+
+
+<p>Zou ik daar nu een plaatske voor voorzien hier? Of hou ik het gewoon op: <em>plezant - op naar het volgende</em>. mm.</p>
+
+<p><em>via <a href="http://blog.dreamhost.com/2006/12/05/i-want-some-of-that-action/">Dreamhost blog</a></em>, <a href="http://wiki.dreamhost.com/index.php?title=Flash_Image_Rotator">meer info hier</a>.</p>
+

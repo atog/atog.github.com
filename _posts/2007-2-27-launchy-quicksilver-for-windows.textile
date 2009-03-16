@@ -1,0 +1,5 @@
+---
+layout: post
+title: Launchy, Quicksilver for windows.
+---
+"Launchy, Quicksilver for windows":http://www.launchy.net/index.html.

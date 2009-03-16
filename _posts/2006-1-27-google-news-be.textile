@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google News .be
+---
+"Google News nu ook in het Nederlands":http://news.google.be/.

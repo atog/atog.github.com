@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hi.
+---
+It's been pretty quiet over here lately but have no fear Koen is here :)
+
+I'm in the process of (slowly) migrating from <a href="http://www.wordpress.org">wordpress </a>to <a href="http://typo.leetsoft.com">typo</a>.
+Why? Wordpress is great I know, but typo is new, nifty, ...,  and above all it's <a href="http://www.rubyonrails.org">Ruby on Rails</a>. While I'm reading <em><a href="http://www.pragmaticprogrammer.com/titles/ruby/index.html">Programming Ruby, 2nd edition</a></em> and experimenting with Rails I thought I might as well migrate to typo.
+
+Another thing which has crossed my mind is <em>"blogging in dutch"</em>. Zodus bloggen in't Nederlands, oftewel in't Vlaams of zou ik moeten zeggen Antwaarps. ;)
+So as soon  as I'm running typo expect some dutch posts here as well. I'll probably going to keep the technology related posts in English (I guess I'm a bit late on <a href="http://blogs.cocoondev.org/tomk/archives/002994.html">that subject</a>).

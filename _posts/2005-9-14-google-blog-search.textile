@@ -1,0 +1,13 @@
+---
+layout: post
+title: Google Blog Search.
+---
+Miljaar! Wie heeft er nu nog een zoekfunctie nodig op zijn blog wanneer je <a href="http://blogsearch.google.com/">Google Blog Search</a> hebt?  Doeme toch en het is "lightning fast" .
+
+Om bv te zoeken op mijne blog doodgewoon het volgende typen:
+
+<blockquote> <code>te zoeken term blogurl:atog.be</code></blockquote>
+
+<em>note to myself: put blogsearch inputbox on blog!</em>
+
+<em>via <a href="http://www.boingboing.net/2005/09/13/google_launching_blo.html">BoingBoing</a></em>

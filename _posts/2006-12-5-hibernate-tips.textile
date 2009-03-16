@@ -1,0 +1,5 @@
+---
+layout: post
+title: Hibernate tips.
+---
+"Hibernate Tips by Jason Carreira":http://jroller.com/page/jcarreira?entry=hibernate_tips.

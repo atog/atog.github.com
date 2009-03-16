@@ -1,0 +1,5 @@
+---
+layout: post
+title: airbag
+---
+airbag.ca has moved to <a href="http://www.airbagindustries.com/">http://www.airbagindustries.com/</a>. Spread the word :) 

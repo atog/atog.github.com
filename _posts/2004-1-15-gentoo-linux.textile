@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gentoo Linux
+---
+i just found out that you can install <a href="http://www.gentoo.org/">gentoo</a> without an internet connection these days :) which is good. the last time i tried to install it this wasn't possible and i couldn't get my adsl-modem working (which was probably because i'm a linux newbie :p ). so maybe i'll give it another try soon.

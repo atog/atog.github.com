@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Sinatra @FOSDEM 2009
+--- 
+Deze namiddag kon je me vinden in de "Ruby on Rails dev room":http://www.fosdem.org/2009/schedule/devroom/rubyandrails op "FOSDEM":http://fosdem.org/.
+
+"Introduction to Sinatra":http://www.slideshare.net/atog/sinatra-1004865, het was ook voor mij nieuw. Het is te zeggen, "FOSDEM":http://fosdem.org/ was een ideaal moment om "Sinatra":http://www.sinatrarb.com/ eens van dichtbij te bekijken en dan die ervaring te delen met de rest van de zaal. 
+
+Hieronder je vind je mijn presentatie. Pech dat er geen geluid is, dan had ge er maar bij moeten zijn. ;)
+
+<div style="width:425px;text-align:left" id="__ss_1004865"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/atog/sinatra-1004865?type=presentation" title="Sinatra">Sinatra</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=sinatra-1234129120755513-3&stripped_title=sinatra-1004865" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=sinatra-1234129120755513-3&stripped_title=sinatra-1004865" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">presentations</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/atog">Koen Van der auwera</a>. (tags: <a style="text-decoration:underline;" href="http://slideshare.net/tag/sinatra">sinatra</a> <a style="text-decoration:underline;" href="http://slideshare.net/tag/ruby">ruby</a>)</div></div>
+
+Sinatra. I Like.

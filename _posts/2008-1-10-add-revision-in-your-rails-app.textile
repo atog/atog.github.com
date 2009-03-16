@@ -1,0 +1,7 @@
+---
+layout: post
+title: Add revision number in your Rails app.
+---
+"Tom":http://tomklaasen.net/blog heeft gisteren een handig "stukje code":http://pastie.caboo.se/137170 geschreven, mijn gedacht.
+
+Stop "het":http://pastie.caboo.se/137170 in een of andere "ActionController":http://api.rubyonrails.org/classes/ActionController/Base.html en vervolgens kan je dan het _subversion revision number_ in je app toevoegen.

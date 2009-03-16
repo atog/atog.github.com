@@ -1,0 +1,5 @@
+---
+layout: post
+title: Why click?
+---
+"Cooliris":http://www.cooliris.com/ and "Browster":http://www.browster.com/ - Firefox plugins - <em>via "TechCrunch":http://www.techcrunch.com/2006/04/11/cooliris-copies-browster/</em>

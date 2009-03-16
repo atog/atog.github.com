@@ -1,0 +1,9 @@
+---
+layout: post
+title: Remember the milk and Calendars.
+---
+Nice! Just gezien op de news-sectie van "Remember The Milk":http://blog.rememberthemilk.com/2006/04/show-tasks-on-your-calendar.html:
+
+bq. Now supported: display your tasks on calendars such as Apple's iCal, Google Calendar, and Mozilla Sunbird. 
+
+"Google Calendar":http://calendar.google.com werkt enkel nog maar met published lists want em supporteerd nog geen authenticated feeds. Toch al fijn!

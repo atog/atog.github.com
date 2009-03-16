@@ -1,0 +1,5 @@
+---
+layout: post
+title: WeatherFox 0.5
+---
+Cool <a href="http://www.mozilla.org/products/firefox/">Firefox</a> extension, <a href="https://update.mozilla.org/extensions/moreinfo.php?id=268">WeatherFox 0.5</a>.

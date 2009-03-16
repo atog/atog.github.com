@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mint 2.0
+---
+"Mint 2.0 is out!":http://haveamint.com/ Get it while it's hot!
+
+Upgraden was al even simpel als de installatie. Toch fijn zo van die kleine dingen die gewoon werken. Toch een minpuntje: Ik vond de vorige design wel ietsie pietsie mooier, maar daar moet ge het zeker niet voor laten mijn gedacht!
+
+*[update]* "Nog wat info + screenshotjes":http://paulstamatiou.com/2007/01/28/shaun-releases-mint-20/.

@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: Rails rake migration tasks
+--- 
+"Migrations":http://api.rubyonrails.org/classes/ActiveRecord/Migration.html, het is iets fantastisch en je gebruikt het bijna dagelijks wanneer je in "Rails":http://rubyonrails.org development zit. Zoals "wij":http://10to1.be dus.
+
+In het kort: het laat je toe om snel en gemakkelijk wijzigingen aan je database schema te maken. Met elke nieuwe migration kan je iets wijzigen maar ook deze wijziging terug ongedaan maken. Fantastisch dus, zeker in een _agile_ omgeving.
+
+Wanneer je een nieuwe migration schrijft kan het al eens voorvallen dat het nog niet helemaal snor zit, of dat er fouten inzitten. Op dat moment wil je die laatste migration ongedaan maken.
+
+In den beginne gebeurde dat zo:
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+rake db:migrate VERSION=[version_number]
+<% end -%>
+
+Later is dat gewijzigd om allerhande goede redenen naar:
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+rake db:migrate VERSION=[timestamp]
+<% end -%>
+
+Maar met deze laatste moet je dus eerst de timestamp opzoeken. Lastig dus. Ik zat al enige tijd met dat probleem:
+
+* ik wil een versie terug
+* welke timestamp heeft de vorige?
+* run rake task
+
+Het was genoeg. Ik moest en zou er iets aan doen. Ik heb dus zelf een rake task geschreven (rake db:undo_migration). Toen ik ze wou testen dacht ik: _"Het kan niet zijn dat er nog niets voor bestaat, ik kan onmogelijk de enigste zijn met dit probleem."_
+
+Guess what, "Rails":http://rubyonrails.org heeft het voorzien "sinds versie 2.0":http://www.scribd.com/doc/1083725/Migrations-in-Rails-20:
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+rake db:migrate:redo   # Rollbacks the database one migration and re migrate up.
+rake db:rollback       # Rolls the schema back to the previous version.
+<% end -%>
+
+Ik had het kunnen weten. Ik doe regelmatig een @rake -T@ (geeft alle beschikbare rake tasks terug) maar om de éen of andere reden heb ik er altijd over gekeken.

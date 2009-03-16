@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox 1.0.2
+---
+<a href="http://mozillanews.org/?article=860a4cb954becf40e370e66ca0ba4280">Firefox 1.0.2 released</a>!

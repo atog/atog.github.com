@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rest on Rails.
+---
+"Article: Putting REST on Rails":http://www.xml.com/lpt/a/2006/04/19/rest-on-rails.html it even comes with "a plugin":http://rubyforge.org/projects/restful-rails/!

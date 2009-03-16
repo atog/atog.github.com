@@ -1,0 +1,11 @@
+---
+layout: post
+title: New Super Mario Bros.
+---
+p=. <a href="http://www.flickr.com/photos/atog/1053353225/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1227/1053353225_61a2c7e480_o.jpg" width="300" height="272" alt="Nintendo DS - New Super Mario Bros." /></a>
+
+Plezant jom. Ik heb op "mijn verjaardag":http://atog.be/2007/7/24/29 een Nintendo DS gekregen en nu kan ik ook eens iets anders doen dan werken / programmeren. ;) Normaal werk ik aan "Shareomatic!":http://shareomatic.com tijdens mijn treinritten, maar vandaag was het _New Super Mario Bros_.
+
+Plezant jom. Memories _(ik had vroeger, heel lang geleden, een game boy met Mario Bros, den eerste!)_. :)
+
+...nu terug mijne ruby hoed op! Snel! 

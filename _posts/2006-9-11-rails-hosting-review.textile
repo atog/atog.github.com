@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rails hosting review?
+---
+"Ruby on Rails Blog is Reviewing Rails Hosting Companies":http://www.rubyonrailsblog.com/articles/2006/09/07/ruby-on-rails-blog-is-reviewing-rails-hosting-companies.
+
+Ik denk dat we allemaal wel curieus zijn naar de resultaten van deze test. ttz, zij die een beetje met rails bezig zijn tenminste. ;)

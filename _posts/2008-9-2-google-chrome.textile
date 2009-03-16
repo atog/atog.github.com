@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Google Chrome
+--- 
+Iedereen heeft het er over. Iedereen. Ik ook.
+
+"Google":http://google.com released morgen "een spiksplinternieuwe browser":http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html.
+
+# het is van "Google":http://google.com
+# het is open source
+# het is gebaseerd op WebKit
+# het bevat een javascript vm, V8
+# het is sneller
+# het is veiliger
+# ... en nog zó veel _logische_ dingen meer
+
+Dit alles wordt mooi verteld via "een strip":http://www.google.com/googlebooks/chrome/. "Ze":http://google.com gaan het weer doen, en ze gaan dat naar goede gewoonte goed doen.
+
+Spijtig dat we nog even geduld gaan moeten hebben voor een OS X (of Linux) versie.

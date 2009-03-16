@@ -1,0 +1,7 @@
+---
+layout: post
+title: Menu redesigned
+---
+Already? Yes I know it took a while but it seems to be working now, and without the flickering in IE. Special thanks to <a href="http://superfluousbanter.org/">Dan</a> for his good article about the <a href="http://superfluousbanter.org/archives/000187.php">navigation matrix</a>.
+
+I also made new images, still png-format but without transparency. So that problem is also solved for all those IE users out there.

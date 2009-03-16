@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Twistory
+--- 
+"Twistory":http://twistory.net is sinds vandaag voor iedereen toegankelijk! Public beta noemen we dat. "In april was het door Tijs in private beta gelaunched":http://tijsvrolix.be/2008/04/27/twistory-launched-during-mobile-webcamp en met deze release hebben "we":http://10to1.be een handje geholpen.
+
+*Wat is "Twistory":http://twistory.net?* 
+
+bq. "Twitter":http://twitter.com + history. Aangeleverd in een handig "CalDAV":http://caldav.calconnect.org/index.html formaat.
+
+
+Zoals "Tijs":http://tijsvrolix.be het "mooi zegt":http://tijsvrolix.be/2008/11/14/twistory-is-now-open-to-anyone: "Tim":http://madebyelephant.com/ en "Nick":http://candyblog.eu/ zitten ook in het team want er komen nog spannende dingen aan.
+
+"Twistory":http://twistory.net is only the beginning!

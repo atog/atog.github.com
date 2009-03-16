@@ -1,0 +1,5 @@
+---
+layout: post
+title: Awesome disclaimer.
+---
+"Awesome disclaimer - Nelson Rocks":http://www.nelsonrocks.org/disclaimer.html <em>via "reddit":http://www.reddit.com</em>

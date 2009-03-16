@@ -1,0 +1,5 @@
+---
+layout: post
+title: Painless JavaScript Using Prototype.
+---
+"Painless JavaScript Using Prototype":http://www.sitepoint.com/article/painless-javascript-prototype

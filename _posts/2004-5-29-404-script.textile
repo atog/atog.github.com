@@ -1,0 +1,10 @@
+---
+layout: post
+title: 404 script
+---
+Holy Cow! Yesterday I made a custom 404 page using <a href="http://www.scriptygoddess.com/archives/004919.php">this script</a>. The scripts sends you a mail each time a person hits a 404 page. It also keeps track of previous missing files so you only get a mail once for each <strong>new</strong> request.
+
+So here's where the <em>Holy Cow!</em> comes in, I received about 80 mails since yesterday. :P 
+The good thing is I now found out there was an error in my .htaccess file. To be more specific, in the rules made for the migration from <a href ="http://movabletype.org">MT</a> to <a href="http://wordpress.org">Wordpress</a>.
+
+All should be fixed now.

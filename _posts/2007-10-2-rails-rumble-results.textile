@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails Rumble. Results.
+---
+"Rails Rumble: 92 Web Apps Created in 48 Hours":http://www.readwriteweb.com/archives/rails_rumble_92_web_apps_created_in_48_hours.php

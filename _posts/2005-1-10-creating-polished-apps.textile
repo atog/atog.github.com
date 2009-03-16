@@ -1,0 +1,5 @@
+---
+layout: post
+title: Creating Polished Apps
+---
+<a href="http://javalobby.org/eps/galbraith-swing-1/">Professional Swing: Creating Polished Apps</a>

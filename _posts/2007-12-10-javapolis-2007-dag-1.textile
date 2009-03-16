@@ -1,0 +1,15 @@
+---
+layout: post
+title: JavaPolis 2007 - Dag 1
+---
+"JavaPolis":http://javapolis.com, dag 1 zit er al op en het is volledig "volgens planning":http://atog.be/2007/12/9/javapolis-2007 verlopen. :)
+
+"De eerste sessie":http://www.javapolis.com/confluence/display/JP07/Java+Generics+and+Collections+in+Action was voor mij het interessantste. Java Generics en Collections. Vermits ons huidige project op Websphere 5.1 draait, gebruiken we nog steeds Java 1.4 (yes, I know). Tot vanmorgen was mijn Generics kennis dan ook maar redelijk oppervlakkig. Nu niet meer dus. Of toch veel minder.
+
+"Van de Google API sessie":http://www.javapolis.com/confluence/display/JP07/Google+API%27s vond ik enkel het eerste deel interessant, "Google Collections":http://code.google.com/p/google-collections/. Daar zitten echt wel een paar mooie dingen in.
+
+Toen kwam "Tom":http://tomklaasen.net/blog met zijn sessie "Code generation on giant CRUD":http://www.javapolis.com/confluence/display/JP07/Code+generation+on+giant+CRUD en die was natuurlijk fantastisch! :)
+
+Morgen nog!
+
+btw, wifi werkt dit jaar. En goed. 

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Knopke
+--- 
+Zelfs met een "Flip":http://www.theflip.com/ kunt ge naast het knopke duwen. Of ernaast. Of niet hard genoeg.
+
+<object type="application/x-shockwave-flash" width="400" height="225" data="http://www.flickr.com/apps/video/stewart.swf?v=66545" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&amp;photo_secret=4468ba9151&amp;photo_id=3222519416&amp;show_info_box=true"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=66545"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=66545" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&amp;photo_secret=4468ba9151&amp;photo_id=3222519416&amp;flickr_show_info_box=true" height="225" width="400"></embed></object>
+
+Ik moet dus in het vervolg beter opletten of ik wel effectief aan het filmen ben.

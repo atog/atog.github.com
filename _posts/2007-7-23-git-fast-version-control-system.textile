@@ -1,0 +1,14 @@
+---
+layout: post
+title: Git, Fast Version Control System.
+---
+"Digital Web Magazine: git version control":http://www.digital-web.com/news/2007/07/git_version_control/
+
+bq. First <a href="http://mjtsai.com/blog/2007/07/15/subversion-to-git/">Michael Tsai</a>, then <a href="http://speirs.org/2007/07/19/a-subversion-user-looks-at-git/">Fraser Speirs</a>, and now <a href="http://daringfireball.net/linked/2007/july#thu-19-git">John Gruber</a> are all thinking, looking and pointing at <a href="http://git.or.cz/">git</a>, a version control system with some nice add-ins, options, and tools. 
+
+Oh nee, zullen we nu binnenkort allemaal subversion vergeten zijn en "Git":http://git.or.cz/ gebruiken, of _bezigen_ zoals ze zeggen? ;)
+
+Ik had er in ieder geval nog niet van gehoord (the internets zijn dan ook zo groot mijnheer) en ben curieus of ik nu meer "Git":http://git.or.cz/ ga zien opduiken in "Google Reader":http://reader.google.com. Nieuw is dat toch niet zo op "het eerste zicht":http://www.kernel.org/pub/software/scm/git/.
+
+
+*[update]* voila se, hier is er al ene:  "Distributed Revision Control Systems: Git vs. Mercurial vs. SVN":http://www.russellbeattie.com/blog/distributed-revision-control-systems-git-vs-mercurial-vs-svn :)

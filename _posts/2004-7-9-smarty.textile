@@ -1,0 +1,5 @@
+---
+layout: post
+title: Smarty
+---
+<a href="http://smarty.php.net/">Smarty, php template engine</a>

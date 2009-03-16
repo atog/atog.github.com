@@ -1,0 +1,16 @@
+---
+layout: post
+title: rbconfig and Leopard.
+---
+Wanneer ge dingen ziet zoals:
+
+<code>ld: symbol(s) not found for architecture ppcâ€</code>
+
+zoals ik, wanneer ik een "Shoes r226":http://code.whytheluckystiff.net/shoes/wiki/BuildingShoes build deed op OSX Leopard, dan probeert ge waarschijnlijk iets te compileren/linken/builden wat een externe library vereist maar waarvan enkel een i386 versie gevonden wordt ("as described here":http://www.notsostupid.com/blog/2007/10/25/ruby-leopard-and-gems/).
+
+"Deze fix":http://www.notsostupid.com/blog/2007/10/25/ruby-leopard-and-gems/ zal ook wel werken, maar ik heb het ongeveer op "deze manier":http://www.schmidp.com/2007/9/29/rails-mysql-and-leopard gedaan.
+
+p=. <a href="http://www.flickr.com/photos/atog/1894419034/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2295/1894419034_ad2a60be53_o.jpg" width="292" height="68" alt="rbconfig.rb" /></a>
+
+In <code>/usr/lib/ruby/1.8/universal-darwin9.0/rbconfig.rb</code> heb ik op lijn 17 <code>-arch ppc</code> verwijderd. And guess what? Het werkt.
+

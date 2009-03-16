@@ -1,0 +1,5 @@
+---
+layout: post
+title: AJAX browser compatibility.
+---
+"An Update on DHTML/Ajax Browser Compatibility":http://www.musingsfrommars.org/2006/06/howre-we-doing-now-ajax-browsers.html <em>via "Agile Ajax":http://blogs.pathf.com/agileajax/2006/07/ajax_framework_.html</em>.

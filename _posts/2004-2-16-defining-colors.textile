@@ -1,0 +1,10 @@
+---
+layout: post
+title: defining colors
+---
+<a href="http://veerle.duoh.com/index.php?id=P102">veerle</a> gives some good advice on defining colors and points out two useful color sliders :
+
+<a href="http://www.colormatch.dk/">ColorMatch</a>
+<a href="http://kohaistyle.com/scripts/quickcolor/">QuickColor</a>
+
+sweet! :p

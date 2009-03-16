@@ -1,0 +1,7 @@
+---
+layout: post
+title: Eclipse 3.0 M8 released
+---
+A new version of <a href="http://eclipse.org/">Eclipse</a> is released, 3.0 M8. Check out the changes on the <a href="http://download2.eclipse.org/downloads/drops/S-3.0M8-200403261517/eclipse-news-all-M8.html">New and Noteworthy</a> page.
+
+<a href="http://eclipse.org/downloads/index.php">Downloading</a> as we speak (write)...

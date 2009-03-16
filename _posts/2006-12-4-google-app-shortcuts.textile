@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google App Shortcuts.
+---
+"Keyboard shortcuts for every Google webapp":http://www.smallwire.net/2006/05/30/google-keyboard-shortcuts/ <em>via "Hawk Wings":http://www.hawkwings.net/2006/12/01/gmails-new-interface-shortcuts-and-safari/</em>

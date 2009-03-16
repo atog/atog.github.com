@@ -1,0 +1,17 @@
+---
+layout: post
+title: Mail to Yojimbo.
+---
+Ik heb ooit is een artikel gelezen over _te veel mail_ of _waarom gaan we anders om met email dan met een telefoontje?_
+
+"Why do we treat email differently than a phone call?":http://www.37signals.com/svn/archives2/why_do_we_treat_email_differently_than_a_phone_call.php (dat is blijkbaar ook weeral 1,5 jaar geleden...)
+
+Nu heb ik op deze moment een kleine 2000 mails in mijn inbox zitten. Waarom? Geen idee. Over het algemeen delete ik geen mails. Toen ik dat getalleke zag dacht ik direct terug aan "die post van hierboven":http://www.37signals.com/svn/archives2/why_do_we_treat_email_differently_than_a_phone_call.php en ik heb besloten om er iets aan te doen. Voila.
+
+Alles deleten is er een beetje over, ge wilt altijd wel _iets_ bijhouden en dan komt ge automatisch bij de volgende vraag: hoe? Het voorlopig-in-test-fase-antwoord: "Yojimbo":http://www.barebones.com/products/yojimbo/.
+
+Ik zal zien hoe "het":http://www.barebones.com/products/yojimbo/ uitdraait, maar tot hiertoe moet ik _de mensen_ (lees: the internets) gelijk geven. Het werkt, het ziet er betrekkelijk goed uit en het is super-simpel. *En* ge kunt van die fancy applescript dingskes doen. :)
+
+Dit script: "Script to pipe emails into Yojimbo":http://www.hawkwings.net/2006/09/04/script-to-pipe-emails-into-yojimbo/ is wreed interessant, zeker omdat ik nog nooit geen applescript van dichtbij had gezien, maar ik heb het toch lichtjes aangepast (applaus voor mezelf). Het originele script plakt namelijk alles van verschillende geselecteerde mails aan elkaar in 1 yojimbo note. "Mijn versie maakt voor elke geselecteerde mail een nieuwe note, welke dan ook nog is standaard de tag [mail] meekrijgt.":http://pastie.caboo.se/36804 -- Enjoy!
+
+-- en voor ik vergeet, heel deze post is getyped en gepublished via "textmate":http://www.macromates.com/ Het is gewoon ongelooflijk wat dat allemaal doet. Aja, en ik zit nog steeds in "de tweede wow-ervaring":http://atog.be/2006/12/4/macbook-pro-cont. :P

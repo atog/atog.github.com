@@ -1,0 +1,6 @@
+---
+layout: post
+title: CSS shorthand properties.
+---
+A couple of links I found this morning, actually all via the <a href="http://www.orderedlist.com/articles/writing_lean_css">first article by Steve</a>:
+<ul class="list"><li class="list"><a href="http://www.orderedlist.com/articles/writing_lean_css">Writing lean CSS</a></li><li class="list"><a href="http://home.no.net/junjun/html/shorthand.html">Introduction to CSS shorthand properties</a></li><li class="list"><a href="http://flumpcakes.co.uk/css/optimiser/">Online CSS optimiser</a></li></ul>

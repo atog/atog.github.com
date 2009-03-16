@@ -1,0 +1,9 @@
+---
+layout: post
+title: developments in nightly builds of Mozilla Firebird
+---
+nice, exactly as said on <a href='http://blog.codefront.net/archives/2003/08/13/new_blog_on_mozilla_firebird_nightlies.php'>redemption in a blog</a> : <i>Finally a convenient way to find out what's in those nightly builds</i>.
+
+<a href='http://www.squarefree.com/burningedge/'>good stuff.</a>
+
+<small>side-note: i still have to find out how to use trackbacks with typepad.</small>

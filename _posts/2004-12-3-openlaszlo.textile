@@ -1,0 +1,5 @@
+---
+layout: post
+title: OpenLaszlo
+---
+Nifty! <a href="http://www.openlaszlo.org/">OpenLaszlo</a>, ...for the development of rich Internet applications.

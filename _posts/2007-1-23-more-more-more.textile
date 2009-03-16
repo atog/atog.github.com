@@ -1,0 +1,5 @@
+---
+layout: post
+title: More more more!
+---
+"I want more!":http://blogs.sun.com/tor/entry/ruby_screenshot_of_the_week1

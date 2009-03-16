@@ -1,0 +1,11 @@
+---
+layout: post
+title: Getting started with netbeans.
+---
+Two "NetBeans":http://www.netbeans.org tutorials on Web applications:
+* "NetBeans IDE 5.0 Quick Start Guide for Web Applications":http://www.netbeans.org/kb/50/quickstart-webapps.html
+* "NetBeans IDE 5.0 Quick Start Guide for Web Applications II":http://www.netbeans.org/kb/50/quickstart-webapps-2.html
+
+When you briefly go through them you also get a nice overview of what there is to find in "NetBeans":http://www.netbeans.org
+
+<em>via "Charles Ditzel":http://cld.blog-city.com/excellent_netbeans_tutorial_.htm</em>

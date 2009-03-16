@@ -1,0 +1,5 @@
+---
+layout: post
+title: IRB and NetBeans.
+---
+"Quickie on using IRB in NetBeans.":http://weblogs.java.net/blog/bleonard/archive/2007/03/ive_been_playin.html

@@ -1,0 +1,15 @@
+---
+layout: post
+title: about
+---
+So, you want to know something about me, do you?
+
+<strong>Name, where are we?</strong> Koen Van der Auwera, born in 1978 and living in Edegem, Belgium.
+
+<strong>What am I?</strong> Happily married to my wonderful wife, Sien and proud father of a beautiful son, Arwen (of which you see a picture above).
+
+<strong>What do I do for a living?</strong> I  am a Java Developer with a strong interest in web design.
+
+<strong>What do I like besides IT?</strong> Boomerangs, footbags, and rollerblading.
+
+<strong>Do I need to put more questions here?</strong> Yes, I do so I'll consider this an initial version.

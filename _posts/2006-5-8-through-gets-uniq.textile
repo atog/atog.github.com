@@ -1,0 +1,5 @@
+---
+layout: post
+title: Through gets ,uniq
+---
+Once a again a nice update: "<code>has_many :through</code> gets <code>:uniq</code>":http://blog.hasmanythrough.com/articles/2006/05/06/through_gets_uniq.

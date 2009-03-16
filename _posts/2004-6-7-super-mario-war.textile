@@ -1,0 +1,5 @@
+---
+layout: post
+title: Super Mario War
+---
+<a href="http://jnrdev.weed-crew.net/smw/">Super Mario War</a>, a Super Mario Deathmatch game. <em>via <a href="http://www.boingboing.net/2004/06/07/deathmatch_mario_bro.html">Boing Boing</a></em> Have fun! 

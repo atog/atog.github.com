@@ -1,0 +1,5 @@
+---
+layout: post
+title: Top java exec quits Sun.
+---
+"Top java exec quits Sun":http://www.theregister.co.uk/2006/11/28/hamilton_open_source_java_sun/.

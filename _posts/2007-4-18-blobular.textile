@@ -1,0 +1,5 @@
+---
+layout: post
+title: Blobular.
+---
+"Blobular: An SVG experiment":http://www.themaninblue.com/writing/perspective/2007/04/18/ (Opera and Firefox only). Proper zenne.

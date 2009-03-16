@@ -1,0 +1,5 @@
+---
+layout: post
+title: color scheme picker
+---
+another very useful app, <a href='http://www.pixy.cz/index-en.html'>pixy's</a> <a href='http://www.pixy.cz/apps/barvy/index-en.html'>color scheme picker</a> :)

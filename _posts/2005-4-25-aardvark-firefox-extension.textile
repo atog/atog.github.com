@@ -1,0 +1,5 @@
+---
+layout: post
+title: Aardvark Firefox extension.
+---
+Cool, and even useful ;) Firefox extension, <a href="http://www.karmatics.com/aardvark/">Aardvark</a>.

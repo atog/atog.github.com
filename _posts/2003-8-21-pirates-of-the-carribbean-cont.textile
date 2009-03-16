@@ -1,0 +1,11 @@
+---
+layout: post
+title: pirates of the carribbean cont.
+---
+<a href='http://pirates.movies.go.com/'>great movie</a>, excellent acting of <a href='http://imdb.com/Name?Depp,%20Johnny'>Johnny Depp</a>! he really is the star of the movie.
+
+next on my movies-2-see-list is <a href='http://www.tombraidermovie.com/'>Tomb Raider 2</a>
+
+<center>
+<a href='http://www.tombraidermovie.com/'><img src='http://ia.imdb.com/media/imdb/01/I/68/63/33m.jpg' border='0'/></a>
+</center>

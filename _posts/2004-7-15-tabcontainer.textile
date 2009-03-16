@@ -1,0 +1,5 @@
+---
+layout: post
+title: TabContainer
+---
+Cool! <a href="http://www.clientjava.com/blog/2004/07/13/1089730946000.html">TabContainer a better JTabbedPane</a>  ... and if you hold on just a little longer, it comes with a tutorial :P <em> via  <a href="http://javalobby.org/thread.jspa?forumID=61&threadID=13337&start=0&mode=flat">Javalobby</a></em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Spotlight re-index some apps.
+---
+"TUAW Tip: force Spotlight to re-index some apps":http://www.tuaw.com/2007/02/22/tuaw-tip-force-spotlight-to-re-index-some-apps/.

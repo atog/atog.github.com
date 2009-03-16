@@ -1,0 +1,16 @@
+---
+layout: post
+title: Cygwin missing clear command.
+---
+Vorige week heb ik een hier (Brussel) een nieuwe pc gekregen. "Cygwin":http://www.cygwin.com/ is toch iets wat een mens nodig heeft op een Windows machine, het heeft dan ook niet lang geduurd voor dat het geinstalleerd was.
+
+Wat type ik nu een paar honderd keer per dag in een terminal? <code>clear</code>.
+
+Wat werkt er nu net niet in mijn propere "Cygwin":http://www.cygwin.com/ installatie? <code>clear</code>.
+
+Waarom niet? God mag het weten, ik blijkbaar niet. Tot deze installatie heeft dat bij mijn weten altijd gewerkt. Via "een mail van 10 jaar geleden":http://sourceware.org/ml/cygwin/1997-02/msg00456.html is het probleem nu toch opgelost. 
+
+<code>alias clear="cmd /c cls"</code> toevoegen in .profile
+
+
+clear clear clear clear clear clear ;)

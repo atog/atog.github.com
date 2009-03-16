@@ -1,0 +1,5 @@
+---
+layout: post
+title: Multiplication grids.
+---
+Straf! "Thinking diagonally with multiplication grids":http://37signals.com/svn/archives2/thinking_diagonally_with_multiplication_grids.php.

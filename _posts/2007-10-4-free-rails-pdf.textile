@@ -1,0 +1,5 @@
+---
+layout: post
+title: Free Rails pdf.
+---
+"Free pdf on Rails":http://www.sitepoint.com/books/rails1/freebook.php <em>via "RubyInside":http://www.rubyinside.com/build-your-own-ruby-on-rails-applications-pdf-available-for-free-617.html</em>. Snel, het is maar voor 60 dagen.

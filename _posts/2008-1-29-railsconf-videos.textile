@@ -1,0 +1,7 @@
+---
+layout: post
+title: RailsConf Videos.
+---
+"RailsConf '07 videos are now available online!":http://railsconf.blip.tv/ <em>via "Riding Rails":http://weblog.rubyonrails.com/2008/1/28/railsconf-07-keynotes-on-video</em>.
+
+"De feed":http://railsconf.blip.tv/rss gewoon in "Miro":http://www.getmiro.com/ gooien mijn gedacht.

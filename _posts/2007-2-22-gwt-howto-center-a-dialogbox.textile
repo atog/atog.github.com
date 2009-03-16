@@ -1,0 +1,8 @@
+---
+layout: post
+title: GWT - howto center a DialogBox.
+---
+How to center a "GWT-DialogBox":http://code.google.com/webtoolkit/documentation/com.google.gwt.user.client.ui.DialogBox.html, "here's the solution":http://groups.google.com/group/Google-Web-Toolkit/browse_thread/thread/5b02a9059028d3cf/8a4f00af3a421088 and "I made the example complete in a pastie":http://pastie.textmate.org/42176.
+
+
+

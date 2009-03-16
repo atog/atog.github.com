@@ -1,0 +1,5 @@
+---
+layout: post
+title: floAt's Mobile Agent
+---
+<a href="http://fma.sourceforge.net/">floAt's Mobile Agent</a>, nice!

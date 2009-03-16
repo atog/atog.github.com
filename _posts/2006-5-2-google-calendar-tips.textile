@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google Calendar tips.
+---
+"Google Calendar tips":http://www.stopdesign.com/log/2006/04/29/google-calendar-tips.html.

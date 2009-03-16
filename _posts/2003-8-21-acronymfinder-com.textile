@@ -1,0 +1,7 @@
+---
+layout: post
+title: acronymfinder.com
+---
+<a href='http://www.acronymfinder.com/'>http://www.acronymfinder.com</a> can be very useful.
+
+found it via <a href='http://blogs.cocoondev.org/tomk/archives/001088.html'>nephilim</a> :p

@@ -1,0 +1,5 @@
+---
+layout: post
+title: 20 pro tips.
+---
+"20 pro design tips":http://www.netmag.co.uk/zine/design-tutorials/20-pro-tips <em>via "CSS Beauty":http://www.cssbeauty.com/archives/2006/July/20_pro_tips/</em>.

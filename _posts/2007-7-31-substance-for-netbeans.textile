@@ -1,0 +1,5 @@
+---
+layout: post
+title: Substance for NetBeans.
+---
+"Substance module will be supported in NetBeans 6.0":http://www.pushing-pixels.org/?p=71.

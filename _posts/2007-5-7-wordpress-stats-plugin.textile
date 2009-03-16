@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wordpress stats plugin.
+---
+Ik kan er persoonlijk niet veel met doen (want ik gebruik de ongelooflijke "mephisto":http://mephistoblog.com/ en "mint":http://haveamint.com/) maar ik ben er vrij zeker van dat een heleboel mensen hier wel blij met zullen zijn!
+
+"Stats Plugin by Matt":http://wordpress.com/blog/2007/05/06/stats-plugin/ en "meer info hier":http://andy.wordpress.com/2007/05/05/automattic-stats-for-self-hosted-wordpress/.
+
+<em>via "Paul":http://paulstamatiou.com/2007/05/06/wordpress-releases-stats-plugin/</em>.
+

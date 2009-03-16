@@ -1,0 +1,5 @@
+---
+layout: post
+title: Bug photos.
+---
+"Incredible bug photos":http://www.photo.net/photos/siwanowicz <em>via "Jason":http://37signals.com/svn/archives2/stunning_insect_photos.php</em>

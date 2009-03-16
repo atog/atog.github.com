@@ -1,0 +1,5 @@
+---
+layout: post
+title: Bookmark it plugin.
+---
+"BookmarkIt! Plugin for Typo":http://blog.nanorails.com/articles/2006/03/10/release-0-2-of-bookmarkit-plugin-for-typo. Nice.

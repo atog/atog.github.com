@@ -1,0 +1,5 @@
+---
+layout: post
+title: MEPIS Linux (3)
+---
+as i <a href="http://www.atog.be/blog/archives/000191.html">said</a> i would, i tried the <a href="http://mepis.org">live-cd</a> on my laptop (Toshiba satellite Pro A10). because i only had about 5 minutes, the only thing i can say is that there were no problems to get it started, at first sight everything got detected. i think i finally found my flavor of linux (i got to be careful here), expect more to follow on this topic :p

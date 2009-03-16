@@ -1,0 +1,5 @@
+---
+layout: post
+title: JVMPI
+---
+<a href="http://www.javalobby.org/articles/jvmpi/">Profile your code with JVMPI</a>.

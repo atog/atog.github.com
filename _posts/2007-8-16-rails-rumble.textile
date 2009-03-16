@@ -1,0 +1,15 @@
+---
+layout: post
+title: Rails Rumble.
+---
+Op 8-9 september 2007 vindt "_The First Annual Rails Rumble Championship_":http://railsrumble.com/ plaats.
+
+Deelnemers (teams) krijgen 48 hrs om een applicatie te ontwerpen, ontwikkelen en te deployen. Na de 48 hrs krijgt _de community_ 10 dagen om de applicatie te gebruiken/testen enz.... om hierop volgend de winnaars bekend te maken.
+
+p=. "!http://atog.be/assets/2007/8/16/railsrumble_blue_250.png!":http://railsrumble.com/
+
+Eigenlijk is het zo een beetje als "Rails day":http://www.railsday2006.com/ met het grote verschil dat je hier 24 hrs meer tijd krijgt.
+
+Ik ben curieus of er Belgische teams gaan deelnemen?
+
+<em>via "Riding Rails":http://weblog.rubyonrails.com/2007/8/15/rails-rumble-2007</em>.

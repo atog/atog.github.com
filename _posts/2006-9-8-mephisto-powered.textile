@@ -1,0 +1,27 @@
+---
+layout: post
+title: Mephisto powered!
+---
+Oki do, zoals gisteren al gezegd, "atog.be":http://atog.be is nu "Mephisto":http://www.mephistoblog.com powered.
+
+Waarom? 2 redenen, de belangrijkste, _ik hou van veranderingen, nieuwe dingen_ - _change is good_. "Dit":http://atog.be/2005/9/26/typo-powered is dan ook weeral bijna een jaar geleden. "Deze post was de tweede reden":http://blog.codefront.net/2006/9/1/from-typo-to-mephisto. Ik had al wel een aantal andere ruby-rails-blog-dinges op het oog, maar "de typo-converter":http://mephisto.stikipad.com/help/show/Converting+Typo+to+Mephisto heeft de doorslag gegeven.
+
+*Hoe*
+
+1. Get Mephisto <code>svn co http://svn.techno-weenie.net/projects/mephisto/tags/rel-0.6.1/ .</code>
+
+2. Vooraleer je de converter start moet ge toch een aantal dingen doen:
+* zorg dat je geen comments in de db hebt staan zonder <code>author_ip</code>.
+* zorg dat de username en email verschillend zijn in de 2 db's
+
+3. run de converter <code>script/runner "Mephisto.convert_from :typo" -e production</code>
+
+4. ik wou mijn tags houden, dat zit nog niet in de converter dus dat heb ik met een paar sql-statements gedaan:
+* <code>insert into tags (id, name) select id, name from typo.tags;</code>
+* <code>insert into taggings (tag_id, taggable_id, taggable_type) select tat.tag_id, c.id, 'Content' from typo.articles_tags tat, typo.contents tc, contents c where tat.article_id = tc.id and tc.permalink = c.permalink;</code>
+
+<strong>Permalinks</strong>
+
+Het ambetante van ne switch, dat zijn altijd die permalinks mijn gedacht. Gelukkig valt dat met "Mephisto":http://www.mephistoblog.com nogal mee. Enkel het stukse "articles/" is uit de url verdwenen. Daar heb ik dan "heel snel een scriptje voor geschreven":http://pastie.caboo.se/12414 welke de "redirects genereerd om in de .htaccess te zetten":http://httpd.apache.org/docs/1.3/mod/mod_alias.html#redirectperm.
+
+Nu zijn we dus weeral efkes content, moest ge aan heel mijne uitleg niet aan uit kunnen, laat het maar weten. Het is een echte aanrader!

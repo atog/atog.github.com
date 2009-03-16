@@ -1,0 +1,11 @@
+---
+layout: post
+title: Rails and valid JSON.
+---
+"How to get strictly valid JSON from Rails":http://blog.codefront.net/2007/06/20/how-to-get-strictly-valid-json-from-rails/
+
+Ik heb het nog niet direct nodig gehad, maar ik kan me wel voorstellen dat dat niet zo lang meer gaat duren.
+
+In short, to get strictly valid JSON put the following in your environment.rb:
+
+<code>ActiveSupport::JSON.unquote_hash_key_identifiers = false</code>

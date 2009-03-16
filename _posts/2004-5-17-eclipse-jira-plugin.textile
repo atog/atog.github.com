@@ -1,0 +1,9 @@
+---
+layout: post
+title: Eclipse JIRA plugin
+---
+Sweet! Keep an eye on <a href="http://www.atlassian.com/software/jira/">your issues</a> from within <a href="http://eclipse.org">eclipse</a> : <a href="http://www.softwaretesting.de/article/view/88/1/8/">Eclipse JIRA plugin</a>
+
+You can't specify a "fix version" when you resolve an issue, but for now it's free and I can live with that! ;)
+
+<em>Special thanks to <a href="http://blogs.cocoondev.org/tomk">tomK</a> for pointing this out to me :)<em></em></em>

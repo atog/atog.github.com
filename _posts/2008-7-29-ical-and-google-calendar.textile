@@ -1,0 +1,15 @@
+---
+layout: post
+title: iCal and Google Calendar.
+---
+Gelukkig heb ik nog geen licensie gekocht voor "BusySync":http://www.busymac.com/ (trial-versie) want sinds kort hebt ge geen third-party sync toestanden meer nodig. Google Calendar supporteert CalDAV.
+
+Wanneer een mens zijn iCal Calendar en Google Calendar in sync wilt houden dan hebt ge het bovenstaande dus nodig. Dit terzijde. Het werkt!
+
+Met "deze instructies lukt het zonder veel problemen":http://www.google.com/support/calendar/bin/answer.py?answer=99358, ja ook met Google App accounts (dat is wat ik gebruik).
+
+Dat is weeral $25 dollar uitgespaard. :P
+
+<em>via "TUAW":http://www.tuaw.com/2008/07/28/caldav-support-comes-to-google-calendar/</em>.
+
+

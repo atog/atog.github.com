@@ -1,0 +1,7 @@
+---
+layout: post
+title: My blogroll. V2.
+---
+Oki do, zoals "Michael":http://www.7seconden.be/ terecht gezien had, was het de de vorige versie maar half-se-gat alfabetisch. Het probleem zat em in het feit dat de sort case- sensitive gebeurde. "Dat is nu opgelost":http://atog.be/more/blogroll, met "de code hier":http://pastie.caboo.se/43441.
+
+Het feit dat er geen categorien zijn, daar zal ooit nog wel is verandering in komen, het belangrijkste is nu toch dat de blogroll er staat.

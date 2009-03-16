@@ -1,0 +1,10 @@
+---
+layout: post
+title: mysql connector (2)
+---
+apparentely it didn't fix the problem after all...
+
+first thing i did was set "autoReconnect=true" in the connection url. this didn't solve the problem either.
+so i downloaded another version of the connector (<a href='http://www.mysql.com/downloads/api-jdbc-old.html'>Connector/J 2.0</a>) and...
+
+so far so good, for now it seems to be working :)

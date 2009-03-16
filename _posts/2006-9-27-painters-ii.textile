@@ -1,0 +1,5 @@
+---
+layout: post
+title: Painters II.
+---
+The follow-up: "Introducing Painters II: filters, shapes, and the builder":http://weblogs.java.net/blog/joshy/archive/2006/09/introducing_pai_1.html.

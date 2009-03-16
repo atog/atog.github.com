@@ -1,0 +1,7 @@
+---
+layout: post
+title: OpenLaszlo at BeJUG.
+---
+<a href="http://www.bejug.org/confluenceBeJUG/display/BeJUG/Rich+User+Interface+Seminar"><img src="http://atog.be/p/r/me.jpg" alt="Me, OpenLaszlo" class="left" /></a> Last Tuesday, March 22nd I gave my first presentation at BeJUG about <a href="http://www.openlaszlo.org">OpenLaszlo</a>. It was a seminar about Rich User Interfaces. I don't think I've ever been more nervous than that day. There were two of us though, <a href="http://www.bejug.org/confluenceBeJUG/display/BeJUG/ruiOpenLaszlo">I didn't do it all alone</a>. I thought it was a wonderful new experience, and at the end of the day I wanted to do another one ;)
+
+Audio and video streams will soon be available, I don't know where though, <a href="http://www.bejug.org/confluenceBeJUG/display/BeJUG/Rich+User+Interface+Seminar">probably at the wiki</a>.

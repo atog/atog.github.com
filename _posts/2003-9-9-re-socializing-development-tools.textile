@@ -1,0 +1,9 @@
+---
+layout: post
+title: re, socializing development tools
+---
+<a href='http://weblogs.java.net/pub/wlg/430'>jbob</a> says he would like to have everything (rss feeds, instant messaging, file sharing,... ) in one big ide (that's the very short summary :)).
+
+now, who would want that? ok, at least one person but i don't like to work in one big app which does everything. i my opinion everything needs to be clearly separated. it's better to maintain and control. if you want to socialize, just call somebody, it doesn't take that long :p
+
+so what i actually wanted to say: "i don't like it; too much configuring, too much windows, in short : too much!"

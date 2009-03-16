@@ -1,0 +1,5 @@
+---
+layout: post
+title: Spaces tip.
+---
+Goeie tip: " OS X Leopard Tip: Skitch on Every Space":http://www.robbyonrails.com/articles/2007/10/26/os-x-leopard-tip-skitch-on-every-space

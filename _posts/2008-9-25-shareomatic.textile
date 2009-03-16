@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Shareomatic!
+--- 
+Ongelooflijk, met "de migratie van Mephisto naar Webby":http://atog.be/2008/8/22/created-with-webby/ ben ik "Shareomatic!":http://shareomatic.com vergeten.
+
+Schaam op mij. :) 
+
+Misschien nog snel even vertellen wat "Shareomatic!":http://shareomatic.com is of doet?
+
+Wanneer een lezer/surfer gebruik maakt van een van de vele (of meerdere) _social bookmarking services_ ("del.icio.us":http://del.icio.us, "magnolia":http://ma.gnolia.com, ...) dan laat "Shareomatic!":http://shareomatic.com een _publisher_ toe om lezers zijn content te laten delen/sharen/bewaren via één simpele link.
+
+Wanneer deze lezer/surfen dan een Shareomatic!-account heeft wordt automatisch de door hem/haar gebruikte service aangevinkt. 
+
+*Beter*: dit alles kan nog automagisch gebeuren ook. Automagisch = minder typewerk en minder klikken. "Meer info over het automagisch gedoen":http://blog.shareomatic.com/2008/2/20/submit-automagically.
+
+*Nog beter*: dit automagisch gedoen kan simultaan naar verschillende services gebeuren.
+
+Interessant weetje: "De Tijd":http://www.tijd.be en "L'Echo":http://www.lecho.be gebruiken het op hun website.

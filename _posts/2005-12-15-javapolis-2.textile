@@ -1,0 +1,24 @@
+---
+layout: post
+title: JavaPolis (2)
+---
+Today is Thursday and this morning they announced the winners of the "RAD Race":http://wiki.javapolis.com/confluence/display/JP05/RAD+Race. We weren't one them. They chose 3 winners and the interesting bit was they all used "Oracle JDeveloper":http://www.oracle.com/technology/products/jdev/index.html and 2 of them used other Oracle products.
+
+How did the race go for us? Well, "here's a picture":http://wiki.javapolis.com/confluence/download/thumbnails/16915/jp05_day2_radrace_team.jpg :) (one of many). We had fun, learned a lot, did some things wrong, did some things right and I'll definitely will be there next year!!
+
+In case anyone wonders, we used Spring, Spring-rcp, hibernate3, eclipse, tomcat and mysql during the race.
+
+On the speakers part, cause it's not all RAD Race "@JavaPolis":http://www.javapolis.com I saw (besides the keynotes of course):
+* More Java Puzzles _Neal Gafter and Joshua Bloch_
+* EJB3 Simplified Components _Linda DeMichiel_
+* Service Data Objects _Michael Rowley_
+* WebWork _Jason Carreira_
+* Agile software development on large projects _Johan Lybaert_
+
+* Spring Update _Rod Johnson_
+* Extreme Swing _Romain Guy_
+* JGoodies _Karsten Lentzsch_
+* GlassFish _Inderjeet Singh_
+* Maven 2.0 _Vincent Massol_
+
+I had once again a great time being there!

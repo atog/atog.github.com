@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Twunch
+--- 
+Tijdens de "laatste twunch":http://tomklaasen.net/2008/9/30/twunch-zoveel, gisteren dus, kwam "twunch.be":http://twunch.be ter sprake:
+
+<iframe width="500" height="200" frameborder="0" src="http://www.tweetpaste.net/script/?t=940484322" style="overflow: hidden; display: block; width: 500px; height: 200px;"><p><a href="http://twitter.com/twunch/statuses/940484322" target="_blank">View twunch&rsquo;s tweet</p></iframe>
+	
+Dankzij "@maxvoltar":http://twitter.com/maxvoltar had "twunch.be":http://twunch.be "ongeveer 21hrs later":http://twitter.com/twunch/statuses/941692351 een redesign achter de rug.
+
+Ziet er knap uit, mijn gedacht. "Bedankt!":http://twitter.com/maxvoltar :)

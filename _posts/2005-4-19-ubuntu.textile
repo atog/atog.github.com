@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ubuntu.
+---
+<strong>[update 21/04]</strong> I did test it already, it booted and detected everything it needs to detect :)  wifi isn't working yet but that's probably because it's secured all over the place. So far so good.
+
+<strong>--</strong>
+
+After all the good words I already read about <a href="http://www.ubuntulinux.org/">ubuntu</a>, I'm downloading it as we speak (write/read). Testing it will be something for tomorrow though.

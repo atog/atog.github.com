@@ -1,0 +1,23 @@
+---
+layout: post
+title: Square brackets in irb on windows.
+---
+Watte?
+
+* square brackets : [ ]
+* irb : "The interactive ruby shell":http://www.rubycentral.com/book/irb.html
+* windows: tja, wat moet ik zeggen, "mickysoft":http://www.microsoft.com/windows/default.mspx?
+
+Hoe krijg je dus die vierkant haakjes in irb (met een azerty toetsenbord). "De oplossing":http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/107774 was gemakkelijker dan ik dacht:
+
+creeer een file "*.inputrc*" in uw home directory met volgende inhoud:
+<code>"\M-[": "["</code><br />
+<code>"\M-]": "]"</code><br />
+<code>"\M-{": "{"</code><br />
+<code>"\M-}": "}"</code><br />
+<code>"\M-\\": "\\"</code><br />
+<code>"\M-|": "|"</code><br />
+<code>"\M-@": "@"</code><br />
+<code>"\M-~": "~"</code>
+
+eh voila, het werkt! [ :) ]

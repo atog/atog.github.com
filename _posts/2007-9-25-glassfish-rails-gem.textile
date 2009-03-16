@@ -1,0 +1,9 @@
+---
+layout: post
+title: Glassfish-Rails gem.
+---
+"The End Is Near For Mongrel":http://headius.blogspot.com/2007/09/end-is-near-for-mongrel.html, de titel van de post is slecht gekozen, maar toch _exciting times!_
+
+bq. So what is this tasty little morsel? Well, it's a 2.9MB Ruby gem containing the GlassFish server and the Grizzly connector for JRuby on Rails. It installs a "glassfish_rails" script in JRuby's bin directory, and you're done.
+
+Het is niet dat ik dat direct gebruik, maar ik vind het wel indrukwekkend wat die mannen allemaal voor elkaar krijgen. Zonder JRuby zou er nu ook geen "NetBeans-Ruby IDE":http://ruby.netbeans.org/ zijn.

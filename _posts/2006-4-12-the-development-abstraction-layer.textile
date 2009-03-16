@@ -1,0 +1,5 @@
+---
+layout: post
+title: The Development Abstraction Layer
+---
+"The Development Abstraction Layer":http://www.joelonsoftware.com/articles/DevelopmentAbstraction.html

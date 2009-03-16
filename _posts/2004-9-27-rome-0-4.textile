@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rome 0.4
+---
+<a href="http://wiki.java.net/bin/view/Javawsxml/Rome">Rome v0.4 Released</a> and <a href="http://wiki.java.net/bin/view/Javawsxml/RomeFetcherRelease04">Rome Fetcher v0.4</a> as well, <em>via <a href="http://www.rollerweblogger.org/comments/roller/blog/rome_v0_4_is_available">Dave</a></em>

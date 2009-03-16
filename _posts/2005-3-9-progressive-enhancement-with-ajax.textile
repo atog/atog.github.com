@@ -1,0 +1,5 @@
+---
+layout: post
+title: Progressive enhancement with Ajax
+---
+<a href="http://adactio.com/journal/display.php/20050308163812.xml">Progressive enhancement with Ajax</a>. True.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Java 6 Developer Preview.
+---
+"Java 6 SE Developer Preview 8":http://developer.apple.com/java/ is beschikbaar sinds, euh, vandaag. Enkel voor OS X Leopard maar dat is voor mij niet echt een probleem, ik ben al content dat er _eindelijk iets_ is. ;)
+
+bq. The Java SE 6 release for Leopard is targeted at Java developers. This version of Java for Mac OS X requires an Intel-based Mac capable of running 64-bit applications, including computers with Core 2 Duo processors and any Mac Pro computer. Java SE 6 takes advantage of Leopard's 64-bit capabilities to offer unique performance capabilities for current and future generations of Macs.
+
+Vanavond testen natuurlijk.
+
+<em>via "TUAW":http://www.tuaw.com/2007/12/19/java-6-developer-preview-now-available-for-leopard/, via "Razzi":http://razziphoto.com/</em>.

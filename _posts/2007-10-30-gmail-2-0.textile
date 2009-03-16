@@ -1,0 +1,8 @@
+---
+layout: post
+title: Gmail 2.0
+---
+Dat is ook weer plezant, ik ben hier al een week op "IMAP":http://atog.be/2007/10/24/gmail-supports-imap (in gmail) aan het wachten en nu beginnen ze al over "Gmail 2.0":http://blogoscoped.com/archive/2007-10-29-n47.html
+
+Tof. Tja, er zit niets anders op dan blijven wachten. Ondertussen heb ik al wel IMAP access in mijn _gewone_ gmail account. In mijn hosted account nog niets (het is natuurlijk daar dat ik het nodig heb).
+

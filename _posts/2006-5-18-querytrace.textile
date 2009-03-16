@@ -1,0 +1,5 @@
+---
+layout: post
+title: QueryTrace.
+---
+"Easily find inefficient queries with QueryTrace":http://weblog.rubyonrails.com/articles/2006/05/18/easily-find-inefficient-queries-with-querytrace.

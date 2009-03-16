@@ -1,0 +1,5 @@
+---
+layout: post
+title: Painters.
+---
+Nifty! Painters! "Introducing Painters":http://weblogs.java.net/blog/joshy/archive/2006/09/introducing_pai.html.

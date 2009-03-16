@@ -1,0 +1,14 @@
+---
+layout: post
+title: Restore DB with T-SQL.
+---
+p. Just found this useful command "over here":http://www.kdkeys.net/forums/3162/ShowPost.aspx. You can restore a db backup via the command:
+
+p. <code>RESTORE DATABASE MyDB
+FROM DISK = 'C:\Data\MyDB.bak'
+WITH MOVE 'logicalname_data' TO 'C:\Data\MyDB.mdf', MOVE 'logicalname_Log' TO 'C:\Data\MyDB.LDF'</code>
+
+p. To find out what the <code>logicalname</code> is one can execute the following:
+
+p. <code>RESTORE FILELISTONLY 
+FROM DISK = 'C:\Data\MyDB.bak'</code>

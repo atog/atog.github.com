@@ -1,0 +1,5 @@
+---
+layout: post
+title: George's blog
+---
+<a href="http://prezgeorgew.typepad.com/">George's blog</a>. Funny, check it out before it's gone :) <em>via <a href="http://heatheranne.org/index.php?p=284">Heather Anne</a></em>

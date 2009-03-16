@@ -1,0 +1,9 @@
+---
+layout: post
+title: Google browser?
+---
+Is <a href="http://google.com">Google</a> building a browser?
+
+<ul class="list"><li class="list"><a href="http://www.theregister.co.uk/2004/09/21/google_browser_hirings/">article on The Register</a></li><li class="list"><a href="http://www.boingboing.net/2004/09/21/google_building_cust.html">post on BoingBoing</a></li><li class="list"><a href="http://www.kottke.org/04/09/more-google-browser">post from Jason Kottke</a></li><li class="list"><a href="http://www.betterwhois.com/bwhois.cgi?domain=gbrowser.com">gbrowser.com belongs to</a> <a href="http://google.com">Google</a></li></ul>
+
+mm, can we say : "<em>yes they are.</em>" ?

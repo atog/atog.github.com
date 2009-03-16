@@ -1,0 +1,5 @@
+---
+layout: post
+title: ie7.com
+---
+*lol* "http://www.ie7.com":http://www.ie7.com/ <em>via "Michael":http://www.7seconden.be/2006/07/29/links-for-2006-07-29</em>.

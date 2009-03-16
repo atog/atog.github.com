@@ -1,0 +1,8 @@
+---
+layout: post
+title: OSX Application Switcher.
+---
+"Nice tip via Mac 101 op TUAW":http://www.tuaw.com/2007/11/27/mac-101-drag-and-drop-in-the-application-switcher/ :drag and drop in the application switcher. Je kan dus files slepen van Finder naar de application switcher om ze te openen. 
+
+Dat zijn toch allemaal van die _wistjedatjes_ die je ofwel per ongeluk ontdekt, ofwel ergens opvangt op het oOo zo grote internet. Ik heb bv. vanmorgen maar ontdekt dat ge een geselecteerde applicatie in de application switcher ineens kan sluiten via Command+Q.
+

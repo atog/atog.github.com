@@ -1,0 +1,5 @@
+---
+layout: post
+title: Programming Java, $240K/year
+---
+"Het is aangeraden om _alles_ te lezen":http://ajaxian.com/archives/ajax-web-developer-240k-per-year-with-only-one-catch, "link on carreerbuilder.com":http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?IPath=JRGCM&ff=21&APath=2.21.0.0.0&job_did=J8E27R758MWRHR3QTG9.

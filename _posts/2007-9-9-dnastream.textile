@@ -1,0 +1,9 @@
+---
+layout: post
+title: DNAStream.
+---
+bq. DNAStream is the Spanish answer to Joost! (zegt "go2web2":http://go2web2.blogspot.com/2007/09/dnastream-joost-online-literally.html)
+
+Wat mij betreft is het zo. Het zou evengoed _joost online_ kunnen heten, heel de design is "betrekkelijk hard gepikt":http://www.techcrunch.com/2007/09/09/will-joost-address-the-copycats/.
+
+Ik heb het eigenlijk niet zo voor heel het joost gebeuren. "Ooit heb ik eens een versie geinstalleerd":http://atog.be/2007/3/2/joost/, gezien waarover het juist ging en daarna nooit meer open gehad. Knap, ja dat wel, maar dat het hele gebeuren met ongeveer dezelfde kwaliteit ook in de browser kan, dat vind ik toch indrukwekkender.

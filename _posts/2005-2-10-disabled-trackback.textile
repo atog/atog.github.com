@@ -1,0 +1,9 @@
+---
+layout: post
+title: Disabled trackback.
+---
+Ok, I'm getting tired of deleting all those trackbacks and getting these mails every-single-time a new item is put into the moderation queue, so for now I completely disabled trackbacks (and I hope this is a temporarily solution) .
+
+I hope this time it works because previously I closed the 'ping-allowed' on all old posts but the trackbacks keep on coming in.
+
+Ping-backs are still allowed.

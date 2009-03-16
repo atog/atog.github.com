@@ -1,0 +1,5 @@
+---
+layout: post
+title: eclipse color plugin
+---
+although i prefer using <a href='http://www.intellij.com/'>IDEA</a> :p , i found a nice <a href='http://colorer.sourceforge.net/'>syntax highlighting plugin</a> for <a href='http://www.eclipse.org/'>eclipse</a>.

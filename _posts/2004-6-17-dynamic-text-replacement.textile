@@ -1,0 +1,5 @@
+---
+layout: post
+title: Dynamic Text Replacement
+---
+Cool article on dynamically replacing text with images. <a href="http://www.alistapart.com/articles/dynatext/">Dynamic Text Replacement</a>

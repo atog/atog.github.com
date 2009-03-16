@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby on Rails and J2EE.
+---
+<a href="http://www-128.ibm.com/developerworks/java/library/wa-rubyonrails/index.html?ca=drs-">Ruby on Rails and J2EE: Is there room for both?</a>, Two Web application frameworks compared. Very simple comparison IMO, but it remains a comparison.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Camping on dreamhost!
+---
+<code><spring-dans-heen-en-weer></code>juich juich joepie de poepie<code></spring-dans-heen-en-weer></code>
+
+"Ze":http://www.dreamhost.com hebben (of zijn bezig met) eindelijk de "camping-gem":http://code.whytheluckystiff.net/camping op "dreamhost gegooid (of aan het gooien)":http://www.dreamhoststatus.com/2007/01/24/ruby-gem-updates-and-additions/. Dat is toch fantatisch, niet? :D

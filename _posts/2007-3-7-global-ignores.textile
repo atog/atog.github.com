@@ -1,0 +1,5 @@
+---
+layout: post
+title: Global-ignores.
+---
+<code>global-ignores</code>, "nice Subversion tip":http://blog.caboo.se/articles/2007/3/6/subversion-tip.

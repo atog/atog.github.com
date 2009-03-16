@@ -1,0 +1,5 @@
+---
+layout: post
+title: Spring web flow.
+---
+<a href="http://www.theserverside.com/articles/article.tss?l=SpringWebFlow">Article on using Spring Web Flow</a>.

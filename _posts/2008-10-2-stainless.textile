@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Stainless
+--- 
+"Stainless":http://www.stainlessapp.com/ _A multi-process browser for OS X inspired by Google Chrome_
+
+Tof.
+
+bq. At this point, Stainless is really just a technology demo and is likely to stay that way (though we might add some novel ideas we have for bookmark, history and download management).
+
+Spijtig, maar ook groot gelijk. Laten zien dat ge het kunt is ook al veel waard.
+
+Voor mijn test van 5 min. lijkt het deftig te werken. Knap werk.
+
+<em>via "Daring Fireball":http://daringfireball.net/linked/2008/09/30/stainless</em>.

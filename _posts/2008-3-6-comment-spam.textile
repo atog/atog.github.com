@@ -1,0 +1,9 @@
+---
+layout: post
+title: Comment spam.
+---
+Van comment spam gesproken, op de "Shareomatic! blog":http://blog.shareomatic.com
+
+p=. <a href="http://www.flickr.com/photos/atog/2313709291/" title="Shareomatic! blog Changes. by atog, on Flickr"><img src="http://farm3.static.flickr.com/2067/2313709291_39e486dab3_o.jpg" width="254" height="48" alt="Shareomatic! blog Changes." /></a>
+
+Misschien moeten we daar toch ook maar eens diene Askimet enablen. :)

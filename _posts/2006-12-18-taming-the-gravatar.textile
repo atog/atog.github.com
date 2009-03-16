@@ -1,0 +1,5 @@
+---
+layout: post
+title: Taming the gravatar.
+---
+"Taming the gravatar":http://www.troubleseeker.com/2006/12/15/taming-the-gravatar <em>via "Tobi":http://feeds.feedburner.com/~r/too-biased/xml/~3/61998360/dealing-with-gravatar</em>.

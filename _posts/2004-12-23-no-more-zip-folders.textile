@@ -1,0 +1,13 @@
+---
+layout: post
+title: No more zip folders.
+---
+<a href="http://tortoisesvn.berlios.de/faq/index.php?action=artikel&cat=8&id=40&artlang=en">I just found out</a> you can disable zipfolders on Windows XP. Cool.
+
+<code>regsvr32 /u zipfldr.dll</code>
+
+To enable it again
+
+<code>regsvr32 zipfldr.dll</code>
+
+...and yes you have to reboot afterwards.

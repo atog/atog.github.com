@@ -1,0 +1,9 @@
+---
+layout: post
+title: Belgian twitter traffic?
+---
+Op de "Twitter blog staat er een mooie grafiek van de internationale twitter web trafiek":http://blog.twitter.com/2008/02/twitter-web-traffic-around-world.html.
+
+p=. "!http://atog.be/assets/2008/2/21/international_web_traffic.png?1203607054!":http://blog.twitter.com/2008/02/twitter-web-traffic-around-world.html
+
+euhm ... waar is BelgiÃ«?

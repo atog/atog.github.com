@@ -1,0 +1,5 @@
+---
+layout: post
+title: Image Thumbnail Viewer.
+---
+Looks alright: "Image Thumbnail Viewer":http://www.dynamicdrive.com/dynamicindex4/thumbnail.htm <em>via "Ajaxian":http://ajaxian.com/archives/image-thumbnail-viewer</em>.

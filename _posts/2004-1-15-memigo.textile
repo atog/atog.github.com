@@ -1,0 +1,7 @@
+---
+layout: post
+title: memigo
+---
+since i yesterday i'm a <a href="http://www.memigo.com/">memigo</a>-user :p and i'm quite happy with it so far.
+
+<blockquote>&lt;quote&gt;Memigo is a website for news junkies. Technically, memigo is an intelligent news agent: it goes out on the internet, finds news articles from "trusted", high quality sources, slices and dices them and then presents them to you, the user, in a much more useful fashion. <a href="http://www.memigo.com/help?id=2">[read more]</a>&lt;/quote&gt;</blockquote>

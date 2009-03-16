@@ -1,0 +1,8 @@
+---
+layout: post
+title: x-friend - Desktop Search.
+---
+Today I found out about <a href="http://www.x-friend.de/en/start/introduction/">x-friend</a> via <a href="http://javalobby.org">javalobby</a>. It's a desktop search engine, yes just like <a href="http://desktop.google.com/">Google Desktop</a>.  
+There are some differences though. It's Java, it's <a href="http://jakarta.apache.org/lucene/">Lucene</a> and it's not just another <a href="http://google.com">Google</a> production ;)
+
+If it's not removed from my laptop before the end of the week ... well, then I think you can say it's still there and I'm happy with it. :P

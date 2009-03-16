@@ -1,0 +1,7 @@
+---
+layout: post
+title: building a css layout
+---
+<a href="http://www.maxdesign.com.au/presentation/process/index.cfm">good article</a> on building full css layouts, by Russ.
+
+<blockquote>&lt;quote&gt;This article explains one method of building a full CSS layout from start to finish. The method, based on positioning colored boxes and testing across a range of browsers, can be used to build a wide range of full-CSS layouts.&lt;/quote&gt; <a href="http://www.maxdesign.com.au/presentation/process/index.cfm">[more]</a></blockquote>

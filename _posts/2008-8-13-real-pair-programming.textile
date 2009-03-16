@@ -1,0 +1,7 @@
+---
+layout: post
+title: Real Pair Programming.
+---
+"The Hashrocket Way: Pair Programming":http://blog.obiefernandez.com/content/2008/08/the-hashrocket-way-pair-programming.html
+
+De mens heeft gelijk. *Echte*, *pure*, *hele-dag-lang* pair programming. Ik heb het nog niet gezien.

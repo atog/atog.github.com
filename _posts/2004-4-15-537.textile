@@ -1,0 +1,7 @@
+---
+layout: post
+title: 537
+---
+I didn't open <a href="http://sharpreader.net">SharpReader</a> for a week and now I've got 537 unread items! Damn, lots of reading to do :p
+
+btw: comments are working again :)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: NetBeans + Ruby.
+---
+"NetBeans + Ruby = True":http://blogs.sun.com/tor/entry/netbeans_and_ruby_is_true - i k  w i l  d a t  t e s t e n ! Nu! :) <em>via "Headius":http://headius.blogspot.com/2006/11/netbeans-ruby-awesome.html</em>.

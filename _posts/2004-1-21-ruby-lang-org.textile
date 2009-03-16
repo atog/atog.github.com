@@ -1,0 +1,5 @@
+---
+layout: post
+title: ruby-lang.org
+---
+...has discovered the power of rss : <a href="http://www.ruby-lang.org/en/index.rdf">http://www.ruby-lang.org/en/index.rdf</a> :)

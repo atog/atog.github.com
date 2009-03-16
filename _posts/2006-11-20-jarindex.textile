@@ -1,0 +1,9 @@
+---
+layout: post
+title: JarIndex.
+---
+"Thanks Cedric":http://beust.com/weblog/archives/000424.html - Dat is toch ook weer al iets nieuw voor mij en ik denk niet voor mij alleen want ik ben bij mijn weten nog nooit een file "INDEX.LIST" tegengekomen.
+
+"JAR file indexing":http://java.sun.com/j2se/1.3/docs/guide/jar/jar.html#JAR%20Index
+
+bq. If you ask it, jar will examine your jar files and create a text file called INDEX.LIST, which contains a list of all the classes and the jar file where they can be found, which can speed up class loading. This feature has been in Java since... the JDK 1.3!

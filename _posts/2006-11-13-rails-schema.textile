@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails schema.
+---
+Nice. "Visualize your Rails schema":http://blog.zmok.net/articles/2006/11/13/visualize-your-rails-schema.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Weblog Usability.
+---
+"Weblog Usability: The Top Ten Design Mistakes":http://www.useit.com/alertbox/weblogs.html

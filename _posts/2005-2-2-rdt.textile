@@ -1,0 +1,5 @@
+---
+layout: post
+title: RDT.
+---
+<a href="http://rubyeclipse.sourceforge.net/index.html">RDT, Ruby Development Tool</a>, an <a href="http://eclipse.org">eclipse</a> plugin.

@@ -1,0 +1,26 @@
+---
+layout: post
+title: Ambition.
+---
+"Ambition":http://rock.errtheblog.com/ambition, ik had "die":http://errtheblog.com/post/10722 paar "links":http://errtheblog.com/post/11998 al een paar dagen opzij staan als _"moet ik zeker eens bekijken"_.
+
+Dat hebben we dus nu even kunnen doen, het ziet er knap en veelbelovend uit maar ik ben er in mijn kleine testjes toch een paar keer uitgevlogen (as in exceptions). Ik heb het geinstalleerd via de gem en ik weet niet in hoeverre die nu up-to-date is met de repository. Volgen die handel!
+
+bq. Basically, you write your SQL in Ruby. No, not in Ruby. As Ruby. ["more":http://rock.errtheblog.com/ambition]
+
+e.g. <code>User.select { |u| u.karma > 20 }.sort_by(&:karma).first(5)
+</code>
+
+Dat is toch fijn, niet? 
+
+Wat ook fijn was om te lezen was "deze ActiveRecord logging hack":http://weblog.jamisbuck.org/2007/1/8/watching-activerecord-do-it-s-thing. Ge kunt dus op simpelweg uw eigen ActiveRecord logger instantieren en bv alle logging naar STDOUT sturen. Dat ik daar nu pas moet achterkomen. :)
+
+Like this: <code>ActiveRecord::Base.logger = Logger.new(STDOUT)</code>
+
+Met deze _feature_ ziet ge dus alle sql passeren in uw console window wanneer ge aan het testen/werken zijt in de rails console. Handig!
+
+
+
+
+
+

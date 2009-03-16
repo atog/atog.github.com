@@ -1,0 +1,10 @@
+---
+layout: post
+title: Java? Open Source?
+---
+Apparently Rich Green said yesterday at JavaOne in response to _"Are you going to open source Java?"_
+bq. "It's not a question of whether, but a question of how." 
+
+I'm still not sure whether that would be a good thing, but for the moment, it is *big* news IMO.
+
+<em>via "John O'Conner":http://weblogs.java.net/blog/joconner/archive/2006/05/open_source_jav_1.html</em>, more at "JavaLobby":http://www.javalobby.org/java/forums/t72126.html.

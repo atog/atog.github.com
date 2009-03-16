@@ -1,0 +1,9 @@
+---
+layout: post
+title: Javascript speed test.
+---
+"Opera easily beats major browsers with JavaScript speed test":http://operawatch.com/news/2006/08/opera-easily-beats-major-browsers-with-javascript-speed-test.html.
+
+"Do the test":http://celtickane.com/projects/jsspeed.php, I did. It's true. There is a big difference between FF and Opera.
+
+It's only fun because "Opera":http://www.opera.com  came out best :P 

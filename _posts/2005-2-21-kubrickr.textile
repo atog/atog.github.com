@@ -1,0 +1,5 @@
+---
+layout: post
+title: Kubrickr.
+---
+<a href="http://www.redalt.com/Tools/kubrickr.php">Kubrickr</a>, use <a href="http://www.flickr.com">flickr</a> images as your header-image.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: GotoFile, an eclipse plugin.
+---
+Sweet! <a href="http://www.muermann.org/gotofile/">Another useful eclipse plugin</a>.
+
+I didn't even know you could use <em>ctrl+shift+r</em> to find a resource. I always use(d)  <em>ctrl+shift+t</em>.  Isn't there something like a reference card for eclipse-shortcuts? Maybe I'll need to check with <a href="http://www.google.com">my friend</a> on that.
+
+Thanks <a href="http://beust.com/weblog/archives/000193.html">Cedric</a>, my work just got a bit easier ;)

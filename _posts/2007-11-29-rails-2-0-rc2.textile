@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails 2.0 RC2.
+---
+"Rails 2.0 RC2 is out":http://weblog.rubyonrails.com/2007/11/29/rails-2-0-release-candidate-2!

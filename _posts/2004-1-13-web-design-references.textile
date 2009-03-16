@@ -1,0 +1,9 @@
+---
+layout: post
+title: web design references
+---
+<a href="http://www.d.umn.edu/itss/support/Training/Online/webdesign/">Web Design References</a> contains a couple of thousand links to information and articles about web design.
+
+as <a href="http://www.zeldman.com/daily/0104b.shtml#megareference">zeldman</a> writes : <em>bookmark it.</em>
+
+...done! :p

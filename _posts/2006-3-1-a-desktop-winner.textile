@@ -1,0 +1,5 @@
+---
+layout: post
+title: A desktop winner.
+---
+"Java SE 6 First Impressions: A Desktop Winner":http://www.devx.com/Java/Article/30722?trk=DXRSS_JAVA

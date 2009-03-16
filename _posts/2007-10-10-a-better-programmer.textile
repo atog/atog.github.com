@@ -1,0 +1,5 @@
+---
+layout: post
+title: A better programmer.
+---
+"Becoming a Better Programmer: A Conversation With Java Champion Heinz Kabutz":http://java.sun.com/developer/technicalArticles/Interviews/community/kabutz_qa.html, good interview.

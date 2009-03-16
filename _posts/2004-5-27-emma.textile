@@ -1,0 +1,5 @@
+---
+layout: post
+title: EMMA
+---
+<a href="http://emma.sourceforge.net/">EMMA</a> an open source java code coverage tool. <em>via <a href="http://www.thauvin.net/linkblog/?date=2004-05-26&cat=Java#Beat:165">Erik</a>.</em> 

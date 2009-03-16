@@ -1,0 +1,40 @@
+---
+layout: post
+title: JavaPolis 2007
+---
+Morgen gaat "JavaPolis 2007":http://javapolis.com van start. Dat willen we natuurlijk niet gemist hebben. Vorige jaar was ik daar toch ook zeker, "blijkt uit de banner van dit jaar":http://www.flickr.com/photos/atog/2097301709/ :)
+
+p=. <a href="http://www.flickr.com/photos/atog/2097301709/" title="Banner JavaPolis 2007 by atog, on Flickr"><img src="http://farm3.static.flickr.com/2134/2097301709_269834ef84_m.jpg" width="240" height="83" alt="Banner JavaPolis 2007" /></a>
+
+Hoe gaat het er voor mij dit jaar uitzien? _Vermoedelijk als volgt_:
+
+* Dag 1 (University)
+** Java Generics and Collections in Action by Maurice Naftalin
+** Google API's with Dick Wall
+** Code generation on giant CRUD by "Tom Klaasen":http://tomklaasen.net/blog (can't miss this one ;))
+
+* Dag 2 (University)
+** Swinging RIA with Richard Bair, Jeanette Winzenburg and Chet Haase
+** JavaFX in Action with Jim Weaver
+** ?
+** Enabling Real-Time RIA applications with Java DB and Comet by Francois Orsini and Jean-Francois Arcand (Sun)
+
+* Dag 3 (Conference)
+** Keynote
+** Guice by Bob Lee
+** Filthy Makeover by Chet Haase
+** Web 2.0 Collaboration and Social Networking by Thomas Schaeck
+** Practical JRuby on Rails by Ola Bini and Charles Oliver Nutter
+** The Future of Computing panel with James Gosling, Neal Gafter, Joshua Bloch and Martin Odersky
+
+* Dag 4 (Conference)
+** Keynote
+** ?
+** Effective Java Reloaded by Joshua Bloch
+** JavaPosse Live by Dick Wall, Carl Quinn and Joe Nuxoll
+** JSR 299 - Web Beans by Bob Lee
+** Offline web apps with Google Gears by Dion Almaer
+
+Natuurlijk kan dit toch nog alle kanten uit op de moment zelf. Het is trouwens de eerste keer dat ik het zo op voorhand eens bekijk. Het ziet er in elk geval allemaal heel interessant uit.
+
+Morgen meer! (als de wifi het daar kan trekken :))

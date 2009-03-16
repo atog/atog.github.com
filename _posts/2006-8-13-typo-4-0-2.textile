@@ -1,0 +1,11 @@
+---
+layout: post
+title: Typo 4.0.2
+---
+Upgraded to "Typo 4.0.2":http://scottstuff.net/blog/articles/2006/08/10/typo-4-0-2 without any problems.
+
+* <code>svn up</code>
+* <code>rake migrate</code>
+* restart typo
+
+Toch plezant als het zo vlot gaat.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Gallery
+---
+after the famous <a href="http://www.jayallen.org/projects/mt-blacklist/">blacklist</a> i also installed <a href="http://gallery.menalto.com/modules.php?op=modload&name=News&file=index">Gallery</a> to post some pictures...
+
+<a href="http://atog.be/gallery">http://atog.be/gallery</a>
+
+now i would like to give it the same layout as my blog, which is at first sight not so easy :(  but i found <a href="http://www.eclecticpixels.com/tutorials/gallerytips/">this tutorial</a> and i hope it will be good reference :)

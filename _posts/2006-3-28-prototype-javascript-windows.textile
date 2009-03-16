@@ -1,0 +1,5 @@
+---
+layout: post
+title: Prototype Javascript windows.
+---
+"Beautiful javascript windows with prototype":http://blogus.xilinus.com/pages/javawin

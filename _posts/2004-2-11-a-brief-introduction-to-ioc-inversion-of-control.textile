@@ -1,0 +1,6 @@
+---
+layout: post
+title: a brief introduction to IoC (Inversion of Control)
+---
+i was waiting for <a href="http://today.java.net/pub/a/today/2004/02/10/ioc.html">such an article</a> and as <a href="http://weblogs.java.net/pub/wlg/1004">Daniel</a> says "<em>This introduction has added IoC to my growing list of things to play with.</em>"
+<blockquote><p><a href="http://today.java.net/pub/a/today/2004/02/10/ioc.html">A Brief Introduction to IoC</a> by Sam Newman -- Inversion of Control turns application flow on its head: instead of explicitly getting resources you need, you register the need and have the resources provided to you by a framework. Sam Newman argues that this approach makes design and code clearer and shows why.</p></blockquote>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: browser security test
+---
+<a href="http://bcheck.scanit.be/bcheck">Test Your Browser's Security Now!</a>
+
+i'm using <a href="http://www.mozilla.org/products/firebird/">The Next Generation Browser</a> so obviously it passed <a href="http://bcheck.scanit.be/bcheck/alltests.php">all tests (30)</a> :p
+
+<em>via <a href="http://blog.codefront.net/archives/2004/02/04/test_your_browser_security.php">Cheah Chu Yeow</a></em>

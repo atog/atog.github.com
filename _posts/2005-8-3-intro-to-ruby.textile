@@ -1,0 +1,5 @@
+---
+layout: post
+title: Intro to Ruby.
+---
+<a href="http://raibledesigns.com/page/rd?entry=oscon_monday_morning">Intro to Ruby at OSCON</a>, it's a nice read.

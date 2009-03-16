@@ -1,0 +1,5 @@
+---
+layout: post
+title: Protect.
+---
+<a href="http://www.zeldman.com/daily/0205f.shtml">Protect your site from GoogleÃ¢â‚¬â„¢s new toolbar</a>.

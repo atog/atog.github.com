@@ -1,0 +1,9 @@
+---
+layout: post
+title: Trackback/Ping problems
+---
+Last night I installed a new version of <a href="http://wordpress.org">Wordpress</a>. It's not an official release, <a href="http://wordpress.org/beta">Wordpress Delta</a>, so you have a possibility that there are some bugs.
+
+...like I have. :) 
+
+Trackbacks and pings aren't working, neither does the logout button. So I guess I have to wait for a new nightly then.

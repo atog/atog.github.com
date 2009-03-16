@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Caboose sample app.
+---
+"The Caboose Sample App is starting to look very good (v3)!":http://blog.caboo.se/articles/2007/4/11/sample-rails-application.
+
+In summary it contains:
+* a user model with a few extra fields (last login, timezones)
+* restful authentication
+* simple authorization (can't edit other's profiles)
+* full timezone support
+* basic views implemented with Yahoo! YUI CSS grids
+* behavioral testing with rspec
+* exception notification 
+* nested resources which can easily be extended
+* polymorphic image model
+* around_filters to set and clear request-specific data
+
+Dat moeten we allemaal toch is bekijken, ik weet vanavond op de trein weer al wat doen :)

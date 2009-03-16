@@ -1,0 +1,13 @@
+---
+layout: post
+title: Safari 3.1 and Gmail
+---
+Safari 3.1 is uitgekomen deze week, zoals 'vermoedelijk' iedereen, moest ik die direct installeren.
+
+Alles werkt perfect *behalve* Gmail. Niet goed dus. Ik kan geen capitals typen. Dat is toch wel een redelijk lastig probleem. Wat nog erger was, ik was op het eerste zicht alleen met dat probleem.
+
+Vanmorgen dan nog maar wat ge-Yahoo!-ed en wat blijkt: vandaag ben ik niet meer alleen en het probleem is  _voorlopig_ op te lossen door mails in de 'plain text box' te schrijven.
+
+Het probleem zou opgelost zijn in versie 2 van Gmail. "Google hosted aka Google apps":https://www.google.com/a/ users gebruiken nog steeds versie 1. "Er wordt aan gewerkt lees ik hier":http://groups.google.com/group/Gmail-Problem-solving/browse_thread/thread/d651932921a542ce/9ab77557da9a94be.
+
+Ik hoop dat het niet lang zal duren.

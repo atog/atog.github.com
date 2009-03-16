@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gmail spam filter.
+---
+Nice idea! <a href="http://mboffin.com/post.aspx?id=1636">Use Gmail as a spam filter</a>. <em>via <a href="http://photomatt.net/2005/04/20/gmail-spam-filter/">Matt</a></em>

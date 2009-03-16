@@ -1,0 +1,9 @@
+---
+layout: post
+title: Color Tool.
+---
+"Nog een color-picker-tooltje":http://color.sharewonders.com/ maar deze keer AJAX powered ;)
+
+Het is wel interessant deze keer, tover de colorpicker tevoorschijn en wanneer je content zijt van de kleurkes kunt ze ook nog is testen op de site door de gekleurde boxen naar de dropboxen te slepen (helemaal rechts op de pagina). De site wordt dan aangepast naar de door u gekozen kleurkes. Fijn.
+
+<em>via "Ajaxian":http://ajaxian.com/archives/an-ajax-powered-color-tool</em>

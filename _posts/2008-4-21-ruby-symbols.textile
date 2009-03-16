@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruby symbols.
+---
+"Symbols are not pretty strings":http://blog.hasmanythrough.com/2008/4/19/symbols-are-not-pretty-strings
+
+Wat nemen we mee:
+
+bq. Conceptually, if it's a name for something in code, it should be a symbol. If it's domain data, it should be a string. If it's both, it's probably better to go with a symbol.

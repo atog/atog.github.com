@@ -1,0 +1,5 @@
+---
+layout: post
+title: Resize photos within mail
+---
+Great tip, especially when you're new to OSX: "Resize photos within Mail":http://www.tuaw.com/2007/01/31/resize-photos-within-mail/

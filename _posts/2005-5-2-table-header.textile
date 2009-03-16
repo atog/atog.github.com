@@ -1,0 +1,7 @@
+---
+layout: post
+title: Table Header.
+---
+<blockquote>By default, if you don't place a table component in a scroll pane, the table header is not shown. You need to explicitly display it. <a href="http://javaalmanac.com/egs/javax.swing.table/ShowHead.html">[more]</a></blockquote>
+
+Now I know.

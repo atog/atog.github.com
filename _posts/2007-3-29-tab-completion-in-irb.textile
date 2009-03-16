@@ -1,0 +1,17 @@
+---
+layout: post
+title: Tab Completion in IRb.
+---
+Tab completion in irb. Tof en gemakkelijk, en "blijkbaar niet moeilijk te activeren":http://whytheluckystiff.net/clog/ruby/tabCompletionInIRb.html.
+
+Zet dit in de ./irbrc:
+
+<code>require 'irb/completion'</code><br />
+<code>ARGV.concat [ "--readline", "--prompt-mode", "simple" ]</code>
+
+Via "Chu Yeow":http://blog.codefront.net/2007/03/26/irb-and-scriptconsole-tab-completion/ en terwijl we daar toch waren, is mijn oog op "wirble":http://pablotron.org/software/wirble/ gevallen. 
+
+Wirble zou "een heleboel irb tips en tricks":http://wiki.rubygarden.org/Ruby/page/show/Irb/TipsAndTricks bundelen zodat uwen ./irbrc toch een beetje leesbaar blijft. Ik moet het nog uitproberen, maar het klinkt in elk geval toch goed.
+
+
+

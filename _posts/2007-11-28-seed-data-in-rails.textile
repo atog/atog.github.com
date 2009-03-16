@@ -1,0 +1,5 @@
+---
+layout: post
+title: Seed data in rails.
+---
+"Seed data in rails":http://www.quotedprintable.com/2007/11/16/seed-data-in-rails, en dat is ongeveer hetzelfde als dat "wij":http://10to1.be het doen.

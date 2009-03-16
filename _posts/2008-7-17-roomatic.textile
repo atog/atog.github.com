@@ -1,0 +1,11 @@
+---
+layout: post
+title: Roomatic.
+---
+"Roomatic":http://roomatic.com, "Twitter":http://twitter.com based IRC rooms. :)
+
+bq. The end result ended up being a way of using Twitter like how you would use IRC, with the channels based on #hashtags that are included in messages and presented in a standard chatroom interface.
+
+Het gebeurd allemaal via Summize, hashtags en hashurls. Je kan dus ook een 'room' starten op basis van een url. Je moet er enkel '#' voorzetten.
+
+"Al het vorige en meer vind je bij Russell Beattie":http://www.russellbeattie.com/blog/roomatic.

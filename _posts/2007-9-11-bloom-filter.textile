@@ -1,0 +1,5 @@
+---
+layout: post
+title: Bloom filter.
+---
+Moet ik eens bekijken, "Bloom filter":http://en.wikipedia.org/wiki/Bloom_filter <em>via "Bryan":http://blog.rapleaf.com/dev/?p=6</em>

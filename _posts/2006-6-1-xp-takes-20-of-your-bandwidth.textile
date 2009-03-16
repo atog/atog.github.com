@@ -1,0 +1,9 @@
+---
+layout: post
+title: XP takes 20% of your bandwidth?
+---
+"How To Take Back 20% Of Your Bandwidth From Windows XP":http://channels.lockergnome.com/news/archives/20060601_how_to_take_back_20_of_your_bandwidth_from_windows_xp.phtml
+
+Ik ben niet echt zeker of ik het goed begrijp/geloof. Op het eerste zicht is het percies nen hoop zever, maar er wordt toch wel "op":http://channels.lockergnome.com/news/archives/20060601_how_to_take_back_20_of_your_bandwidth_from_windows_xp.phtml "een paar":http://www.realtechnews.com/posts/3113 "plaatsen":http://www.googlecommunity.com/about6457.html over geschreven. mm. Ik hou het bij _zever_ mijn gedacht.
+
+"Microsoft's explanation: Windows XP Quality of Service (QoS) enhancements and behavior":http://support.microsoft.com/default.aspx?scid=kb;EN-US;q316666.

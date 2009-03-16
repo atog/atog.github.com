@@ -1,0 +1,11 @@
+---
+layout: post
+title: exerb
+---
+from <a href="http://exerb.sourceforge.jp/index.en.html">Exerb project</a>:
+
+<em>Exerb is the software which converts scripts/extension-libraries of the object oriented language Ruby into a Windows executable file which can execute alone and independently.</em>
+
+this might come in handy someday when i'll write a decent ruby-app :)
+
+at the moment i'm playing around with ruby (still learning), trying to build a rss-aggregator and a tool to publish to my weblog. fun fun fun :p

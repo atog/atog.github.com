@@ -1,0 +1,9 @@
+---
+layout: post
+title: TwitKu.
+---
+Ik dacht, het heeft nog lang geduurd, maar blijkbaar bestaat "TwitKu":http://twitku.com/ al van in mei. Wanneer ge op "TechCrunch":http://www.techcrunch.com/2007/08/16/twitku-single-interface-for-twitter-and-jaiku/ vermeld wordt dan weet natuurlijk ineens heel web2.0-internet er van.
+
+Dus, "TwitKu":http://twitku.com/ - post 1 message naar 2 services, "twitter":http://twitter.com en "jaiku":http://jaiku.com. Ziet er goed uit maar ik heb toch liever een desktop client of "iets dergelijks":http://twitter.rubyforge.org/.
+
+...eens kijken of er al een ruby-jaiku-gem bestaat.

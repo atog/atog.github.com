@@ -1,0 +1,9 @@
+---
+layout: post
+title: JavaPolis 2004.
+---
+Spread the word? uhm, ok.
+
+<a href="http://www.javapolis.com/confluence/display/JP04/Home"><img class="nice"  src="http://atog.be/p/r/jp.gif" alt="JavaPolis" /></a>
+
+Need I say more? :P

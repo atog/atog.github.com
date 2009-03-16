@@ -1,0 +1,5 @@
+---
+layout: post
+title: Yahooulator!
+---
+Yahooulator! <a href="http://news.yahoo.com/news?tmpl=story&u=/ap/20050725/ap_on_hi_te/yahoo_konfabulator">Yahoo buys</a> <a href="http://www.konfabulator.com/">Konfabulator</a>, and now it's free.

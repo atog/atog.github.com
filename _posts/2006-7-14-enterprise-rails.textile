@@ -1,0 +1,5 @@
+---
+layout: post
+title: Enterprise Rails.
+---
+"Enterprise Rails":http://martinfowler.com/bliki/EnterpriseRails.html.

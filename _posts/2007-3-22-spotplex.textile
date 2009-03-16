@@ -1,0 +1,17 @@
+---
+layout: post
+title: Spotplex.
+---
+Wat is "Spotplex":http://www.spotplex.com:
+
+bq. Spotplex provides internet users with real-time ranking of blog articles based on actual impression count.
+In other words, you can find what is the hot news today, this week, or this month in real time at Spotplex. This is not a list of articles people recommended or voted for, but a list of articles read most in a given timeframe.
+Bloggers can track and analyze their blog traffic with a simple Spotplex code or widget. Not just how many people visit the blog, they can even find which articles people read most and how many people read them. Whenever an article of the blog is read, it will show up at Spotplex in real-time and get noticed by Spotplex users.
+
+Spotplex is nog in Beta en men geraakt enkel binnen met een invitation code. Vanmorgen heb ik de mijne ontvangen, maar tot mijn grote spijt kreeg ik volgend bericht bij het registreren van "atog.be":http://atog.be
+
+_"Unfortunately, we can not support 'Custom blog' at this time"_
+
+Of het nu een goeie service is of niet, geen idee. Ik wacht nu op antwoord van support, _als_ er al een antwoord komt.
+
+*[update]* Ik heb antwoord gekregen ;)

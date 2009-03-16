@@ -1,0 +1,5 @@
+---
+layout: post
+title: ADOdb for php
+---
+<a href="http://phplens.com/adodb/index.html">ADOdb Library for PHP</a>

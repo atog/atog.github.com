@@ -1,0 +1,19 @@
+---
+layout: post
+title: JavaPolis06 - the end.
+---
+_The End_ althans voor mij toch, maar het is weer al goed geweest.
+
+Mijn live! bloggen vanmorgen was maar van korte duur, laptop toe, volgende sessie en de connectie was weg voor de rest van de dag. Ik had maar een hele dag in dezelfde zaal moeten blijven zitten mijn gedacht :)
+
+Keynotes vanmorgen waren niet echt goed. In de namiddag heb ik volgende sessies gevolgd:
+
+* "Grails":http://javapolis.com/confluence/display/JP06/Grails - goedkope rails-kloon
+* "DWR":http://javapolis.com/confluence/display/JP06/Direct+Web+Remoting (eindelijk Geert Bevin is in levende lijve gezien ;)) nifty!
+* "Server Side Scripting":http://javapolis.com/confluence/display/JP06/Project+Phobos aka Project Phobos - ronduit slecht
+* "Java Specialist in Action":http://javapolis.com/confluence/display/JP06/Java+Specialist+in+Action (Heinz Kabutz, die wou ik ook zeker is in levende lijve zien) - beste van de dag
+
+"Nog een paar mobile pictures ge-flickerd":http://www.flickr.com/photos/atog/tags/JavaPolis06 en nu is het aftellen naar JavaPolis07 zekers. :P
+
+
+<em>btw, het valt echt op hoeveel mensen er een mac hebben, VET GEIL :D</em>

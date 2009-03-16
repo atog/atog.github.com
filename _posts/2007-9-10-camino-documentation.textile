@@ -1,0 +1,7 @@
+---
+layout: post
+title: Camino documentation.
+---
+Ik moet toch eens in de "Camino docs":http://www.caminobrowser.org/documentation/ duiken mijn gedacht. Elke keer ik iets mis, denk ik van _"dat zal zeker nog niet beschikbaar zijn"_ maar na "Eric's post":http://meyerweb.com/eric/thoughts/2007/09/07/tweaking-camino/ ben ik daar toch niet meer zo zeker van. :)
+
+"Hier bijvoorbeeld staan toch wel een paar interessante dingen bij":http://www.caminobrowser.org/documentation/hiddenprefs/.

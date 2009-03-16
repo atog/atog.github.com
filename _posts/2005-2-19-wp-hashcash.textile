@@ -1,0 +1,9 @@
+---
+layout: post
+title: WP Hashcash
+---
+Since everybody loves <a href="http://elliottback.com/wp/archives/2004/11/29/spam-stopgap-extreme/">this new spam-stopper</a> I decided to try it out. So as of now,  <a href="http://elliottback.com/wp/archives/2004/11/29/spam-stopgap-extreme/">WP Hashcash</a> is activated!
+
+Tsjak tjsak!
+
+<em>(keep in mind this only works for comments, trackbacks are still a different story...)</em>

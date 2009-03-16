@@ -1,0 +1,5 @@
+---
+layout: post
+title: RDC client for Mac.
+---
+"Remote Desktop Connection Client for Mac 2.0 (Beta)":http://www.tuaw.com/2007/07/31/remote-desktop-connection-client-for-mac-2-0-beta/, kan nog van pas komen.

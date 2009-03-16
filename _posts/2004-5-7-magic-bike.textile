@@ -1,0 +1,7 @@
+---
+layout: post
+title: Magic Bike
+---
+Sweet! Artist <a href="http://yg.typepad.com/">Yury Gitman</a> has build <a href="http://www.magicbike.net/">a magic bike</a>, a mobile WiFi hotspot.  He turned a bike into a wireless hotspot so you can have free internet access from whereever it's ridden or parked. <a href="http://www.magicbike.net/about.html">[more]</a>
+
+<em>via <a href="http://news.com.com/2100-7351_3-5207318.html?part=rss&tag=feed&subj=news">News.com</a></em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: 7 reasons why web apps fail.
+---
+"7 Reasons Why Web Apps Fail":http://bokardo.com/archives/7-reasons-why-web-apps-fail/.

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Push my button.
+---
+"Push my button":http://www.digital-web.com/articles/push_my_button/ - over het verloren button element.
+Ik moet toegeven, dat ik dat <code>button</code> element nog _nooit_ heb gebruikt. 
+
+Waarom niet? Geen idee. Nooit aan gedacht. "Goei artikel":http://www.digital-web.com/articles/push_my_button/, in die zin dat ik het in vervolg wel overwegen , input of button, mm, ... ;)
+
+<em>via "Vitamin news":http://www.thinkvitamin.com/news/view.php?ID=190.</em>

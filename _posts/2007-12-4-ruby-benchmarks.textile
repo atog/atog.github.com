@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby benchmarks.
+---
+"Fresh New Ruby Implementation Benchmarks: So Who's Fastest?":http://www.rubyinside.com/fresh-new-ruby-implementation-benchmarks-so-whos-fastest-666.html

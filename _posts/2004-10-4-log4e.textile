@@ -1,0 +1,5 @@
+---
+layout: post
+title: Log4E
+---
+<a href="http://log4e.jayefem.de/index.php/Main_Page">Log4E</a>, an <a href="http://www.eclipse.org">eclipse</a> plugin for easy logging (support for Log4j, Commons Logging and JDK 1.4 logging). <em>via <a href="http://weblogs.java.net/blog/rwinston/archive/2004/10/why_i_love_log4_1.html">Rory</a></em>

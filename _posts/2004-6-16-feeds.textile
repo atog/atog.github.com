@@ -1,0 +1,11 @@
+---
+layout: post
+title: Feeds.
+---
+Since I installed the new version of <a href="http://mozilla.org/products/firefox/">Firefox</a> yesterday, <a href="http://sharpreader.com">Sharpreader</a> generates an error each time I open a link. So I decided to take another look at what's available these days, not too long of course :).
+
+After some modification I got, partly because I'm behind a proxy and running W2K,  <a href="https://fetchrss.dev.java.net/">fetchrss</a> to work.  Works very good, fast and you can keep your items organised in your imap folders. One problem though. I can't run it on my server, so it's not synced between home and work (but neither is <a href="http://sharpreader.com">Sharpreader</a>).
+
+What I can run are perl and php-thingies. Google google, and it came up with <a href="http://magpierss.sourceforge.net/">Magpie RSS</a> a php rss parser. So I think I'm going to experiment with it.  
+
+No, I <strong>know</strong> I'm going to experiment with it. :P

@@ -1,0 +1,9 @@
+---
+layout: post
+title: The Shoebox.
+---
+Een paar dagen geleden heeft Jeremy Ashkenas "The Shoebox":http://the-shoebox.org/ gelanceerd. Het is een repository voor "Shoes apps":http://code.whytheluckystiff.net/shoes/. 
+
+Iedereen kan een app toevoegen. Iedereen kan comments plaatsen. Je kan je app beveiligen met een paswoord of je kan iedereen nieuwe versies laten toevoegen. Als je dus voorbeelden van "Shoes app":http://code.whytheluckystiff.net/shoes/ wil zien of uitproberen, Ã©Ã©n adres: "The Shoebox":http://the-shoebox.org/
+
+"Ik heb er net eentje toegevoegd se":http://the-shoebox.org/apps/33 ;)

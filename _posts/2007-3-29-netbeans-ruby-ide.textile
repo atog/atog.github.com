@@ -1,0 +1,5 @@
+---
+layout: post
+title: NetBeans Ruby IDE.
+---
+Voor de liefhebbers. "Tor has created a Ruby-only slimmed down version of NetBeans":http://blogs.sun.com/tor/entry/ruby_screenshot_of_the_week6.

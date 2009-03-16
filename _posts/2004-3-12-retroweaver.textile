@@ -1,0 +1,13 @@
+---
+layout: post
+title: Retroweaver
+---
+<a href="http://retroweaver.sourceforge.net/index.html">Retroweaver: Use the language of the future, now.</a>  Sweet!
+
+Apparently the Java 1.5 compiler doesn't have an option "-target 1.4". So with Retroweaver you can develop using Tiger and run on 1.4.
+
+<blockquote>&lt;quote&gt;Retroweaver is a bytecode weaver that enables you to take advantage of the new Java 1.5 language features, while still retaining total binary compatability with 1.4 virtual machines. Retroweaver operates by transforming Java class files compiled by a 1.5 compiler into version 1.4 class files which can then be run on any 1.4 virtual machine.&lt;/quote&gt;</blockquote>
+
+Sounds good, doesn't it?
+
+<em>via <a href="http://javalobby.org/thread.jspa?forumID=61&threadID=11784&start=0&mode=flat">Javalobby</a></em>

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Finder Path View
+--- 
+Handige tip van "TUAW":http://www.tuaw.com/:  "Enable 'path view' in Finder":http://www.tuaw.com/2008/12/05/terminal-tips-enable-path-view-in-finder/.
+
+Met onderstaand command zie je bovenaan in je Finder window het volledige path ipv enkel de huidige folder:
+
+@defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES@
+
+Nog even Finder herstarten en klaar.

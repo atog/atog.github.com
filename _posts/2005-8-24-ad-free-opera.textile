@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ad-Free Opera?
+---
+<a href="http://operawatch.blogspot.com/2005/08/major-changes-for-operas-desktop.html">Will Opera be ad-free?</a>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hackety Hack.
+---
+You gotta love "Why The Lucky Stiff":http://whytheluckystiff.net/! Ge _moet_ "diene mens":http://whytheluckystiff.net/ gewoon graag zien, hij heeft zijn eigen weer overtroffen, zoals we zeggen.
+
+"Hackety Hack, the Coder's Starters Kit":http://hacketyhack.net/, het is ongelooflijk. Ge moet het zien om te geloven. Vanaf 13+ zegt em. Het zal er niet ver af zijn. Fantastisch. Er is zelfs een "Hackety Manifesto":http://code.whytheluckystiff.net/hacketyhack/wiki/TheHacketyManifesto en iedereen kan zijn bijdrage leveren.
+
+Het is momenteel nog in Beta en enkel beschikbaar op Windows, maar de Linux en OS X versie zijn in de maak. 
+
+<em>via "Ruby Inside":http://www.rubyinside.com/hackety-hack-an-amazing-ruby-environment-for-beginners-466.html</em>.

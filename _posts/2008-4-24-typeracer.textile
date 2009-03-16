@@ -1,0 +1,13 @@
+---
+layout: post
+title: TypeRacer.
+---
+Spelletjes of programmakes die te maken hebben met typen, *I love it!* _(ook al ben ik daar nog altijd niet goed in.)_ Zoals "Typespeed":http://tobias.eyedacor.org/typespeed/ of "TypeIt":http://www.the-shoebox.org/apps/33.
+
+"Nu kwam Francois daarstraks af":http://twitter.com/francoisL/statuses/796120053 met "TypeRacer":http://play.typeracer.com/.
+
+Met "TypeRacer":http://play.typeracer.com/ kunt ge racen tegen andere spelers door om ter snelst een stuk uit Ã©Ã©n of andere boek/film te typen.
+
+Om een beeld te geven, een screenshotje van een resultaat:
+
+p=. <a href="http://www.flickr.com/photos/atog/2439405302/" title="TypeRacer by atog, on Flickr"><img src="http://farm3.static.flickr.com/2152/2439405302_2d6e7e208a.jpg" width="500" height="360" alt="TypeRacer" /></a>

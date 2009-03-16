@@ -1,0 +1,5 @@
+---
+layout: post
+title: Command Line Tricks
+---
+<a href="http://www.linuxgazette.com/book/view/8856">Linux command line tricks</a>, thanks <a href="http://photomatt.net/2004/10/08/command-line-tricks/">Matt</a>!

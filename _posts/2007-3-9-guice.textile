@@ -1,0 +1,5 @@
+---
+layout: post
+title: Guice.
+---
+"Guice":http://code.google.com/p/google-guice/, it must be good "when Bob is involved":http://crazybob.org/2007/03/guice-10.html.

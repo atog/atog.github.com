@@ -1,0 +1,5 @@
+---
+layout: post
+title: 63 countries.
+---
+<a href="http://blogs.pragprog.com/cgi-bin/pragdave.cgi/Random/RailsAtPrinters.rdoc">Impressive. 63 countries</a>... and I want one too, once the printed version is out!

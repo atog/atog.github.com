@@ -1,0 +1,5 @@
+---
+layout: post
+title: Compiz fusion.
+---
+"Dat ziet er wel redelijk knap uit mijn gedacht":http://lifehacker.com/software/pretty-and-productive/power-up-your-linux-desktop-with-compiz-fusion-291002.php

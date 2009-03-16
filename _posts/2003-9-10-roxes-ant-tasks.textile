@@ -1,0 +1,13 @@
+---
+layout: post
+title: roxes ant tasks
+---
+in case i ever need it :)  <a href='http://www.roxes.com/produkte/rat.html'>roxes ant tasks</a>
+
+from their site (in short), there are 3 ant tasks:
+
+<blockquote><li>sfx creates native self extracting executables out of ZIP archives</li>
+<li>jstub creates native executables for Windows, MacOS X and almost any Unix System out of a working JAR archive</li>
+<li>jnlp simplifies the creation of JNLP files for JAVA Web Start</li></blockquote>
+
+via <a href='http://blogs.atlassian.com/rebelutionary/archives/000286.html'>mike</a>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: abyss web server
+---
+damn, <a href="http://www.atog.be/blog/archives/000151.html">installing this server</a> is really <strong>that simple</strong>!
+
+download it (144KB), &lt;bang&gt;1 sec.&lt;/bang&gt; - install it &lt;bang&gt;10 sec.&lt;/bang&gt; - start it &lt;bang&gt;1 sec.&lt;/bang&gt; - set up php &lt;bang&gt;5 sec.&lt;/bang&gt; :)
+
+you can't imagine how easy this was :p
+
+<a href="http://www.aprelium.com/abyssws/">Abyss Web Server</a>

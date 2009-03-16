@@ -1,0 +1,5 @@
+---
+layout: post
+title: 1.5.2. - 20 days ago.
+---
+I finally upgraded to Wordpress 1.5.2 - isn't that great news :)

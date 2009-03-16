@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: Phusion Passenger and Paperclip
+--- 
+"Paperclip?":http://thoughtbot.com/projects/paperclip
+
+bq. Paperclip is a plugin for Ruby on Rails’ ActiveRecord that lets files work as simply as any other attributes do. 
+
+"Phusion Passenger?":http://www.modrails.com/
+
+bq. Phusion Passenger™ — a.k.a. mod_rails or mod_rack — makes deployment of Ruby web applications, such as those built on the revolutionary Ruby on Rails web framework, a breeze.
+
+*Probleem*
+
+Wanneer je de "Paperclip":http://thoughtbot.com/projects/paperclip "rails":http://rubyonrails.org/ plugin gebruikt in combinatie met "Passenger":http://www.modrails.com/ zou je wel eens tegen het volgende kunnen aanlopen (in de log na een upload):
+
+@[paperclip] /tmp/stream.1082.0 is not recognized by the 'identify' command.@
+
+Terwijl het met "mongrel":http://mongrel.rubyforge.org/ perfect werkt.
+
+Op het eerste zicht lijkt het iets met de tempfile te zijn, geen permisies ofzo. Niets is minder waar, na wat testen en surfen/zoeken blijkt het "gewoonweg het ImageMagick path":http://www.fuzzylizard.com/archives/2008/07/05/954/ te zijn.
+
+*Oplossing*
+
+Voeg volgende initializer toe:
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+if RAILS_ENV == "development"
+  Paperclip.options[:image_magick_path] = "/opt/local/bin"
+end
+<% end -%>
+
+Hier werkt het. Nu daar nog. ;)
+

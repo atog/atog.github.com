@@ -1,0 +1,5 @@
+---
+layout: post
+title: launch4j
+---
+<a href="http://launch4j.sourceforge.net/">Launch4j</a>, Windows native executable (.exe) java application wrapper. <em>via <a href="http://www.javalobby.org/thread.jspa?forumID=17&threadID=14090&start=0&mode=flat">Javalobby</a></em>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: OpenLaszlo on Rails.
+---
+Some time ago I thought, _ "It would be great to use "OpenLaszlo":http://www.openlaszlo.org/ on "Rails":http://www.rubyonrails.org" _. 
+
+Guess what? "It's happening!":http://weblog.rubyonrails.com/articles/2006/01/24/openlaszlo-for-ruby-on-rails and "Oliver Steele":http://osteele.com/projects/ is the driving force behind it. He's working on both a "ruby interface":http://ropenlaszlo.rubyforge.org/ and a "Rails plugin":http://laszlo-plugin.rubyforge.org/.
+
+"More info here @Google Groups":http://groups.google.com/group/laszlo-on-rails. _ (while checking the group I just found out you can subscribe to a "feed of the last 15 messages":http://groups.google.com/group/laszlo-on-rails/feed/rss_v2_0_msgs.xml) _
+
+Nifty!
+

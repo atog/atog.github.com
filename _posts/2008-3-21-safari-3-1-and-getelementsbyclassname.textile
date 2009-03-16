@@ -1,0 +1,9 @@
+---
+layout: post
+title: Safari 3.1 and getElementsByClassName
+---
+Misschien toch iets om nog even rekening mee te houden: "Safari 3.1 breaks your app":http://blog.caboo.se/articles/2008/3/21/safari-3-1-breaks-your-app
+
+bq. ... because it now natively implements getElementsByClassName.
+
+Uitkijken met Safari 3.1, "Prototype":http://www.prototypejs.org/ en "getElementsByClassName":http://www.prototypejs.org/api/element#method-getelementsbyclassname dus. 

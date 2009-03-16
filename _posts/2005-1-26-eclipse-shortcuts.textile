@@ -1,0 +1,5 @@
+---
+layout: post
+title: eclipse shortcuts.
+---
+<a href="http://eclipse.org">eclipse</a> <a href="http://eclipse-tools.sourceforge.net/shortcuts.html">keyboard shortcuts</a>

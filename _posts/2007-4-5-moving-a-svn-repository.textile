@@ -1,0 +1,18 @@
+---
+layout: post
+title: Moving a svn repository.
+---
+Via "Moving svn from one machine to another":http://b.lesseverything.com/2007/3/12/moving-svn-from-one-machine-to-another toch maar is gaan kijken naar "<code>svnadmin</code>":http://svnbook.red-bean.com/en/1.1/ch05s03.html en wat blijkt: Ik ben er *zeker* van dat ik dat ooit nog ga nodig hebben _of bezigen zoals ze zeggen_.
+
+In het kort, dump van de bestaande repository:
+
+<code>svnadmin dump /svn/repo > repo.dump</code>
+
+en vervolgens maken we een nieuwe repository waarin we de dump laden:
+
+<code>svnadmin create /svn/repo</code><br />
+<code>svnadmin load repo < repo.dump</code><br />
+
+Niet moeilijk maar ge moet het weten.
+
+<em>via "Frank":http://frank.be</em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: CSS Mastery.
+---
+So, "CSS Mastery: Advanced Web Standards Solutions":http://www.cssmastery.com/ just might be "a good buy":http://www.456bereastreet.com/archive/200604/css_mastery_advanced_web_standards_solutions/. I'll think about it.

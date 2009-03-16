@@ -1,0 +1,11 @@
+---
+layout: post
+title: Groovy, just another scripting language
+---
+<a href="http://www.jcp.org/en/jsr/detail?id=241">JSR-241: The Groovy Programming Language</a>, I don't really know what to think of that. I've always (actually <em>always</em> isn't that long of a period) thought of <a href="http://groovy.codehaus.org/">Groovy</a> as yet another scripting language. A hype in the blogosphere. So ok, you want the power of <a href="http://www.ruby-lang.org/en/">Ruby</a>? Then use <a href="http://www.ruby-lang.org/en/">Ruby</a>. You want to do some scripting using a Java-like syntax? Then use <a href="http://beanshell.org/">Beanshell</a>. And since I read <a href="http://weblogs.java.net/pub/wlg/1125">this discussion</a> I know you can use <a href="https://pnuts.dev.java.net/">pnuts</a> too!
+
+On one hand a standard is good. On the other hand,  why make a standard out of something nothing more than a hype?
+
+<a href="http://weblogs.java.net/pub/wlg/1125">Richard</a> and <a href="http://jroller.com/page/fate/20040316#increase_your_girth_by_jsr">Hani</a>, they both provide some good points. But in the end, do you really think that everybody (Java-developpers cause these, we, are the target audience) suddenly will drop their favourite scripting language (Ruby, Perl, Python, Beanshell, pnuts, ...) and start using this <em>groovy</em> <a href="http://groovy.codehaus.org/">Groovy</a> language? Only time will tell.
+
+I <strong>like</strong> to use something else once in a while.  Maybe I'll even use <a href="http://groovy.codehaus.org/">Groovy</a> in a couple of months?

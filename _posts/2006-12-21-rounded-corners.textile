@@ -1,0 +1,9 @@
+---
+layout: post
+title: Rounded Corners.
+---
+"Googles Rounded Corner Generator":http://ajaxian.com/archives/googles-rounded-corner-generator - dat is toch fantastisch, niet? Ik weet niet hoe lang dat nog publiek zal zijn wanneer heel tinternet ervan op de hoogte is.
+
+Het is in ieder geval wel gemakkelijk om uw corners te genereren en vervolgens te saven, zoals in de "Cornershop":http://wigflip.com/cornershop/ (link via "Zach":http://xach.livejournal.com/95656.html)
+
+"Iemand met veel te veel tijd heeft zelfs een mooie walvis gemaakt met de Google generator":http://drx.a-blast.org/~drx/projects/round/whale.html. Tof.

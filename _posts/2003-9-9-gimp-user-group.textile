@@ -1,0 +1,7 @@
+---
+layout: post
+title: gimp user group
+---
+nice to know :) i think <a href='http://gug.sunsite.dk/?page=tutorials'>these tutorials</a> will come in handy.
+
+via <a href='http://blogs.cocoondev.org/tomk/archives/001127.html'>tomK</a>

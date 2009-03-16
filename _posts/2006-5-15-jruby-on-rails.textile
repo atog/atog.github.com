@@ -1,0 +1,11 @@
+---
+layout: post
+title: JRuby on Rails.
+---
+Or is it *Rails on JRuby*? ;)
+
+"Good news that is":http://headius.blogspot.com/2006/05/and-they-said-jruby-was-dead.html. They made _a lot_ of progress over the last months. I know I'm not the only one who brings the good news but nevertheless, it *is* good news.
+
+And they said JRuby was dead. Yeah right. :P
+
+"Home of the JRuby Project":http://jruby.sourceforge.net/.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Google Reader theme.
+---
+"Jon Hicks has created a Google Reader theme":http://www.hicksdesign.co.uk/journal/google-reader-theme en het ziet verdomme nog knap uit ook. Blijkbaar heeft hij dat voor "bloglines ook al gedaan":http://www.hicksdesign.co.uk/journal/bloglines-skin-142.
+
+Het werkt in zo wat alle browsers, Opera, Firefox, Camino, Safari en Omniweb. IE is niet echt een browser dus daar wordt in alle talen over gezwegen ;)
+
+Knap. Ik moet zeggen, het leest beter. :)

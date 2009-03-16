@@ -1,0 +1,6 @@
+---
+layout: post
+title: pathological
+---
+<a href="http://pathological.sourceforge.net/">Pathological</a>, quiet a good game. i do believe that once you start playing it, <a href="http://www.newsforge.com/software/04/01/29/1812244.shtml">as Joe Barr describes it at newsforge</a>, this game is more addictive than caffeine. :p
+<blockquote>&lt;quote&gt;This game is more addictive than caffeine, more fun than an election year, and more frustrating than trying to find a real person to talk with behind the phone company's evil voice mail system. Go ahead, give it a try. You can't get hooked by playing it just once. Can you?<a href="http://www.newsforge.com/software/04/01/29/1812244.shtml">[read more]</a>&lt;/quote&gt;</blockquote>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: I'm going to ...
+---
+p=. <a href="http://www.plugg.eu/" title="Plugg, A European Perspective On Web 2.0 - March 19, 2008 | Le Plaza, Brussels">
+<img src="http://www.plugg.eu/images/badges/going_to_plugg.png" title="I'm going to Plugg" alt="I'm going to Plugg" height="89" width="150" style="border: 0;" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.fosdem.org"><img src="http://www.fosdem.org/promo/going-to" alt="I'm going to FOSDEM, the Free and Open Source Software Developers' European Meeting" /></a>
+
+Op "FOSDEM":http://fosdem.org ga ik "iets vertellen":http://fosdem.org/2008/schedule/speakers/koen%20van%20der%20auwera en ik zie net dat  "Charles":http://headius.blogspot.com/2008/02/fosdem.html er ook zal zijn ;)

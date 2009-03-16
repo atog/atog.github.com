@@ -1,0 +1,11 @@
+---
+layout: post
+title: Highrise API
+---
+Enkele weken geleden had ik een reden om eens naar de "Highrise":http://www.highrisehq.com/ "API":http://developer.37signals.com/highrise/ te kijken. Zoals verwacht is er een "ruby wrapper":http://developer.37signals.com/highrise/highrise.rb beschikbaar. Ã‰n zoals verwacht hebben "ze":http://www.37signals.com/ het weer veel te gemakkelijk gemaakt! :)
+
+Wat heb je nodig? Met "Active Resource":http://api.rubyonrails.org/classes/ActiveResource/Base.html en de "ruby wrapper":http://developer.37signals.com/highrise/highrise.rb kan ik je "hier een voorbeeldje geven  om de 'visibility' van alle contacten te veranderen":http://pastie.caboo.se/134603
+
+Mooi, niet? Ruby.
+
+*[update]* Die laatste zin trok op niet veel. Aangepast.

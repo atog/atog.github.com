@@ -1,0 +1,9 @@
+---
+layout: post
+title: One Tree Hill, Firefox 0.9
+---
+Party! <a href="http://mozilla.org/products/firefox/">Firefox 0.9</a> is released. Get it while it's hot! :D
+
+What's new? <a href="http://mozilla.org/products/firefox/releases/">Read all about it</a>.
+
+<em>via <a href="http://mozillanews.org/?article=3a7bd13032bc1dc57789b6448c5a67c3">Mozillanews</a></em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Virtual Server now free.
+---
+"MS Virtual Server now available as free download":http://www.microsoft.com/windowsserversystem/virtualserver/software/default.mspx

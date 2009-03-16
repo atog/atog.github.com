@@ -1,0 +1,9 @@
+---
+layout: post
+title: Theme change.
+---
+Gisteren was ik zo maar per ongeluk eens "een mephisto theme gallery":http://themes.benlog.org/ aan het door-browsen en vanaf dat ik daar mee begin, ik weet niet hoe dat komt, maar dan _moet_ ik mijne blog in een nieuw jasje steken. Het was trouwens "al meer dan anderhalf jaar geleden":http://atog.be/2006/3/28/new-typo-theme (Dat was dan zelfs nog onder typo).
+
+Het simpele gebeuren van "micro, the miniature mephisto theme":http://micro.seaofclouds.com/ sprak me wel aan. Dat en het feit dat ie "flickr":http://flickr.com friendly is (500px). Natuurlijk heb ik hier en daar aan een paar css-knopjes gedraaid met "dit":http://atog.be als resultaat.
+
+Zodus, enjoy. Ik ben curieus hoe lang deze zal blijven staan. De vorige heeft het record.

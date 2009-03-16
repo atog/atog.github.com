@@ -1,0 +1,12 @@
+---
+layout: post
+title: org.macports.mysql5 plist
+---
+Goed om weten en om niet meer te vergeten. :)
+
+bq. The <code>org.macports.mysql5 plist</code> is only created if you request the  
++server variant when you install mysql5.
+
+Daarom had ik die dus niet. Nu wel.
+
+<em>via "macports-users":http://lists.macosforge.org/pipermail/macports-users/2007-April/002829.html</em>.

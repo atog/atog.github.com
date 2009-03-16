@@ -1,0 +1,17 @@
+---
+layout: post
+title: Speed up Mail.app
+---
+Kleine samenvatting, van "Rebuild your database and speed up Mail.app":http://www.hawkwings.net/2006/02/08/rebuild-your-database-and-speed-up-mailapp/#comment-30511 via "Shaun":http://shauninman.com/archive/2007/02/22/sluggish_mail_app, en om te zorgen dat ik het niet kwijt geraak.
+
+Blijkbaar gebruikt Mail.app dus "SQLite":http://www.sqlite.org/ en kunt ge daar mee spelen:
+
+<code>Quit Mail first!</code><br />
+<code>open Terminal and thenâ€¦</code><br />
+<code>cd ~/Library/Mail</code><br />
+<code>sqlite3 Envelope\ Index</code><br />
+<code>sqlite> vacuum subjects;</code><br />
+
+Dat is dus voor straks.
+
+*[update]* "Er zijn nu scriptjes beschikbaar":http://www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/.

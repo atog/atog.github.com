@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gdrive client leaked.
+---
+"Google Gdrive Client Leaked":http://blog.outer-court.com/archive/2006-10-13-n53.html <em>via "dzone":http://www.dzone.com/rsslinks/gdrive_client_leaked.html.</em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: flock.
+---
+<p>"flock":http://www.flock.com is released. Allee ja, released, het is een developer preview edition ;)<br /></p><p>Het ziet er goed, maar ik denk niet dat ik in de nabije toekomst "Opera":http://www.opera.com zal laten vallen. De blog-tool is wel plezant. Deze post is trouwens geschreven via de flock-blog-tool.<br /></p><p>Ik ben wel curieus hoe heel het flock-verhaal zal evolueren.<br /></p>

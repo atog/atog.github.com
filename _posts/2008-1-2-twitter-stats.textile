@@ -1,0 +1,7 @@
+---
+layout: post
+title: Twitter stats.
+---
+Nifty Twitter statistieken, via "Bart":http://www.ondernemeringent.be/2008/01/twitter-statistieken.html met dank aan "Johan":http://www.wolfslittlestore.be/twitter/how-to-get-your-twitter-stats-for-2007 en "Damon Cortesi":http://dcortesi.com/2007/12/27/twitter-stats/.
+
+p=. <a href="http://www.flickr.com/photos/atog/2157728713/" title="TwitterStats by atog, on Flickr"><img src="http://farm3.static.flickr.com/2415/2157728713_3913745709.jpg" width="500" height="291" alt="TwitterStats" /></a>

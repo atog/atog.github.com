@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gickr.
+---
+Speelgoed: "Create animated gifs from your flickr photos":http://www.gickr.com/ <em>via "Smetty":http://www.smetty.be/2006/11/19/flickr-toepassingen</em>

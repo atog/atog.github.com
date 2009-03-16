@@ -1,0 +1,5 @@
+---
+layout: post
+title: Design Patterns in Ruby.
+---
+"Singleton pattern in ruby":http://www.oreillynet.com/ruby/blog/2006/01/design_patterns_singleton.html

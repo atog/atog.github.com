@@ -1,0 +1,7 @@
+---
+layout: post
+title: rss feed javaworld
+---
+i don't know how long it's available already, but ...  it's available :)
+
+<a href='http://www.javaworld.com/index.xml'>http://www.javaworld.com/index.xml</a>

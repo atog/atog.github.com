@@ -1,0 +1,9 @@
+---
+layout: post
+title: Shutdown hooks
+---
+Now, that is another nice thing to check out :  <a href="http://java.sun.com/j2se/1.4.2/docs/api/java/lang/Runtime.html#addShutdownHook(java.lang.Thread)">shutdown hooks</a>. 
+
+<blockquote><a href="http://weblogs.java.net/pub/wlg/1275">Shutdown Hooks</a> by David Walend -- A shutdown hook is a Thread designed to be run after a program receives a signal to exit, but before daemon threads stop, finalizers run, and the JVM goes poof. Shutdown hooks are great for clearing dirty caches, closing out open resources, and announcing this shutdown to other processes.</blockquote>
+
+... there must be some downsides to this hooks, no? Mmm, needs a bit more investigation I guess. ;)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: 1.5.1 RSS issues.
+---
+<a href="http://fernando.dubtribe.com/archives/2005/05/10/solution-to-wp151-rss-errors/">Solution to WP1.5.1 RSS errors</a>.

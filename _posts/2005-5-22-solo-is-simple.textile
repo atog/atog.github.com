@@ -1,0 +1,8 @@
+---
+layout: post
+title: SOLO is simple.
+---
+With the latest version (3.0) of <a href="http://www.openlaszlo.org/">OpenLaszlo</a> they introduced a new concept: SOLO, Standalone OpenLaszlo Output. 
+What does this really mean? Well, it means you can run OpenLaszlo apps without the need of the OpenLaszlo Server.  Nice feature if you ask me!
+
+Now in <a href="http://www.openlaszlo.org/tips/2005/solo">the lastest Tip of the week</a> they show you how easy this really is.

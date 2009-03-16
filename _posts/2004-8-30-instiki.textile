@@ -1,0 +1,5 @@
+---
+layout: post
+title: Instiki
+---
+<a href="http://www.instiki.org/show/HomePage">Instiki</a>, a <a href="http://www.c2.com/cgi/wiki?WikiWikiClones">wiki clone</a>. <em><a href="http://www.loudthinking.com/arc/000292.html">via David</a></em>

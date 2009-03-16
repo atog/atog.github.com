@@ -1,0 +1,9 @@
+---
+layout: post
+title: FormLayoutMaker
+---
+<a href="http://formlayoutmaker.sourceforge.net/index.html">FormLayoutMaker</a> is a small Java tool that enables you to visually layout <a href="http://www.jgoodies.com/freeware/forms/index.html">JGoodies</a> FormLayout forms.
+
+<blockquote> &lt;quote&gt;This project is dedicated to providing a tool that enables developers to quickly layout Java screens using the JGoodies FormLayout layout manager. The result is an xml file containing all of the constraints. If you want to make changes by hand, you can always go and edit the xml file directly.&lt;/quote&gt; <a href="http://formlayoutmaker.sourceforge.net/index.html">[more]</a></blockquote>
+
+<em>via <a href="http://javalobby.org/nl/archive/jlnews_20040324o.html">Java Tools From A to Z</a></em>

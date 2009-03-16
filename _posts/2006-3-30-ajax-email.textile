@@ -1,0 +1,5 @@
+---
+layout: post
+title: AJAX email.
+---
+"Take AJAX to Your Email Inbox: Developing a Web-based POP 3 Client":http://www.devarticles.com/c/a/XML/Take-AJAX-to-Your-Email-Inbox-Developing-a-Webbased-POP-3-Client/ <em>via "Ajaxian":http://ajaxian.com/archives/building-a-web-based-ajax-pop3-client</em>

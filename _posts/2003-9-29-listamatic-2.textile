@@ -1,0 +1,7 @@
+---
+layout: post
+title: listamatic 2
+---
+remember <a href='http://www.maxdesign.com.au/presentation/listamatic/index.htm'>listamatic</a>? there's now a second edition :) <a href='http://www.maxdesign.com.au/presentation/listamatic2/index.htm'>listamatic 2 nested list options</a>
+
+via <a href='http://zeldman.com'>zeldman</a>

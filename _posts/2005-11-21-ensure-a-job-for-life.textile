@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ensure a job for life.
+---
+p. Op speciaal verzoek (eh Marc) : "How To Write Unmaintainable Code":http://thc.org/root/phun/unmaintain.html 
+(_ via Marc dus, via "Slashdot":http://developers.slashdot.org/developers/05/11/21/1355243.shtml?tid=133&tid=156&tid=8 _)
+
+p. Nu heel dat spel nog lezen. Het is ne serieuze boterham om op 5 min te lezen. In ieder geval ziet het wel goed uit, nu
+nog _ leren _ toepassen ;)

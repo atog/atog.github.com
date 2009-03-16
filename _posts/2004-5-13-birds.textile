@@ -1,0 +1,7 @@
+---
+layout: post
+title: Birds
+---
+<a href="http://atog.be/photos/?album=1"><img src="http://atog.be/p/r/r.jpg" class="left" alt="Heron in our garden" /></a>You're never going to believe this: we just (10 minutes ago) had a visit from a heron ("ne reiger" for the flemish). Maybe that's the most common thing where you live, but here, where we live it sure isn't. At least, not in the garden.
+
+I've put 2 pics of the heron in my freshly installed version of <a href="http://atog.be/photos/?album=1">photostack</a>.  I still need to integrate it (photostack that is) with my blog, but then again, I need to do a lot of things with my blog. :P

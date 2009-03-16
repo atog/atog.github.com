@@ -1,0 +1,5 @@
+---
+layout: post
+title: What is Lorem Ipsum.
+---
+"What is Lorem Ipsum?":http://www.lorem-ipsum.info/ <em>via "dzone":http://www.dzone.com/rsslinks/what_is_lorem_ipsum.html</em>.

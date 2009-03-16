@@ -1,0 +1,13 @@
+---
+layout: post
+title: Piston woes.
+---
+"Een tijdje geleden":http://atog.be/2007/4/4/piston heb ik besloten om "Piston":http://piston.rubyforge.org/ te gebruiken. _"Easy vendor branch management"_ wie wil dat nu niet?
+
+Mijn oor. Gisteren wou ik onze Rails versie updaten (van r6600+ naar edge r7100+) en dat marcheerde dus van geen kanten. De "errors":http://rubyforge.org/tracker/index.php?func=detail&aid=11132&group_id=2105&atid=8177 vlogen rond mijn oren. De fix die op "die pagina":http://rubyforge.org/tracker/index.php?func=detail&aid=11132&group_id=2105&atid=8177 beschreven staat werkt, maar er volgende gewoon een andere exception, en nog een, en ...
+
+Van easy vendor branch management is dus zeker geen sprake. Ik heb tijd noch goesting om er zelf eens naar te kijken dus heb ik heel simpel <code>vendor/rails</code> van de repo verwijderd en dan opnieuw rails edge geimporteerd...
+
+...met Piston. Waarom terug met Piston? Ik vind het principe wel goed, en misschien is er tegen mijn volgende update wel een nieuwe versie van de gem beschikbaar. Of misschien kan ik er ooit zelf wel eens naar kijken. 
+
+Naief? Misschien, maar ondertussen kunnen we toch verder.

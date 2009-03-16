@@ -1,0 +1,18 @@
+---
+layout: post
+title: Free online expense tracking.
+---
+Oesje. Ik las deze namiddag in Google Reader "een post op Riding Rails over een nieuwe free online expense tracking applicatie":http://weblog.rubyonrails.com/2007/8/7/smoney-eu en ik dacht: _klinkt interessant._
+
+Toen ik dan naar de comments ging kijken was er ineens keuze in overvloed:
+
+* "sMoney.eu":http://www.smoney.eu/
+* "Walletproof":http://www.walletproof.com
+* "ForsightApp":http://foresightapp.com
+* "Gastus":http://www.gastus.com
+* "AssetsGraphed":http://assetsgraphed.com/
+* "ActiveBudget":http://activebudget.org/
+
+...ik zal dan maar eens naar "Cha-Ching":http://www.midnightapps.com/ kijken :P
+
+*[update]* fixed the Gastus link, as suggested in the comments.

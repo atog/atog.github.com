@@ -1,0 +1,9 @@
+---
+layout: post
+title: WordPress 1.5.1
+---
+I just upgraded to <a href="http://wordpress.org/development/">Wordpress 1.5.1</a> and indeed thanks the <a href="http://codex.wordpress.org/Using_Themes">"themes"</a> there's nothing to it anymore. Piece of cake. 
+
+Personal summary of changes:
+<ul><li>bugfixes</li><li>enhancements</li><li>important security fix</li><li>new plugin hooks and functionality</li><li>faster</li><li>makes the world a better place</li></ul>
+...and you can find the "official changelog" <a href="http://codex.wordpress.org/Changelog/1.5.1">over here</a>.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: The javascript library world cup.
+---
+"The JavaScript Library World Cup":http://www.sitepoint.com/article/javascript-library  (dojo, prototype, mochikit, yui) - <em>via "Ajaxian":http://ajaxian.com/archives/javascript-world-cup-of-frameworks</em>.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Asides
+---
+I've just put <a href="http://photomatt.net/archives/2004/05/19/asides/">Matt's asides</a> in. It's a good way to keep your "bookmarks" or whatever you want to call it, seperated from your posts.
+
+I have to keep an eye on it though, not sure whether is does what it's supposed to do.  :P
+
+<strong>update:</strong> k, I removed already... just temporally of course. I like it, but it didn't quite acted like I wanted it too. Expect a hack soon :)

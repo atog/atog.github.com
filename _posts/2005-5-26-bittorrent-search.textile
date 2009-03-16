@@ -1,0 +1,5 @@
+---
+layout: post
+title: BitTorrent Search.
+---
+<a href="http://www.bittorrent.com/">BitTorrent just launched the BitTorrent search engine</a>. <em>via <a href="http://www.makezine.com/blog/archive/2005/05/bittorrent_sear.html">MAKE</a></em>

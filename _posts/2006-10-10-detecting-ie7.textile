@@ -1,0 +1,5 @@
+---
+layout: post
+title: Detecting ie7.
+---
+Schitterend: "Detecting IE7+ in Javascript":http://fettig.net/weblog/2006/10/09/detecting-ie7-in-javascript/ <em>via "Ajaxian":http://ajaxian.com/archives/detecting-ie7-in-javascript</em>.

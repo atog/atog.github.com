@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ruby forum.
+---
+p. "http://www.ruby-forum.com":http://www.ruby-forum.com/, "a forum that mirrors the ruby-talk and rails mailing
+lists":http://www.ruby-forum.com/topic/1618.
+
+p. Very, very good initiative! As James said in the forum, now I can keep an eye on the too-much-traffic-to-handle Rails list as well.

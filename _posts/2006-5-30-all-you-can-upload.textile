@@ -1,0 +1,5 @@
+---
+layout: post
+title: All You Can Upload.
+---
+"All You Can Upload":http://allyoucanupload.com/, looks like bandwidth and diskspace is cheap these days. <em>via and more info on "TechCrunch":http://www.techcrunch.com/2006/05/29/cnets-allyoucanupload-is-disruptive/</em>.

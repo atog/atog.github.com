@@ -1,0 +1,10 @@
+---
+layout: post
+title: DSO.
+---
+Is "De Standaard Online" te populair geworden? Ik krijg het volgende regelmatig te zien tegenwoordig:
+
+<blockquote>
+HTTP Error 500.13 - Server error: Web server is too busy.
+</blockquote>
+

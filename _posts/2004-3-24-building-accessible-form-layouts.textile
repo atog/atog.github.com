@@ -1,0 +1,7 @@
+---
+layout: post
+title: Building accessible form layouts
+---
+<a href="http://www.themaninblue.com/writing/perspective/2004/03/24/">Nice article</a> on accessible, stylish form layouts. I can certainly use this now that I'm working on a redesign.
+
+<a href="http://www.themaninblue.com/writing/perspective/2004/03/24/">Accessible, stylish form layout</a> by <a href="http://www.themaninblue.com/">The Man in Blue</a>

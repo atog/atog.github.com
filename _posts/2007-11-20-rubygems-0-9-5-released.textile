@@ -1,0 +1,5 @@
+---
+layout: post
+title: RubyGems 0.9.5 released.
+---
+"RubyGems 0.9.5 released.":http://blog.segment7.net/articles/2007/11/19/rubygems-0-9-5

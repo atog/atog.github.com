@@ -1,0 +1,5 @@
+---
+layout: post
+title: OpenLaszlo 3.0
+---
+<a href="http://openlaszlo.org">OpenLaszlo 3.0</a> is released. More info <a href="http://openlaszlo.org/about/new_features.html">over here</a>.

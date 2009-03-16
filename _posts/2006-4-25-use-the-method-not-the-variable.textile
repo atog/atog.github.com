@@ -1,0 +1,9 @@
+---
+layout: post
+title: Use the method, not the variable.
+---
+Or "Use <code>params</code>, not <code>@params</code>":http://weblog.rubyonrails.com/articles/2006/04/25/use-params-not-params. Good to know, since "the book":http://www.pragmaticprogrammer.com/title/rails/ uses both.
+
+bq. Basically, a good rule of thumb here is donÃ¢â‚¬â„¢t use an instance variable in your controller or view unless _you_ created that instance variable.
+
+Ok. Got it. 

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Reflections.
+---
+Too cool! "Reflections with Prototype and script.aculo.us":http://rojo.com/redirect/?resource=mir.aculo.us/articles/2006/04/27/like-reflections-try-the-reflector&displayGuid=&storyGuid=bVLl7Bf0zrc3cBZp. Oh, and it works in Opera 9 too.

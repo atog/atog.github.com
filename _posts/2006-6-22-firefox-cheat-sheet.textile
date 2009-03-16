@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox Cheat Sheet.
+---
+"Mozilla Firefox Cheat Sheet":http://lesliefranke.com/files/reference/firefoxcheatsheet.html <em>via "Ben":http://branders.name/archives/2006/06/21/links-for-2006-06-21</em>.

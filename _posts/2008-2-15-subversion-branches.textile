@@ -1,0 +1,14 @@
+---
+layout: post
+title: Subversion branches.
+---
+"Subversion branching quick start":http://nedbatchelder.com/text/quicksvnbranch.html, goed artikel over "Subversion":http://subversion.tigris.org/ branches. In een _howto_ zin toch.
+
+@svn mkdir http://svn.myrepo.com/branches/@
+
+@svn copy http://svn.myrepo.com/trunk http://svn.myrepo.com/branches/mybranch@
+
+@svn co http://svn.myrepo.com/branches/mybranch@
+
+
+... en ge zijt vertrokken.

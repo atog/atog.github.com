@@ -1,0 +1,5 @@
+---
+layout: post
+title: Web developer toolbar - Opera.
+---
+"Web Developer Toolbar & Menu for Opera":http://nontroppo.org/wiki/WebDevToolbar <em>via "CSS Beauty":http://www.cssbeauty.com/archives/2006/May/web_developer_toolbar_menu_for_opera/</em>

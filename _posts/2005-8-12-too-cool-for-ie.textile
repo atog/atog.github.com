@@ -1,0 +1,9 @@
+---
+layout: post
+title: Too Cool for IE.
+---
+<a href="http://www.w3junkies.com/toocool/">Too Cool badge for your site</a>. That's great. 
+
+<blockquote>The site you are trying to view has been deemed "Too Cool for Internet Explorer". <a href="http://www.w3junkies.com/toocool/join.php">[more]</a></blockquote>
+
+I have to remember to include this in my new design, soon.

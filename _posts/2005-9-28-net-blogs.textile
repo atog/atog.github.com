@@ -1,0 +1,14 @@
+---
+layout: post
+title: .NET blogs.
+---
+p. Ik ben nu met .NET bezig sinds een paar maanden en ik heb het nogal moeilijk met "the .NET community". 
+Moeilijk hoezo? Awel mijn gedacht is die serieus goe verstopt, ofwel zit die op een ander internet :)
+
+p. Ik zorg er natuurlijk voor dat ik met 1 been in de java-wereld blijf maar toch, waar zijn al die .NET blogs? Het zal wel aan mij liggen zeker.
+
+p. Wat ik daarjuist tegenkwam vond ik wel grappig, ik had me just _gesubscribed_ op de "globale feed":http://blogs.msdn.com/MainFeed.aspx?GroupID=2 van "blogs.msdn.com":http://blogs.msdn.com en wat is de eerste post die ik lees?
+
+bq. "Ruby: Webserver in 70 lines of code":http://blogs.msdn.com/abhinaba/archive/2005/09/28/474841.aspx
+
+_I guess everybody just loves Ruby!_

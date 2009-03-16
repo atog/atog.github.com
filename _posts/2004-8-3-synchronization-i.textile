@@ -1,0 +1,5 @@
+---
+layout: post
+title: Synchronization I
+---
+<a href="http://today.java.net/pub/a/today/2004/08/02/sync1.html"> Java Tech: The ABCs of Synchronization, Part 1</a>

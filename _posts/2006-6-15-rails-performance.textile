@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails performance.
+---
+Very good read: "A Look at Common Performance Problems in Rails":http://www.infoq.com/articles/Rails-Performance by "Stefan Kaes":http://railsexpress.de/blog/

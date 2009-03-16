@@ -1,0 +1,11 @@
+---
+layout: post
+title: Lotus Notes woes.
+---
+Yuk, I hate Notes. Just now, I accidently pressed F5, a refresh habit and you know what happened?
+
+The bloody thing just logs me out and exits! I don't think that's the kind of behaviour I was expecting, now was I?
+
+Stupid program. Every shortcut widely known across different windows programs doesn't work in Notes. Go figure.
+
+<em>k, I'm fine now. Thanks for listening.</em>

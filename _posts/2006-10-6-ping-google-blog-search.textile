@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ping Google blog search.
+---
+"Google launched":http://googleblog.blogspot.com/2006/10/got-blog-will-ping.html the "Google Blog Search Pinging Service":http://www.google.com/help/blogsearch/about_pinging.html. ping ping ;)

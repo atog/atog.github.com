@@ -1,0 +1,5 @@
+---
+layout: post
+title: The NetBeans reasons.
+---
+"7 Reasons for switching to NetBeans":http://ptrthomas.wordpress.com/2006/04/11/reasons-for-switching-to-netbeans/ : I couldn't agree more.

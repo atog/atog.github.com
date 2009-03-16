@@ -1,0 +1,9 @@
+---
+layout: post
+title: Comment spam.
+---
+After reading <a href="http://www.unix-girl.com/blog/archives/001526.html">kasia's post on comment spam</a> I figured I should check out <em>all</em> the comments on my blog (which isn't that big of a number, or so I thought).
+
+Damn, was I suprised! I deleted someting like 150+ comments on one post. The reason I didn't know about it was because the post dated from the time I was using <a href="http://movabletype.org">movable type</a> and it was posted under a different username. So I didn't receive any email notifications.  :(
+
+I think all is ok now, I will check once more in a minute.  Anyways, thanks <a href="http://www.unix-girl.com/blog/">Kasia</a> :)

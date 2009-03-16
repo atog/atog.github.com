@@ -1,0 +1,5 @@
+---
+layout: post
+title: MarkaBoo.
+---
+New Social bookmarking service on the block, "MarkaBoo":http://markaboo.com/ - <em>"via techcrunch":http://www.techcrunch.com/2006/06/18/markaboo-is-awesome-open-source-social-bookmarking/</em>.

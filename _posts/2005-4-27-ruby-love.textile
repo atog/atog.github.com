@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby love.
+---
+<a href="http://blog.curthibbs.us/articles/read/39">Ruby is the "Most Loved" programming language</a>.

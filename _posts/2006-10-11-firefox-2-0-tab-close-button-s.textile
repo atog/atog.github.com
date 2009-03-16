@@ -1,0 +1,13 @@
+---
+layout: post
+title: Firefox 2.0 tab close button(s).
+---
+Wanneer je zoals "Cedric":http://beust.com/weblog/archives/000417.html _en ik_ (en waarschijnlijk nog veel meer) die close buttons per tab geen goed idee vind in Firefox 2.0 ... *dan kunt ge die gewoon verwijderen*. Dat ding is namelijk configureerbaar blijkt uit de "comment van Neil":http://beust.com/weblog/archives/000417.html.
+
+bq. This already is changeable, but not via the prefs ui. Go to the url about:config, find "browser.tabs.closeButtons", and set it to "3" for the 1.5 behavior.
+
+Op "3" is het nogal mottig naar mijn mening omdat de tab-dropdown blijft staan en de close button komt er rechts van te staan. Dat maakt dat de tab-dropdown er nogal slecht uitziet (_serieus understatement_). Curieus als ik ben heb ik "2" is geprobeerd. <code><tromgeroffel /></code> :P
+
+Optie "2" is de beste. No more close buttons. Proper. 
+
+*update:* Changed my mind, "0" is de beste optie, enkel een close button op de active tab. <em>via "Six tips for Firefox 2":http://blogs.zdnet.com/Burnette/?p=184</em>

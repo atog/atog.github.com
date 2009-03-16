@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Rust op de weg
+--- 
+Beeld je in, 's morgens op de baan in je auto rond half negen. Je hebt net 10 min stilgestaan/stapvoets verder gereden. Vervolgens sla je af op een mooie, rechte open baan waar je max 90km/uur mag rijden. Iedereen duwt zijn gaspedaal in, snel weg, op naar die 90. Sommige zelfs net erover. Iedereen gelukkig, voor een fractie van een seconde.
+
+Dat is wat er zich zo goed als elke morgen afspeelt op weg naar "ons":http://10to1.be kantoor.
+
+Deze morgen echter, vinden we midden al dat verkeer een Volvo van de wegenpolitie. So what? In een straal van 100m rond onze politiewagen valt alles stil. Niemand durft ook maar in de buurt van die 90 te komen. Mensen komen aangereden tot ze die politiewagen in de mot krijgen. Dan is het gedaan. Met z'n allen (on)geduldig wachten tot ze uit het zicht verdwenen zijn.
+
+Dat moet toch een machtig gevoel geven, niet?

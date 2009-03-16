@@ -1,0 +1,10 @@
+---
+layout: post
+title: Accelerate your dates.
+---
+p. When you consider this:
+
+bq. On pages with 25 dates displayed it is approximately 70% faster than the original version.
+On a page with 1 date, itâ€™s already 6% faster. "[more]":http://railsexpress.de/blog/articles/2005/11/09/accelerate-your-dates
+
+p. ...you will definitely understand one _has_ to take it into account!

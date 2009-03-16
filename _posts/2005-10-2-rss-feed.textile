@@ -1,0 +1,9 @@
+---
+layout: post
+title: RSS feed.
+---
+p. While reading through the typo-production log I noticed there are a lot of entries from trying to access a wrong feed location. Although it hasn't been changed by moving to "typo":http://typo.leetsoft.com, some still refer to the old "Wordpress":http://www.wordpress.org feed location.
+
+p. *update:* I just retrieved my old "Feedburner post":http://atog.be/articles/2005/04/21/feedburner and apparantly something did change by moving to typo :S <br />Before I redirected the old urls to "the one provided by feedburner":http://feeds.feedburner.com/atog, ... 
+
+p. I'm sorry, forgot about that, but I'm not gonna change it :) <br/>Please use this one: "http://feeds.feedburner.com/atog":http://feeds.feedburner.com/atog, it's good for my statistics.

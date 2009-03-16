@@ -1,0 +1,5 @@
+---
+layout: post
+title: Testing whos.amung.us
+---
+<a href="http://whos.amung.us/show/uz7730nk"><img src="http://whos.amung.us/widget/uz7730nk" alt="counter" width="81" height="29" border="0" /></a>

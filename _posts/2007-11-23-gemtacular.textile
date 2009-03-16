@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gemtacular.
+---
+"Rate Gems!":http://www.gemtacular.com/ by "Anthony Eden":http://anthonyeden.com/ <em>via "O'Reilly Ruby":http://www.oreillynet.com/ruby/blog/2007/11/gemtacular.html</em>

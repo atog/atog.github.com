@@ -1,0 +1,9 @@
+---
+layout: post
+title: Javadocs.org
+---
+<a href="http://www.petefreitag.com/item/133.cfm">Pete</a> launched <a href="http://javadocs.org">javadocs.org</a> yesterday. It's an easy way to access the java api. <a href="http://google.com">Google</a> is not bad at that either, but still, this can be pretty useful.
+
+There is also a <a href="http://www.mozilla.org/products/firefox/">Firefox</a> <a href="http://www.petefreitag.com/searchlets/">search engine plugin</a> available which makes it even more useful. :D
+
+<em>via <a href="http://jroller.com/page/oburn/20040511#quick_access_to_javadoc">Oliver</a></em>

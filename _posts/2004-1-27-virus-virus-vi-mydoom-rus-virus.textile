@@ -1,0 +1,7 @@
+---
+layout: post
+title: virus virus vi * MyDoom * rus virus
+---
+a new virus called MyDoom (W32/Mydoom@MM) is working it's way through the internet-galaxy in the form of a 32K zip file.
+<blockquote>&lt;quote&gt;The virus installs a Windows program that opens up a "back door" in the system, allowing an attacker to upload additional programs onto the compromised device. The back door also enables an intruder to route his connection through the infected computer to hide the source of an attack. <a href="http://news.com.com/2100-7349_3-5147605.html?part=rss&tag=feed&subj=news">[read more]</a>&lt;/quote&gt;</blockquote> ...it also attacks SCO.com with a DDoS-attack. more on <a href="http://news.com.com/2100-7349_3-5147605.html?part=rss&tag=feed&subj=news">cnet</a>
+and <a href="http://www.newsforge.com/article.pl?sid=04/01/26/2313227">newsforge</a>.

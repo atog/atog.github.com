@@ -1,0 +1,19 @@
+---
+layout: post
+title: Shoes packager.
+---
+_Ik ben er een beetje laat mee, maar ik was dan ook op verlof._ ;)
+
+De laatste versie van "Shoes":http://code.whytheluckystiff.net/shoes/wiki/RecentBuilds komt met een build-in packager. Dat is fantastisch nieuws want dat zorgt ervoor dat we "Shoes apps":http://the-shoebox.org/ op een eenvoudige manier kunnen distribueren.
+
+*Wat?*
+
+Het genereert een installer voor uw Shoes app. Via een web installer wordt eveneens de Shoes runtime geinstalleerd moest deze nog niet beschikbaar zijn. Er kunnen installers gemaakt worden voor OS X, Windows, en Linux, meer nog, deze 3 installers kunnen gemaakt worden van op 1 van de 3 platformen.
+
+*Hoe?*
+
+bq. the built-in packager can be brought up with shoes -p (or shoes --package on Windows and Linux. On OS X, itâ€™s in the Shoes main menu. (Or âŒ˜-x.)
+
+Meer weten? "Stamping EXEs And DMGs":http://hackety.org/2008/06/19/stampingExesAndDmgs.html
+
+Can't wait to distribute twingle. Spijtig dat het zo afhankelijk is van een welbepaalde service.

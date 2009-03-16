@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruby.NET
+---
+Just like there is a "ruby for the jvm":http://jruby.sourceforge.net/ Queensland University of Technology now started development of "a ruby compiler for the .NET CLR":http://www.plas.fit.qut.edu.au/rubynet/ and apparantly it's "funded by Microsoft":http://blog.curthibbs.us/articles/2006/03/17/ruby-net
+
+Maybe some day we'll be able to run Ruby on Rails on .NET ;)
+
+<em>via "Curt":http://blog.curthibbs.us/articles/2006/03/17/ruby-net , "Bertrand":http://weblogs.asp.net/bleroy/archive/2006/03/16/440442.aspx </em>

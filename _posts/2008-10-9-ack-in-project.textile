@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Ack In Project
+--- 
+"Textmate":http://macromates.com/ is fantastisch, maar het is algemeen geweten dat de "Search in Project" van geen kanten werkt. Ttz, het werkt wanneer je om en bij de 3 files in je project hebt. Vanaf wanneer je over een _"Project"_ spreekt, duurt het ofwel eeuwen voor je resultaten krijgt, ofwel crasht het spel gewoon, en dan weet je nog niets natuurlijk.
+
+Tot nu toe ben ik een gelukkige gebruiker van "Rak":http://rak.rubyforge.org/:
+
+bq. Rak is a grep replacement in pure Ruby. It accepts Ruby syntax regular expressions and automatically recurses directories, skipping .svn/, .cvs/, pkg/ and more things you don't care about. It is based on the Perl tool "ack":http://petdance.com/ack/ by Andy Lester.
+
+Dat werkt. Goed en snel. Maar buiten textmate.
+
+Vandaag las ik via "RailsEnvy":http://railsenvy.com/2008/10/8/rails-envy-podcast-episode-050-10-08-2008 dat er iets nieuws is: "Ack in project":http://www.evalcode.com/2008/09/textmate-1-with-ack-in-project/, een textmate bundle welke ook gebruik maakt van "ack":http://petdance.com/ack/.
+
+Dat lijkt op het eerste zicht te werken. Goed en snel. Binnen textmate.

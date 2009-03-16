@@ -1,0 +1,7 @@
+---
+layout: post
+title: kill windows messenger
+---
+cool tip : unhide hidden programs in the - "Add Remove Programs - Control panel" - to be able to uninstall these...
+
+so if you can't get rid of msn messenger follow <a href="http://blog.codefront.net/archives/2003/11/21/how_to_really_kill_windows_messenger.php">Cheah Chu Yeow's instructions</a> :)

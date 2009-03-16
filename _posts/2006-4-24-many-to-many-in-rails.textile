@@ -1,0 +1,9 @@
+---
+layout: post
+title: Many-to-many in Rails.
+---
+"Many-to-many Dance-off!":http://blog.hasmanythrough.com/articles/2006/04/20/many-to-many-dance-off, good article which shows the differences between <code>has_many :through</code> and <code>has_and_belongs_to_many</code>.
+
+Also from the same author: "Why aren't join models proxy collections?":http://blog.hasmanythrough.com/articles/read/150
+
+Funny how these articles show up at the time you need them. ;)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ha! BSOD.
+---
+Ha! "BlueScreen Screen Saver v3.2":http://www.microsoft.com/technet/sysinternals/Miscellaneous/BlueScreen.mspx <em>via "Michel":http://blog.zog.org/2007/01/bsod.html</em>.

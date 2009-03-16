@@ -1,0 +1,5 @@
+---
+layout: post
+title: Typo 4.0
+---
+"Typo 4.0 is released!":http://scottstuff.net/blog/articles/2006/07/22/typo-4-0-0

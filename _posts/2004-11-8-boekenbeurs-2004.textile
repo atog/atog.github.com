@@ -1,0 +1,8 @@
+---
+layout: post
+title: Boekenbeurs 2004.
+---
+On Sunday we went to the "<a href="http://www.boekenbeurs.be/home.htm">boekenbeurs</a>", it was fun. I always like going there, just walking around between all these books is good enough for me. There were lots of people but it was not <em>too</em> crowed, or at least it didn't feel like it. 
+I was looking for one book in particular though: <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0596006969/qid=1099949752/ref=sr_8_xs_ap_i1_xgl/202-6268567-7451027">Hibernate: A Developer's Notebook</a>. Bad luck, I didn't find it. The closest I got to the "A Developer's Notebook" - serie was: <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0596007388/ref=pd_sim_b_dp_2/202-6268567-7451027">Java 5.0 Tiger: A Developer's Notebook</a>. 
+
+Anyways, it was fun ;)

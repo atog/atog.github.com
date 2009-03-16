@@ -1,0 +1,9 @@
+---
+layout: post
+title: SACK.
+---
+<a href="http://twilightuniverse.com/2005/05/sack-of-ajax/">Simple AJAX Code Kit, or SACK</a>. Very nice, at least so it seems when looking at the example code. 
+
+I suggest you check it out and bookmark it, in case you ever need to do some quick and simple ajaxing ;)
+
+<em>via <a href="http://weblogtoolscollection.com/archives/2005/05/09/sack-simple-ajax-code-kit/">Weblog tools collection</a></em>

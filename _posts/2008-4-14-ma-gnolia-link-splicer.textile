@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ma.gnolia link splicer.
+---
+Vanmiddag heeft del.icio.us er een hele tijd uitgelegen. (_Waarom? Iemand?_) Puur toevallig was ik ook net nog eens  bij "FeedBurner":http://feedburner.com aan het rondneuzen. Waarom zou ik "mijn ma.gnolia bookmarks":http://ma.gnolia.com/people/atog eens niet _link splicen_? Ik gebruik "del.ico.us":http://del.icio.us en "ma.gnolia":http://ma.gnolia.com simultaan via "Shareomatic!":http://shareomatic.com ("automagisch":http://blog.shareomatic.com/2008/2/20/submit-automagically) en die 2 zijn dus redelijk goed in sync.
+
+Ik kon zo direct geen goei reden bedenken, dus voila. Dat is de reden dat er ineens een stuk of 7 ma.gnolia posts in "mijn feed":http://feeds.feedburner.com/atog staan. Op het eerste zicht zijn die posts wel beter dan die van del.icio.us. 
+
+Meer informatie + screenshots = nice.

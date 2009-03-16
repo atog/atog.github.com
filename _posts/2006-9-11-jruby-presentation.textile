@@ -1,0 +1,5 @@
+---
+layout: post
+title: JRuby presentation.
+---
+"JRuby Presentation in Video and Slides":http://www.rubyinside.com/jruby-presentation-in-video-and-slides-230.html <em>via "dzone.com":http://www.dzone.com/rsslinks/jruby_presentation_in_video_and_slides.html</em>.

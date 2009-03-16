@@ -1,0 +1,5 @@
+---
+layout: post
+title: Subway Stradivarius.
+---
+"Schoon verhaal, ik zou ook niet gestopt zijn waarschijnlijk":http://www.37signals.com/svn/posts/364-subway-stradivarius

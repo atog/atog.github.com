@@ -1,0 +1,5 @@
+---
+layout: post
+title: Remove old sessions.
+---
+"Rails, remove old sessions from sessions table":http://rails.techno-weenie.net/tip/2006/2/11/remove_old_sessions_from_sessions_table.

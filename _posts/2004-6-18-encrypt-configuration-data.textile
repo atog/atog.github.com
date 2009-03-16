@@ -1,0 +1,5 @@
+---
+layout: post
+title: Encrypt Configuration data
+---
+<a href="http://www.devx.com/Java/10MinuteSolution/21385/1954?pf=true">Encrypt Sensitive Configuration Data with Java</a> <em>via <a href="http://www.thauvin.net/linkblog/">Erik</a></em>

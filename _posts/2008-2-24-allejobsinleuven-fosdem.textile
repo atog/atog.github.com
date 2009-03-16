@@ -1,0 +1,10 @@
+---
+layout: post
+title: allejobsinleuven.be @ FOSDEM
+---
+"Peter":http://www.vandenabeele.com/ heeft vanmorgen een interessante presentatie "gegeven":http://www.vandenabeele.com/node/56 over "allejobsinleuven.be":http://allejobsinleuven.be/.
+
+Ik heb daar nog een kleine 10 minuten aangebreÃ«en met een presentatie(tje) over een paar van de plugins die we daarbij gebruikt hebben.
+
+<div style="width:425px;text-align:left" id="__ss_279985"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=a-few-words-on-plugins-1203881810472757-3"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=a-few-words-on-plugins-1203881810472757-3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"><img src="http://static.slideshare.net/swf/logo_embd.png" style="border:0px none;margin-bottom:-5px" alt="SlideShare"/></a> | <a href="http://www.slideshare.net/atog/a-few-words-on-plugins?src=embed" title="View 'A few words on plugins' on SlideShare">View</a> | <a href="http://www.slideshare.net/upload?src=embed">Upload your own</a></div></div>
+

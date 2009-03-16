@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java 6 beta released.
+---
+"Mustang aka Java 6 beta is available!":http://java.sun.com/javase/6 _ via "Mark Reinhold":http://weblogs.java.net/blog/mreinhold/archive/2006/02/mustang_beta_bl.html _

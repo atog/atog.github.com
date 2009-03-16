@@ -1,0 +1,5 @@
+---
+layout: post
+title: script.aculo.us morph effects.
+---
+Nifty! "script.aculo.us morph effects":http://mir.aculo.us/2006/11/21/script-aculo-us-hits-1-7-beta

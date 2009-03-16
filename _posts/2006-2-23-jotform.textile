@@ -1,0 +1,11 @@
+---
+layout: post
+title: JotForm.
+---
+"JotForm":http://www.jotform.com/, the first web based WYSIWYG form builder. Het maakt gebruik van "Prototype":http://prototype.conio.net/
+en "Script.aculo.us":http://script.aculo.us/ en voor zover ik het getest heb werkt het goed in "Opera":http://www.opera.com ;)
+
+_ During the beta period, it is completely free. _ Ik vraag me wel af of ge voor zoiets (veel) geld kunt vragen. Is dit iets 
+waar je voor zou betalen? Het is schoon en plezant, maar ik heb het nog niet gemist tot nu toe.
+
+via _ "mir.aculo.us":http://mir.aculo.us/articles/2006/02/22/jotform-online-forms-powered-by-prototype-and-script-aculo-us _

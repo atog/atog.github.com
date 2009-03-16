@@ -1,0 +1,15 @@
+---
+layout: post
+title: Firefly.
+---
+Spooky, creepy maar toch ook wel ongelooflijk straf. "Firefly":http://firef.ly/
+
+bq. There are people out there, on the same site as you. Firefly lets you see them and chat with them.
+
+Klinkt als een stukske uit de x-files, niet? ;)
+
+_You are not alone on the internets._
+
+Het is zeker om de moeite om demo eens uit te proberen. Zelf ben ik er nog niet uit of het nuttig is, en of ik het eigenlijk wel op een of andere site zou willen zetten/tegenkomen.
+
+<em>via "Dave Winer":http://www.scripting.com/stories/2008/05/13/demoOfFirefly.html</em>.

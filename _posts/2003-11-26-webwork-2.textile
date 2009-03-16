@@ -1,0 +1,7 @@
+---
+layout: post
+title: webwork 2
+---
+In <a href="http://www.theserverside.com/resources/article.jsp?l=WebWork2">this article</a> Kris Thompson takes you through the development of the <a href="http://www.waferproject.org/index.html">wafer</a> weblog application using the WebWork 2.x release and covers many of the basic features of WW2.
+
+sounds good eh, doesn't it :p

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Ruby backticks.
+---
+Interessant om weten mijn gedacht. Ruby backticks as in ` :)
+
+What do they do?  *Backticks run an external program and return its output as a string.*
+
+eg (irb in Cygwin on windows):
+
+<code>$ irb</code><br />
+<code>irb(main):001:0> output = `echo 'Hello World!'`</code><br />
+<code>=> "Hello World!\n"</code><br />
+<code>irb(main):002:0> puts output</code><br />
+<code>Hello World!</code><br />
+<code>=> nil</code><br />
+<code>irb(main):003:0></code><br />
+
+Nifty!

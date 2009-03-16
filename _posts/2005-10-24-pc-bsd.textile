@@ -1,0 +1,9 @@
+---
+layout: post
+title: PC-BSD.
+---
+p. "PC-BSD 0.8.3 is released":http://www.pcbsd.org/index.php?id=12. Het is tof dat die mannen zo goe doorwerken, maar ik heb ondertussen al twee releases gedownload zonder dat ik ze heb kunnen installeren. Gewoon geen tijd.
+
+p. Wanneer ik dan wel efkes tijd heb kom ik tot de constatie dat er weeral een nieuwe versie is, dus moet ik natuurlijk weeral eerst de nieuwe versie downloaden, waarna die weer blijft liggen tot ik efkes tijd heb en ... (lees terug van begin)
+
+p. Zo blijven we dus bezig ;)

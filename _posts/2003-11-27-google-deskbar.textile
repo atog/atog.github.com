@@ -1,0 +1,7 @@
+---
+layout: post
+title: google deskbar
+---
+cool! via <a href="http://www.jacobsen.no/anders/blog/archives/2003/11/07/the_best_just_got_better_google_deskbar.html">Anders</a> i found out about the <a href="http://toolbar.google.com/deskbar/">Google Deskbar</a>.  it's pretty much the same thing as the (old) browser toolbar only this one sits next to the system tray which means that is accessible from within every application :)
+
+you can even add customized searches... nice!

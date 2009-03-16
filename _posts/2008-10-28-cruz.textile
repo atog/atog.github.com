@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Cruz
+--- 
+"Cruz - A social browser for Mac OS X Leopard":http://cruzapp.com/.
+
+Yep, nog ene. Nog een browser. Cruz is van "de man":http://twitter.com/iTod achter "Fluid":http://fluidapp.com/ en er zitten toch wel een aantal toffe features in:
+
+* plugins
+* userscripting
+* split views
+* search vanuit de addressbar (probeer maar eens: "sa iphone")
+* "nog veel meer":http://cruzapp.com/
+
+De split views zijn wel plezant, zo kan je bv "Hahlo":http://hahlo.com of andere iPhone-optimised sites laden of zoals "RRW":http://www.readwriteweb.com/archives/cruz_a_smart_multipane_browser.php het beter gezegd heeft:
+
+bq. "We really like the idea of being able to set up any web app we like as a sidebar".
+
+Er is ook direct "Plugin sample code":http://cruzapp.com/dist/ClipboardPlugIn.zip beschikbaar gesteld. Dat zou het voor developpers toch makkelijker moeten maken om snel met een paar knappe plugins op de proppen te komen.
+
+Hopelijk laat een "1Password plugin":http://agilewebsolutions.com/products/1Password niet te lang op zich wachten - dat is de enige die ik écht nodig heb.

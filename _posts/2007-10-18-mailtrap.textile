@@ -1,0 +1,11 @@
+---
+layout: post
+title: Mailtrap.
+---
+"Mailtrap":http://rubymatt.rubyforge.org/mailtrap/, dat hadden we nu nog nodig se. Een fake SMTP server voor ruby/rails. Het bestaat al tijdje voor java (o.a. "Dumbster":http://quintanasoft.com/dumbster/) maar voor ruby had ik zo nog niets gezien. Al blijkt uit de comments van "bijhorende blogpost":http://matt.blogs.it/entries/00002655.html dat er wel degelijk al zoiets voor handen was, nl: "RailMail":http://nullstyle.com/railmail/.
+
+Als ik beide zo snel even vergelijk gaat mijn voorkeur toch uit naar "Mailtrap":http://rubymatt.rubyforge.org/mailtrap/. Mails in tables steken ("RailMail":http://nullstyle.com/railmail/), toch maar niet dank u.
+
+<code>sudo gem install -y mailtrap</code>, en nog een klein "beetje configuren in de rails dev settings":http://matt.blogs.it/entries/00002655.html, en we zijn vertrokken! Dat zal niet al te lang duren voor ik daarmee gespeeld heb vanavond.
+
+<em>via "RubyInside":http://www.rubyinside.com/mailtrap-dummy-ruby-smtp-server-ideal-for-testing-actionmailer-629.html</em>.

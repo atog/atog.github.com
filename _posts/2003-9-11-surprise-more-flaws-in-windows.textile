@@ -1,0 +1,7 @@
+---
+layout: post
+title: Surprise! More Flaws in Windows
+---
+<a href='http://wired.com/news/technology/0,1282,60393,00.html'>article on wired.com</a>
+
+<b>update:</b> also <a href='http://news.com.com/2100-1002_3-5074415.html?tag=fd_top'>an article on cnet</a>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: FeedBurner.
+---
+<a href="http://feedburner.com/fb/a/home">FeedBurner</a>. As I knew of its existence for quite some time, I only got really interested today. After reading <a href="http://www.stopdesign.com/log/2005/04/20/feedburning.html">this new entry at Stopdesign</a>.
+
+So as of today my feeds are "managed" by <a href="http://feedburner.com/fb/a/home">FeedBurner</a>. All existing urls will continue to work, since I use mod_rewrite rules to redirect them to my <a href="http://feeds.feedburner.com/atog">feedburner-feed</a> (pretty much as described <a href="http://www.stopdesign.com/log/2005/04/20/feedburning.html">over here</a>). To do this with <a href="http://wordpress.org">wordpress</a>, here's what I changed in my .htaccess file:
+
+<blockquote><code>RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule ^feed/(feed|rdf|rss|rss2|atom)/?$ http://feeds.feedburner.com/atog [R,L]
+RewriteRule ^(feed|rdf|rss|rss2|atom)/?$ http://feeds.feedburner.com/atog [R,L]</code></blockquote>
+
+If you experience any problems, please let me know.

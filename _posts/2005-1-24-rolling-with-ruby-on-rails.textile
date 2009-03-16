@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rolling with Ruby on Rails.
+---
+<a href="http://www.onlamp.com/pub/a/onlamp/2005/01/20/rails.html?page=1">Great article on "Ruby on Rails"</a>, I should do all of that the first time I got 10 minutes of spare time! From what I've read so far, I find it pretty pretty amazing.

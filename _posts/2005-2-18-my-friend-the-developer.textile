@@ -1,0 +1,5 @@
+---
+layout: post
+title: My Friend the Developer
+---
+<a href="http://myfriendthedeveloper.typepad.com/">My Friend the Developer</a>

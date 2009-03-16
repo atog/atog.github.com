@@ -1,0 +1,5 @@
+---
+layout: post
+title: Velocity vs Freemarker.
+---
+"A story about freemarker and velocity":http://blog.hibernate.org/cgi-bin/blosxom.cgi/2006/02/03#a_story_about_freemarker_and_velocity.

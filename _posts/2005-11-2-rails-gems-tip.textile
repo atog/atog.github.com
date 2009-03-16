@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails Gems tip.
+---
+"Using Gems that your host doesn't have installed":http://www.convergentarts.com/articles/2005/10/28/using-gems-that-your-host-doesnt-have-installed.

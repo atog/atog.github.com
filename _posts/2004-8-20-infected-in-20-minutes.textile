@@ -1,0 +1,13 @@
+---
+layout: post
+title: Infected in 20 minutes.
+---
+<a href="http://www.theregister.co.uk/2004/08/19/infected_in20_minutes/">Infected in 20 minutes</a>
+
+<blockquote>Oh, that's how long your average unprotected PC running Windows XP will last once it's connected to the Internet ... before it's compromised and effectively 0//n3d.</blockquote>
+
+You should read it, it is so true. The net has become a hostile environment. Especially for all the average users. Our friends, familiy, ...
+Have you never asked a friend or a family member: <em>"Do you have a firewall?"</em> or <em>"What anti-virus software or you running?"</em>
+90% of them answers with: <em>"What is that?"</em> and if you suggest to them to run <a href="http://www.mozilla.org/products/firefox/">an other browser</a> then IE, they don't thrust it. Go figure.
+
+Often when they come to me for help, the first thing I have to do is install a firwall, anti-virus software and do a windows-update. And <em>then</em> I'll try to find out what's wrong.

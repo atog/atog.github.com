@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird wins Editor's Choice
+---
+<a href="http://mozillanews.org/?article=2be4d2c6c5035da2941ac9721c45a013">Thunderbird wins Technology and Business Magazine Editor's Choice</a>

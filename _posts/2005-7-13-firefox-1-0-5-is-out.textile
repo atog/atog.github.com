@@ -1,0 +1,5 @@
+---
+layout: post
+title: FireFox 1.0.5 is out.
+---
+<a href="http://www.mozilla.org/products/firefox/">FireFox 1.0.5 Is Out</a>. <em>via <a href="http://www.osnews.com/story.php?news_id=11198">OSNews</a></em>

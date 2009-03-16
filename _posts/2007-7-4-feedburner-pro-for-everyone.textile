@@ -1,0 +1,11 @@
+---
+layout: post
+title: FeedBurner PRO for everyone.
+---
+"Google":http://google.com heeft nog niet zo lang geleden "FeedBurner":http://feedburner.com opgekocht en voila, we krijgen weer al "een hoop gratis":http://blogs.feedburner.com/feedburner/archives/2007/07/freeburner_for_everyone.php.
+
+Vanaf nu zijn alle FeedBurner PRO features *gratis* voor iedereen. Let wel, ze geven het niet automatisch aan iedereen, als ge van de PRO features gebruik wilt maken moet ge het zelf eerst activeren.
+
+bq. You can turn this on by signing in to your account, navigating to the Analyze tab and heading to the FeedBurner Stats PRO section. Click the "Item Views" checkbox to activate these PRO features. "[more]":http://blogs.feedburner.com/feedburner/archives/2007/07/freeburner_for_everyone.php
+
+<em>via "TechCrunch":http://www.techcrunch.com/2007/07/03/google-makes-feedburner-services-free/</em>.

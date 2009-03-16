@@ -1,0 +1,9 @@
+---
+layout: post
+title: Google Reader.
+---
+p. Vorige week werd "Google Reader":http://reader.google.com (beta, wat had ge anders gedacht) gereleased, en natuurlijk, dat marcheerde van geen kanten in "Opera":http://www.opera.com (wat had ge anders gedacht). Nu vandaag las ik op "Opera Watch":http://operawatch.blogspot.com/2005/10/fast-response-by-google.html dat het al gefixed was, Google Reader werkt in Opera. 
+
+p. ...En... het is nog waar ook :)
+
+p. Het ziet er goed uit, opml importeren vanuit "Bloglines":http://www.bloglines.com marcheerde zonder problemen en het leest niet slecht. _Nice and clean ajaxian interface_. Het enige wat nog ontbreekt zijn images, maar naar het schijnt wordt dat opgelost in de nieuwe release van Opera.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java 2 Ruby - Part III.
+---
+<a href="http://www.magpiebrain.com/archives/2005/06/16/java_to_ruby3">Ruby For Java (and C#) Programmers, Part 3 - Introducing Arrays, Hashes and the typing system</a>.

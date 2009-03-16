@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox 2.0 config tweaks.
+---
+"Geek to Live: Top Firefox 2 config tweaks":http://www.lifehacker.com/software/firefox-2/geek-to-live--top-firefox-2-config-tweaks-209941.php

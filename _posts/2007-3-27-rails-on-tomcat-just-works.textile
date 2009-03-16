@@ -1,0 +1,9 @@
+---
+layout: post
+title: Rails on Tomcat just works!
+---
+" â€œDrop Rails into TomCat and it just worksâ€ - Ola Bini on JRuby presentation":http://drnicwilliams.com/2007/03/23/drop-rails-into-tomcat-and-it-just-works-ola-bini-on-jruby-presentation/.
+
+Ik weet niet wat de rest van de wereldbevolking daar van denkt, maar ik word daar dus helemaal wild van! Ik heb nog geen idee van hoe en waar ik het zou gebruiken, maar gewoon het feit dat het *kan* is toch fantastisch! 
+
+_Imagine Rails on Websphere at one of the major Belgium players._

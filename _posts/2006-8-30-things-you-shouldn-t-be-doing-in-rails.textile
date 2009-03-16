@@ -1,0 +1,5 @@
+---
+layout: post
+title: Things You Shouldn't Be Doing In Rails.
+---
+"Guide: Things You Shouldn't Be Doing In Rails":http://glu.ttono.us/articles/2006/08/30/guide-things-you-shouldnt-be-doing-in-rails.

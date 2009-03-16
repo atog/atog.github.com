@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Terminal cursor tip
+--- 
+<a href="http://www.flickr.com/photos/atog/3293344868/" title="Twitter / Ryan Bates: Tip: in OS X Terminal you ... by atog, on Flickr"><img src="http://farm4.static.flickr.com/3497/3293344868_f6e1f1c14f.jpg" width="500" height="223" alt="Twitter / Ryan Bates: Tip: in OS X Terminal you ..." /></a>
+
+Tip van "Ryan Bates":https://twitter.com/rbates/status/1226981192 die eigenlijk af en toe wel van pas komt. Naar het begin van de lijn (CTRL-A) en het einde van de lijn (CTRL-E) is gemakkelijk, maar zo ergens in het midden ... tof.

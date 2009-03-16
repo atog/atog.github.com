@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Oak, Barcamp Gent 2
+--- 
+Zaterdag kon je mij vinden op "Barcamp Gent, second edition":http://barcampgent2.wikispaces.com/. Het was weer plezant, tof, goed georganiseerd en wat nog allemaal. :)
+
+Bij deze nog eens een *dikke merci* aan iedereen van de organisatie.
+
+Mijn presentatie ging over "Oak":http://oakapp.com, een iPhone applicatie die ontstaan is uit mijn "Twitter addiction":http://twitter.com/atog
+
+Oak = *Open it, Type it, Post it*
+
+<a href="http://www.flickr.com/photos/atog/3072454242/" title="Oak presentation by atog, on Flickr"><img src="http://farm4.static.flickr.com/3215/3072454242_daca1190c7_o.jpg" width="575" height="122" alt="Oak presentation" /></a>
+
+<small>"Slideshare":http://slideshare.net wil niet snel genoeg meewerken (en ik wil mijn bed in). Morgen zal het wel in klaar zijn zeker. Hopelijk.</small>
+
+
+"Watch this space, soon in an AppStore near you":http://oakapp.com :)

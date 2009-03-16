@@ -1,0 +1,9 @@
+---
+layout: post
+title: Java RSS feed
+---
+I finally got around to it, here's my one and only <a href="http://atog.be/java.xml">Java RSS feed</a>.
+
+Especially for <a href="http://javablogs.com">javablogs.com</a> :)
+
+<strong>update:</strong> I'm very sorry, but it's changed already... <a href="http://atog.be/wordpress/wp-rss2.php?cat=4">new Java RSS feed</a>

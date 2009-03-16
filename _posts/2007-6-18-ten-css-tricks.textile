@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ten CSS tricks.
+---
+"Ten CSS tricks you may not know":http://itwales.com/997814_textonly.htm <em>via "Shareomatic!":http://twitter.com/shareomatic/statuses/109453952</em>.

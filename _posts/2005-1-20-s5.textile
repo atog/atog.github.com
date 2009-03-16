@@ -1,0 +1,5 @@
+---
+layout: post
+title: S5
+---
+<a href="http://software.newsforge.com/article.pl?sid=05/01/13/1742249&from=rss">Showing off</a> <a href="http://www.meyerweb.com/eric/tools/s5/">S5</a>, a Simple Standards-based Slide Show System.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: use different quote level colors
+---
+thunderbird goodies : <a href='http://texturizer.net/thunderbird/tips.html#app_quotelevels'>use different quote level colors</a>
+
+via <a href='http://blogs.cocoondev.org/tomk/archives/001123.html'>someone who's always living on the bleeding edge</a> :p

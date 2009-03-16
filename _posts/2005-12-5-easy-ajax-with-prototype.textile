@@ -1,0 +1,5 @@
+---
+layout: post
+title: Easy Ajax with Prototype.
+---
+"Easy Ajax with Prototype":http://24ways.org/advent/easy-ajax-with-prototype

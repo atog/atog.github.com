@@ -1,0 +1,11 @@
+---
+layout: post
+title: It's a small world.
+---
+It's a small world. I was aware you could say that from Belgium (Antwerp is not <strong>that</strong> big), but I never thought I would say that refering to the Internet.
+
+Yesterday I was browsing my referer-logs and suddenly I noticed <a href="http://www.webfred.org/">an address</a> I had never seen before. So, as curious as I am, I had to check it out. Well guess what, it's a blog of an old colleague.
+
+I have no idea how he found <a href="http://www.atog.be">mine</a>, although it's probably <a href="http://www.google.com">not that difficult any more</a> these days.
+
+So <a href="http://www.webfred.org/">Fred</a>, if you're reading this: "<em>Hello, how are you? You can be sure that as of today you're in <a href="http://www.bloglines.com">my everyday-reads!</a></em>"  ;)

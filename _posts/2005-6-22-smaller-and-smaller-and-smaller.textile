@@ -1,0 +1,10 @@
+---
+layout: post
+title: Smaller and smaller and smaller.
+---
+I finally took the time to do it.  It wasn't too much of a hassle.
+
+The design was way too big when viewed at 1024x768. 
+Overall it's better like this, even when viewed at 1600x1200. 
+
+Good job Koen :P 

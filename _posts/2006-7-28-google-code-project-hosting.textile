@@ -1,0 +1,11 @@
+---
+layout: post
+title: Google Code - Project hosting.
+---
+Google goes Sourceforge: "Google Code - Project Hosting":http://code.google.com/hosting/. Google gaat opensource projecten hosten. Binnenkort wordt het moeilijk om iets te vinden wat ze *niet* doen. :P
+
+Ze willen geen projecten pikken van "Sourceforge":http://sourceforge.net, enkel een alternatief bieden. Het is dus niet mogelijk om een project aan te maken wanneer dat project al bestaat op SF.  Het is allemaal wel nog niet feature-complete.
+
+Het zal wel marcheren mijn gedacht, het is van "Google":http://www.google.com. 
+
+"Meer info op newsforge":http://trends.newsforge.com/article.pl?sid=06/07/27/1833251&from=rss.

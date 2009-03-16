@@ -1,0 +1,5 @@
+---
+layout: post
+title: thunderbird 0.2
+---
+<a href='http://www.mozilla.org/projects/thunderbird/'><img src='http://www.mozilla.org/frontpage/productIconThunderbird.gif' border='0'/></a><a href='http://www.mozilla.org/projects/thunderbird/'&gt;mozilla thunderbird 0.2</a> is now available :)

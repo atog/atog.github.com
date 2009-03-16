@@ -1,0 +1,12 @@
+---
+layout: post
+title: OpenLaszlo goes DHTML.
+---
+"OpenLaszlo":http://www.openlaszlo.org/ "announced":http://weblog.openlaszlo.org/archives/2006/03/openlaszlo-goes-dhtml/ their first alternative runtime: DHTML, all effects included. Pretty cool if you ask me. Check out the demo, you hardly see any difference between the flash and dhtml version. Nifty.
+
+* "Flash version":http://labs.openlaszlo.org/lzpix-flash
+* "DHTML version":http://labs.openlaszlo.org/lzpix-dhtml
+
+both versions run from the same "source file":http://labs.openlaszlo.org/lzpix-source. This makes a great tool even greater!
+
+<em>via "Geert":http://rifers.org/blogs/gbevin/2006/3/8/openlaszlo_without_flash.</em>

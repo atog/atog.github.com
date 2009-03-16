@@ -1,0 +1,5 @@
+---
+layout: post
+title: Wild and Crazy Camping.
+---
+"Wild and Crazy Metaprogramming with Camping":http://www.oreillynet.com/ruby/blog/2006/06/wild_and_crazy_metaprogramming.html.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: The Fixed. The Fluid. The Elastic.
+---
+"CSS Layouts: The Fixed. The Fluid. The Elastic.":http://green-beast.com/blog/?p=199

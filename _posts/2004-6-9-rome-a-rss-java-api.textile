@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rome, a RSS Java API
+---
+<a href="http://wiki.java.net/bin/view/Javawsxml/Rome">Rome v0.1</a>, a RSS java API. <em>via <a href="http://www.magpiebrain.com/archives/2004/06/09/rome">Sam</a></em> 

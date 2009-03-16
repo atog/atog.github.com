@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Eetidee Beta
+--- 
+bq. Weet jij soms ook niet meer wat klaarmaken? Zit je zonder inspiratie om weer eens iets te maken voor je huishouden? Heb je geen zin in nog eens koteletten met spruiten? "EetIdee.be":http://eetidee.be is je redder in nood!
+
+
+Vanmiddag heb "we":http://10to1.be een aantal "EetIdee":http://eetidee.be invites de wereld in gestuurd. Spannend :)
+
+<div style="text-align:center"><a href="http://www.flickr.com/photos/atog/2491646561/" title="eetidee by atog, on Flickr"><img src="http://farm3.static.flickr.com/2255/2491646561_11d6c69375_o.gif" width="350" height="300" alt="eetidee" /></a></div>
+
+"EetIdee":http://eetidee.be is nog in beta, dus we leven voor de feedback. Problemen, suggesties en bugs "alles is welkom":mailto:info@eetidee.be! 
+
+Je hebt vandaag een mailtje van ons gekregen? Proficiat! Het antwoord op de vraag: _"Wat gaan we eten vanavond?"_ is voor jou weeral een stuk makkelijker geworden! ;)
+
+Je hebt nog geen account, maar je zou er graag een hebben? "Laat het ons weten!":http://eetidee.be/

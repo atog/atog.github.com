@@ -1,0 +1,9 @@
+---
+layout: post
+title: Javascript Coverflow.
+---
+Ik kon me net nog herinneren dat "Tom ooit Coverflow in ruby gevraagd heeft":http://www.tomklaasen.net/blog/2007/12/14/links-for-2007-12-14/. Wel nu is er toch wel Ã©Ã©n in javascript zekers: "Protoflow":http://blog.deensoft.com/2008/01/24/introducing-protoflow/.
+
+"Protoflow":http://blog.deensoft.com/2008/01/24/introducing-protoflow/ maakt gebruik van "Prototype":http://www.prototypejs.org/ en "Scriptaculous":http://script.aculo.us/. Mooi mooi.
+
+<em>via "Ajaxian":http://ajaxian.com/archives/protoflow-coverflow-for-prototype</em>.

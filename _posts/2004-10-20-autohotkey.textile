@@ -1,0 +1,15 @@
+---
+layout: post
+title: AutoHotKey.
+---
+Nifty! <a href="http://www.autohotkey.com/">AutoHotKey</a> a simple scripting language for windows in which you can define shortcut keys and hotstrings.  Damn I like it a lot! 
+
+
+Here's my test case, as described in the <a href="http://www.autohotkey.com/docs/Tutorial.htm">quick start tutorial</a>:
+
+<code>#z::Run www.google.com
+::btw::by the way</code>
+
+save this as a .ahk file. Double-click on it and it's running.
+
+Now you can press "the windows key" + z to go to <a href="http://www.google.com">Google</a> (the first line) --- or as of now when you type "btw" it will automagically be replace by "by the way" (second line).

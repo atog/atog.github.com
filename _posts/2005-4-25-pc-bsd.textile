@@ -1,0 +1,12 @@
+---
+layout: post
+title: PC-BSD.
+---
+<a href="http://www.pcbsd.org/index.htm">This BSD distro</a> certainly caught my attention: <a href="http://www.pcbsd.org/index.htm">PC-BSD</a>. A user-friendly <a href="http://www.freebsd.org/">FreeBSD-based</a> operating system. Sounds good, doesn't it?
+
+Vision-quote:
+<blockquote>... To create a desktop OS using the FreeBSD platform, that can be used by business and home users as easily as the leading major operating systems, while still retaining the power-functionality of UNIX that makes FreeBSD such a solid platform. <a href="http://www.pcbsd.org/index.htm">[more]</a></blockquote>
+
+Note to myself: try it out. 
+
+<em>via <a href="http://distrowatch.com/weekly.php?issue=20050425#1">DistroWatch</a></em>

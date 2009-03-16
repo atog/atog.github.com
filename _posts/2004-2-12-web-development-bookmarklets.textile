@@ -1,0 +1,7 @@
+---
+layout: post
+title: web development bookmarklets
+---
+you've got to check this out. or maybe not. depends. :p
+
+<a href="http://www.squarefree.com/bookmarklets/webdevel.html">web development bookmarks</a>

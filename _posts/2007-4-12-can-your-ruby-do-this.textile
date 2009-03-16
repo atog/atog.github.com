@@ -1,0 +1,5 @@
+---
+layout: post
+title: Can your ruby do this?
+---
+Nifty! "Can your ruby do this?":http://ola-bini.blogspot.com/2007/04/can-your-ruby-do-this.html - I don't think so :)

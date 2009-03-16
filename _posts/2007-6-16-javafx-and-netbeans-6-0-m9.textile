@@ -1,0 +1,9 @@
+---
+layout: post
+title: JavaFX and NetBeans 6.0 M9
+---
+Good to know. That should save you some time. 
+
+bq. Quick tip: if youâ€™re playing with JavaFX Script, stick to NetBeans 5.5. The JFX plugin is pretty throughly broken in 6.0, as are several other unrelated features. 6.0 M9 is way too buggy to be used in production just yet.
+
+<em>via "Java Buzz Forum":http://www.artima.com/forums/flat.jsp?forum=121&thread=206370</em>.

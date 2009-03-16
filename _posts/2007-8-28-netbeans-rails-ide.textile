@@ -1,0 +1,5 @@
+---
+layout: post
+title: NetBeans Rails IDE.
+---
+Miljaar, Ik geloof dat "we hier een fan hebben!":http://test.lifeonrails.org/2007/8/27/netbeans-the-best-ruby-on-rails-ide :)

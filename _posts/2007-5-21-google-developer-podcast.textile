@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google developer podcast.
+---
+"Google Developer Podcast: First Episode on Guice":http://www.almaer.com/blog/archives/001489.html.

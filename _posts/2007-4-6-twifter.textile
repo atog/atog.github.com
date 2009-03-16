@@ -1,0 +1,8 @@
+---
+layout: post
+title: Twifter.
+---
+"Courtenay heeft iets plezant in elkaar gebokst":http://blog.caboo.se/articles/2007/4/6/twifter-find-shared-friends-on-twitter - (met hpricot en camping) "twifter":http://twitter.caboo.se/ to find shared friends on twitter.
+
+Ge vult een comma seperated list van twitter-id(s) in, druk op de knop en voila, ge krijgt een lijst van alle _shared_ en _unshared_ twitter friends.
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Dynamic finders.
+---
+"How dynamic finders work":http://blog.hasmanythrough.com/articles/2006/08/13/how-dynamic-finders-work.

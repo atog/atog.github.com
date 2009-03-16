@@ -1,0 +1,11 @@
+---
+layout: post
+title: java.sun.com iexplorer only?
+---
+damn, unbelievable... i just did a search on suns' java forums (<a href='http://search.java.sun.com/search/java/advanced.jsp'>advanced search</a>) using mozilla firebird.
+ok, i get some results...but i couldn't open them! there was not one single link on the results-page! so i thought : hey let's open the page in iexplorer and guess what? it worked!!
+
+luckily we have something that's called "<b>standards</b>" :p
+
+<b>update:</b>
+apparently i'm the only one experiencing this problem, it seems to work fine on <a href='http://blogs.cocoondev.org/tomk/'>tomK's</a> side (at least the only one of both of us :))

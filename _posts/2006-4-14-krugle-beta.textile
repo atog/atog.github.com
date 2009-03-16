@@ -1,0 +1,15 @@
+---
+layout: post
+title: Krugle beta.
+---
+Yep. "krugle":http://www.krugle.com again! :D
+
+Vandaag heb ik "krugle":http://www.krugle.com kunnen testen, via een beta-invite. Het werkt. Wat moet ik meer zeggen. Het werkt zelfs heel goed. Het doet wat het zegt dat het doet en het doet dat nog heel goed ook.
+
+Natuurlijk, zoals verwacht in alle beta's tegenwoordig: "Opera":http://www.opera.com is not supported, yet.
+
+*Hoe? Watte?* Je kan *zoeken op code*, wanneer je doorklikt op een resultaat wordt dit geopend in een nieuwe tab, vervolgens kan je *door de code repository browsen* (indien beschikbaar) en je resultaat *bookmarken*, *taggen* (met comment), *sharen* of *saven* (read downloaden). 
+
+Nog een nifty feature is de Ã¢â‚¬Å“Search for definitionÃ¢â‚¬? of Ã¢â‚¬Å“Search for callersÃ¢â‚¬? door gewoon een stukje code te selecteren.
+
+Knap. Ik ben een fan.

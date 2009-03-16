@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox on ABC
+---
+Good news ;) <a href="http://www.hicksdesign.co.uk/journal/638/">Firefox on ABC</a>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: APML Workgroup.
+---
+Good news for APML, "NewsGator and Bloglines Join APML Workgroup":http://www.readwriteweb.com/archives/newsgator_apml.php.

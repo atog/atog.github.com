@@ -1,0 +1,14 @@
+---
+layout: post
+title: Oafer42.
+---
+"Oafer42":http://oafer42.atog.be, a useful tool for blogging. I wrote it whilst learning "ruby":http://www.ruby-lang.org/en/ 
+and using "typo":http://typo.leetsoft.com. I *always* use it of course ;)
+
+p. Below you see a screenshot. Simple is key!
+!http://www.atog.be/i/oafer42.jpg!
+
+p. *What does it do?* It publishes your post to the desired category, optionally sends a trackback and automagically pings
+"ping-o-matic":http://pingomatic.com/
+
+p. If you got some improvements, suggestions, bugs, please let me know.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: shopping
+---
+this is why you should always check different sources when you buy something on the net...
+
+<table><tr><td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/193011088X/ref=pd_sr_ec_ir_aps/026-4941705-7160403#product-details"><img src="http://images-eu.amazon.com/images/P/193011088X.02.MZZZZZZZ.jpg" border=0 /></a></td><td valign="top">if i would buy this book at <a href="http://www.proxis.be">proxis.be</a> i would pay 60.97 euros, on the other hand at <a href="http://amazon.co.uk">amazon uk</a> it would cost me around 33 euros! that's a difference of 50%, damn :p</td></tr></table>
+
+now the question is : <em>should i buy it?</em> :)
+
+<strong>update</strong>: k, i bought it...couldn't resist :p

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Firefox 1.0.1
+---
+There's a <a href="http://www.mozilla.org/products/firefox/releases/">new release of Firefox</a> available.  It contains some security fixes and improved stability. It is recommended that you first uninstall the previous version.
+
+<em>via <a href="http://www.theregister.co.uk/2005/02/25/firefox_update/">Firefox dusted down with security upgrade</a>.</em>

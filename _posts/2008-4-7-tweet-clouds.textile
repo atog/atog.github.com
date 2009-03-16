@@ -1,0 +1,11 @@
+---
+layout: post
+title: Tweet clouds.
+---
+"My tweet cloud":http://www.tweetclouds.com/user_pages/atog.html
+
+p=. <a href="http://www.flickr.com/photos/atog/2394728417/" title="My Tweet Cloud by atog, on Flickr"><img src="http://farm3.static.flickr.com/2085/2394728417_b12a84d71d.jpg" width="500" height="416" alt="My Tweet Cloud" /></a>
+
+314 keer 'koffie', 21 keer 'koffietje' en 35 keer 'fokkie', ofwel is dat niet juist, ofwel valt dat nog heel goed mee :)
+
+<em>via "Bruno":http://bvlg.blogspot.com/2008/04/tweetclouds.html</em>.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Dreamhost, Rails 1.0 and typo.
+---
+Het heeft niet lang geduurd na "mijn vorige post":http://atog.be/articles/2006/03/28/new-typo-theme of "atog.be":http//www.atog.be lag eruit. En nog wel ne hele dag gedoome. :(
+
+Wat ik heb gedaan om het terug te laten werken, simpel, ongeveer hetzelfde als iedereen: 
+
+p. <code>run "svn co http://dev.rubyonrails.org/svn/rails/trunk -r 3303 rails" in [RAILS_ROOT]/vendor</code>
+
+Revision 3303 = Rails 1.0 "zoals ge hier kunt zien":http://dev.rubyonrails.org/browser/tags.
+
+p. Easy as pie. Er is blijkbaar wel een probleem opgedoken met mijn tags. Bijna al mijn _java_ tags zijn verdwenen. De posts zijn er nog wel, maar zonder tags. Zorgen voor later, ik blij dat alles terug OK is.

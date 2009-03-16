@@ -1,0 +1,11 @@
+---
+layout: post
+title: NetBeans 4.0 beta 1.
+---
+After reading some reviews / experiences on <a href="http://www.netbeans.org/">NetBeans 4.0 beta 1</a> I decided to give it another chance. Previous version (3.6) was really crap. Slow, slow, mounting directories, sluggish, I just don't understand people actually use it. 
+
+Well now, <a href="http://www.netbeans.org/">this</a> starts to look like a real IDE.  I really like the ant-based-projects-thingy. Just pass it youre build.xml and woops there you go. The response times are also much better. <em>Everything</em> is better then before.
+
+It just <em>feels</em> like an IDE now. I'm going to continue to play with it for a while so maybe I'll change my mind again (since I've only used it for a couple of hours now) but so far I'm happy.
+
+Surprised? I can imagine, so was I. :) 

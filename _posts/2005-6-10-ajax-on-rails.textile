@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ajax on Rails.
+---
+<a href="http://www.onlamp.com/pub/a/onlamp/2005/06/09/rails_ajax.html">Ajax on Rails</a>.

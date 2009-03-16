@@ -1,0 +1,9 @@
+---
+layout: post
+title: Comment spam (again).
+---
+Comment spam. pfff. It's a real pain. I just deleted 61 comments (which were in "awaiting approval" mode) from only 3 different ip-addresses.
+
+Come on do these guys really don't have anything better to do. It's a effort for nothing as well cause these comments are never shown. 
+
+Hello spammers! I'm using <a href="http://wordpress.org">wordpress</a>! :P

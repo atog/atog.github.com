@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails sessions tip.
+---
+"Rails Troubleshooting Again":http://www.slash7.com/articles/2005/11/25/rails-troubleshooting-again, nice tip.

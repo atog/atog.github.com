@@ -1,0 +1,7 @@
+---
+layout: post
+title: RubyGems 1.0.0
+---
+"Het is nog niet zo geleden sinds versie 0.9.5":http://atog.be/2007/11/20/rubygems-0-9-5-released maar nu is "RubyGems 1.0.0 released":http://blog.segment7.net/articles/2007/12/20/rubygems-1-0-0.
+
+Hoe upgraden? <code>gem update --system</code>, als dat niet mooi is.

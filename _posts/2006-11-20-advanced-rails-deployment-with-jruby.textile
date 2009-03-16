@@ -1,0 +1,11 @@
+---
+layout: post
+title: Advanced Rails Deployment with JRuby.
+---
+" Advanced Rails Deployment with JRuby":http://headius.blogspot.com/2006/11/advanced-rails-deployment-with-jruby.html
+
+bq. However it won't be long before you can zip up your Rails app into a WAR file (Web ARchive) and deploy it lock, stock, and barrel to as many servers as you want.
+
+Dat is *ongelooflijk plezant* nieuws. Gewoon weten dat dat mogelijk zou kunnen zijn, dat vind ik al <code>wow!!!</code> :D
+
+"Nog":http://headius.blogspot.com/2006/11/using-jrubys-complete-jar-for-os-x-app.html.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ClearType in Windows XP
+---
+<a href="http://veerle.duoh.com/index.php?id=P161">Veerle</a> writes about  fontrendering on Mac OS X and Windows XP. Now, I must say this is quite interesting because as she writes:
+<blockquote>... because not everybody has updated to Windows XP and even if they are ClearType is off by default. Most users I know don't even have a clue that it is there in the first place. </blockquote>
+
+I'm (was) one of those users who don't (didn't) have a clue that it is (was) there :p
+
+Thanks Veerle!
+
+for more info: <a href="http://www.microsoft.com/typography/ClearTypeInfo.mspx">Microsoft ClearType information</a> and <a href="http://www.microsoft.com/typography/cleartype/tuner/1.htm">a web interface</a> to turn it on.
+
+<strong>update:</strong> I just turned ClearType on and I can assure you it's one hell of a difference. Damn, mucho better!

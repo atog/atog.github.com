@@ -1,0 +1,7 @@
+---
+layout: post
+title: Next-next-next...
+---
+Niet slecht, die _nieuwe?_ next-bookmarklet voor "Google Reader":http://reader.google.com.  Via dat knopke vliegt ge echt lekker van de ene naar de andere site. Zo *ziet* ge de verschillende sites nog eens van dichtbij i.p.v. in "Google Reader":http://reader.google.com.
+
+bq. The "Next" bookmarklet allows you to use Google Reader through just one link -- clicking on it takes your browser to the next unread item in your reading list (marking it as read in the process). I like to use it to go through my photoblog folder. It's also useful for subscriptions that only include snippets, or when I want to read an article in context. "[more]":http://googlereader.blogspot.com/2007/06/doing-shuffle.html

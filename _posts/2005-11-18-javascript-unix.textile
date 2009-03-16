@@ -1,0 +1,7 @@
+---
+layout: post
+title: Javascript Unix.
+---
+"Sommige mensen hebben echt te veel tijd":http://www.masswerk.at/jsuix/! Maar het is wel plezant om zien. :)
+
+p. _ via "Jon":http://jutopia.tirsen.com/articles/2005/11/18/js-uix _

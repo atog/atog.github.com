@@ -1,0 +1,13 @@
+---
+layout: post
+title: google with a right-click
+---
+a way too useful <a href="http://www.mozilla.org/products/firebird/">firebird</a> extension : <a href="http://conquery.mozdev.org/">ConQuery</a> :)
+
+<blockquote>&lt;quote&gt;ConQuery is an extension for Mozilla/Firebird/Netscape which allows to query web services via context menu of the browser. Queries can contain special variables to be passed to CGI's.
+
+These variables are: Selected text, Page URL, Host where page comes from, Prompt for text input before query.
+
+ConQuery can be used to search, blog, translate and more - just with rightclick. <a href="http://conquery.mozdev.org/">[read more]</a>&lt;/quote&gt;</blockquote>
+
+tsjak, tsjak, Soetaert :p

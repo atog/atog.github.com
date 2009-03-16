@@ -1,0 +1,5 @@
+---
+layout: post
+title: JPC, DOS in an Applet.
+---
+"The JPC project, Computer Virtualization in Java":http://www.physics.ox.ac.uk/jpc/index.html - Nifty!

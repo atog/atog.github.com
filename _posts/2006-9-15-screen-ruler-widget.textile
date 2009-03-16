@@ -1,0 +1,9 @@
+---
+layout: post
+title: Screen ruler widget.
+---
+Weet ge nog diene "background image grid":http://atog.be/2006/7/18/a-background-image-grid, awel voor alle "Opera":http://www.opera.com users in deze wereld, ik heb zojuist nog iets veel beter gevonden:
+
+De "Screen Ruler Widget":http://widgets.opera.com/widget/4536 - die "widgets":http://widgets.opera.com/ komen toch dus nog beter van pas dan ik dacht.
+
+Als ge u niet kunt inhouden en ge wilt echt perse ook een widget maken, doe dan ineens mee met de "Widget World Cup":http://widgets.opera.com/wwc/. Wie weet maakt ge kans op die 2000 euro ;)

@@ -1,0 +1,10 @@
+---
+layout: post
+title: hibernate sessions
+---
+i'm using hibernate, webwork, velocity and i'm not sure how to handle my sessions.
+
+for example, in an webwork-action i open a hibernate-session, perform a search and then pass a list (the result of the search) to a velocity-template. now this works like a charm, the only problem is, when do i close my session? if i close it after i did the search, hibernate complains that the session is closed when trying to read the list in velocity...are you still with me :)
+
+i have to do some more reading on hibernate sessions and collections i guess...
+if anybody has some ideas, let me know :)

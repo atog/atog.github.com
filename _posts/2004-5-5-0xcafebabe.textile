@@ -1,0 +1,10 @@
+---
+layout: post
+title: 0xCAFEBABE
+---
+I just stumbled on <a href="http://blogs.sun.com/roller/page/kumarudaya/20040504#did_you_also_miss_0xcafebabe">Uday Subbarayan's Weblog</a> and thought :<strong>0xCAFEBABE</strong>? Never heard of it.
+
+So I did some <a href="http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=0xCAFEBABE&btnG=Google+Search">googling</a> :
+<blockquote><em>The first four bytes of every Java class file are specified to be 0xCAFEBABE, a magic number that can help tools quickly differentiate likely class files from non class files.</em><a href="http://www.artima.com/insidejvm/whyCAFEBABE.html">[more]</a></blockquote>
+
+Voila, I do learn something new everyday. :)

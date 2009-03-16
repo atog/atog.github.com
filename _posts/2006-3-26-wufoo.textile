@@ -1,0 +1,5 @@
+---
+layout: post
+title: Wufoo.
+---
+"Wufoo":http://wufoo.com/, another online-ajax-form building tool. <em>via "Chu Yeow":http://blog.codefront.net/archives/2006/03/26/wufoo-cool-ajax-form-builder</em>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: AOP myths and realities.
+---
+"Article on the myths and realities of AOP":http://www-128.ibm.com/developerworks/java/library/j-aopwork15/?ca=dgr-lnxw07AOPRealities.
+
+Myths? What myths? AOP is only useful for tracing and logging, no? ;) 
+
+The thing is, you never see any other examples when it comes to AOP. I like the myth/reality style in this article, it makes more sense, more than tracing and logging examples.

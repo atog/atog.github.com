@@ -1,0 +1,5 @@
+---
+layout: post
+title: WP Live Search.
+---
+<a href="http://fernando.dubtribe.com/archives/2005/05/17/livesearch-for-wp151/">Tutorial for Wordpress Live Search</a> ;)

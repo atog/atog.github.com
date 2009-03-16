@@ -1,0 +1,15 @@
+---
+layout: post
+title: Wordpress Moderation hack.
+---
+It's too easy to call it hack I guess, but it makes moderating <em>trackback spam</em> a bit easier.
+
+<ul class="list">
+<li class="list">find in wp-admin the file moderation.php</li>
+<li class="list">goto line 161 and there you will find a radio button with <strong>checked="checked"</strong> for the value <strong>later</strong></li>
+<li class="list">put the <strong>checked="checked"</strong> on line 160 for the radio button with value <strong>delete</strong></li>
+</ul>
+
+oki do, from now on all comments in the moderation queue are defaulted to "delete" so you can just press "moderate" without have to go checking all those radio buttons. Just be careful now that you don't delete any "good" comments.
+
+I told you, too easy to mention. ;)

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Installing Postgresql82 on Leopard.
+---
+Het is me uiteindelijk dan toch gelukt om postgresql82 te installeren op Leopard. Ik had het gisteren al "opgegeven":http://twitter.com/atog/statuses/373662252 en _tijdelijk_ mysql geinstalleerd maar ik kon het toch niet zo laten.
+
+Bon, installatie via "macports":http://www.macports.org/ is dus kapot voor Leopard en the "issue has been reported":http://trac.macports.org/projects/macports/ticket/12994.
+
+Het is me wel gelukt door (_ongeveer_) "deze instructies":http://leenux.org.uk/dtrace-patches/dtrace-with-postgres-on-osx/ te volgen. Waarom 'ongeveer'? Wel, de <code>sudo make clean</code> heb ik moeten starten in de src dir (Het kan zijn dat dat normaal is, maar zo ver reikt mijn make/build kennis nog niet).
+
+Vervolgens heb ik "dit artikel":http://www.robbyonrails.com/articles/2007/06/19/installing-ruby-on-rails-and-postgresql-on-os-x-second-edition gevolgd tot de installatie van de ruby-postgres gem. Die werkt namelijk ook niet. Dan maar de postgres gem (dat is aan andere, geen typo ;)) installeren. Die werkt ook niet, maar fix staat "hier beschreven":http://www.robbyonrails.com/articles/2006/05/29/install-ruby-rails-and-postgresql-on-osx.
+
+...en tada! Shareomatic! draait terug op een clean install van Leopard en postgresql82. Development version that is.

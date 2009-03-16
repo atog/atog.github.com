@@ -1,0 +1,14 @@
+---
+layout: post
+title: Opera 9.0 Technology Preview 2.
+---
+Released today: "Opera 9.0 Technology Preview 2":http://snapshot.opera.com/windows/w90p2.html
+
+Ik heb de vorige preview niet geinstalleerd (_vraag me niet waarom_) maar deze dus wel. Van Opera 8.5 ben/was ik al content, maar in deze versie zitten toch serieus wat verbeteringen.
+
+Zoals, ik heb nu ook een WYSIWYG-editor in "gmail":http://www.gmail.com, ik krijg nu ook images door in "Google Reader":http://reader.google.com, thumbnail previews voor tabs, widgets (_klinkt interessant_) "en nog veel meer":http://labs.opera.com/news/2006/02/07/2/ ;)
+
+<code>CTRL-N</code> (_nieuwe tab_) is nu veranderd in <code>CTRL-T</code> (_zoals in Firefox_) en daar heb ik toch al efkes last van gehad, ik open constant nieuwe windows ipv tabs :S
+
+*Summary:* /me is content!
+

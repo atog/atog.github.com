@@ -1,0 +1,5 @@
+---
+layout: post
+title: Method_missing
+---
+"10 things you should know about method_missing":http://www.thirdbit.net/articles/2007/08/01/10-things-you-should-know-about-method_missing/

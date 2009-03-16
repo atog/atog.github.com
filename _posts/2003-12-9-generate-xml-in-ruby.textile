@@ -1,0 +1,7 @@
+---
+layout: post
+title: generate xml in ruby
+---
+<a href="http://www.beust.com/weblog/archives/000025.html">cedric</a> found a very easy way of generating xml in ruby. as i'm still a ruby-n00b, i think this is quite an amazing approach :)
+
+...and i will surely use it.

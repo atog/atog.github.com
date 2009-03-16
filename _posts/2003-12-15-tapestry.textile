@@ -1,0 +1,7 @@
+---
+layout: post
+title: Tapestry
+---
+sweet! read your favourite comics in your favourite rss-reader :p
+
+<a href="http://dwlt.net/tapestry/">Tapestry</a>

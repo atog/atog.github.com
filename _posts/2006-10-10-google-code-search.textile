@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google Code Search.
+---
+"Google code search, exploring dark corners":http://www.kottke.org/06/10/google-code-search <em>via "dzone":http://www.dzone.com/rsslinks/google_code_search_goodies.html</em>

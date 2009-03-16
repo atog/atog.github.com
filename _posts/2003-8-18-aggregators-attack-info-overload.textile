@@ -1,0 +1,5 @@
+---
+layout: post
+title: aggregators attack info overload
+---
+i wonder whether <a href='http://www.wired.com/news/infostructure/0,1377,60053,00.html'>this</a> is good or bad for my project.  depends on how you look at it i guess. more info will follow... :p

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Hibernate 2.1 final
+---
+<a href="http://hibernate.org/">hibernate 2.1</a> released!
+
+<blockquote>&lt;quote&gt;Hibernate 2.1 is intended to be completely backward compatible with Hibernate 2.0.x. In addition to a number of bugfixes, 2.1 introduces support for native SQL queries, a powerful Query by Criteria and Query by Example API and improvements to the Hibernate Query Language. A new, fully pluggable second-level cache framework provides built in support for the JGroups-based JBossCache clustered cache, EHCache, SwarmCache and OpenSymphony's OSCache (Tangosol Coherence may also be used with Hibernate 2.1). A number or new performance-enhancing features were added, including batch-loading, more aggressive second-level cache utilization and a brand new query result set cache.
+<br /><br />
+    Thanks to everyone who contributed to the development and testing of version 2.1, over the past six months.&lt;/quote&gt;</blockquote>

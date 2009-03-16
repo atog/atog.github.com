@@ -1,0 +1,5 @@
+---
+layout: post
+title: Web Design Mistakes?
+---
+"Top Ten Web Design Mistakes of 2005":http://www.useit.com/alertbox/designmistakes.html

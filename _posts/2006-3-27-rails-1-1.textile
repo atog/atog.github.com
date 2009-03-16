@@ -1,0 +1,14 @@
+---
+layout: post
+title: Rails 1.1
+---
+"Rails 1.1":http://www.rubyonrails.org is released and "David has a nice write-up":http://weblog.rubyonrails.com/articles/2006/03/28/rails-1-1-rjs-active-record-respond_to-integration-tests-and-500-other-things 
+
+The headlines:
+* RJS : Ajax has never been easier
+* Active RecordÃ¢â‚¬â„¢s major upgrade
+* Add an API with minimal effort
+* The third testing layer: Integration
+* "more info by Scott":http://scottraymond.net/articles/2006/02/28/rails-1.1
+
+...and as always upgrading _should_ be painless. ;)

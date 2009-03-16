@@ -1,0 +1,11 @@
+---
+layout: post
+title: Nobody knows Shoes.
+---
+"Nobody knows Shoes":http://hackety.org/press/ is now released into the public domain. Nobody knows Shoes (NKS) is de enige echte en de beste _guide to Shoes_.
+
+bq. From the mailinglist: <br></br><br></br>Happy to say that NKS is now open and free, in PDF and HTML.  Do whatever you like with it.
+
+Voila. "Geniet ervan!":http://hackety.org/press/
+
+*update* "NKS is OPP":http://hackety.org/2008/03/02/nksIsOpp.html

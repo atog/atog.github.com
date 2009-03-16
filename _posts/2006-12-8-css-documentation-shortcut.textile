@@ -1,0 +1,12 @@
+---
+layout: post
+title: CSS documentation shortcut.
+---
+Weeral iets wreed handig: "CSS documentation shortcut":http://cssdocs.org/. Zoeken via autocompletion en bij een resultaat wordt ge ge-forward naar de "Cascading Style Sheets, level 2 revision 1
+CSS 2.1 Specification":http://www.w3.org/TR/CSS21/ :)
+
+Dat is natuurlijk allemaal niet _zo_ plezant, _wat_ het *wel* plezant maakt is dat ge een search kunt doen via url zoals bv:  "http://cssdocs.org/background":http://cssdocs.org/background.
+
+Een extraatje: rechts klikken op het search-veld, "add keyword for this search", vul in "css" als keyword en voila, ge kunt de CSS docs raadplegen door <code>css background</code> te typen in de addressbar. Nifty!
+
+<em>via "Ajaxian":http://ajaxian.com/archives/cssdocsorg-css-documentation-helper</em>.

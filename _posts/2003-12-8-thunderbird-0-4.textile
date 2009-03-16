@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird 0.4
+---
+<a href="http://www.mozilla.org/products/thunderbird/">mozilla thunderbird 0.4</a> is released and <a href="http://blog.codefront.net/archives/2003/12/07/mozilla_thunderbird_04_new_features_upgrading_and_more.php">Cheah Chu Yeow</a> gives a nice summary of the new changes...

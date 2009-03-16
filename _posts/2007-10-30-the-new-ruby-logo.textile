@@ -1,0 +1,9 @@
+---
+layout: post
+title: The new Ruby logo.
+---
+p=. !http://atog.be/assets/2007/10/30/ruby-logo.jpg!
+
+"De wedstrijd is gedaan":http://www.ruby-assn.org/logo-contest.html.en, Matz (en andere)  heeft beslist en dit logo heeft gewonnen. Ik heb meer de neiging om het slecht dan goed te vinden.
+
+<em>via "RubyInside":http://www.rubyinside.com/so-heres-the-new-ruby-logo-639.html</em>.

@@ -1,0 +1,6 @@
+---
+layout: post
+title: read the manual
+---
+...sounds like some good advice when you read <a href='http://weblogs.java.net/pub/wlg/332'>this</a>.
+<br>the author is right: <i>it is quite a departure from what i thought java could do.</i>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Adocu reader.
+---
+Van "micro-blogging":http://twitter.com/atog naar "nano-blogging":http://adocu.com/atog
+
+Adocu is twitter, maar het gaat om 1 woord ipv 140 characters. _Met_ vriendjes natuurlijk. Allemaal heel tof, maar dat ding heeft geen deftige manier om te zien wat je vrienden hun status nu juist is.
+
+"Enter atog's Adocu Reader":http://adocureader.atog.be/ zo kan je op een _redelijk_ duidelijke manier de status van je vrienden zien.
+
+Als iemand zin heeft om daar een mooie stylesheet voor te schrijven,  laat maar komen :)  
+
+*update* Je kan jouw pagina ook direct bekijken via de url: adocureader.atog.be/{username}

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Twiddict.
+---
+Zou het niet tof zijn moest je kunnen blijven twitteren, ook al ligt "Twitter":http://twitter.com voor de 1000ste keer plat?
+
+p=. <a href='http://twiddict.com/' title='Twiddict'><img src='http://twiddict.com/images/twiddict_logo.png' width='500' heigth='112' /></a>
+
+Vandaag hebben we "Twiddict":http://twiddict.com/ gelanceerd. _We_ als in "Robin Wauters":http://twitter.com/robinwauters, "Tijs Vrolix":http://tijsvrolix.be/, "Tom Klaasen":http://tomklaasen.net/ en "ik":http://atog.be :)
+
+Hosting wordt verzorgd door "Openminds":http://openminds.be.
+
+"Enjoy!":http://twiddict.com/

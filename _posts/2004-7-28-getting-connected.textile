@@ -1,0 +1,9 @@
+---
+layout: post
+title: Getting connected.
+---
+Still no connection via linux, but I'm not giving up. No sir! :)
+
+I configured my linksys card correctly (I guess) with <a href="http://ndiswrapper.sourceforge.net">ndiswrapper</a>. When I run iwconfig I see "wlan0" so I guess that's ok then. I also enabled dhcp.  Should I do anything else?
+
+Tonight I gonna try <a href="http://www.justlinux.com/forum/printthread.php?s=66492c5c80a38e40a538a301466b334d&threadid=127382">these instructions</a> a bit, maybe that will help. It sounds good, so maybe it will work.

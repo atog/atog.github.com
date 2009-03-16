@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mingus
+---
+Freshly installed: <a href="http://wordpress.org">Wordpress 1.2</a>. Yes it's released and it's named 'mingus'. :)

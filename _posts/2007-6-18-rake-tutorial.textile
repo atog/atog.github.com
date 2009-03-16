@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rake tutorial.
+---
+"Ruby on Rails Rake Tutorial (aka. How rake turned me into an alcoholic)":http://www.railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial.

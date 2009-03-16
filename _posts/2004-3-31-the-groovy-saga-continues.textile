@@ -1,0 +1,7 @@
+---
+layout: post
+title: The Groovy saga continues
+---
+<a href="http://today.java.net/pub/n/GroovyJSRRBApproved">Groovy JSR Review Ballot Approved</a>.
+
+no comment.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: AVERT Stinger
+---
+Good tool for unprotected internet users : <a href="http://vil.nai.com/vil/stinger/">McAfee AVERT Stinger</a> via <a href="http://www.zdnet.be/downl.cfm?id=37155">ZDNet.be</a>

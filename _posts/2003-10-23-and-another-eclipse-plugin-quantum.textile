@@ -1,0 +1,8 @@
+---
+layout: post
+title: and another eclipse plugin , quantum
+---
+damn, this is another good eclipse plugin: <a href="http://quantum.sourceforge.net/">http://quantum.sourceforge.net</a> got this one via <a href="http://www.jroller.com/page/ericfj/20031022#quantumdb_plugin_for_eclipse">eric</a> and it's exactly as he describes it:
+
+<blockquote><em>Setup was reasonably simple and I started accessing an oracle database right away.
+Quantum creates a new database perspective within Eclipse. From this perspective, you can browse through the tables, run SQL statements and query for data. Simple. Easy. Nice.</em></blockquote>

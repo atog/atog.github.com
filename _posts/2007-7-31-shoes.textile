@@ -1,0 +1,13 @@
+---
+layout: post
+title: Shoes.
+---
+"Shoes, a Tiny Toolkit for Making Web-like Desktop Apps":http://code.whytheluckystiff.net/shoes/ is "why's":http://whytheluckystiff.net/ laatste project.
+
+Zoals "alle andere":http://code.whytheluckystiff.net/ ziet het er weer even interessant uit als dat het plezant is.
+
+bq. Shoes is a very informal GUI toolkit. It's for making regular old windowing apps. It's a blend of my favorite things from the Web, some Ruby style, and a sprinkling of cross-platform widgets.
+
+Het maakt gebruik van Cairo for drawing, Pango for text and Ruby for programming en het is beschikbaar voor OSX, Windows en GTK.
+
+Ge moogt gerust zijn dat ik _ook_ dit op de voet ga volgen :)

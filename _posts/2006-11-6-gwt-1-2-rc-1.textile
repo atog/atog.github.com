@@ -1,0 +1,13 @@
+---
+layout: post
+title: GWT 1.2 rc 1
+---
+Bijna gemist! De nieuwe versie (rc1) van de "Google Web Toolkit":http://code.google.com/webtoolkit, en daar zat ik nochtans op te wachten.
+
+New features:
+* Full support for OS X development
+* Much faster hosted mode
+* New HTTP request module
+* Widgets in TreeItems (_dit is de belangrijkste mijn gedacht_)
+
+"Meer info":http://code.google.com/webtoolkit/releases/release-notes-1.2.11.html.

@@ -1,0 +1,25 @@
+---
+layout: post
+title: HyperlinkListener.
+---
+Ever wondered how to open link in you're default browser from a JTextPane? Well I did. :)
+Here's a solution I came up with via <a href="http://www.javaworld.com/javaworld/javatips/jw-javatip66.html">a Javaworld article</a>:
+
+<code>public class AHyperlinkListener implements HyperlinkListener {
+&nbsp;&nbsp;public void hyperlinkUpdate(HyperlinkEvent event) {
+		&nbsp;&nbsp;&nbsp;&nbsp;if (event.getEventType() == EventType.ACTIVATED) {
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//this is windows only off course
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String cmd = "rundll32 url.dll,FileProtocolHandler " 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ event.getURL();
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try {
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process p = Runtime.getRuntime().exec(cmd);
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (IOException e) {
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.printStackTrace();
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//Do something
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+		&nbsp;&nbsp;&nbsp;&nbsp;}
+	&nbsp;&nbsp;}
+}
+</code>
+
+I also have been playing with <a href="http://launch4j.sourceforge.net/">launch4J</a>, great stuff, it's very easy to use and works like a charm. In case you've never heard of it, it is a <em>Windows native executable java application wrapper</em>.

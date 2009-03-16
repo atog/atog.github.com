@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mozilla theme, Charamel
+---
+<a href="http://members.shaw.ca/lucx/">A very nice looking theme for Firefox and Thunderbird</a>.
+
+<em>Thanks <a href="http://photomatt.net/archives/2004/05/23/charamel/">Matt</a> :)</em>
+
+<strong>update:</strong> <a href="http://nephilim.vinean.be/blog">nephilim</a> notified me about the missing link. It's working now.

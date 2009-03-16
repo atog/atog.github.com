@@ -1,0 +1,5 @@
+---
+layout: post
+title: Materialiser.
+---
+"Materialiser":http://blergh.wordpress.com/2006/04/27/materialiser/ - nice tool, watches the clipboard for screenshots(bitmaps) and saves it to a default location.

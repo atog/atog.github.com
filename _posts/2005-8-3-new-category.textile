@@ -1,0 +1,8 @@
+---
+layout: post
+title: New category.
+---
+Oh yeah! Yep that's correct I just added a new category: .NET    -  <a href="http://atog.be/archives/2005/07/29/changing-locations/">Since I changed locations</a> I'm totally into .NET :)
+
+
+...at least for work. 

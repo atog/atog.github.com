@@ -1,0 +1,5 @@
+---
+layout: post
+title: Reuters RSS
+---
+<a href="http://www.reuters.com/newsrss.jhtml">Reuters has RSS-feeds these days</a>.

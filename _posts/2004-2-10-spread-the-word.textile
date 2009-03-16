@@ -1,0 +1,11 @@
+---
+layout: post
+title: spread the word
+---
+...use the <a href="http://www.mozilla.org/products/firefox/buttons.html">buttons</a> :)
+
+<table width="100%"><tr><td align="center"> <a href="http://www.mozilla.org/products/firefox/" title="Get
+Firefox - The Browser, Reloaded"><img src="http://www.
+atog.be/p/getfirefox_large2.png" width="178"
+height="60" border="0" alt="Get Firefox"></a>
+</td></tr></table>

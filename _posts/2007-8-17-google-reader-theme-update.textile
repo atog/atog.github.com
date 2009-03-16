@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google Reader Theme update.
+---
+"Google Reader Theme 1.1":http://www.hicksdesign.co.uk/journal/google-reader-theme-11

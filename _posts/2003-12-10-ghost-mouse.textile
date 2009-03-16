@@ -1,0 +1,5 @@
+---
+layout: post
+title: ghost mouse
+---
+<a href="http://weblogs.java.net/pub/wlg/776">woops! my mouse is moving!</a> :p

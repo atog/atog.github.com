@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mephisto?
+---
+Yeppers, misschien hebben sommige oplettende zielen al gezien dat ik mijn blog van "typo":http://typosphere.org naar "mephisto":http://mephistoblog.com/ heb gemigreerd.
+
+Schoon, wreed content van (tot hiertoe) maar het was toch niet enkel van "run de conversie tool". Nee nee, het hoe en waarom is voor vanavond, daar heb ik nu efkes gene tijd voor.
+
+*todo*: Mijne layout (van de vorige, typo) in die van mephisto gieten. Zal ook iet voor vanavond zijn mijn gedacht.

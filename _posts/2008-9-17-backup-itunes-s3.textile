@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Backup your iTunes to S3
+--- 
+Ooit van "Bandwagon":http://ridethebandwagon.com/home.html gehoord? Het is een app om je iTunes library ergens online te _backuppen_. Ergens kan bv zijn "Amazon S3":http://www.amazon.com/gp/browse.html?node=16427261. Dat klinkt echt ideaal, maar die mannen zijn al een paar jaar(?) bezig en er komt maar niks concreet uit.
+
+That's when it hit me. S3, iTunes, xml, ruby. Gooi dat allemaal bij elkaar, een beetje schudden en voila: "My little script to back up your iTunes Library to Amazon S3.":http://gist.github.com/11226 - een eenvoudig manier om al je muziek online te backuppen.
+
+Om niet elke keer over en weer te gaan of een bepaalde song al op S3 staat maak ik gebruik van een '_memory_' file. Daarin bewaren we welke songs we al gedaan hebben. Exception handling doen we nog niet, daarom worden er default maar 10 songs per run gebackuped.
+
+Configuratie; S3 access key id en access key, max nr per run en purchased first; doen we via een @itunes-s3.yml@ file. Die verwachten we op dezelfde locatie als "het script":http://gist.github.com/11226.
+
+<% coderay :lang => 'ruby', :line_numbers => 'inline' do -%>
+s3_backup_bucket: your-itunes-backup-bucket
+s3_access_key_id: your_access_key_id
+s3_secret_access_key: your_access_key
+max_nr_per_run: 10 # default
+purchased_first: true # default - process purchased ones first
+<% end -%>
+
+Hoe runnen: @itunes-s3 path_to_your_itunes_library_xml@
+
+Easy as pie. Het werkt voor mij maar er moet/kan zeker nog aan gewerkt worden. Suggesties/feedback zijn welkom. 
+
+Volgende stap is misschien om er een Shoes based GUI rond te bouwen? ;)

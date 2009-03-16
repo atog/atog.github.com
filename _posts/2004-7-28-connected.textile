@@ -1,0 +1,8 @@
+---
+layout: post
+title: Connected.
+---
+Sweet! As of now, I can really start playing with linux. I finally got my wlan configured and it's actually working.
+<blockquote>&lt;happy-happy-joy-joy&gt;I'm typing this entry using <a href="http://www.mozilla.org/products/firefox/">firefox</a> on <a href="http://slackware.com">Slackware</a> and all off this on a Toshiba laptop as a total linux-newbie!&lt;/happy-happy-joy-joy&gt;</blockquote>
+
+&lt;shout-at-laptop&gt;<em>"Let's dance."</em>&lt;/shout-at-laptop&gt; ;)

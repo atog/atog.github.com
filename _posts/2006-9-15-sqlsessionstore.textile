@@ -1,0 +1,5 @@
+---
+layout: post
+title: SqlSessionStore.
+---
+"SqlSessionStore now available as a plugin":http://railsexpress.de/blog/articles/2006/09/15/sqlsessionstore-now-available-as-a-plugin. I'll try it out asap.

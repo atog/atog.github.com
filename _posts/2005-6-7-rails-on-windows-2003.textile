@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails on Windows 2003.
+---
+<a href="http://www.bitslapped.nl/articles/2005/06/05/rails-on-windows-2003">Rails on Windows 2003</a>.

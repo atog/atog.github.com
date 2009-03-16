@@ -1,0 +1,5 @@
+---
+layout: post
+title: Wi-Fi security.
+---
+<a href="http://www.theregister.co.uk/2005/03/11/wifi_security_survey/">Wi-Fi security is getting worse</a>.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: The Reg sits down with DHH.
+---
+"The Reg sits down with David Heinemeier Hansson":http://www.regdeveloper.co.uk/2006/02/16/ruby_rails/

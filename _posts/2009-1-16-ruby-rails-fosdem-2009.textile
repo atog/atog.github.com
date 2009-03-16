@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Ruby, Rails en FOSDEM 2009
+--- 
+<a href="http://www.fosdem.org"><img src="http://www.fosdem.org/promo/fosdem/square/static" alt="FOSDEM, the Free and Open Source Software Developers' European Meeting" /></a>
+
+Op 7 en 8 februari is het weer zover. Het zal voor mij de tweede keer zijn dat ik naar "FOSDEM":http://www.fosdem.org/2009 ga. Net zoals vorig jaar zal ik presenteren in de "Ruby and Rails Developer Room":http://www.fosdem.org/2009/schedule/devroom/rubyandrails (schedule staat precies nog niet online). "Tom Klaasen":http://tomklaasen.net zal trouwens ook van de partij zijn.
+
+<br /><br />
+
+See you there!

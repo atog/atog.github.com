@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Git and a non-standard SSH port
+--- 
+Het kan voor velen logisch zijn maar ik moest het opzoeken, dus bij deze _for future reference_.
+
+Wanneer je SSH draait op een andere dan de standaard-poort (22), bv op 1234 dan gaan je git commands niet goed werken. Als in *niet*.
+
+*De oplossing*
+
+Zet het onderstaande in je @~/.ssh/config@ file:
+
+<% coderay :lang => 'yaml', :line_numbers => 'inline' do -%>
+Host myserver.com
+  Port 1234
+<% end -%>
+
+That's it. "Met dank aan Garry  Dolley":http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way. :)

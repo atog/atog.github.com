@@ -1,0 +1,9 @@
+---
+layout: post
+title: Blender
+---
+Cool!  <a href="http://www.blender3d.org/">Blender</a>, a free sofware killer application :)
+
+I'm always fascinated by people who can play with 3D tools.  If my laptop agrees and can handle this app, I will <em>try</em> to play with it (for now it's on my todo list :p)
+
+<em>via <a href="http://www.newsforge.com/article.pl?sid=04/04/19/1837246">newsforge</a></em>

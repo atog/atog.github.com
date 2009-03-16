@@ -1,0 +1,9 @@
+---
+layout: post
+title: SQL2005 generate insert statements.
+---
+"Enisey - add-in to SQL Server Management Studio":http://www.codeproject.com/useritems/enisey.asp.
+
+Finally a way to generate insert statements from table data. I really don't understand why something like that isn't a standard feature. Anyways, install it and you'll be able to right-click on a table and generate the script. Easy as pie! :)
+
+(_"mm, where did I get that from: easy as pie?"_)

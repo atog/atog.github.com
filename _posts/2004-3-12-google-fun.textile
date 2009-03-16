@@ -1,0 +1,10 @@
+---
+layout: post
+title: Google fun
+---
+Ok, I knew you could do some strange/fun/useful searches with <a href="http://google.com">google</a> but I never really thought about it. I just used it.
+
+Until now. I just read <em><a href="http://www.securityfocus.com/columnists/224">Googling up passwords</a></em> and I must say, there is a difference in using it (<a href="http://google.com">google</a>) or reading about it.  Interesting.
+
+Some other related links:
+<ul><li><a href="http://hacks.oreilly.com/pub/h/220">Removing Your Materials from Google </a></li><li><a href="http://www.google.com/help/operators.html">Google Operators</a></li><li><a href="http://www.robotstxt.org/wc/exclusion.html">Robots Exclusion</a></li><li><a href="http://google.com/webmasters">Google information for Webmasters</a></li></ul>

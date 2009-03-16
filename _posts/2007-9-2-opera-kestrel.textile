@@ -1,0 +1,5 @@
+---
+layout: post
+title: Opera Kestrel.
+---
+Was het al maar 4 september: "Focus Areas during Kestrel Development":http://my.opera.com/desktopteam/blog/2007/08/31/focus-areas-during-kestrel-development

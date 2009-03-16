@@ -1,0 +1,7 @@
+---
+layout: post
+title: Web Messenger.
+---
+<a href="http://webmessenger.msn.com/"><img src="http://atog.be/p/r/webmsn.jpg" class="left" alt="web messenger" /></a><a href="http://webmessenger.msn.com/">It's still in beta</a>, but what isn't in beta these days.  It's pretty useful to maintain you're msn-account when you don't use <a href="http://messenger.msn.com/">msn messenger (the client)</a> but for instance something good like <a href="http://psi.affinix.com/">psi</a>. ;)
+
+Anyways it's like summary says, you can use it on any shared computer - at school, at work, at a friend's house or anywhere you can't, or <strong>don't want to</strong> install the MSN Messenger software.

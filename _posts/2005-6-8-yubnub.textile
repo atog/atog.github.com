@@ -1,0 +1,16 @@
+---
+layout: post
+title: YubNub.
+---
+<a href="http://yubnub.org/">YubNub</a> is a result of the <a href="http://railsday.com/blog/">24hrs Rails Day Competition</a>. One of many, I haven't seen any other yet but I do think this one is very neat!
+
+<a href="http://yubnub.org/">YubNub</a> is an Internet command line interface. Meaning: (<a href="http://article.gmane.org/gmane.comp.lang.ruby.rails/11692/">quote from the author</a>)
+<blockquote>
+Type "gim porsche911" to do a Google Image search for Porsche 911 cars. 
+Type "random 1000" for a random number between 1 and 1000. 
+Type "tts David Heinemeier Hansson is cool" to have it speak those words. Anyone can add commands by providing an appropriate URL, so it is "social".
+</blockquote>
+
+I very curious about who will actually win <a href="http://railsday.com/blog/">the competition</a>, I'm sure there are some great apps in there.
+
+<strong>update:</strong> <a href="http://railsday.com/svn/qualifiers">The Rails-day qualifiers</a>. <em>via <a href="http://blog.curthibbs.us/articles/2005/06/07/amazing-rails-day">Curt</a></em>

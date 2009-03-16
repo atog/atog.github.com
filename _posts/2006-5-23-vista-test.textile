@@ -1,0 +1,5 @@
+---
+layout: post
+title: Vista-test.
+---
+"Test uw pc voor Vista":http://www.microsoft.com/windowsvista/getready/upgradeadvisor/default.mspx <em>via "DSO-blog":http://standaard.typepad.com/en_nu_even_ernstig/2006/05/vista.html</em>

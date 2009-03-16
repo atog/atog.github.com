@@ -1,0 +1,5 @@
+---
+layout: post
+title: Yahoo! does a Google.
+---
+Old news but hey... <a href="http://www.theregister.co.uk/2005/03/23/yahoo_ups_storage/">Yahoo! does a Google</a>.

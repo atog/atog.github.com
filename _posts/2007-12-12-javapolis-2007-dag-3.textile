@@ -1,0 +1,24 @@
+---
+layout: post
+title: JavaPolis 2007 - Dag 3
+---
+"JavaPolis":http://javapolis.com dag 3, eerste dag van de Conference. Eerste indruk: ongelooflijk veel volk!
+
+De keynote was interessant, het was tof om eindelijk James Gosling een keer in 't echt te zien. Zoals elk jaar had Sun weer van die plezante demos bij. Bruce Eckel mocht ook even aan het woord en had het over "Open Spaces":http://en.wikipedia.org/wiki/Open-space_meeting, wat mij direct deed denken aan BarCamp.
+
+Ivm, James Gosling, <a href="http://robbyvandamme.spaces.live.com/blog">Robby heeft het mooi gezegd</a>:
+
+bq. Mr. James Gosling, who appears to be a famous dude in the Java world ...
+
+Ik moest er in ieder geval effe om lachen ;)
+
+Vervolgens was er de sessie over "Guice":http://code.google.com/p/google-guice/ een lightweight dependency injection framework van Google. Toegegeven, ik ben vooral gaan kijken om "Crazy Bob Lee":http://crazybob.org/ eens te zien spreken. Ik vond het de moeite, geen xml, zalig toch! ;)
+
+Over de lunch kan ik kort zijn. Het was een ramp. Veel te veel volk, het ging niet vooruit, veel te lange rijen. We zijn uit pure noodzaak dan maar naar de McDonalds gereden. _Waarom niet naar de Quick, dat is toch vlakbij?_ Awel, die zat ook al stampvol met Javapolians. Ik hoop dat het morgen beter zal zijn.
+
+Over de "Web 2.0, Collaboration, and Social Networking":http://javapolis.com/confluence/display/JP07/Web+2.0+Collaboration+and+Social+Networking sessie kan ik kort zijn. Ik was blij dat het gedaan was.
+
+"JRuby on Rails":http://javapolis.com/confluence/display/JP07/Practical+JRuby+on+Rails was dan wel weer een fijne sessie. Niet echt iets nieuw gezien, maar diene "Ola Bini":http://ola-bini.blogspot.com/ die kan typen man! Snel! Dat was precies fake. :)
+ 
+Uiteindelijk toch spijtig dat ik niet op de meet & greet aanwezig kon zijn. Morgen nog, zullen we maar denken.
+

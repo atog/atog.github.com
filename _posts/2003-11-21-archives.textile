@@ -1,0 +1,7 @@
+---
+layout: post
+title: archives
+---
+great! i just exported my posts from <a href="http://atog.typepad.com"'>my previous blog</a> and imported them here and guess what? it worked like a charm!
+
+movable type rocks! :)

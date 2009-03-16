@@ -1,0 +1,9 @@
+---
+layout: post
+title: How to search the net
+---
+<a href="http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/About.html">Finding information on the internet</a>, an award winning tutorial from UC Berkeley.
+
+There are always things in there you did not know already. 
+
+<em>via <a href="http://www.artima.com/weblogs/viewpost.jsp?thread=49856">John</a></em>

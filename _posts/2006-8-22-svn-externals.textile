@@ -1,0 +1,28 @@
+---
+layout: post
+title: svn,externals.
+---
+"Subversion Externals Definitions":http://svnbook.red-bean.com/en/1.0/ch07s03.html, yet another nice "Subversion":http://subversion.tigris.org/ feature.
+
+In our rails app we make use of the "engines":http://rails-engines.org/ and more specific the "login_engine":http://rails-engines.org/login_engine, plugins. Now, if you follow the rails-news a bit you've probably heard of "the security issue not so long ago":http://weblog.rubyonrails.com/2006/8/10/rails-1-1-6-backports-and-full-disclosure.
+
+bq. These patches (and 1.1.6) will break applications using the 3rd party engines idea.
+
+I can tell you for sure, it was broken. When I started building the app I downloaded and extracted the engines in the plugins directory, so I had no idea (anymore) which version we were using at that time.
+
+*svn:externals to the rescue*
+
+I knew about externals from "typo":http://www.typosphere.org, but I never really looked into it. Until now.
+
+bq. An externals definition is a mapping of a local directory to the URLÃ¢â‚¬â€and possibly a particular revisionÃ¢â‚¬â€of a versioned resource. "[more]":http://svnbook.red-bean.com/en/1.0/ch07s03.html
+
+*Externals? Cool. How?*
+
+<code>svn propedit --editor-cmd gvim svn:externals vendor/plugins</code>
+
+The line above fires up "gvim":http://www.vim.org where I entered the following lines:
+
+<code>engines http://svn.rails-engines.org/plugins/engines</code><br /><code>login_engine http://svn.rails-engines.org/plugins/login_engine</code>
+
+This will ensure that we always have the latest version of the plugins whenever we run svn up. So now we follow engines-trunk for a while, until we decide to link to a particular version. We then only have to modify the svn urls accordingly.
+

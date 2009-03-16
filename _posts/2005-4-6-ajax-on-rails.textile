@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ajax on Rails.
+---
+<a href="http://www.robbyonrails.com/articles/2005/04/06/adding-ajax-to-your-existing-rails-app-part-2">Robby provides</a> a nice example on how to add ajax to your existing <a href="http://www.rubyonrails.org">rails</a> app. 
+
+It couldn't be better. Timing is perfect, I was just going to look into it and apparently it's very easy as well. ;)

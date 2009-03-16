@@ -1,0 +1,5 @@
+---
+layout: post
+title: Prototype 1.5
+---
+"Prototype 1.5 is out":http://www.prototypejs.org/ - this time *with* "documentation":http://www.prototypejs.org/api <em>via "Digital Web Magazine":http://www.digital-web.com/news/2007/01/prototype_15_launches_gets_new_website/</em>

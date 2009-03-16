@@ -1,0 +1,5 @@
+---
+layout: post
+title: Fun With HTTP Headers.
+---
+"Fun With HTTP Headers":http://www.nextthing.org/archives/2005/08/07/fun-with-http-headers <em>via "Diego":http://blog.diegodoval.com/2007/08/fun_with_http_headers_great.html</em>.

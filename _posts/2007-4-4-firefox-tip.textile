@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox tip.
+---
+Dat is nog is een firefox tip : "Disable automatic image resizing in Firefox":http://osxdaily.com/2007/04/04/disable-automatic-image-resizing-in-firefox/.

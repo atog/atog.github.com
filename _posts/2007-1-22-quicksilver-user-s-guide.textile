@@ -1,0 +1,5 @@
+---
+layout: post
+title: Quicksilver user's guide.
+---
+Blijkbaar is "Quicksilver":http://quicksilver.blacktree.com/ nog veel meer dan een app-launcher:  "Melman Quicksilver User's Guide":http://www.tuaw.com/2007/01/18/melman-quicksilver-users-guide/.

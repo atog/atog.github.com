@@ -1,0 +1,10 @@
+---
+layout: post
+title: Eetidee.be
+---
+p=. <a href="http://www.flickr.com/photos/atog/2491646561/" title="eetidee by atog, on Flickr"><img src="http://farm3.static.flickr.com/2255/2491646561_11d6c69375_o.gif" width="350" height="300" alt="eetidee" /></a>
+
+"http://eetidee.be":http://eetidee.be dus.
+
+"Een beetje meer weten?":http://tomklaasen.net/2008/5/14/eetidee-be
+

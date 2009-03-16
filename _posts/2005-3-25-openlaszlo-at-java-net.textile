@@ -1,0 +1,7 @@
+---
+layout: post
+title: OpenLaszlo at java.net
+---
+<a href="http://today.java.net/pub/a/today/2005/03/22/laszlo.html">An article on OpenLaszlo on java.net</a>, I haven't read it <em>yet</em> but the funny thing is that is was published on the same day as we did <a href="http://atog.be/archives/2005/03/24/openlaszlo-at-bejug/">our presentation</a>.
+
+Coincidence? Or do you really have to consider using Laszlo? ;)

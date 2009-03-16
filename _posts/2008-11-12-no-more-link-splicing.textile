@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: No More Link Splicing
+--- 
+"Feedburner heeft zo'n feature, link splicer":http://atog.be/2007/5/23/feedburner-link-splicer/, weet ge wel? ;) Dat is dat gebeuren dat er voor zorgt dat uw "delicious":http://delicious.com of "magnolia":http://ma.gnolia.com bookmarks mee in de rss feed zitten.
+
+Ondertussen zijn er genoeg mensen die hun daar aan ergeren, dus weg ermee. Vanaf _nu_ zult die niet meer in "de feed":http://feeds.feedburner.com/atog vinden.
+
+Voor zij die nog wel geïnteresseerd zijn:
+
+* "mijn ma.gnolia profiel":http://ma.gnolia.com/people/atog/
+* "mijn delicious profiel":http://delicious.com/atog
+
+Ja, dankzij "Shareomatic!":http://shareomatic.com zijn ze beide up to date. ;)

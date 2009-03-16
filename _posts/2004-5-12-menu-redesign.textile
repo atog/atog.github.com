@@ -1,0 +1,9 @@
+---
+layout: post
+title: menu redesign
+---
+Some people probably noticed, and <a href="http://atog.be/wordpress/archives/2004/04/22/back">I mentioned it already</a>. The menu, amongst some other things, looks terrible when viewed in IE.
+
+This is all because of IE doesn't like png-transparancy. Yes, I know <a href="http://atog.be/wordpress/archives/2004/04/06/png-transparancy">I posted a solution</a> to this...but when I come to think of it, I don't like it. 
+
+It just needs to work. I need come up with something new. Fast. :P

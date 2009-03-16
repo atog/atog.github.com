@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gazet van Antwerpen RSS
+---
+woo woo, newsflash :) Gazet van Antwerpen provides <a href="http://www.gva.be/service/rss.asp">rss-feeds</a> nowadays!

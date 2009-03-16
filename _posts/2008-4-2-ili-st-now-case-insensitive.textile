@@ -1,0 +1,9 @@
+---
+layout: post
+title: ili.st now case-insensitive.
+---
+"ili.st":http://ili.st just got it's first update. As of now, login is case-insensitive.
+
+Dat was blijkbaar toch een probleem. Sommige hebben capitals staan in hun "twitter":http://twitter.com username en die worden automatische overgenomen bij de "ili.st":http://ili.st login. "Twitter":http://twitter.com werkt ook case-insensitive dus hebben we dat maar overgenomen.
+
+"FranÃ§ois":http://www.shoob.com/ if you're reading this, you can now access your list both on  "http://ili.st/francoisL":http://ili.st/francoisL and "http://ili.st/francoisl":http://ili.st/francoisl ;)

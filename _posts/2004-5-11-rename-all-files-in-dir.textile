@@ -1,0 +1,12 @@
+---
+layout: post
+title: Rename all files in dir
+---
+I wanted to rename all my pics in a directory to 1.jpg, 2.jpg, 3.jpg, and so on. You've got the picture, right? ;)  
+
+So once again, <a href="http://www.ruby-lang.org/en/">ruby</a> to the rescue: 
+
+<code>i = 0
+Dir["*"].each { |f| File.rename(f, (i+=1).to_s + ".jpg" ) }</code>
+
+Maybe some ruby-guru's can come up with something better, but this bit of code did the trick.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: SyncToy.
+---
+"SyncToy for Windows XP":http://www.microsoft.com/windowsxp/using/digitalphotography/prophoto/synctoy.mspx

@@ -1,0 +1,5 @@
+---
+layout: post
+title: ActiveRecord-JDBC cont.
+---
+"ActiveRecord-JDBC 0.2.1 Released":http://headius.blogspot.com/2006/09/activerecord-jdbc-021-released.html! Nifty!

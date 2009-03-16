@@ -1,0 +1,5 @@
+---
+layout: post
+title: 7 Javascript techniques.
+---
+"Seven JavaScript Techniques You Should Be Using Today":http://www.digital-web.com/articles/seven_javascript_techniques/

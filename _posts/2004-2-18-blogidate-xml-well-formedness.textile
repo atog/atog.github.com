@@ -1,0 +1,7 @@
+---
+layout: post
+title: blogidate xml-well-formedness
+---
+<a href="http://www.squarefree.com/archives/000033.html">a nice bookmarklet</a> wich validates XML well-formedness in textareas. this can come in very handy when you want to validate your posts.
+
+<blockquote>&lt;quote&gt;If this bookmarklet finds an error, it turns the textarea red, selects the part of the textarea where the error is, and puts the error message in the status bar (not in a dialog). If it doesn't find an error, it turns the textarea green.&lt;/quote&gt;</blockquote>

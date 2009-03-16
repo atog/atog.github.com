@@ -1,0 +1,14 @@
+---
+layout: post
+title: Opera History Tip.
+---
+Weeral een reden waarom "Opera":http://www.opera.com superieur is ;)
+
+bq. *TIP!* Going back and forward in the window history with ease. <br /><br />
+This is mentioned in the documentation, but often overlooked.<br />
+Some mice have a dedicated back and forward button for Web browsers. If your mouse does not have these, or it doesn't work in Opera for some reason, there's a way which is almost as easy:
+<br /><br />*To go back*: Hold down the right mouse button, click left button.<br /><br />
+*To go forward*: Hold the left button, click right button.<br /><br />
+This lets you flick back and forward between pages in the window's history.
+
+"Original forum post":http://my.opera.com/community/forums/topic.dml?id=14654&t=1139991538&page=1#comment95120

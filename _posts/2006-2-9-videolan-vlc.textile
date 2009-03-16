@@ -1,0 +1,5 @@
+---
+layout: post
+title: VideoLAN VLC.
+---
+"VLC":http://www.videolan.org/, a free cross-platform media player. _ via "Charles":http://fishbowl.pastiche.org/2006/02/09/you_wouldnt_steal_a_movie _

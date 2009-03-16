@@ -1,0 +1,17 @@
+---
+layout: post
+title: Rails calendar_helper plugin.
+---
+Zo "oud":http://wiki.rubyonrails.org/rails/pages/DynamicCalendarHelper als de straat en ik had er nog niet van gehoord. De "rails calendar_helper plugin":http://topfunky.net/svn/plugins/calendar_helper/.
+
+*Installation?*
+
+@script/plugin install http://topfunky.net/svn/plugins/calendar_helper/@
+
+Opgelet: het is *geen* datepicker. Het rendered simpelweg een calendar. ;)
+
+*Usage?*
+
+@<%= calendar(:year => 2005, :month => 6) %>@
+
+Bovenstaande is gemakkelijkste manier maar natuurlijk kan zijn er nog "meer opties mogelijk":http://topfunky.net/svn/plugins/calendar_helper/lib/calendar_helper.rb.

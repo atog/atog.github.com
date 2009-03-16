@@ -1,0 +1,5 @@
+---
+layout: post
+title: Quicksilver tip.
+---
+Nifty! "Quicksilver tip: Eliminate the Enter key":http://www.hawkwings.net/2007/01/31/quicksilver-tip-eliminate-the-enter-key/

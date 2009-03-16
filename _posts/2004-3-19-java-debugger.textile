@@ -1,0 +1,10 @@
+---
+layout: post
+title: Java debugger
+---
+I never actually used a debugger before, when coding in Java. Always played with a <a href="http://logging.apache.org/log4j/docs/">logger</a> or the well-known : <code>System.out.print</code>.  But <a href="http://www.lambdacs.com/debugger/debugger.html">this  debugger</a> has caught my attention :)
+
+<blockquote>The debugger works by collecting "time stamps" which record everything that happens in a program. A GUI then allows you to navigate backwards in time to look at objects, variables, method calls, etc. <a href="http://www.lambdacs.com/debugger/debugger.html">[more]</a>
+</blockquote>
+
+<em>Found it via <a href="http://www.javalobby.org/thread.jspa?forumID=61&threadID=11855">Javalobby</a> and posting it here so I won't forget about it.</em>

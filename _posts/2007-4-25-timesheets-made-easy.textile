@@ -1,0 +1,18 @@
+---
+layout: post
+title: Timesheets made easy.
+---
+Iedereen die een beetje aan consultancy (body-shopping) doet moet (naar mijn ervaring) op het einde van de maand een timesheet invullen die dan getekend wordt door de projectleider (of dergelijke). Deze timesheet bevat het aantal gewerkte dagen en is het nodige bewijs om een factuur te kunnen uitschrijven.
+
+Iedereen mee? :)
+
+Bij de meeste firma's is dat een of andere excel of word file die elke maand manueel aangepast
+en ingevuld moet worden. Sinds "wij":http://10to1.be gestart zijn hebben "wij":http://10to1.be ook zoiets nodig. Dat moet niet gecompliceerd of flashy zijn. Daar moet opstaan welke dagen ge een bepaalde maand gewerkt hebt.
+
+*Requirements*: Simpel, proper en ik wil maandelijks niet te veel aanpassen. 
+
+*Solution*: "10to1 - Timesheets made easy":http://timesheet.10to1.be. Als "wij":http://10to1.be dat kunnen gebruiken zijn er nog andere ook, dus bij deze, gratis en voor niks. "Enjoy":http://timesheet.10to1.be.
+
+Een woordje uitleg: euhm, invullen en printen, recht uit de browser. Default krijg je de huidige maand te zien. Wil je een andere maand of jaar, dat voeg je de maand en/of jaar toe aan de url. Enkel een maand geven werkt maar wanneer je een specifiek jaar wil, moet je ook een maand geven.
+
+Een voorbeeld: "http://timesheet.10to1.be/07/1978":http://timesheet.10to1.be/07/1978 laat u een timesheet zien voor juli 1978.

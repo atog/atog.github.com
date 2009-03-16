@@ -1,0 +1,5 @@
+---
+layout: post
+title: Remote control for humans.
+---
+"Japan developing remote control for humans":http://www.boingboing.net/2005/10/25/japan_developing_rem.html.

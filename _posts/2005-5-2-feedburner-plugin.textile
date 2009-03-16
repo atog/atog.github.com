@@ -1,0 +1,5 @@
+---
+layout: post
+title: FeedBurner plugin.
+---
+<a href="http://www.orderedlist.com/articles/wordpress_feedburner_plugin">WordPress FeedBurner Plugin</a>.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: YUI! games.
+---
+Ongelooflijk! "Solitaire":http://www.digitalinsane.com/api/yahoo/solitaire/, "Space-Invaders":http://www.digitalinsane.com/api/yahoo/space-invaders, "Puzzle":http://www.digitalinsane.com/api/yahoo/puzzle and "Tetris":http://www.digitalinsane.com/api/yahoo/yetris - "allemaal gemaakt met YUI!":http://www.digitalinsane.com/api/.

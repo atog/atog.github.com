@@ -1,0 +1,15 @@
+---
+layout: post
+title: Command line parameters in rake.
+---
+"Command line parameters in rake":http://ryandaigle.com/articles/2007/6/22/using-command-line-parameters-w-rake-and-capistrano, dat had ik nu net nodig se.
+
+*Met:*
+
+@rake options:show opt1=value1@
+
+*kan je 'opt1' uitlezen _like so_:*
+
+@ENV['opt1']@
+
+Mooi. Waar zat ik? ;)

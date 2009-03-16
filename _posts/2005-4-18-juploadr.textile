@@ -1,0 +1,5 @@
+---
+layout: post
+title: jUploadr.
+---
+<a href="http://juploadr.sourceforge.net/index.html">jUploadr. A cross-platform Flickr uploader</a>. Looks alright at first sight.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: JSmooth 0.9.5
+---
+another java executable wrapper : <a href="http://jsmooth.sourceforge.net/index.php">JSmooth</a> :)
+
+one big difference though : this one is open source :p

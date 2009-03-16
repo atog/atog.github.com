@@ -1,0 +1,5 @@
+---
+layout: post
+title: TwitterGram.
+---
+Nifty! "TwitterGram":http://www.twittergram.com/ -- mp3 tweets. <em>via "TechCrunch":http://www.techcrunch.com/2007/07/07/dave-winers-twittergram/</em>

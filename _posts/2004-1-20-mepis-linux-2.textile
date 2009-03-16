@@ -1,0 +1,9 @@
+---
+layout: post
+title: MEPIS Linux (2)
+---
+last night i downloaded and burned the two iso's...brought it to work this morning...put the disc in my pc and guess what? one/two minutes later i was running <a href="http://www.mepis.org">mepis linux</a>! :)
+
+it works like a charm. sweet!
+
+tonight i'll try it on <a href="http://www.shop.toshiba.be/products/Toshiba_product.asp?PRef=PSA15E018PCBT">my laptop</a>, if that works perfect as well, i might go for the hd-install. :p

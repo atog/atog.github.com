@@ -1,0 +1,9 @@
+---
+layout: post
+title: Tapestry Class Reloading.
+---
+Too Cool: "Tapestry Automatic Class Reloading":http://howardlewisship.com/blog/2006/08/tapestry-5-progress-class-reloading.html
+
+bq. This is a huge productivity win: you change your classes and see the changes immediately. No restart, no redeploy. The same logic works for templates and other resources (you make the change, you see the change).
+
+This will be a very, very, very nice feature; when it's finished.

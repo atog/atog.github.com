@@ -1,0 +1,9 @@
+---
+layout: post
+title: Google mail fetcher.
+---
+"Gmail now collects email from other accounts":http://www.hawkwings.net/2006/12/10/gmail-now-collects-email-from-other-accounts/. Ge zult dus tot maximum 5 andere mail accounts (met POP3 access) mail kunnen verzamelen in gmail.
+
+Niet slecht mijn gedacht, nu kan ik eindelijk mijn telenet account ook via gmail lezen... ttz, wanneer het beschikbaar zal zijn natuurlijk. 
+
+Meer info "hier":http://mail.google.com/mail/help/whatsnew_getmail.html en "hier":http://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=21288.

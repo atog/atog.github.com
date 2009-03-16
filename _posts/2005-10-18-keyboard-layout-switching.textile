@@ -1,0 +1,14 @@
+---
+layout: post
+title: Keyboard layout switching.
+---
+p. Eindelijk gevonden, ik herinner mij dat "Tom":http://blogs.cocoondev.org/tomk ook ooit al is een oplossing had, maar die vond ik niet meer terug.
+
+p. Oplossing voor wat? Awel, ik was weeral stevig aan het coderen in VS2003 en ineens: a = q en q = a oftewel mijn keyboard layout was weeral naar iets querty-achtigs gesprongen. Wreed ambetant, normaal herstart ik VS2003 dan en is het probleem opgelost maar daar had ik toch geen goesting voor deze keer.
+
+p. Via een beetje google-magic kwam ik hier terecht: "Word Shortcut Keys":http://www.ddmcomputing.com/word/keys/wdsk01.htm
+
+bq. To switch between languages or keyboard layouts : <code>Left ALT + SHIFT</code>
+
+p. Nu vergeet ik het nooit ni meer.
+

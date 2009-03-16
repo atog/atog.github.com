@@ -1,0 +1,26 @@
+---
+layout: post
+title: MacBook Pro (cont.)
+---
+Na de eerste _wow-ervaring_ zit ik nu de tweede fase: _de tweede wow-ervaring_ Miljaar! :)
+
+Nee serieus nu, er moet natuurlijk ook nog gewerkt worden op dat beestje. Onmiddellijk het eerste probleem natuurlijk, ruby, welke versie zit er in diene OSX: 1.8.2.  Daar kan ne mens niks me doen. Probleem, hoe krijg ik hier de laatste versie op.
+
+"Yahoo":http://yahoo.com to the rescue: "Fink":http://fink.sourceforge.net/ of "MacPorts":http://www.macports.org/ - na nog wat advies uiteindelijk gestart met "MacPorts":http://www.macports.org/.
+
+<code>sudo port -v selfupdate</code><br />
+<code>sudo port install ruby</code><br />
+<code>sudo port install mysql5</code><br />
+<code>sudo port install rb-gems</code><br />
+<code>sudo port install rb-mysql</code><br />
+<code>sudo port install pyton25</code><br />
+<code>sudo port install py-mysql</code><br />
+
+en dan de gems nog:
+
+<code>sudo gem install rails</code><br />
+<code>sudo gem install camping</code><br />
+<code>sudo gem install mongrel</code><br />
+
+en zo kan ik toch al efkes verder mijn gedacht. Wel knap dat ports-gedoen. Ferm.
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Xp-USB.
+---
+"Installing and booting Windows XP from USB drive":http://www.ngine.de/index.jsp?pageid=4176

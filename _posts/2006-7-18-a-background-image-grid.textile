@@ -1,0 +1,11 @@
+---
+layout: post
+title: A background image grid.
+---
+Nifty! : "Using a Background Image Grid to Lay Out Your Web Site":http://www.smileycat.com/miaow/archives/000264.html.
+
+Van een goed idee gesproken. Een image van een grid gebruiken als hulpmiddel voor de layout van een site.  Simpel en toch zooo bruikbaar. "Example here":http://www.smileycat.com/miaow/archives/layout_grid.html.
+
+"Christian":http://www.smileycat.com stelt er zelfs "ÃƒÂ©ÃƒÂ©n ter uwer beschikking":http://www.smileycat.com/miaow/archives/images/misc/layout_grid.gif.  (Thanks!)
+
+<em>via "CSS Beauty":http://www.cssbeauty.com/archives/2006/July/using_a_background_image_grid_to_lay_out_your_web_site/.</em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Capistrano 2.0
+---
+"Misschien wordt het toch eens tijd dat we daar naar kijken.":http://www.rubyinside.com/capistrano-20-flexible-automated-deployment-system-541.html

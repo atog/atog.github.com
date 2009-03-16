@@ -1,0 +1,9 @@
+---
+layout: post
+title: Firefox, Thunderbird Security Updates Released
+---
+<blockquote><a href="http://mozillanews.org/?article=4150515b89d4345237dd181f0936d5da">mozilla.org</a> today releases Mozilla Suite 1.7.2, Firefox 0.9.3, and Thunderbird 0.7.3, which fix several security issues.
+
+Download <a href="http://www.mozilla.org/mozilla1.x/download/">Mozilla Suite</a>, <a href="http://www.mozilla.org/firefox/download.html">Firefox</a>, and <a href="http://www.mozilla.org/thunderbird/download.html">Thunderbird</a>.</blockquote>
+
+uhm, that was yesterday... :P

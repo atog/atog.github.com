@@ -1,0 +1,5 @@
+---
+layout: post
+title: Commenting guide.
+---
+<a href="http://www.lifehacker.com/software/top/special-lifehackers-guide-to-weblog-comments-126654.php"> LifehackerÃ¢â‚¬â„¢s guide to weblog comments</a>.

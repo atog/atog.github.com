@@ -1,0 +1,9 @@
+---
+layout: post
+title: Gtalk - Open Federation.
+---
+Deze morgen gelezen: "DreamHost and Google are Talking!":http://blog.dreamhost.com/2006/01/17/dreamhost-and-google-are-talking/ en verder naar "Open federation for Google Talk":http://googleblog.blogspot.com/2006/01/open-federation-for-google-talk.html
+
+bq. "Open federation" is technical jargon for when people on different services can talk to each other.
+
+Op zich niet echt spectaculair, maar toch plezant mijn gedacht. Nu kan ik ook non-talk-users toevoegen, of misschien moet ik toch maar is gebruik gaan maken van de "Dreamhost-jabber-service":http://dreamhost.com/press.cgi?id=2699 ... maar dan kan ik de schone GTalk client niet meer gebruiken... ai ai ai dilemma's dilemma's.

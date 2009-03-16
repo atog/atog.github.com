@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google Promo for Firefox.
+---
+"Google Promo for Firefox":http://www.spreadfirefox.com/node/23155.

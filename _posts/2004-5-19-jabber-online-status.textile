@@ -1,0 +1,9 @@
+---
+layout: post
+title: Jabber online status
+---
+Sweet! Show your Jabber online status on your blog (or whatever you want) via <a href="http://edgar.netflint.net">Edgar</a>
+
+<blockquote>Edgar is a Jabber bot who's primary focus is to provide users' status information on webpages. He can also remind you of things, tell you when a user was last on, etc. He was originally developed to provide status information on the Psi Community Forums.</blockquote>
+
+You can see mine on the <a href="http://atog.be/about.php">about</a> page.

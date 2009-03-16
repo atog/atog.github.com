@@ -1,0 +1,11 @@
+---
+layout: post
+title: Playing with KDE.
+---
+A couple of days ago I installed <a href="http://www.kde-apps.org/content/show.php?content=6585">KSmoothDock</a>, they call it a cool alternative/complement to kicker. Well it's nice and looks good and things like that but yesterday I decided to remove it again.  It doesn't really replace kicker so what's the point in having two of them? 
+
+I was actually quiet surprised I could remove it so easily:
+<code>make uninstall</code>
+
+Is there a way to <em>replace</em> kicker? I would like to know. <a href="http://google.com">Google</a> to the rescue.
+

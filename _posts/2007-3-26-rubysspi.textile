@@ -1,0 +1,5 @@
+---
+layout: post
+title: RubySSPI.
+---
+"RubySSPI is Big News for Ruby Developers on Windows":http://www.infoq.com/news/2006/11/rubysspi-gem-released - Ge moogt gerust dat dat groot nieuws is. Spijtig dat ik het nu pas te weten kom.

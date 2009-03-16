@@ -1,0 +1,14 @@
+---
+layout: post
+title: VIM - autoindent no more.
+---
+<a href="http://www.vim.org/tips/tip.php?tip_id=330">Great VIM tip, turn of annoying autoindenting completely</a>:
+<blockquote>Put this in your .vimrc file
+<code>set nocindent 
+set nosmartindent 
+set noautoindent 
+set indentexpr= 
+filetype indent off 
+filetype plugin indent off</code></blockquote>
+
+Works for me.

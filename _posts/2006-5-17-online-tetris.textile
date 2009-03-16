@@ -1,0 +1,9 @@
+---
+layout: post
+title: Online Tetris.
+---
+Ja! Eindelijk nog is een spelleke. "Dustin Diaz":http://www.dustindiaz.com heeft een "cross-browser, standard compliant Tetris":http://www.dustindiaz.com/basement/tetris.html geschreven met de "YUI library":http://developer.yahoo.com/yui. 't is knap mijn gedacht.
+
+"Enjoy!":http://www.dustindiaz.com/basement/tetris.html :P
+
+<em>via "CSS Beauty":http://www.cssbeauty.com/archives/2006/May/cross_browser_yui_tetris_game/</em>

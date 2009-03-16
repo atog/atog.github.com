@@ -1,0 +1,16 @@
+---
+layout: post
+title: Convert gif to png on OSX.
+---
+Ik moest vanavond een kleine 40 gifkes omzetten naar png's. Onder windows hebt ge daar normaal wel een of ander tooltje voor, maar op OSX, no idea.
+
+5 min later via "Macosxhints.com":http://www.macosxhints.com/article.php?story=20051225191249727&lsrc=osxh ontdekt dat er zoiets bestaat als <code>sips</code>.
+
+Command line is altijd plezant dus snel "irb":http://www.rubycentral.com/book/irb.html starten, en dit was het resultaat:
+
+<code>Dir.glob("*.gif").each do |f|</code><br />
+<code>system("sips -s format png #{f} --out #{f.gsub('.gif','.png')}")</code><br />
+<code>system("rm #{f}")</code><br />
+<code>end</code><br />
+
+Voila, any questions? :P

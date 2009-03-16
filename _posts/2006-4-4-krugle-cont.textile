@@ -1,0 +1,7 @@
+---
+layout: post
+title: Krugle (cont.)
+---
+"Een tijdje geleden had ik het over krugle":articles/2006/02/08/krugle, wel vandaag zat er een mail in mijn inbox van "die mannen":http://www.krugle.com met "een link naar een demo":http://www.krugle.com/demos/Overview5_800.html.
+
+Beziet em maar is, het is knap (qua interface) en het ziet er goed uit (qua tool). Of het ook echt bruikbaar zal zijn, daar zal ik het eerst effectief is voor moeten testen maar *so far, so good* ;)

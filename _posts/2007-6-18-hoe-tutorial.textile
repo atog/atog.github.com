@@ -1,0 +1,5 @@
+---
+layout: post
+title: Hoe Tutorial.
+---
+"Tutorial: Publishing RubyGems with Hoe":http://nubyonrails.com/articles/tutorial-publishing-rubygems-with-hoe

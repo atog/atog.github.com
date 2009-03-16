@@ -1,0 +1,5 @@
+---
+layout: post
+title: A Switcher's Guide.
+---
+"A Switcher's Guide to Windows / OS X":http://www.extremetech.com/article2/0,1697,1953186,00.asp 

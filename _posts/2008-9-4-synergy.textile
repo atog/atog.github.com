@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Synergy
+--- 
+bq. Synergy lets you easily share a single mouse and keyboard between multiple computers with different operating systems, each with its own display, without special hardware. It's intended for users with multiple computers on their desk since each system uses its own monitor(s). 
+
+Ik had er al dikwijls goeie dingen over gehoord, maar nooit echt behoefte gehad om het zelf te proberen. Vandaag dus wel. OS X en Windows XP. Ik wou het eerst regelen met "Remote Desktop Connection for Mac":http://www.microsoft.com/mac/products/remote-desktop/default.mspx maar dat werkt blijkbaar enkel met Windows XP _Professional_ en diene bak die ik heb staan is _Home Edition_.
+
+"Tom":http://tomklaasen.net/ kwam toen af met "Synergy":http://synergy2.sourceforge.net/. Ah ja, "Synergy":http://synergy2.sourceforge.net/. :)
+
+@sudo port install synergy@
+
+... volg de "configuratie instructies":http://synergy2.sourceforge.net/running.html en 5 minuten later werkt het. Fantastisch.
+
+Dat vind ik nu een straf stukske software se.

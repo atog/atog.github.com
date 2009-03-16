@@ -1,0 +1,13 @@
+---
+layout: post
+title: Safari keyword search.
+---
+Sinds ik via "TUAW":http://www.tuaw.com/2008/02/25/keywurl-adds-keyword-searching-to-safari/ de "keywurl plugin voor Safari":http://purefiction.net/keywurl/ gevonden Ã©n geinstalleerd heb, ben ik vÃ©Ã©l gelukkiger.
+
+_Echt?_ Nee, tuurlijk niet :P
+
+Het is wel zo, dat het werkt, en dat ik ongeveer diezelfde dag "Inquisitor":http://www.inquisitorx.com/safari/ de deur heb gewezen (langs de vuilbak).
+
+bq. A small, free plugin for Safari that adds keyword search to the browserâ€™s address bar.
+
+... dat is "keywurl":http://purefiction.net/keywurl/.

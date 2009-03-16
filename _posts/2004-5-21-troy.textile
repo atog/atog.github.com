@@ -1,0 +1,13 @@
+---
+layout: post
+title: Troy
+---
+<a href="http://troymovie.warnerbros.com/"><img src="http://atog.be/p/m/troy.jpg"  class="left" alt="Troy - the movie" /></a>Last Thursday I finally saw <a href="http://troymovie.warnerbros.com/">Troy</a>, starring <a href="http://www.imdb.com/name/nm0000093/">Brad Pitt</a> and <a href="http://www.imdb.com/title/tt0332452/">many others</a>.
+
+I liked it a lot. Really. The only thing I had problems with is, chosing sides. Who are the good guys? Who are the bad guys? Sounds stupid? :D
+
+I'll give it 8/10. 
+
+Finally I could read <a href="http://nephilim.vinean.be/blog/index.php?p=65">nephilim's review</a>. I also gonna take this opportunity to see whether I can send any trackbacks with this new version of <a href="http://wordpress.org">Wordpress (1.2RC2)</a>
+
+<strong>update:</strong> Looks like the trackback I send to <a href="http://nephilim.vinean.be/blog">nephilim</a>, is not showing up. The pinging to technorati and blo.gs seems to be working. Conclusion?

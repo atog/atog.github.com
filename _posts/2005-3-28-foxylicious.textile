@@ -1,0 +1,5 @@
+---
+layout: post
+title: Foxylicious.
+---
+<a href="http://dietrich.ganx4.com/foxylicious/">Firefox Foxylicious extension</a> syncs your <a href="http://del.icio.us">del.icio.us</a> bookmarks into your browser bookmarks.

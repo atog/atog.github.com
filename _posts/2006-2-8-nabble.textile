@@ -1,0 +1,20 @@
+---
+layout: post
+title: Nabble.
+---
+Ik was lekker aan het _Googlen_ toen ik forum posts tegenkwam van "Nabble":http://www.nabble.com
+
+Que? Nabble?
+bq. The basics: <br/>
+Free Hosted Public Forums<br />
+Our forums are truly public, democratic and absolutely free. Nabble's advanced community filtering gives you only the best content without the need for moderation. Find forums that interest you or easily start your own in minutes.
+
+Wat ik dan weer goe vind is het volgende: 
+
+bq. Archive your mailing list messages to a fully functional forum. Make it easy for users to browse and search archived e-mails. Users can even post to the Nabble forum and we will forward these posts to your mailing list.
+
+en "Matt Raible zegt het zo schoon":http://raibledesigns.com/page/rd?entry=free_forums_from_nabble_com#comment2 waarom het net iets beter is dan alle andere.
+
+* "java.net forum":http://www.nabble.com/Java.net-f13449.html
+* "ruby-talk forum":http://www.nabble.com/ruby-talk-f13890.html
+* "RubyOnRails forum":http://www.nabble.com/RubyOnRails-Users-f13831.html

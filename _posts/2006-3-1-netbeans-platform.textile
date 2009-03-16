@@ -1,0 +1,7 @@
+---
+layout: post
+title: NetBeans platform.
+---
+Maybe you already saw "Roumen's presentation":http://blogs.sun.com/roller/page/roumen?entry=new_netbeans_platform_flash_presentation1 but if you didn't, I suggest you do it right away.
+
+I'm using NetBeans 5.0 now, *and I like very much as well* but I never knew it was that easy to use the platform beneath it. Neat! Neat! Neat! ;)

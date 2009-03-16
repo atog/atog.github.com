@@ -1,0 +1,12 @@
+---
+layout: post
+title: Locate your tasks.
+---
+Nieuwe feature van "remember the milk":http://www.rememberthemilk.com/, "put your tasks on the map":http://blog.rememberthemilk.com/2006/09/put-your-tasks-on-map.html. 
+
+Awel 't is proper. Vanaf nu kunt ge dus ook een locatie aan uw task hangen. Met als gevolg, dat ge een mooi overzicht krijgt op de kaart van welke tasks ge op welke locaties nog te doen hebt. Het is een implementatie van de "Google Maps api":http://maps.google.com/ dus ge krijgt er nog nen hele hoop schoon features bij.
+
+Aja, ook handig, *smart clustering*:
+bq. As you adjust the zoom level on the map, locations are automatically grouped to show which tasks are close to others.
+
+Toch allemaal plezant eh! ;)

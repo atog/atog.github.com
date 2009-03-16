@@ -1,0 +1,9 @@
+---
+layout: post
+title: Struize vogel.
+---
+Zalig toch, dat weer! Rust. Buiten zijn. Niet veel doen :P
+
+Quote van de dag komt van ons Mila:
+
+_"Daaaag struize vogel."_

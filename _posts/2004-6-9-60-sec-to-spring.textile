@@ -1,0 +1,5 @@
+---
+layout: post
+title: 60 sec to Spring
+---
+Great! <a href="http://gabriel.jarchitect.org/spring/">Very quick tutorials</a> on <a href="http://www.springframework.org/">Spring</a> by <a href="http://jroller.com/comments/jarchitect/Weblog/60_sec_spring_framework_tutorials">Gabriel</a> 

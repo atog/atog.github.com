@@ -1,0 +1,5 @@
+---
+layout: post
+title: Custom Date and Time.
+---
+"Adding Custom Date and Time Formats":http://codefluency.com/2006/12/5/adding-date-and-time-formats.

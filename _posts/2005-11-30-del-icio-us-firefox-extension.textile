@@ -1,0 +1,6 @@
+---
+layout: post
+title: del.icio.us Firefox extension.
+---
+"Extend you firefox 581%":http://blog.del.icio.us/blog/2005/11/extend_your_fir.html, 
+a "del.icio.us":http://del.icio.us "Firefox":http://www.mozilla.com/firefox/ "extension":http://del.icio.us/help/firefox/extension

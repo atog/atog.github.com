@@ -1,0 +1,7 @@
+---
+layout: post
+title: exception handling in web applications
+---
+good read, very useful we thinks... :p
+
+<p><a href="http://weblogs.java.net/pub/wlg/987">Exception Handling in Web Applications</a> by Bob Lee -- Avoid exception handling pitfalls and troubleshoot web applications effortlessly with this simple recipe.</p>

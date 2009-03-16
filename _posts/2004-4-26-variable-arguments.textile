@@ -1,0 +1,9 @@
+---
+layout: post
+title: Variable Arguments
+---
+I must have missed this, I didn't know this was a new language feature. Definitely a good move to put that one in.
+
+an example from the <a href="http://today.java.net/pub/a/today/2004/04/19/varargs.html">article on Java.net</a>:
+
+<strong>update:</strong> I had to remove the example because of feed-errors :P

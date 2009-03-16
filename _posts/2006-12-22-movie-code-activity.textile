@@ -1,0 +1,20 @@
+---
+layout: post
+title: Movie code activity.
+---
+Een goeie opsomming van al wat code *niet* doet van wat het *wel* doet in films: "What code DOESN'T do in real life (that it does in the movies)":http://www.drivl.com/posts/view/494
+
+# Code does not move.
+# Code is not green text on a black background.
+# Code has structure.
+# Code is not three dimensional.
+# Code does not make blip noises as it appears on the screen.
+# Code cannot be cracked by an 8 year old kid in a matter of seconds.
+# Not all code is meant to be cracked.
+# Code isn't just 0100110 010101 10100 011.
+# People who write code use mice.
+# Most code is not inherently cross platform.
+
+Go on, "read it":http://www.drivl.com/posts/view/494, I'm sure it will put a smile on your face. :)
+
+<em>via "Asfaltkonijn":http://www.asfaltkonijn.be/2006/12/21/code-isnt-just-0100110-010101-10100-011/</em>

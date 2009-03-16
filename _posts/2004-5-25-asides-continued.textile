@@ -1,0 +1,21 @@
+---
+layout: post
+title: Asides continued
+---
+As you may or may not have noticed already, the asides  are back in place.  I did some wp-hacking, sounds cool eh, don't you think so? :P
+
+You can find my current my-hacks file <a href="http://atog.be/playground/my-hacks.txt">here</a>.  I'm pretty new to php and <a href="http://wordpress.org">wordpress</a> so if these functions can be improved, I'm listening.
+
+I also changed the "recent_posts" function to take these asides into account. We don't want to see things twice, now do we?
+
+So, what did I put in the index template:
+<em>outside the loop</em>
+<code>&lt;?php if (!$single) { ?&gt;
+                &lt;div id="asides"&gt;&lt;?php get_asides(8, 5); ?&gt;&lt;/div&gt;&lt;div class="clearer">&lt;/div&gt;
+            &lt;?php } ?&gt;
+</code>
+
+<em>and inside the loop</em>
+<code>&lt;?php if (!in_category(8) || $single) { ?&gt;</code>
+
+Tsjak, tsjak :)

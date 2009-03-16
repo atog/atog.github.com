@@ -1,0 +1,14 @@
+---
+layout: post
+title: KDE 3.3 on Slackware 10.
+---
+Last night I installed the new <a href="http://kde.org/">KDE</a> version (3.3) on <a href="http://slackware.com">Slackware 10</a>.  It was a hassle free installation and works like a charm. Actually, everything works like a charm on <a href="http://slackware.com">Slackware</a>. When I first installed it on my laptop I thought I would encounter more problems. 
+
+For you're interest, here's what I did:
+(as found on <a href="http://www.linuxquestions.org/questions/index.php">linuxquestions.org</a>) 
+
+<code>download kde3.3 slackware packages
+change to runlevel 3
+removepkg /var/log/packages/*kde*
+installpkg /all_kde3.3_packages/*.tgz
+change to runlevel 4, reboot or startx</code>

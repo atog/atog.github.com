@@ -1,0 +1,13 @@
+---
+layout: post
+title: ViewGem.
+---
+"Bruce Williams":http://codefluency.com/ komt op de proppen met "een fijn ruby scriptje":http://codefluency.com/articles/2008/08/10/viewgem-a-little-script/.
+
+Wanneer je met ruby bezig bent, gebruik je zeker ook gems en meer dan waarschijnlijk heb je al door de code van die verschillende gems liggen ploeteren. Waar staan die ook alweer? ;)
+
+Met "ViewGem":http://codefluency.com/articles/2008/08/10/viewgem-a-little-script/ open je _gewoon_ de gem in "textmate":http://macromates.com/ (standaard op osx, anders vi). Je moet het proberen om te weten hoe gemakkelijk het is :)
+
+Easy as pie.
+
+@$ viewgem rails -v '< 1.2.0'@

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Slackware 10 Tutorial
+---
+<a href="http://www.insyte.uni.cc/">Insyte's Slackware 10 Tutorial - HOWTO</a> Not bad, not bad at all.

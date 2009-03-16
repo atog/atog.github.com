@@ -1,0 +1,9 @@
+---
+layout: post
+title: dynaop 1.0 beta (AOP framework)
+---
+bob lee releases <a href="https://dynaop.dev.java.net/">dynaop 1.0 beta</a> and it comes with a   <a href="http://crazybob.org/dynaop/1.0-beta/manual/ch01.html">manual</a>. :p nice!
+
+will this effort make me explore AOP further? who knows? i must say, i like the <a href="http://crazybob.org/dynaop/1.0-beta/manual/ch01.html">manual</a> and the examples.
+
+<blockquote><a href="http://weblogs.java.net/pub/wlg/1001">dynaop 1.0 beta</a> by Bob Lee -- dynaop, a proxy-based Aspect-Oriented Programming (AOP) framework, enhances Object-Oriented (OO) design in the areas of code reuse, decomposition, and dependency reduction.</blockquote>

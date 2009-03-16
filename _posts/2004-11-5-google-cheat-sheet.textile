@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google cheat sheet.
+---
+<a href="http://www.google.com/help/cheatsheet.html">Google Cheat Sheet</a>. <em>via <a href="http://percept.be/article/133/">Bart</a></em>

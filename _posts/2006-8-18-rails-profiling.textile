@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails profiling.
+---
+"Memory leak profiling with Rails":http://scottstuff.net/blog/articles/2006/08/17/memory-leak-profiling-with-rails. Useful. Definitely.

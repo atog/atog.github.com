@@ -1,0 +1,5 @@
+---
+layout: post
+title: GParted live cd.
+---
+"Review: GParted LiveCD 3.1-1":http://techgage.com/article/gparted_livecd_31-1.

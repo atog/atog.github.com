@@ -1,0 +1,9 @@
+---
+layout: post
+title: The best has yet to come
+---
+<a href="http://www.theregister.co.uk/content/6/36709.html">File sharers not guilty of copyright infringement - Canadian judge</a>
+
+<blockquote>"I cannot see a real difference between a library that places a photocopy machine in a room full of copyrighted material and a computer user that places a personal copy on a shared directory linked to a P2P service" <a href="http://www.theregister.co.uk/content/6/36709.html">[more]</a></blockquote>
+
+true. true.

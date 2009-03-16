@@ -1,0 +1,16 @@
+---
+layout: post
+title: RubyEnRails 2008.
+---
+Gisteren zijn we met een troep Belgen naar Amsterdam afgezakt voor "RubyEnRails 2008":http://2008.rubyenrails.nl/.
+
+Goed georganiseerd, betrekkelijk veel volk en interessante talks/presentaties.
+
+* Zed Shaw (EaRing ;)) en Obie Fernandez (How not to do it), plezant om die mannen eens bezig te zien, vooral die eerste. :)
+* Norbert Crombach (Ruby patterns) die kwam niet echt nieuwe dingen vertellen. Beetje teleurgesteld.
+* Phusion (Passenger), van die mannen gaan we nog horen.
+* Roderick van Domburg (Rails Software Metrics), testen testen testen, ook niet tÃ© veel natuurlijk maar toch.
+* iChat Q&A session DHH. Fijn.
+* Heineken en leverworst! euh ...
+
+Oh, en wanneer je 6 maanden niet op een trein hebt gezeten, dan is het echt niet plezant om een paar uur vertraging te hebben. Ã‰cht niet.

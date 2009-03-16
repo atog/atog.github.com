@@ -1,0 +1,9 @@
+---
+layout: post
+title: gada.be
+---
+p. Nifty! "gada.be":http://www.gada.be een nieuwe tag meta search engine. Wat is er speciaal aan? Awel, bij den deze zoekt ge door middel van het subdomein. Ideaal om te bookmarken dus ;)
+
+p. bv "http://ruby.gada.be":http://ruby.gada.be
+
+p. _ "Een review op TechCrunch":http://www.techcrunch.com/2005/10/10/gada-tag-meta-search-done-right/ _

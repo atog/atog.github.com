@@ -1,0 +1,18 @@
+---
+layout: post
+title: Restart your rails app using Passenger.
+---
+Sinds gisteren gebruik ik "Phusion Passenger":http://modrails.com/ voor mijn rails development. Waarom? Geen idee. Het is nieuw en nieuwe dingen moeten getest worden :)
+
+Tot nu toe ben ik er redelijk content van. Het werkt, wat kan je nog meer verwachten?
+
+Ik heb mijn installatie gedaan via "Using Passenger on OS X for Rails development":http://www.fngtps.com/2008/04/using-passenger-on-osx-for-rails-development en "Ask Your Doctor About mod_rails":http://nubyonrails.com/articles/ask-your-doctor-about-mod_rails.
+
+Om maar te komen tot wat ik eigenlijk wou zeggen; wanneer ge met "Phusion Passenger":http://modrails.com/ werkt hebt ge het volgende niet meer nodig: @script/server@.
+
+Dat is allemaal heel tof maar af en toe wilt ge uw rails app wel eens herstarten. Dat doet ge via volgende commando: 
+
+@touch tmp/restart.txt'@
+
+"... zoals beschreven in de  docs":http://modrails.com/documentation/Users%20guide.html#_redeploying_restarting_the_ruby_on_rails_application.
+

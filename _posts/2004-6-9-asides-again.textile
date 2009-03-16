@@ -1,0 +1,9 @@
+---
+layout: post
+title: Asides (again)
+---
+While browsing the <a href="http://wordpress/support">Wordpress forum</a> I ran into a <em><a href="http://mookitty.co.uk/devblog/category/show-categories/">show categories plugin</a></em> developed by <a href="http://mookitty.co.uk/devblog/">Kitten</a>. 
+
+Since this is a much cleaner implementation than <a href="http://atog.be/archives/2004/05/25/asides-continued/">what I initially came up with</a>, the asides are now powered by the <a href="http://mookitty.co.uk/devblog/category/show-categories/">show categories plugin</a>.
+
+Good job!

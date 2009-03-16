@@ -1,0 +1,23 @@
+---
+layout: post
+title: java test
+---
+strange, i just bumped into this question on <a href='http://www.javafaq.nu/java/500/index.shtml?hop=jspecialis.javafaq'>Java FAQ</a>
+
+look at this code, and you have to run it like this : <b>java test *</b>
+
+<blockquote><strong>&nbsp;&nbsp;&nbsp; class test{ <br>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; public static void main(String args[]){ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; for (int i = 0;i &lt; args.length; i++) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(&quot;File &quot; + i
+      + &quot;:&quot; + args[i]); <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (args.length&lt;=0) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System.out.println(&quot;No files!&quot;); <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>&nbsp;&nbsp;&nbsp; }</strong></blockquote>
+
+you know what it does? it lists all the files in the current directory!
+i have to investigate this, i <b>need</b> to know the exact reason.
+
+is it just a windows-thing or is it a java-thing?
+
+if anyone has an explanation before i come up with one, i will be glad to hear it :)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: nutch
+---
+<a href='http://www.nutch.org/'>nutch</a> is an open-source web search engine based on <a href='http://jakarta.apache.org/lucene/docs/index.html'>jakarta lucene</a>.
+
+got it via <a href='http://news.com.com/2100-1032_3-5064913.html'>this article on cnet</a>.
+
+also, there was recently <a href='http://today.java.net/pub/a/today/2003/07/30/LuceneIntro.html'>an intro</a> to <a href='http://jakarta.apache.org/lucene/docs/index.html'>lucene</a> published on <a href='http://java.net'>java.net</a> by <a href='http://weblogs.java.net/pub/wlg/367'>Erik Hatcher</a>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: RSS Bandit
+---
+<a href="http://www.rssbandit.org/">RSS Bandit</a> is really a great aggregator. Works like a charm and the remote storage feature is the best of all. :D
+
+<a href="http://www.wouter.net/">Wouter</a> pointed it out to <a href="http://atog.be/archives/2004/06/16/read-some-feeds/#comment-82">me</a>, thanks ;)

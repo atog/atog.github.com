@@ -1,0 +1,5 @@
+---
+layout: post
+title: Camping 1.5 is out!
+---
+"Camping 1.5 is out!":http://redhanded.hobix.com/inspect/campingIsStillYour4kPinkyframework.html 

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Whois via Terminal.app
+---
+"Dat is nu nog eens een tip":http://www.tuaw.com/2008/03/13/terminal-tip-using-whois/ waarvan ik dacht _"Miljaar dat is handig!"_
+
+Je kan dus blijkbaar whois informatie opvragen vanuit een Terminal.app window op OS X.
+
+

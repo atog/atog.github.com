@@ -1,0 +1,5 @@
+---
+layout: post
+title: Internals of Java Class Loading
+---
+<a href="http://www.onjava.com/pub/a/onjava/2005/01/26/classloading.html">Internals of Java Class Loading</a> ... is on my TO-READ list. <em>via <a href="http://www.javalobby.org/forums/thread.jspa?threadID=16922">Javalobby</a></em>

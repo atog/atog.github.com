@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox 0.9 any minute now
+---
+Good news: <a href="http://blog.codefront.net/archives/2004/06/07/firefox_09_could_be_out_in_a_week.php">Firefox 0.9 could be out in a week</a> 

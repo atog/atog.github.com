@@ -1,0 +1,7 @@
+---
+layout: post
+title: Belgium weather.
+---
+<a href="http://www.sken.be/life/2004/07/11/">Nice picture taken by Stijn which captures the weather in Belgium</a>.  It's been like that for over a week now.  
+
+Rain, rain, 5 minutes of sunshine, rain again.  Luckily the temperature is <em>ok</em>. Oh well, let's hope it will get better soon.

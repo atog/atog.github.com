@@ -1,0 +1,10 @@
+---
+layout: post
+title: Thunderbird multiple identities
+---
+Since <a href="http://www.mozilla.org/products/thunderbird/releases/">Thunderbird 0.5</a> you have the ability to specify multiple identities for one account. Maybe other people know it as email aliases. However this is not yet possible via the app itself, you have to modify a <a href="http://texturizer.net/thunderbird/edit.html">config</a> file.
+
+It is described step by step in <a href="http://www.mozilla.org/projects/thunderbird/identities.html">Multiple Identity Support</a>
+
+Now that I recently installed <a href="http://www.mozilla.org/products/thunderbird/releases/">Thunderbird 0.6</a>, I remembered this multiple identity feature and gave it a go. 
+It works. What else would you expect? :)

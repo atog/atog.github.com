@@ -1,0 +1,5 @@
+---
+layout: post
+title: Spring Web Flow.
+---
+<a href="http://www.javalobby.org/articles/spring-webflow/">Good article on Spring Web Flow over at Javalobby</a>.

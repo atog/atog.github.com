@@ -1,0 +1,11 @@
+---
+layout: post
+title: go asia go
+---
+i wish there were more initiatives like <a href='http://australianit.news.com.au/articles/0,7204,7129744%5E15321%5E%5Enbv%5E15306,00.html'>this:	Asia to develop Windows rival</a> :)
+
+<blockquote>Japan, China and South Korea plan to develop an original operating system in a bid to challenge the domination of Microsoft Windows.<br>
+...<br>
+The governments of the three countries will consider subsidising the project...</blockquote>
+
+go go go! :)  a bit more competition is healty.

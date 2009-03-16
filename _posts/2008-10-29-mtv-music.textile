@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: MTV Music
+--- 
+"MTV Music":http://www.mtvmusic.com/ - online music clips. I Like.
+
+<notextile> 
+<embed src="http://media.mtvnservices.com/mgid:uma:video:mtvmusic.com:99035" width="320" height="271" type="application/x-shockwave-flash" flashVars="dist=http://www.mtvmusic.com" allowFullScreen="true" AllowScriptAccess="never"></embed>
+<div style="margin:0; text-align:center; width:320px;font-family:Arial,sans-serif;font-size:10px;"><a style="color:#000000;" href="http://www.mtv.com/music/artist/system_of_a_down/artist.jhtml">System of a Down</a> |<a style="color:#000000;" href="http://www.mtvmusic.com/">MTV Music</a></div>
+</notextile> 
+
+<notextile> 
+<embed src="http://media.mtvnservices.com/mgid:uma:video:mtvmusic.com:18180" width="320" height="271" type="application/x-shockwave-flash" flashVars="dist=http://www.mtvmusic.com" allowFullScreen="true" AllowScriptAccess="never"></embed>
+<div style="margin:0; text-align:center; width:320px;font-family:Arial,sans-serif;font-size:10px;"><a style="color:#000000;" href="http://www.mtv.com/music/artist/korn/artist.jhtml">Korn</a> |<a style="color:#000000;" href="http://www.mtvmusic.com/">MTV Music</a></div>
+</notextile> 
+	
+<em>via "T-zine":http://tijdblogs.typepad.com/tzine/2008/10/mtv-gooit-duize.html</em>.

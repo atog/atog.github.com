@@ -1,0 +1,5 @@
+---
+layout: post
+title: matrix revelations
+---
+this is a good read : <a href="http://www.wired.com/wired/archive/11.11/matrix.html?pg=1&topic=&topic_set=">Matrix Revelations, The Wachowski Brothers FAQ</a>

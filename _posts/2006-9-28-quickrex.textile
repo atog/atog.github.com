@@ -1,0 +1,5 @@
+---
+layout: post
+title: QuickREx.
+---
+"QuickREx":http://www.bastian-bergerhoff.com/eclipse/features/web/QuickREx/toc.html - eclipse plugin for regular expressions <em>via "Howard":http://howardlewisship.com/blog/2006/09/very-handy-regular-expression-tool.html</em>

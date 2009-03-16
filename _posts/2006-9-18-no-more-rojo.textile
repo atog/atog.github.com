@@ -1,0 +1,11 @@
+---
+layout: post
+title: No more Rojo.
+---
+Damn, you "Rojo":http://www.rojo.com. Until this morning I was a happy rojo-user. _Until this morning..._
+
+Deze morgen wou ik mijn dagelijkse portie feeds lezen maar wat zag ik: *rojo unavailable*. Ok, die mensen hebben ook werk, ze zullen een update aan het doen zijn, dacht ik. Ongeveer een half uur later zag ik dat ik gelijk had. "Rojo":http://www.rojo.com was up and running - in een nieuw kleedje. 
+
+De nieuwe design is zeker de moeite waard. Echt een verbetering, het leest beter. Daar stopt het dan ook. Het leest beter, *als* er al iet te lezen valt. Om de 5 voet zijn al mijn feeds leeg. Niks, dan moet ik uitloggen, inloggen, een paar keer refreshen...en *dan* kan ik toch wel een paar feeds lezen waarna _zie begin van deze zin en repeat until ge het moe zijt_.
+
+Spijtig. Misschien dat het binnen een paar dagen beter is, maar op deze moment vind ik het totaal onbruikbaar.

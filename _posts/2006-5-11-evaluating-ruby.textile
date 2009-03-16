@@ -1,0 +1,5 @@
+---
+layout: post
+title: Evaluating Ruby.
+---
+"Evaluating Ruby":http://martinfowler.com/bliki/EvaluatingRuby.html by "Martin Fowler":http://www.martinfowler.com/.

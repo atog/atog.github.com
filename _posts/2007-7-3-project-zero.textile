@@ -1,0 +1,7 @@
+---
+layout: post
+title: Project zero.
+---
+IBM stelt voor: "Project Zero":http://www.projectzero.org/wiki/bin/view/ _Zero complexity. Zero overhead. Zero obstacles._ -- Zero use? Het zal wel weer aan mij liggen maar ik zie hier niks in. Maar dan ook niks. 
+
+Groovy? PHP? Community-Driven Commercial Development process??

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Technorati Link Count Widget.
+---
+"Technorati":http://technorati.com heeft een "nieuw javascript widgetje":http://technorati.com/tools/linkcount/ om te tonen hoeveel blogs er naar je post linken. Dat is wel plezant wanneer er per post een stuk of 100 zijn, maar als daar elke keer 0 staat is dat toch de moeite niet mijn gedacht.
+
+"Introducing the Technorati Link Count Widget":http://technorati.com/weblog/2006/11/209.html
+
+Het volgende:
+
+<code><script src="http://embed.technorati.com/linkcount" type="text/javascript"></script>
+<a href="http://technorati.com/search/{URL}" rel="linkcount">View blog reactions</a></code>
+
+ziet er dan zo uit: <script src="http://embed.technorati.com/linkcount" type="text/javascript"></script>
+<a href="http://technorati.com/search/http://atog.be/2006/11/21/technorati-link-count-widget" rel="linkcount">View blog reactions</a>
+
+<em>via "SimpleBits":http://www.simplebits.com/notebook/2006/11/20/technorati.html</em>
+

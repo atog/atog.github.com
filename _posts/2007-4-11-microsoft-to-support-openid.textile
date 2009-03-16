@@ -1,0 +1,5 @@
+---
+layout: post
+title: Microsoft to support OpenID.
+---
+"Goed nieuws voor het hele OpenID gebeuren":http://identity20.com/?p=90 <em>via "Digital Media Minute":http://www.digitalmediaminute.com/</em>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Too many frameworks.
+---
+I believe "Vikram Goyal":http://weblogs.java.net/blog/gvix/archive/2006/05/java_frameworks.html is right. There *are* too many java frameworks and us, java developers, all would want to write our own. The bag of frameworks is so big, one could easily pick the wrong one for a particular job.
+
+That's what makes "Ruby on Rails":http://rubyonrails.org so successful IMO. There is only one. So if you want to build a webapp and you want to do it in ruby, there are no hard choices (_which framework?_) to make.

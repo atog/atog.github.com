@@ -1,0 +1,5 @@
+---
+layout: post
+title: ShadedBorder.
+---
+"JavaScript Round Corners with Drop Shadow":http://www.ruzee.com/blog/shadedborder <em>via "Ajaxian":http://ajaxian.com/archives/shadedborder-javascript-round-corners-with-drop-shadow</em>.

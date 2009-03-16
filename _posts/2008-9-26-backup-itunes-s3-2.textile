@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Backup your iTunes to S3 (2)
+--- 
+50 lijnen minder sinds "vorige versie":http://atog.be/2008/9/17/backup-itunes-s3/ :)
+
+Lijnen zijn niet belangrijk maar de wijzigingen wel. Ik heb het hele _memory_ gedoen er uit gegooid. Na het enkele keren gebruikt te hebben blijkt dat de iTunes trackIds in de XML écht *niet* te vertrouwen zijn. 
+
+Nu halen we gewoon een lijst op van alle songs die al S3 staan, en vervolgens zetten we de rest erbij. Dat moet ook maar één keer per run. Simpel. Ik vraag me af waarom ik dat niet van in het begin zo gedaan heb.
+
+We leven om te refactoren, nietwaar? ;)
+
+"Backup your iTunes library to Amazon S3 op GitHub":http://gist.github.com/11226.

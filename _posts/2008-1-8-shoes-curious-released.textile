@@ -1,0 +1,13 @@
+---
+layout: post
+title: Shoes Curious Released.
+---
+p=. "!http://atog.be/assets/2008/1/8/shoes-logo.png!":http://code.whytheluckystiff.net/shoes/ 
+
+"Shoes Curious has been released today":http://hackety.org/2008/01/08/shoesCuriousReleased.html en dat is toch groot nieuws mijn gedacht.
+
+"Shoes":http://code.whytheluckystiff.net/shoes/ zal geen versie 1.0 hebben. De releases zullen altijd een naam krijgen + een versie nummer (subversion).
+
+De 'recommended builds' voor elke omgeving (OS X, Windows, Linux) vind je "hier":http://hackety.org/2008/01/08/shoesCuriousReleased.html.
+
+<em>Voor zij die het nog niet weten, "Shoes":http://code.whytheluckystiff.net/shoes/ is een kleine Ruby GUI toolkit developed by "_why":http://whytheluckystiff.net/</em>. ("my barcamp presentation on Shoes":http://www.slideshare.net/atog/shoes-189921).

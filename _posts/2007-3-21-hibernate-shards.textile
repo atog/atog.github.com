@@ -1,0 +1,5 @@
+---
+layout: post
+title: Hibernate Shards.
+---
+"Hibernate Shards":http://shards.hibernate.org/, "support for horizontal partitioning to Hibernate Core":http://google-code-updates.blogspot.com/2007/03/ode-to-hibernate.html.

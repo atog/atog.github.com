@@ -1,0 +1,5 @@
+---
+layout: post
+title: OS X Java Definitive Timeline.
+---
+"Er is toch nog hoop":http://stuffthathappens.com/blog/2007/10/28/os-x-java-definitive-timeline/ <em>via "David Herron":http://weblogs.java.net/blog/robogeek/archive/2007/10/the_ifs_and_whe.html</em>.

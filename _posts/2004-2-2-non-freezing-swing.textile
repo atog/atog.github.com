@@ -1,0 +1,6 @@
+---
+layout: post
+title: non-freezing swing
+---
+as i will start to look into swing again (within a month or so) this might come in handy :
+<blockquote>Spin is a transparent threading solution for non-freezing Swing applications.</blockquote> the <a href="http://spin.sourceforge.net/"> Spin project</a>, which was influenced by the <a href="http://foxtrot.sourceforge.net/">Foxtrot project.</a> it is supposed to offer a better solution than the <a href="http://java.sun.com/docs/books/tutorial/uiswing/misc/threads.html#SwingWorker">SwingWorker Class</a>.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java Tray Icon
+---
+<a href="http://jeans.studentenweb.org/java/trayicon/trayicon.html">Windows Tray Icon - Java Implementation</a> 

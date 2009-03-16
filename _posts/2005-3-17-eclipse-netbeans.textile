@@ -1,0 +1,5 @@
+---
+layout: post
+title: Eclipse - NetBeans.
+---
+<a href="http://cld.blog-city.com/read/1126337.htm"> Why Eclipse Developers Are Moving To NetBeans</a>. <em>via <a href="http://www.javalobby.org/java/forums/t17830">Javalobby</a></em>

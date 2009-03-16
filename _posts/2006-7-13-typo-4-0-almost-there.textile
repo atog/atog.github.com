@@ -1,0 +1,11 @@
+---
+layout: post
+title: Typo 4.0 - almost there.
+---
+Het was weeral efkes geleden dat ik mijne blog nog is ge-*<code>svn up</code>*-ed had, maar blijkbaar zijn de mannen van "typo":http://typosphere.org nog is in actie geschoten en is de 4.0 release niet zo ver meer af.
+
+Zie hier: "Closer and closer to Typo 4.0, and a call for testers.":http://scottstuff.net/blog/articles/2006/07/10/closer-and-closer-to-typo-4-0-and-a-call-for-testers
+
+Er is tegenwoordig ook een typo-gem beschikbaar; wat direct opvalt (na login natuurlijk) is dat admin-interface vernieuwd is. Ik ben er nog niet echt uit of het beter is, maar het is nieuw en dat is ook al iets eh ;).
+
+Ik ga ervan uit dat je/ze/zij daar/gij daar/zunder/gelle het wel laat weten wanneer er hier dingen niet meer werken.

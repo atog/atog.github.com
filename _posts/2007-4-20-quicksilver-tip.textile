@@ -1,0 +1,5 @@
+---
+layout: post
+title: Quicksilver tip.
+---
+Quicksilver tip: "Quickly relaunch an app with Quicksilver":http://www.tuaw.com/2007/04/19/quickly-relaunch-an-app-with-quicksilver/.

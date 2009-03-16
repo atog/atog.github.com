@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails on eclipse 3.1
+---
+<a href="http://dathompson.blogspot.com/2005/07/rails-on-eclipse-31.html">Rails on Eclipse 3.1</a>, for those who are interested :)

@@ -1,0 +1,7 @@
+---
+layout: post
+title: a list apart
+---
+i've been there before...but never actually payed attention to it :) now i've read some articles and i think there's definitely some very good information over there!
+
+where? here -&gt; <a href='http://www.alistapart.com/index.html'>A List Apart</a> :p

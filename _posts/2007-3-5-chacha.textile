@@ -1,0 +1,14 @@
+---
+layout: post
+title: ChaCha.
+---
+"ChaCha":http://chacha.com, een search engine waar een persoon u kan begeleiden om het een of ander te vinden op das net. Ik heb het nog niet (en zal ook niet) geprobeerd maar ik vind onderstaande conversatie wel, op zijn zachtst uitgedrukt, straf.
+
+<code>Guide</code>: Welcome to ChaCha!<br />
+<code>Guide</code>: Hello, what can I help you find.<br />
+<code>User</code>: I'm looking for a UK equivalent of Digg.<br />
+<code>Guide</code>: OK, I'm searching now.<br />
+<code>User</code>: k<br />
+<code>Guide</code>: What is Digg?<br />
+
+<em>"Original post":http://www.pressesc.com/01171018484_what_is_digg, via "TechCrunch":http://www.techcrunch.com/2007/03/03/chacha-90-pranksters/</em>.

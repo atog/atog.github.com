@@ -1,0 +1,14 @@
+---
+layout: post
+title: Feels like Opera.
+---
+"Firefox":http://www.mozilla.com/firefox/ with these extensions:
+
+!http://atog.be/files/ffextensions.png!
+
+_and_ the "Mozilla Custom Keywords":http://www.mozilla.org/docs/end-user/keywords.html
+ (" = the Firefox smart keywords":http://www.mozilla.org/products/firefox/smart-keywords.html)
+
+_and_ imagine <code>ALT-D</code> equals <code>F8</code> _and_ forget "all the other good  keyboards shortcuts":http://www.opera.com/features/keyboard/  then it is possible that "Firefox":http://www.mozilla.com/firefox/ feels like "Opera":http://www.opera.com. 
+
+_The FF tab-cycling, euhm, well, in the state it is now, they can better leave it out._

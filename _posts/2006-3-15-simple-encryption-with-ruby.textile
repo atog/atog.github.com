@@ -1,0 +1,9 @@
+---
+layout: post
+title: Simple Encryption with ruby.
+---
+"Tobi":http://blog.leetsoft.com/ just "published":http://blog.leetsoft.com/articles/2006/03/14/simple-encryption a simple encryption class, "Crypto":http://blog.leetsoft.com/files/crypto-key.rb.txt
+
+I've never done anything with encryption, so I don't know how difficult/easy it normally is, but this makes it just too easy ;)
+
+One day, I'll use it.

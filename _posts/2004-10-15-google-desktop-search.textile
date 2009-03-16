@@ -1,0 +1,5 @@
+---
+layout: post
+title: Google Desktop Search.
+---
+<a href="http://desktop.google.com/">Google Desktop Search</a>. <em>via <a href="http://percept.be/article/130/">Bart</a></em>

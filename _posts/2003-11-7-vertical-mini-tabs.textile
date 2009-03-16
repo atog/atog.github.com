@@ -1,0 +1,7 @@
+---
+layout: post
+title: vertical mini-tabs
+---
+very very nice indeed : <a href="http://www.thesunreport.org/exp/minitabs/vertical.html">vertical mini-tab shapes</a>
+
+via <a href="http://zeldman.com/daily/1003b.shtml#nov0603">zeldman</a>

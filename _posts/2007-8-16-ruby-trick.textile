@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby trick.
+---
+"A cunning (evil?) trick with Ruby":http://www.bofh.org.uk/articles/2007/08/16/a-cunning-evil-trick-with-ruby

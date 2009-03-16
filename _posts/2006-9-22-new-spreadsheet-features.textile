@@ -1,0 +1,5 @@
+---
+layout: post
+title: New spreadsheet features.
+---
+"New Spreadsheets fun":http://googleblog.blogspot.com/2006/09/new-spreadsheets-fun.html. 

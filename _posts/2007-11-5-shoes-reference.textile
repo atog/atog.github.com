@@ -1,0 +1,5 @@
+---
+layout: post
+title: Shoes reference.
+---
+"The Entirety Of The Shoes Family":http://hackety.org/2007/10/31/theEntiretyOfTheShoesFamily.html

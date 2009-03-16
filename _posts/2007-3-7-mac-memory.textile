@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mac memory.
+---
+"Is my mac using too much memory?":http://sg80bab.blogspot.com/2007/03/is-my-mac-using-too-much-memory.html <em>via "TUAW":http://www.tuaw.com/2007/03/06/just-what-is-wired-memory-anyway/</em>.

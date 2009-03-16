@@ -1,0 +1,9 @@
+---
+layout: post
+title: Gmail supports IMAP.
+---
+Kijk eens aan, "Gmail supports IMAP":http://googlesystem.blogspot.com/2007/10/gmail-supports-imap.html. Nu pas? Yep, nu pas. En dan nog niet helemaal. Zoals met alle nieuwe Gmail features wordt het stelselmatig uitgerold, sommige zullen het al zien, andere niet.
+
+Ik niet dus. Niet in mijn gmail account, niet in mijn hosted account. Ik ben in blijde verwachting, komaan "Google":http://google.com, een beetje rapper!
+
+<em>via "Braggus":http://twitter.com/Braggus/statuses/359488712</em> ;)

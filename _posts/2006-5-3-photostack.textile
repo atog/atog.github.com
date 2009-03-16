@@ -1,0 +1,11 @@
+---
+layout: post
+title: PhotoStack.
+---
+Voila, "PhotoStack":http://photostack.org/ is geÃƒÂ¯nstalleerd op "photos.atog.be":http://photos.atog.be. Simpel te managen en de standaard layout is ook wel fijn. */me* weeral content. :)
+
+"!http://photos.atog.be/thumb.php?gallery=./Ons&image=P4170034.JPG&width=380&height=380!":http://photos.atog.be/Ons/
+
+Waarom zou ne mens eigenlijk nog "flickr-en":http://www.flickr.com wanneer ge bij "Dreamhost":http://www.dreamhost.com nen hoop gigabytes diskspace krijgt.
+
+Nu kan ik misschien de foto's van ons verbouwingen 2 jaar geleden ook is terug online zetten.

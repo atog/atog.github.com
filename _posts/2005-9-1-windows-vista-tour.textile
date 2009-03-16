@@ -1,0 +1,5 @@
+---
+layout: post
+title: Windows Vista Tour
+---
+<a href="http://www.microsoft.com/technet/windowsvista/evaluate/sgtour.mspx">Windows Vista Self-Guided Tour</a>.

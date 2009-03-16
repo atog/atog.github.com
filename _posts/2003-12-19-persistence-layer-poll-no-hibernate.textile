@@ -1,0 +1,9 @@
+---
+layout: post
+title: Persistence layer poll - no hibernate
+---
+how on earth can you do <a href="http://radio.weblogs.com/0118231/2003/12/17.html#a207">a persistance layer poll</a> and leave <a href="http://hibernate.org/">hibernate</a> out.
+
+fear, or just plain ignorance?!?
+
+<em>via <a href="http://andrej.racchvs.com/archive/2003/12/18/persistence_layer_poll_on_otn.html">andrejk</a></em>

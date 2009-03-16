@@ -1,0 +1,15 @@
+---
+layout: post
+title: Rails and SSL/HTTPS
+---
+Vorige en begin van deze week ben ik even bezig geweest met Rails en SSL. Ik had het nog niet gebruikt, dus wat opzoekingswerk was wel nodig.
+
+Het heeft niet lang geduurd of ik kwam op de "Sample Rails App with SSL":http://blog.caboo.se/articles/2007/4/21/sample-rails-app-branch-with-ssl (via "RubyInside":http://www.rubyinside.com/sample-rails-app-with-ssl-https-support-469.html). Ik wist dat er "Sample Rails App":http://blog.caboo.se/articles/2007/4/8/sample-rails-application-updated beschikbaar was, maar de "deze":http://blog.caboo.se/articles/2007/4/21/sample-rails-app-branch-with-ssl, die heb ik toch toen toch gemist (denk ik toch).
+
+De sample app komt een "lighttpd":http://www.lighttpd.net/ config file Ã©n een self-signed certificate (.pem file) voor localhost. Je kan op die manier lighttpd starten welke zich dan voor uw draaiende app nestelt en de SSL requests afhandelt. Ge moet er dus niks voor doen, het zit erbij. :)
+
+In essentie komt het op neer dat je de "@ssl_requirement@":http://dev.rubyonrails.org/browser/plugins/ssl_requirement/README rails plugin installeert en vervolgens kan je op een simpele manier specifieren welke "ActionControllers":http://api.rubyonrails.com/classes/ActionController/Base.html SSL moeten gebruiken.
+
+Thanks "Courtenay":http://blog.caboo.se/articles/2007/4/21/sample-rails-app-branch-with-ssl!
+
+

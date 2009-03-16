@@ -1,0 +1,13 @@
+---
+layout: post
+title: JavaPolis 2007 - Dag 2
+---
+Wel, op de 2 laatste sessies na, is ook "JavaPolis":http://javapolis.com dag 2 volgens "planning":http://atog.be/2007/12/9/javapolis-2007 verlopen.
+
+Ik ben blij dat uit de eerste sessie, "Swinging RIA":http://javapolis.com/confluence/display/JP07/Swinging+RIA, bleek dat Sun eindelijk probeert om het gebruik van Swing te gemakkelijker te maken. "Beans binding":https://beansbinding.dev.java.net/ en "Swing App Framework":https://appframework.dev.java.net/ zijn daar een goed voorbeeld van. Ze zijn daar goed bezig. We konden gelijkaardige dingen vroeger al gebruiken dankzij "Spring Rich Client":http://spring-rich-c.sourceforge.net/ maar dat is ondertussen zo goed als dood mijn gedacht.
+
+Na de middag was het voor mij dan "JavaFX":http://javapolis.com/confluence/display/JP07/JavaFX+in+Action. "Mooie technology":http://www.sun.com/software/javafx/index.jsp maar ik kon het niet helpen dat ik bij elk voorbeeld dat ik te zien kreeg dacht: <em>Man, dat is in "Shoes":http://code.whytheluckystiff.net/shoes/ zoveel simpeler en mooier.</em> Natuurlijk kan men veel meer halen uit JavaFX, dat zit namelijk bovenop Swing.
+
+Moest ik morgen een GUI app schrijven in Java, dan zou met JavaFX zijn. Yep. Of ... met het Swing App Framework :)
+
+Morgen start de "Conference":http://javapolis.com/confluence/display/JP07/Conf+Day+1 en daar kijk ik vol ongeduld naar uit. Liever veel kleine sessies dan enkele grote.

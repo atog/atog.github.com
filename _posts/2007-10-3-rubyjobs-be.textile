@@ -1,0 +1,19 @@
+---
+layout: post
+title: Rubyjobs.be
+---
+Mag ik u voorstellen ("originele post op rubyjobs.be":http://rubyjobs.be/2007/10/3/about-rubyjobs-be):
+
+p<>. "Rubyjobs.be":http://rubyjobs.be is een initiatief van Ruby developers voor Ruby developers en voor zij die Ruby developers zoeken. Vermits Ruby nog maar in zijn kinderschoenen staat in Belgi&euml; is het voor werkgevers en kandidaten moeilijk om elkaar te vinden. Rubyjobs.be wil de eerste plaats zijn waar ze elkaar gaan zoeken.
+                                                      
+p<>. "Rubyjobs.be":http://rubyjobs.be verzamelt alle jobs die ook maar iets met Ruby te maken hebben van de grootste jobsites in Belgi&euml;: Vacature.com, Monster.be en Jobat.be. Daarnaast kan je vacatures rechtstreeks op Rubyjobs.be plaatsen. Deze krijgen een voorkeursbehandeling tegenover de verzamelde jobs.
+
+p<>. Ben je de gelukkige om een enthousiaste Ruby coder te zijn, hou voortaan zeker een oogje op "Rubyjobs.be":http://rubyjobs.be en blijf zo op de hoogte van wat er zich afspeelt op de Belgische Ruby-job-markt!</p>
+
+p<>. Ben je een werkgever op zoek naar een enthousiaste Ruby coder, aarzel niet langer, en zorg dat je vacature op "Rubyjobs.be":http://rubyjobs.be komt. Zo kan je goedkoop en gericht zoeken naar de perfecte Ruby developer voor uw job. <a href="mailto:admin@rubyjobs.be">Contacteer ons</a> vandaag nog.                                          
+
+Get your career on rails!
+
+<p /><p /><p />
+
+Moet ik daar nog iets aan toevoegen?

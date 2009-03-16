@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: MobileMe
+--- 
+"Een paar dagen geleden":http://twitter.com/tijs/status/1009235705 zei "Tijs":http://tijsvrolix.be/: _"is now officially a paying mobileme customer"_
+
+Dat was voor de mij de trigger om dan toch het hele "MobileMe":http://www.apple.com/mobileme/ gebeuren eens uit te testen. Push email. Dat klinkt toch zo schoon, niet?
+
+Het probleem is echter, dat ze nog geen custom domains ondersteunen. Lastig. Weer een ander email adres dus. Gelukkig was *atog* nog vrij ;)
+
+Ondertussen maak ik gebruik van de gratis proefperiode van 60 dagen. De setup is zoals bij zovele andere MobileMe gebruikers: Forward alles van mail naar uw MobileMe adres en gebruik de smtp server van gmail zodat uw correspondenten niet eens merken dat er een ander email adres in het spel is.
+
+Ik heb het nog maar 2 dagen, maar tot nu toe is het een succes. We zullen zien of het blijft duren.

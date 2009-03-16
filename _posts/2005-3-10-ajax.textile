@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ajax.
+---
+<a href="http://www.ajaxian.com/">Ajaxion.com</a>, Dion and Ben's AJaX Mission.
+
+Apparently the javascript XMLHttpRequest object exists for some time now (although I never heard of it before),  but <a href="http://www.adaptivepath.com/publications/essays/archives/000385.php">since it's been defined as ajax</a> it's getting <strong><a href="http://del.icio.us/tag/ajax">a lot</a></strong> of attention.
+
+I'm curious and eager to learn more, so I just <a href="http://www.ajaxian.com/index.xml">expanded</a> my blogroll ;)

@@ -1,0 +1,18 @@
+---
+layout: post
+title: JavaPolis 2007 - Dag 4
+---
+Ja, ik heb vandaag "nog een t-shirt":http://www.atlassian.com/software/fisheye/ gekregen. Dat brengt het totaal nu op 4. Dat is 1 voor elke dag "JavaPolis":http://javapolis.com tot hiertoe :)
+
+Tijdens de keynotes vandaag werd de nieuwe versie van "Parleys":http://parleys.com voorgesteld (beta). Knap, echt knap. Gemaakt in Flex en er is ook een AIR app beschikbaar. Knap. Mooie reclame voor Flex was dat. 
+
+Vervolgens kwam Sun vertellen over het "JavaFX Mobile OS":http://www.sun.com/software/javafx/mobile/index.jsp. Hoe ze daar nu bij komen, daar kan ik niet bij. Er zijn nu al iPhone toestanden, Android, Nokia heeft ook zo zijn ding en nu wil Sun ook nog eens meespelen. Ivp te zorgen dat ze op al rest draaien. _(Als dit het geval is, dan heb ik het niet goed begrepen.)_
+
+We zijn deze keer op tijd gaan aanschuiven voor de lunch en met success. We hebben kunnen eten :)
+
+Na de middag, Closures in Java, "The JavaPosse Live":http://javapolis.com/confluence/display/JP07/JavaPosse+Live en "Web Beans":http://javapolis.com/confluence/display/JP07/JSR+299+-+Web+Beans. Ik had graag nog naar "Google Gears":http://javapolis.com/confluence/display/JP07/Offline+web+apps+with+Google+Gears gaan kijken, maar mijn lieftallige Sien had nogmaals commissie-vergadering. En dus heb ik ook de film moeten missen. :(
+
+Ik heb vandaag wel minder last gehad van de massa. Er was precies minder volk, zou dat kunnen?
+
+Aha, niet te vergeten natuurlijk, "we":http://tomklaasen.net/blog zijn "Elise":http://blog.elisehuard.be/ tegen het lijf gelopen! ;)
+

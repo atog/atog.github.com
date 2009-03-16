@@ -1,0 +1,9 @@
+---
+layout: post
+title: IE and Firefox fake login flaw.
+---
+Alee, tof, het is weer zover: "IE and Firefox blighted by fake login flaw":http://www.theregister.co.uk/2006/11/23/fake_login_flaw/ zegt "The Register":http://www.theregister.co.uk .
+
+bq. ... hackers might be able to swipe users credentials via malicious forms in the same domain, providing users have already filled out forms on this domain.
+
+In tussentijd zullen we maar luisteren zekers, _"remember passwords for sites"_ is disabled tot de fix er is.

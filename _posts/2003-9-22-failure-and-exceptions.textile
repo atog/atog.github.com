@@ -1,0 +1,5 @@
+---
+layout: post
+title: failure and exceptions
+---
+part II of a conversation with James Gosling : <a href='http://www.artima.com/intv/solid.html'>creating solid software</a>, seems interesting... :)

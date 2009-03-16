@@ -1,0 +1,9 @@
+---
+layout: post
+title: Tickles (cont.)
+---
+I didn't have the time to test the <a href="http://www.freesbie.org/">FreeSBIE</a> yet, but after reading <a href="http://www.distrowatch.com/dwres.php?resource=review-freebsd">this FreeBSD review</a> at <a href="http://www.distrowatch.com/">DistroWatch.com</a> I really want to give it a shot. Maybe even this weekend, who knows ;)
+
+<strong>update:</strong> The <a href="http://www.freesbie.org/">FreeSBIE</a> live cd, doesn't work. Too bad. It hangs during the splash screen.
+
+Although the live cd doesn't work, I still gonna try to install it. Living on the edge! :D

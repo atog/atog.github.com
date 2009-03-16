@@ -1,0 +1,5 @@
+---
+layout: post
+title: System stats in the Dock.
+---
+Nice tip: "Quick System Stats Monitor in your Dock":http://osxdaily.com/2007/02/12/quick-system-stats-monitor-in-your-dock/.

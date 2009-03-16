@@ -1,0 +1,9 @@
+---
+layout: post
+title: Feedburner Link splicer.
+---
+Ik heb juist een (voor mij) nieuwe feature van "Feedburner":http://feedburner.com ontdekt: *Link splicer*.
+
+bq. Share collected links in your feed, too! Splice your blog feed with your links feed from one of the popular link collection services listed below. This service adds a new item to your FeedBurner feed that contains new links you have added to your link collection account.
+
+Dus vanaf vandaag zal je in "mijn feed":http://feeds.feedburner.com/atog een keer per dag "mijn del.icio.us bookmarks":http://del.icio.us/atog (voor die dag natuurlijk) vinden.

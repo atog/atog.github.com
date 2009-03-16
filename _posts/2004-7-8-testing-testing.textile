@@ -1,0 +1,9 @@
+---
+layout: post
+title: Testing testing
+---
+<a href="http://jroller.com/page/diathesis/20040708#cedric_s_testng_a_junit">Furious Purpose's post</a> finally got me to take a look at <a href="http://beust.com/testng/">TestNG</a>.
+
+I must say I like it, not that I dislike <a href="http://www.junit.org/index.htm">JUnit</a>, I just like it. At first sight <a href="http://beust.com/testng/">TestNG</a> seems to be more straightforward and easier to use.
+
+To be honest, I should really force myself to use these things more often.  

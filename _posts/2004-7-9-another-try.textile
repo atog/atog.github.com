@@ -1,0 +1,8 @@
+---
+layout: post
+title: Another try
+---
+Remember when <a href="http://atog.be/archives/2004/06/11/great/">I told about a W2K service pack download which took about 3hrs and failed</a>?
+
+Ok then, I tried it again yesterday and guess what? 
+<em>You probably got to have a little bit of faith</em>, it was less then 3 minutes!

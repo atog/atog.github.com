@@ -1,0 +1,7 @@
+---
+layout: post
+title: Wiki
+---
+I just got myself a <a href="http://wiki.atog.be">wiki</a>. For now, I'm gonna use it as a <em>personal</em> tool to organize my stuff a bit. We'll see what goes up there, but as long as I'm not really sure about it, the basic authentication remains in place.
+
+<a href="http://www.usemod.com/cgi-bin/wiki.pl">UseModWiki</a>, that's the one I installed. Interested in my first impression? <em>Great! It works!</em> :P

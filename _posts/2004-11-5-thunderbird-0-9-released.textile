@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird 0.9 released.
+---
+Almost missed it ;)  <a href="http://www.mozilla.org/products/thunderbird/">Now, go on! Reclaim your inbox!</a>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: The Only Flowchart You'll Ever Need.
+---
+"The Only Flowchart You'll Ever Need":http://fishbowl.pastiche.org/2006/12/12/the_only_flowchart_youll_ever_need. 

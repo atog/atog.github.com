@@ -1,0 +1,11 @@
+---
+layout: post
+title: IE7 beta 2 preview.
+---
+_ Via "Shaun Inman":http://shauninman.com/plete/ _ : "how to run the new IE 7 beta without replacing IE 6":http://digg.com/software/MS_Official:-_Microsoft_IE_Beta_2_Live_Download#wholecomment956833
+
+bq. Extract *IE7B2P-WindowsXP-x86-enu.exe* to a temporary folder and delete:
+*update (folder), install.ins, spmsg.dll, spuninst.exe, spupdsvc.exe*<br />
+Now create a blank text file within' the directory and rename it to "*iexplore.exe.local*"<br />
+Move the directory to a location in which you want to store the now standalone version of Internet Explorer 7 Beta 2 (eg. My Documents).<br /><br />
+Execute *iexplore.exe*.

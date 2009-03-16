@@ -1,0 +1,25 @@
+---
+layout: post
+title: Rails, request.xhr?
+---
+Het komt recht uit "de documentatie":http://api.rubyonrails.org/classes/ActionView/Helpers/PrototypeHelper.html, maar het kan toch handig zijn om weten. Mijn gedacht.
+
+<pre><code>layout proc{ |c| c.request.xhr? ? false : "application" }</code></pre>
+<br />
+Zet bovenstaande in uw ActionController en de layout zal niet gerendered worden voor ajax calls.
+<br /><br />
+<code>request.xhr?</code> laat u dan ook toe om zoiets te schrijven:
+
+<pre>
+<code>
+def remote_or_form_for(name, options, &proc)
+  if request.xhr?
+    remote_form_for(name, options, &proc)
+  else
+    form_for(name, options, &proc)
+  end
+end</code>
+</pre>
+<br />
+Afhankelijk van de request zal dan een form met of zonder ajax submit gerendered worden.
+<br /><br />

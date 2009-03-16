@@ -1,0 +1,5 @@
+---
+layout: post
+title: JDocs eclipse plugin
+---
+<a href="http://ond.vein.hu/~dyn/updatesite/">JDocs plugin</a> for <a href="http://eclipse.org">eclipse</a>. <em> via <a href="http://www.javalobby.org/thread.jspa?forumID=61&threadID=13856&start=0&mode=flat">Javalobby</a></em>

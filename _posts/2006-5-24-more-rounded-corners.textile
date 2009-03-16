@@ -1,0 +1,5 @@
+---
+layout: post
+title: More Rounded Corners.
+---
+"More Rounded Corners with CSS":http://www.schillmania.com/content/entries/2006/04/more-rounded-corners/

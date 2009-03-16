@@ -1,0 +1,12 @@
+---
+layout: post
+title: Rails offline documentation.
+---
+Someone on the <a href="http://wiki.rubyonrails.com/rails/show/HomePage">Rails</a> mailing-list asked  whether it was possible to download the documentation.  Good question I would say.   The answer was good as well. :)
+
+When you installed <a href="http://wiki.rubyonrails.com/rails/show/HomePage">Rails</a> via <a href="http://rubyforge.org/projects/rubygems/">rubygems</a> you should have it already!!
+
+Ok, next question would be, <em>How do I access it then?</em>. 
+
+Again very simple anwser, run <code>'gem_server'</code> at the command line and point your browser at <a href="http://localhost:8808">http://localhost:8808</a>. 
+

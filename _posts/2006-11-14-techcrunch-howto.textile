@@ -1,0 +1,5 @@
+---
+layout: post
+title: TechCrunch howto.
+---
+"How to get into TechCrunch":http://blog.guykawasaki.com/2006/11/how_to_get_in_t.html <em>via "Think Vitamin":http://www.thinkvitamin.com/</em>.

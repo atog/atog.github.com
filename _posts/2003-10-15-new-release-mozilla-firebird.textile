@@ -1,0 +1,9 @@
+---
+layout: post
+title: new release Mozilla Firebird
+---
+<a href="http://www.mozilla.org/products/firebird/">Mozilla Firebird 7.0</a> released :)
+
+...downloading as we speak :p
+
+thank you <a href="http://blog.codefront.net/archives/2003/10/15/mozilla_firebird_07_released.php">Cheah Chu Yeow</a>

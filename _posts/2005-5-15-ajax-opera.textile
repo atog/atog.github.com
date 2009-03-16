@@ -1,0 +1,10 @@
+---
+layout: post
+title: AJAX - Opera?
+---
+And I was just starting to like <a href="http://opera.com">Opera</a>. pfff.
+
+So I was spending some time trying to get this ajax-thing to work with <a href="http://rubyonrails.org">rails</a>, following <a href="http://wiki.rubyonrails.com/rails/show/How+to+make+a+real-time+search+box+with+the+Ajax+helpers">this example</a> and as you can probably guess, testing with <a href="http://opera.com">Opera</a>.
+Now after some time (at least half an hour) not getting it to work, I openend Firefox and <strong>KABOUM</strong>, the ajax functionality just dripped from my screen!
+
+Unbelievable, I could have saved a lot of time, if I knew this in advance. But then again, you never know these things when you start on something new IMO.

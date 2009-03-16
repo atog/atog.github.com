@@ -1,0 +1,5 @@
+---
+layout: post
+title: Backup del.icio.us
+---
+"11 ways to backup your del.icio.us bookmarks":http://backupdelicious.wordpress.com/2006/03/01/11-ways-to-backup-your-delicious-bookmarks

@@ -1,0 +1,9 @@
+---
+layout: post
+title: It's a start.
+---
+<blockquote>De vierhonderd nieuwe PC's die de kabinetten krijgen zullen uitgerust zijn met Windows XP, OpenOffice.org, Firefox en e-mailprogramma Thunderbird. <a href="http://www.internetjournalistiek.be/reactie.php?nieuwsid=410">[more]</a></blockquote>
+
+This is good news me thinks!
+
+<em>via <a href="http://www.internetjournalistiek.be/reactie.php?nieuwsid=410">Internetjournalistiek.be</a></em>

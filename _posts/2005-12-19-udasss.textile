@@ -1,0 +1,5 @@
+---
+layout: post
+title: UDASSS.
+---
+"Introducing Unobtrusive Degradable Ajax Style Sheet Switcher (UDASSS)!":http://24ways.org/advent/introducing-udasss

@@ -1,0 +1,7 @@
+---
+layout: post
+title: blogdsgn
+---
+<a href="http://www.blogdsgn.com/">New blog on design</a>. <a href="http://www.blogdsgn.com/rss2.xml">Subscribed</a>? Done!
+
+(now we'll have to wait though, to see whether it's really useful)

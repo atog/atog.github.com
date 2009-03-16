@@ -1,0 +1,5 @@
+---
+layout: post
+title: Email link obfuscation
+---
+<a href="http://www.u.arizona.edu/~trw/spam/spam4.htm">Anti-spam Countermeasures</a> and <a href="http://www.jottings.com/obfuscator.htm">Anti-spam email link obfuscation</a> <em>via <a href="http://blogs.cocoondev.org/tomk/archives/002688.html">tomK</a></em>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Generating css.
+---
+"Rails css templates":http://blog.hasmanythrough.com/articles/2006/03/23/dirt-simple-rcss-templates. Nice.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Can't go back filter.
+---
+"Blarg #23: Can't use the back button filter":http://weblogs.java.net/blog/jfalkner/archive/2006/03/blarg_23_cant_u.html. Gotta remember this one.

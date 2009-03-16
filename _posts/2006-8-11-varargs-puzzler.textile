@@ -1,0 +1,5 @@
+---
+layout: post
+title: Varargs puzzler.
+---
+"Varargs Puzzler":http://weblogs.java.net/blog/rbair/archive/2006/08/varargs_puzzler.html by Richard Bair.

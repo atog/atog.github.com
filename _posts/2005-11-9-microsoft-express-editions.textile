@@ -1,0 +1,9 @@
+---
+layout: post
+title: Microsoft Express Editions
+---
+p. "Microsoft Express Editions":http://msdn.microsoft.com/vstudio/express/ = gratis versies van 
+Visual Studio 2005 (voor 1 jaar) en SQLServer 2005 (voor altijd).
+
+p. Geen slechte zet van Microsoft als je het mij vraagt. 
+Meer weten? Check out the "FAQ":http://msdn.microsoft.com/vstudio/express/support/faq/

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Keep It Together?
+---
+Op "While I was busy":http://www.hawkwings.net/2007/02/14/while-i-was-busy/ lezen we:
+
+bq. "KIT":http://reinventedsoftware.com/kit/ (â€Keep It Togetherâ€), a nice personal information manager that almost gives Yojimbo a run for its money, was substantially updated.
+
+Ik ben tot hiertoe redelijk content van "Yojimbo":http://www.barebones.com/products/yojimbo/ _maar_ alles kan beter _en_ ik gebruik nog steeds de demo-versie. Dus reden genoeg om deze "KIT":http://reinventedsoftware.com/kit/ is uit te proberen.
+
+"Notae":http://www.codepoetry.net/products/notae heb ik ook al uitgetest, maar dat vond ik het toch zo maar niet. Yojimbo stak daar toch een serieus stuk bovenuit.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird 2.0
+---
+"Thunderbird 2.0 is released":http://www.mozilla.com/en-US/thunderbird/ <em>via "Paul":http://paulstamatiou.com/2007/04/19/mozilla-releases-thunderbird-2/</em>.

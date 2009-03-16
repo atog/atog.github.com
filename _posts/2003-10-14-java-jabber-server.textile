@@ -1,0 +1,6 @@
+---
+layout: post
+title: java jabber server
+---
+cool! i didn't know there was a java <a href="http://jabberd.jabberstudio.org/">jabber server</a> :) guess what, <a href="http://open-im.net/en/">
+they just announced the availability of RC1 for version 1.1.1</a>. (via <a href="http://today.java.net/pub/n/213">java.net</a>)

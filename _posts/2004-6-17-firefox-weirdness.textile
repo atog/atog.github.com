@@ -1,0 +1,17 @@
+---
+layout: post
+title: Firefox weirdness
+---
+Strange things happened with my <a href="http://mozilla.org/products/firefox/">Firefox 0.9</a> installation. 
+
+<ul class="list"><li class="list">set as default gives an error message on opening new instance.</li><li class="list">cannot reuse windows, although this should be standard setting.</li></ul>
+
+After some time I installed 0.8 again and everything worked fine. Then I installed <a href="http://mozilla.org/products/firefox/">Firefox 0.9</a> again. Created a new profile, and I still had the same problems. 
+
+Now everything works as it should be by using the <a href="http://texturizer.net/firefox/extensions/#Tb">tabbed browser</a> extension, where you can specify "a single window" setting.
+
+The strange thing is, that it seems that I'm only person who's experiencing these issues. So, probably my pc is messed up. Suggestions are welcome :)
+
+<em>On a sidenote, 0.9 is really faster then 0.8</em>
+
+<strong>update:</strong> I give up, at least for the time being. I thought the tabbed browser extension solved my problems but in the end it didn't. Too much of a hassle. I will try again once I know what's going on. It's a shame though. :(

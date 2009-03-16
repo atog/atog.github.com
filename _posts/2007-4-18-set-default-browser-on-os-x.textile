@@ -1,0 +1,9 @@
+---
+layout: post
+title: Set default browser on OS X.
+---
+Wist je dat om de default browser op OS X te veranderen je Safari moet starten? Straf? Ja dat vond ik ook :)
+
+Anyways, goto Safari - Preferences - General tab - Default Web browser - Pick your browser of choice.
+
+<em>via "OS X Odyssey 769 - Setting Your Default Browser And Email Client In OS X":http://www.applelinks.com/p5/index.php/more/os_x_odyssey_769_setting_your_default_browser_and_email_client_in_os_x/</em>

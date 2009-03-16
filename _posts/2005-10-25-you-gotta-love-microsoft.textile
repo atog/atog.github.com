@@ -1,0 +1,17 @@
+---
+layout: post
+title: You gotta love Microsoft.
+---
+p. Yes you gotta love "Microsoft":http://www.microsoft.com. I knew it when I saw the following error message today (I only tried to close a file):
+
+p. !http://www.atog.be/i/notenough.jpg!
+
+p. Followed by:
+
+p. !http://www.atog.be/i/catfailure.jpg!
+
+p. Followed by: <code>CTRL+ALT+DELETE, Task Manager, End Process.</code>
+
+p. Life is good! :D
+
+p. *[update]* I need to be honest, I already saw such ridiculous error messages in "eclipse":http://www.eclipse.org too. :)

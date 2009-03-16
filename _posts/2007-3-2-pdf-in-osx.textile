@@ -1,0 +1,5 @@
+---
+layout: post
+title: PDF in OSX.
+---
+"How to save nearly anything as a PDF":http://osxdaily.com/2007/03/02/how-to-save-nearly-anything-as-a-pdf/ - nice.

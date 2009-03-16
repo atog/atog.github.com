@@ -1,0 +1,7 @@
+---
+layout: post
+title: Firefox Javascript flaw.
+---
+"Hackers claim zero-day flaw in Firefox":http://news.com.com/2100-1002_3-6121608.html <em>via "OSNews":http://www.osnews.com/story.php?news_id=16030</em>
+
+"Someone tried to be funny":http://developer.mozilla.org/devnews/index.php/2006/10/02/update-possible-vulnerability-reported-at-toorcon/.

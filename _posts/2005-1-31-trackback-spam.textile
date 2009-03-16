@@ -1,0 +1,19 @@
+---
+layout: post
+title: Trackback spam.
+---
+Due to trackback spam, I have enabled the option <em>"An administrator must approve the comment"</em> so until I find a better solution for that problem, you won't see your comment appearing the moment you press "Say it!". 
+
+So again, I'll try to find a solution ASAP ;)
+
+tsjak, tsjak!
+
+<strong>update</strong>: oh! And don't press the button twice please, thank you :)
+
+<strong>update (2)</strong>: I installed two plugins from <a href="http://mtdewvirus.com/archives/2005/01/06/wordpress-plugins-trackback-and-pingback-moderation/">MtDewVirus</a> which should take care of the problem.  Comment settings are again as they used to be and trackbacks/pingbacks are now automagically send to the moderation queue.  Apparently, setting the option (at the top of this post) didn't do what I thought it would do.
+
+<strong>update (3)</strong>: another additional anti-trackback-spam-action 
+
+<code>update your_posts_table set ping_status = 'closed';</code>
+
+No more pings on all those ancient posts :)

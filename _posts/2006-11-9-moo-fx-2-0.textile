@@ -1,0 +1,5 @@
+---
+layout: post
+title: moo.fx 2.0
+---
+"moo.fx 2.0":http://moofx.mad4milk.net/ can now be used with "prototype":http://prototype.conio.net/ or "mootools":http://mootools.net/ <em>via "Digital Web":http://digital-web.com/news/2006/11/tech_news/</em>.

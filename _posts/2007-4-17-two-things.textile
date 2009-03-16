@@ -1,0 +1,5 @@
+---
+layout: post
+title: Two things.
+---
+"The Two Things about Computer Programming":http://fishbowl.pastiche.org/2007/04/15/the_two_things_about_computer_programming.

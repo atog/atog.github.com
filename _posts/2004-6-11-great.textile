@@ -1,0 +1,20 @@
+---
+layout: post
+title: Great.
+---
+Someone needed my assistance on his W2K installation due to various virusses. (Agobot, Sasser, ...) After downloading a security patch (6MB, regular phone line, 40 min) I tried to install the damn thing. As this W2K installation hasn't got any service packs installed, the patch wouldn't work. 
+
+<em>You need at least service pack 2</em>
+
+<blockquote>This person only uses his pc for email, nothing more nothing less.  He also never updated his installation because he didn't know he had to. No broadband connection.</blockquote>
+
+Ok then, let's install service pack 4.  mm, 132MB, regular phone line, no way I was going to do that.
+So I decided to go home and download it via my broadband connection, burn it on cd and install.  Sounds good to me and it definitley should be faster, no?
+
+Think again. Goto Microsoft. Press the download button. Starts... 11kb/sec...equals about 3hrs! 
+Alternative step. Look for mirrors. Mirrors?
+
+About 2.5hrs later, I return to my laptop (a father needs to do some other things too) to find out that the bloody thing went into standby-mode.  I totally forgot this would happen. :(
+
+...start all over again. 3hrs.
+

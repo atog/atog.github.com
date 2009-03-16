@@ -1,0 +1,9 @@
+---
+layout: post
+title: Antibiotic problems
+---
+Now, this is what I call an antibiotic problem : <a href="http://www.theaustralian.news.com.au/common/story_page/0,5744,9767767%255E2702,00.html"> Health alarm over new superbug</a>.
+
+<blockquote>A new antibiotic-resistant superbug has emerged in Australia causing the death of one man and the infection of 50 others. <a href="http://www.theaustralian.news.com.au/common/story_page/0,5744,9767767%255E2702,00.html">[more]</a>
+</blockquote>
+

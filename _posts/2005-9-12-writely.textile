@@ -1,0 +1,8 @@
+---
+layout: post
+title: Writely.
+---
+<a href="http://www.writely.com/">Writely, the Web Word Processor</a>. Cool stuff, and for as far as I tested it, it works.  It seems like something useful, I just have to remember to use it ;)
+Opera is not (yet? maybe?) supported though.
+
+<em>shit, dat was geen vlaams zekers?</em>

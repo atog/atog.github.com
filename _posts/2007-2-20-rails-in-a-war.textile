@@ -1,0 +1,9 @@
+---
+layout: post
+title: Rails in a WAR.
+---
+"Yes!! Great news!!":http://headius.blogspot.com/2007/02/jruby-world-tour-amsterdam.html
+
+bq. Update: *I managed to get Rails up and running nicely in a WAR file*. Huzzah! I'll play with it a bit on the plane and get our usual Rails demo to feed directly into "now we'll make it a WAR file". Thanks much to the rails-integration guys for putting together a really slick piece of work. Gotta love this whole open-source thing. "[more]":http://headius.blogspot.com/2007/02/jruby-world-tour-amsterdam.html
+
+Toch fantastisch mijn gedacht! :)

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Reply by chat.
+---
+Nifty! "Reply by chat":http://googleblog.blogspot.com/2006/06/reply-by-chat.html.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: movable type upgrade
+---
+i just performed my first MT-upgrade :p woo woo, <a href="http://atog.be/blog">http://atog.be/blog</a> is now running <a href="http://movabletype.org">version 2.661</a> :)

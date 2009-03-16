@@ -1,0 +1,5 @@
+---
+layout: post
+title: Creative ads.
+---
+Nice! "Creative ads":http://www.37signals.com/svn/posts/59-creative-ads.

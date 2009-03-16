@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Byline
+--- 
+Hoe zeggen ze het? "Byline, Google Reader on the go":http://www.phantomfish.com/byline.html.
+
+Het is zo. Het werkt. Ik zou deze post niet posten moest het zo niet zijn. Een paar dagen geleden las ik "de mini review op ars technica":http://arstechnica.com/journals/apple.ars/2008/10/31/mini-review-byline-2-0-rss-reader-for-iphone-ipod-touch en het zag er naar uit dat het dat was waar ik naar op zoek was.
+
+Ik heb al liggen experimenteren met "NetNewsWire":http://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/ en de bijhorende iPhone app. Dat werkt goed, én het is gratis. Maar, de online versie trekt op niks. Écht op niks.
+
+"Google Reader":http://reader.google.com is voor mij de beste online rss-reader dus om dan een "iPhone app":http://www.phantomfish.com/byline.html te hebben die daarmee synchroniseerd, dat is de max. Sinds ik Byline heb lees ik liever mijn feeds op mijn iPhone dan online. Serieus.
+
+Anyway, heb je een iPhone en gebruik je Google Reader, get "Byline":http://www.phantomfish.com/byline.html.
+
+<small>nee, ik word hier niet voor betaald. :)</small>

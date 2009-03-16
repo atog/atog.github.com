@@ -1,0 +1,5 @@
+---
+layout: post
+title: Apple shifts to Intel.
+---
+<a href="http://www.theregister.co.uk/2005/06/06/apple_intel_analysis/">Apple shifts to Intel: what is all the fuss about?</a>

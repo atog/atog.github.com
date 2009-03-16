@@ -1,0 +1,7 @@
+---
+layout: post
+title: WordPress?
+---
+<a href="http://webspiffy.com/archives/2004/04/possible_moveable_type_migration">Mike's   last post</a> set me thinking. He's right, the build process is slow (and I only have  about 260 posts :p) but otherwise I'm pretty happy with <a href="http://movabletype.org">movable type</a>.
+
+In general I like new things (as in new to me) so <a href="http://wordpress.org/">WordPress</a> looks interesting. I'm going to check it out. Yes I am :)

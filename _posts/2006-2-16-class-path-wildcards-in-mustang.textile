@@ -1,0 +1,15 @@
+---
+layout: post
+title: Class-Path wildcards in Mustang.
+---
+"Mark":http://blogs.sun.com/mr reveals a nice Mustang-feature, "class-path wildcards":http://blogs.sun.com/roller/page/mr?entry=class_path_wildcards_in_mustang
+
+Instead of doing:
+
+<code>java -classpath a.jar;b.jar;c.jar;d.jar com.xyzzy.app.Main</code>
+
+you can now do:
+
+<code>java -classpath 'lib/*' com.xyzzy.app.Main</code>
+
+/me happy ;)

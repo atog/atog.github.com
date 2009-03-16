@@ -1,0 +1,5 @@
+---
+layout: post
+title: Pibb.
+---
+"Pibb":https://pibb.com/, zoals "Matt":http://photomatt.net/2007/08/20/pibb-is-web-meets-irc/ het zegt, web meets IRC.

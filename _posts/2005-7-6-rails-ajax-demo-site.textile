@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rails AJAX demo site.
+---
+<a href="http://script.aculo.us/demos/">Rails 0.13 - Live AJAX demo site</a>. <em>via <a href="http://mir.aculo.us/articles/2005/07/06/rails-0-13-live-ajax-demo-site">mir.aculo.us</a></em>
+
+Too bad it still doesn't work in <a href="http://opera.com">Opera</a>.

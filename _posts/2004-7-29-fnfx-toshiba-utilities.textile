@@ -1,0 +1,5 @@
+---
+layout: post
+title: FnFx Toshiba Utilities
+---
+<a href="http://fnfx.sourceforge.net/">FnFX</a> enables owners of Toshiba laptops to change the LCD brightness, control the internal fan and use the special keys on their keyboard (Fn-x combinations, hot-keys). 

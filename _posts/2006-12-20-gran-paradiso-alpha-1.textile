@@ -1,0 +1,5 @@
+---
+layout: post
+title: Gran Paradiso Alpha 1.
+---
+"Firefox 3.0 Alpha 1":http://www.mozilla.org/projects/firefox/3.0a1/releasenotes/ - "Cairo":http://wiki.mozilla.org/Cairo Joepie! - "Cocoa widgets":http://wiki.mozilla.org/Mac:Cocoa_Widgets nog meer Joepie!

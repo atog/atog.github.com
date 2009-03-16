@@ -1,0 +1,9 @@
+---
+layout: post
+title: Java GUI's , UICompiler
+---
+<a href="http://uic.sourceforge.net/index.phtml">UICompiler</a> seems to be a very usefull tool when building swing apps. i'm not that experienced in java-gui development, but from what i've read, i think it's worth it to give it go.
+
+you desing your gui in QT Designer and then you use UICompiler to generate your java code. doing it this way you can change your gui as often as you like without touching your code. (btw this is how it's supposed to be anyway :p MVC does ring a bell, no? :))
+
+now all we have to do is test it. see what kind of code it generates and find out whether it's really a good thing to use it.

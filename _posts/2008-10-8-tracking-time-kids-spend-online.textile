@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Tracking Time Kids Spend Online
+--- 
+"Linus Torvalds starts blogging":http://news.ycombinator.com/item?id=325554 is blijkbaar groot nieuws. Ik volg diene mens zo niet, maar zou wel gedacht hebben dat hij dat al lang deed.
+
+Ik ben dus eens "gaan kijken":http://torvalds-family.blogspot.com en zag daar een toch wel interessante post: "Tracking the time kids spend online":http://torvalds-family.blogspot.com/2008/10/tracking-time-kids-spend-online.html:
+
+bq. _"So I wrote a simple internet usage tracker for them, which allows me to set usage limits per kid, and which tracks how much time they use online, and forcibly logs them off if they go over the limits."_
+
+Dat klinkt op het eerste zicht wel gemakkelijk. Toch, als je er wat langer over nadenkt, wil je dat _probleem_ zo oplossen? Gesteld dat het al een probleem is natuurlijk. Ons kinders zijn daar nog lang niet aan toe. 
+
+Wanneer het zover is, hoe gaan we dat aanpakken? Food for thought.
+

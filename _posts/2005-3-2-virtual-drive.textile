@@ -1,0 +1,12 @@
+---
+layout: post
+title: Virtual drive.
+---
+First thing I read in <a href="http://rails.homelinux.org/">Four days on Rails</a> is good to know for every windows user IMO.
+
+The <code>SUBST</code> command. It associates a path with a drive letter. 
+Example use: 
+
+<code>subst t: C:\somepath\way\too\long\to\be\handy</code> 
+
+So afterwards you access the path above just by referencing "<code>t:</code>".

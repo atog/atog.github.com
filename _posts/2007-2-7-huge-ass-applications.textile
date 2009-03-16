@@ -1,0 +1,5 @@
+---
+layout: post
+title: Huge-Ass Applications.
+---
+"A Call for the Death of the Huge-Ass Application":http://www.codepoetry.net/2006/05/30/a_call_for_the_death_of_the_huge_ass_application.

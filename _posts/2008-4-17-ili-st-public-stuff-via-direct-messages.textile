@@ -1,0 +1,18 @@
+---
+layout: post
+title: ili.st public stuff via direct messages.
+---
+"ili.st":http://ili.st heeft een "update":http://twitter.com/ilist/statuses/790991894 "gekregen":http://twitter.com/ilist/statuses/790992141.
+
+Wat is er zoal nieuw? Wel, 2 dingen die door de lieftallige users gevraagd werden.
+
+# Je krijgt nu een confirmation message wanneer je je password zet.
+# Je kan public stuff op je lijstje zetten via een direct message, vooral nuttig wanneer je wel publieke items wil lijsten maar je twitter stream niet wil vervuilen.
+
+Hoe doe je dat public posten via een direct message?
+
+@d ilist pub your public thingy@
+
+Meer info op "ili.st":http://ili.st en op "@ilist":http://twitter.com/ilist.
+
+_Er is nog een toffe feature gevraagd en daar wordt aan gewerkt, geen paniek ;)_

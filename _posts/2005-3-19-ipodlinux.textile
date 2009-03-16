@@ -1,0 +1,5 @@
+---
+layout: post
+title: iPodLinux.
+---
+<a href="http://www.ipodlinux.org/Main_Page">Linux on the iPod</a>! <em>via <a href="http://www.mikemelia.com/archives/000046.html">Mike</a></em>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Scaling images.
+---
+Ever felt the need to resize a whole bunch of images? Or let me rephrase, did you ever need to scale 20+ images? Well I did. One could use <a href="http://www.irfanview.com/">IrfanView</a> but then I remembered there was <a href="http://weblogs.java.net/blog/chet/archive/2004/07/imageio_just_an.html">an article</a> by <a href="http://weblogs.java.net/blog/chet/">Chet Haase</a> about just that on <a href="http://weblogs.java.net">weblogs.java.net</a> a while ago. 
+
+Result:  Cool, it just works, really easy and very useful!

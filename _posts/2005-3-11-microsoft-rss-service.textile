@@ -1,0 +1,9 @@
+---
+layout: post
+title: Microsoft RSS service.
+---
+<a href="http://start.com/1/">Microsoft started with an RSS-service</a>. At the moment it's still in the sandbox and not officially supported but it seems be working alright. The funny (good?) thing is you don't have to register, everything is stored in a cookie. The UI is pretty well done IMO. The one thing I don't like at first sight, is that it comes with some preconfigured feeds of different categories. I don't need all that, but I'm sure all <em>the hotmail users</em> will love this new tool in their msn-bag ;) 
+
+In the mean time I'll stick with <a href="http://www.bloglines.com">bloglines</a>.
+
+<em>via <a href="http://www.frankwatching.com/archive/2005/03/10/rss_in_5_stappen">Frankwatching</a></em>

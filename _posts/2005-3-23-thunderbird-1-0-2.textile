@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thunderbird 1.0.2
+---
+<a href="http://mozillanews.org/?article=ef520926ea60ec3029c81f0d7d215047">Thunderbird 1.0.2 released</a>.

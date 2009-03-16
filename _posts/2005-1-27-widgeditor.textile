@@ -1,0 +1,9 @@
+---
+layout: post
+title: widgEditor.
+---
+<a href="http://www.themaninblue.com/writing/perspective/2005/01/27/">widgEditor: A simple, standards-compliant WYSIWYG HTML editor</a> from <a href="http://www.themaninblue.com/">The Man in Blue</a>. I tested it on his blog (comment-area) and <a href="http://www.themaninblue.com/experiment/widgEditor/">over here</a>.  
+
+I am impressed.  It's a useful, nice looking tool.  As soon as I get the change I'll integrate it in my comments-section.
+
+Great work! ;)

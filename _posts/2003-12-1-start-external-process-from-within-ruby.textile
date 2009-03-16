@@ -1,0 +1,14 @@
+---
+layout: post
+title: start external process from within ruby
+---
+sweet! via <a href="http://www1.cs.columbia.edu/~laza/Software/multimedia_html_links/readme.html">zoran's project</a> i found out how to start an external process from ruby in a Win32 environment. it's very straigth forward actually (as is everything in ruby) , here's zoran's code snippet:
+
+<blockquote>
+# Need double quotes around filename if the path contains spaces<br />
+WMP9_EXE   = ""C:\Program Files\Windows Media Player\wmplayer.exe""<br />
+...<br />
+# Type HELP START at the DOS/W prompt<br />
+# START      "Window Name..."     "EXE file"    args   <br />
+<br />
+system "start " +""Window Name""+ " " +  WMP9_EXE + " " + args</blockquote>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: servlet filters
+---
+good article on compression and caching via servlet filters:
+
+<p><a href="http://www.onjava.com/pub/a/onjava/2003/11/19/filters.html">Two Servlet Filters Every Web Application Should Have</a> by Jayson Falkner -- Web applications can greatly improve performance by caching previously generated content and compressing the data it sends to the browser. As Jayson Falkner explains, servlet filters make it easy to provide these features to servlets.</p>
+
+i've got the above piece of text via the <a href="http://www.onjava.com/cs/user/print/a/4361?x-t=blog_this.view">blog this</a> link... :) makes things pretty easy!

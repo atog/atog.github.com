@@ -1,0 +1,5 @@
+---
+layout: post
+title: Current Users Online
+---
+<a href="http://www.soveryposh.com/blog/2004/03/online_users.php">Lynda</a> posted a script to display the current users online. It's a php-script using a flat file and MT-cookies. Good thinking!  Maybe one day, if I ever get my redesign finished,  I'll use it.

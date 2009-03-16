@@ -1,0 +1,5 @@
+---
+layout: post
+title: Microsoft opens file formats.
+---
+"Weeral een slimme zet.":http://www.theregister.co.uk/2005/11/22/microsoft_opens_formats/

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Proxool
+---
+<a href="http://proxool.sourceforge.net/index.html">Proxool</a>, a Java connection pool. <em>Via <a href="http://weblog.anthonyeden.com/archives/000132.html">Anthony</a></em>  

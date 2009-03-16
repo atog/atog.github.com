@@ -1,0 +1,6 @@
+---
+layout: post
+title: blog layout
+---
+my layout is under construction :)  still got some problems with my links...
+my comments, trackback and day views are also pretty ugly so bare with me while i'm working on it please.

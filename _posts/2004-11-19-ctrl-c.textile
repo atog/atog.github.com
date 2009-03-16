@@ -1,0 +1,8 @@
+---
+layout: post
+title: CTRL + C
+---
+<a href="http://www.joelonsoftware.com/items/2004/11/19.html">No I didn't</a>:
+<blockquote> Did you know... you can Ctrl+C to copy the text of a Windows popup error message box to the clipboard?
+</blockquote>
+<em>or</em> I never felt the need to press CTRL + C when a Windows error popped up. ;)

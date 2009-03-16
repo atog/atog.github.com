@@ -1,0 +1,5 @@
+---
+layout: post
+title: Mephisto YouTube plugin.
+---
+"Frank wrote a Mephisto YouTube plugin":http://frank.be/2007/7/30/youtube-video-filter-voor-mephisto.

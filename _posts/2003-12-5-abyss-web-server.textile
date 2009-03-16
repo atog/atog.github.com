@@ -1,0 +1,10 @@
+---
+layout: post
+title: abyss web server
+---
+<a href="http://www.aprelium.com/abyssws/">this webserver</a> is very small : 144KB, even the requirements look good :)
+ - Less than 1 MB of free disk space
+ - 2 MB of free RAM
+ - TCP/IP supportt
+
+woo woo, and according to <a href="http://blog.codefront.net/archives/2003/12/04/abyss_web_server_small_and_really_neat.php#comments">Cheah Chu Yeow</a> and <a href="http://pipthepixie.tripod.com/blog/archive/2003_12_01_blog.html#107048713414410937">Phil Wilson</a> it's pretty easy to install and configure too. this can be great for testing-purposes.

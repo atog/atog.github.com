@@ -1,0 +1,17 @@
+---
+layout: post
+title: datadino distribution utilities
+---
+i guess <a href='http://javalobby.org/thread.jsp?forum=17&thread=8970'>this</a> is something useful (when you need it :))
+
+<blockquote>
+from the <a href='http://javalobby.org'>javalobby</a> post:
+
+...collection of two utilities that make distribution of Java programs easier.
+
+The first is a portable C program that can be used to create an EXE file for Java programs on Windows machines. This EXE helps ease distribution issues by automatically installing JREs and setting up the proper working directory before a Java program is launched.
+
+The second program is a set of shell scripts that will turn any tarred and gzipped file into a portable Unix installer. Simply modify the install script settings and run the create script in any Unix environment. It even works in Cygwin! Not to mention Linux, BSD and Solaris.
+
+...
+</blockquote>

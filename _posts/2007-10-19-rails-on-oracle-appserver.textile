@@ -1,0 +1,5 @@
+---
+layout: post
+title: Rails on Oracle AppServer.
+---
+Kijk kijk! "JRuby on Rails Application on an Oracle AppServer":http://oracleappslab.com/2007/10/18/jruby-on-rails-application-on-an-oracle-appserver/

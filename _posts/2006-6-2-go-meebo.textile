@@ -1,0 +1,11 @@
+---
+layout: post
+title: Go meebo!
+---
+bq. If meebo is your favorite IM client, we'd love to have you help us spread the word!
+
+*Dus bij deze* - "Go meebo":http://www.gomeebo.com/! "meebo":http://www.meebo.com is een deftige service, access im always and everywhere. Niet echt _my favorite_ maar het komt toch in de buurt.
+
+<a target="_blank" href="http://www.meebo.com"> <img border="#ffffff" src="http://www.gomeebo.com/buttons/gomeebo-5.gif"></a>
+
+...en "schoon buttons":http://www.gomeebo.com/ natuurlijk ;)

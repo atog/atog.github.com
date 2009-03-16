@@ -1,0 +1,11 @@
+---
+layout: post
+title: Git.
+---
+"Git":http://git.or.cz/. Ik heb er nog steeds niets mee gedaan, maar het zit er aan te komen ;)
+
+"Gisteren":http://twitter.com/atog/statuses/785271630 is de installatie via Macports toch nog gelukt Ã©n ik heb sinds vorige week een "GitHub":https://github.com/ account. Waarop wacht ik nog? 
+
+Net het artikel "The Thing About Git":http://tomayko.com/writings/the-thing-about-git gelezen (<em>via "Hacker news":http://news.ycombinator.com/item?id=158008</em>) en het begint toch te kriebelen. 
+
+Nu enkel nog een beetje _tijd_.

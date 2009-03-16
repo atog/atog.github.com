@@ -1,0 +1,5 @@
+---
+layout: post
+title: Soks.
+---
+"Soks, Yet another ruby wiki":http://www.soks.org/view/HomePage, but this one looks really nice. ;)

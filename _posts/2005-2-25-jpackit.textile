@@ -1,0 +1,5 @@
+---
+layout: post
+title: JPackIt
+---
+<a href="http://sourceforge.net/projects/jpackit/">JPackIt</a>, a Java application for packaging a Java project into single executable package (such as jar, class or exe) containing all java application resources (code, images, properties, etc.) and referenced libraries.

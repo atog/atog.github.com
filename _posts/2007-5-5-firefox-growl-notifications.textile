@@ -1,0 +1,5 @@
+---
+layout: post
+title: Firefox Growl notifications.
+---
+Growl is everywhere! "Growl integration in Firefox 3":http://blog.codefront.net/2007/05/05/growl-integration-in-firefox-3/.

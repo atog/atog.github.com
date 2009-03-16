@@ -1,0 +1,7 @@
+---
+layout: post
+title: firebird becomes firefox
+---
+<a href="http://www.mozilla.org/products/firefox/">The Browser, Reloaded</a>, firebird changes names again!
+
+no worries though :) <a href="http://www.mozilla.org/products/firefox/">mozilla firefox 0.8</a> is released!

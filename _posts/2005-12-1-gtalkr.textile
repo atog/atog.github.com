@@ -1,0 +1,18 @@
+---
+layout: post
+title: Gtalkr.
+---
+Eerst was er "meebo":http://www.meebo.com (welke ik nog dagelijks gebruik, goe gerief trouwens) nu is er 
+"Gtalkr":http://www.gtalkr.com/
+
+p. Meebo is ajax, Gtalkr is flash. Flash, dus natuurlijk ziet het er nog goed uit ook. Er is ook een 
+desktop notifier beschikbaar (idle detection en system tray pop-ups). 
+Kan wel handig zijn want met meebo bv moet je je browser window in 't oog houden om te zien of er 
+niemand tegen u aan het klappen is ;)
+
+p. Alle conversaties worden bijgehouden op de server, zodat je er later gemakkelijk op kunt zoeken. Of dat zo goed is dat weet ik niet,
+maar ja. Het ziet er wel naar uit dat ge er binnenkort zelfs uw boterhammen mee kunt smeren dus dat vind ik persoonlijk
+een afknapper.
+
+p. _ via "Customize talk":http://www.customizetalk.com/ _  en "hier":http://www.techcrunch.com/?p=425 nog 
+"meer":http://www.solutionwatch.com/293/web-based-google-talk-with-gtalkr/ "info":http://gigaom.com/2005/11/29/gtalkr-web-based-gtalk-client/.

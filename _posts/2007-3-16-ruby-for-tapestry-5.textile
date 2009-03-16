@@ -1,0 +1,5 @@
+---
+layout: post
+title: Ruby for Tapestry 5
+---
+"Ruby script for creating new Tapestry 5 projects":http://tapestryjava.blogspot.com/2007/03/ruby-script-for-creating-new-tapestry-5.html. Ha! ruby is everywhere! ;)

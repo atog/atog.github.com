@@ -1,0 +1,5 @@
+---
+layout: post
+title: Twitterbar.
+---
+"Post to Twitter from your address bar":https://addons.mozilla.org/en-US/firefox/addon/4664 -- tof.

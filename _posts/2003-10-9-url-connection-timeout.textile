@@ -1,0 +1,20 @@
+---
+layout: post
+title: URL connection timeout
+---
+i'm looking for a way to set the connection timeout on a URL object.  the only way i found of doing this at the moment is by setting the following property : <strong>sun.net.client.defaultConnectTimeout</strong>
+
+but when you read <a href="http://java.sun.com/j2se/1.4.2/docs/guide/net/properties.html">this</a> : <strong>These properties may not be supported in future releases.</strong> then i don't think this is the right way of doing it ... but it works like a charm :)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.getProperties().put( "sun.net.client.defaultConnectTimeout", "1" );
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;url = new URL("http://www.google.com");
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;start = System.currentTimeMillis();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;url.openStream();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} catch (e) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(e);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stop = System.currentTimeMillis();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(stop - start);
+
+this is why i love <a href="http://beanshell.org">beanshell</a>, you can very quickly test this kind of stuff :)

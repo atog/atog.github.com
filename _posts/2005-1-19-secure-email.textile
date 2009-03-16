@@ -1,0 +1,5 @@
+---
+layout: post
+title: Secure email.
+---
+<a href="http://software.newsforge.com/article.pl?sid=05/01/06/1557216&from=rss">Securing Thunderbird email with OpenPGP</a>.

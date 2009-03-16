@@ -1,0 +1,10 @@
+---
+layout: post
+title: Binding custom beans in NetBeans.
+---
+"Dat ga ik nu niet meer vergeten mijn gedacht":http://www.netbeans.org/kb/60/java/gui-binding.html.
+
+# In the Project's window, right-click the node for the bean and choose Compile File.
+# Drag the bean to the form. You should then see the bean in the Inspector window. You can then invoke the Bind dialog for any of the bean's properties.
+
+Gemakkelijk als ge het weet.

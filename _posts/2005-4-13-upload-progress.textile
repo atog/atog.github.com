@@ -1,0 +1,5 @@
+---
+layout: post
+title: Upload progress.
+---
+Sweet! <a href="http://mir.aculo.us/th0fu/upload-progress-with-ruby-on-rails-and-ajax-demo-movie/view">Upload Progress with Ruby on Rails and Ajax</a>, and as usual with Rails-stuff it comes with a movie ;)

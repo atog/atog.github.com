@@ -1,0 +1,13 @@
+---
+layout: post
+title: Java6 on Leopard.
+---
+"Please give us JDK 1.6 on MacOSX soon (13949712720901ForOSX)":http://rifers.org/blogs/gbevin/2007/11/8/please_give_us_jdk_1_6_on_macos
+
+bq. If you are a Java developer that uses MacOSX, please create a blog post with this string: 13949712720901ForOSX
+
+Dus bij deze: <code>13949712720901ForOSX</code>
+
+"Meer weten?":http://blogs.sun.com/bblfish/entry/vote_for_java6_on_leopard
+
+

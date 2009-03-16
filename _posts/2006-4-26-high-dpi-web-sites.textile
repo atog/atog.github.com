@@ -1,0 +1,5 @@
+---
+layout: post
+title: High DPI Web sites.
+---
+"High DPI Web Sites&quot;:http://webkit.opendarwin.org/blog/?p=55, <em>via "SimpleBits":http://www.simplebits.com/notebook/2006/04/25/highdpi.html</em>.

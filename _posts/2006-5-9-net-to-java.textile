@@ -1,0 +1,13 @@
+---
+layout: post
+title: .NET to Java.
+---
+bq. "Together we can translate every .NET application into Java !"
+
+Sounds good to me! :D 
+
+"NET2Java":https://net2java.dev.java.net/DNJGuide.html is a NetBeans plugin which translates any application written in Visual Basic or C# (.NET) to Java. 
+
+"The Project: NET2Java":https://net2java.dev.java.net/
+
+<em>via "Danny Coward":http://blogs.sun.com/roller/page/dannycoward?entry=net2java_extreme_makeovers_for_net.</em>

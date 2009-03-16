@@ -1,0 +1,5 @@
+---
+layout: post
+title: New SQLite3 gem.
+---
+"Die mens is toch ongelooflijk eh.":http://redhanded.hobix.com/cult/sqlite3Gem_whySSensibilitiesRepack.html - Ik ben een fan.

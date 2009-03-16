@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java 2 Ruby - Part I.
+---
+Looks promising (still have to read it) - <a href="http://www.magpiebrain.com/archives/2005/06/13/java_to_ruby">Ruby For Java (and C#) Programmers, Part 1</a>

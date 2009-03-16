@@ -1,0 +1,26 @@
+---
+layout: post
+title: TinyRails.
+---
+"Kijk, een Single File Rails app":http://m.onkey.org/2008/2/16/single-file-rails-application:
+
+@# thin -p 3000 -r mini.rb start@
+
+@require 'tinyrails'@
+
+@routes { root :controller => 'home' }@
+
+@controller "home" do@<br></br>
+@  def index@<br></br>
+@    render :text => "Hello World"@<br></br>
+@  end@<br></br>
+@end@<br></br>
+
+@start@
+
+
+Ik ben een "Camping":http://code.whytheluckystiff.net/camping/ -fan van het eerste uur, maar dit vind ik toch ook wel een wrÃ©Ã©d interessant stukse code! :)
+
+"Opvolgen":http://github.com/lifo/fabs/tree/master/rails-mini/tinyrails.rb is de boodschap!
+
+[*update*] doeme toch, bijna vergeten: <em>via "Ruby Reddit":http://reddit.com/r/ruby/</em>.

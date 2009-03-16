@@ -1,0 +1,8 @@
+---
+layout: post
+title: JavaPolis RAD race.
+---
+As "tomk":http://blogs.cocoondev.org/tomk/archives/003593.html already said, 
+tomorrow we'll be participating in "The JavaPolis RAD race":http://javapolis.com/confluence/display/JP05/RAD%20Race!!
+
+Redelijk spannend mijn gedacht. ;)  I'll keep you posted!

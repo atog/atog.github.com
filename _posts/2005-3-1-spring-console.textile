@@ -1,0 +1,5 @@
+---
+layout: post
+title: Spring console.
+---
+<a href="http://www.jamesholmes.com/spring/">Spring console</a>. <em>via <a href="http://www.wouter.net/archives/000108.jsp">Wouter</a></em>

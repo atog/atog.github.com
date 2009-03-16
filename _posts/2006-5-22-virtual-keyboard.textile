@@ -1,0 +1,5 @@
+---
+layout: post
+title: Virtual Keyboard.
+---
+"A xhtml+css+js virtual keyboard with clean semantic markup and some really simple javascript":http://www.lmnopf.com/jack/?p=10. <em>via "CSS Beauty":http://www.cssbeauty.com/archives/2006/May/xhtmlcssjs_virtual_keyboard</em>

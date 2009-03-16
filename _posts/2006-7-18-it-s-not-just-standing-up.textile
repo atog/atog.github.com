@@ -1,0 +1,5 @@
+---
+layout: post
+title: It's not just standing up.
+---
+"It's Not Just Standing Up: Patterns for Daily Stand-up Meetings":http://martinfowler.com/articles/itsNotJustStandingUp.html.

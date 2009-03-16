@@ -1,0 +1,5 @@
+---
+layout: post
+title: Happy Camping.
+---
+"The joy of 'rolling your own' with Camping":http://www.oreillynet.com/ruby/blog/2007/01/the_joy_of_rolling_your_own_wi.html.

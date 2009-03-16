@@ -1,0 +1,10 @@
+---
+layout: post
+title: GeenDataLimiet.be
+---
+p. "Geen Data Limiet":http://www.geendatalimiet.be/ is een online petitie tegen de datalimiet (10GB) van
+"Telenet":http://www.telenet.be en "Belgacom":http://www.belgacom.be
+
+p. Het komt er eigenlijk dat op neer de datalimiet 5 jaar geleden goed genoeg was, maar het is niet meer van dezen tijd.
+
+p. "Go Sign!":http://www.geendatalimiet.be/

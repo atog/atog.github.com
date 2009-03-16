@@ -1,0 +1,7 @@
+---
+layout: post
+title: A quiet blog.
+---
+It's been awful quiet up here for the last week. I've had a couple of days off and on Saturday it was my birthday (26). So party party party :D
+
+As of now you can expect some newbie-linux-experiences too cause I managed to install <a href="http://slackware.com">Slackware 10</a> last week.  Exciting isn't it :P

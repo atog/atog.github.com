@@ -1,0 +1,10 @@
+---
+layout: post
+title: Yahoo mail updates
+---
+The other day I logged in into my <a href="http://mail.yahoo.com/">Yahoo! mail account</a> after about a month. I was going to get rid of it, but then I noticed they updated the free mail service.
+
+You now get:
+<ul class="list"><li class="list">100MB email storage</li><li class="list">attach up to 10MB</li><li class="list">a much better interface</li></ul>
+
+That isn't bad in my opinion, so I guess I'm going to keep the account for a little while longer ;)

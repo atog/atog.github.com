@@ -1,0 +1,7 @@
+---
+layout: post
+title: JSP 2.0 EL
+---
+JSP Expression Language; i didn't know about this until i read <a href="http://weblogs.java.net/pub/wlg/593">jaysons blarg</a>, apparantely it's something like <a href="http://jakarta.apache.org/velocity/">velocity</a>.
+
+<a href="http://java.sun.com/j2ee/1.4/docs/tutorial/doc/JSPIntro7.html">here's</a> a bit more info on the subject.

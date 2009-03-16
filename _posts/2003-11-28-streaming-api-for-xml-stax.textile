@@ -1,0 +1,9 @@
+---
+layout: post
+title: Streaming API for XML (StAX)
+---
+the <a href="http://jcp.org/en/jsr/detail?id=173">Streaming API for XML (StAX) </a> is a new Java API for parsing and writing xml. it's supposed to solve the well know problems of sax (lack of iterative processing) and dom (potential performance loss resulting from reading the entire XML document into memory).
+
+you can check out the <a href="http://dev2dev.bea.com/technologies/stax/index.jsp">BEA's reference implementation</a> for more info, and <a href="http://www.docuverse.com/blog/donpark/stories/2003/11/27/blogstax.html">Don Park</a> has written a rss 2.0 parser using the StAX api.
+
+interesting stuff, isn't it! :p  tsjak, tsjak Soeataert! :)

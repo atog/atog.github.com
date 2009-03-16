@@ -1,0 +1,5 @@
+---
+layout: post
+title: Netscape 8.0 and IE
+---
+Funny! <a href="http://www.osnews.com/comment.php?news_id=10666">Netscape 8.0 Requires Internet Explorer</a> ;)

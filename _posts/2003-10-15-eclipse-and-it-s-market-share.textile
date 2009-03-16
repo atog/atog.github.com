@@ -1,0 +1,10 @@
+---
+layout: post
+title: eclipse and it's market share
+---
+according <a href="http://www.qa-systems.com/products/qstudioforjava/ide_marketshare.html">this survey</a> eclipse is currently the IDE with the largest market share of 45%, followed by Borland JBuilder with 16% and IDEA IntelliJ with 10%.
+
+my personal favourite is <a href="http://intellij.com">IDEA</a> but it's CVS support in 3.0 is really terrible compared to what <a href="http://eclipse.org">eclipse</a> has to offer (in terms of CVS support :))
+i never used JBuilder though, so i don't know about that one...but eclipse does a very good job in being an IDE :p
+
+via <a href="http://javalobby.org/threadMode2.jsp?forum=61&thread=9156&start=0">javalobby</a>

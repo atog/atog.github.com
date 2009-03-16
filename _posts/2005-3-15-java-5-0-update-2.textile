@@ -1,0 +1,5 @@
+---
+layout: post
+title: Java 5.0 update 2
+---
+<a href="http://today.java.net/pub/n/2477">Java 5.0 Update 2</a>

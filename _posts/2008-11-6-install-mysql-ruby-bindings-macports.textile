@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: MySQL ruby gem (MacPorts)
+--- 
+Wanneer je MySQL via "MacPorts":http://www.macports.org/ geinstalleerd heb kan je wel wat problemen verwachten wanneer je de native ruby bindings will installeren.
+
+@sudo gem install mysql@
+
+Geeft waarschijnlijk volgende error:
+
+@*** extconf.rb failed ***@
+@Could not create Makefile due to some reason, probably lack of@
+@necessary libraries and/or headers.  Check the mkmf.log file for more@
+@details.  You may need configuration options.@
+
+"Deze blogpost had de oplossing":http://pjforpresident.com/2008/06/20/compiling-mysql-native-bindings-on-os-x-macports/. Omdat je MySQL installatie niet op de default locatie staat moet je wat opties zetten:
+
+@sudo gem install mysql -- \@
+@--with-mysql-include=/opt/local/include/mysql5/mysql/ \@
+@--with-mysql-lib=/opt/local/lib/mysql5/mysql/ \@
+@--with-mysql-config=/opt/local/bin/mysql_config5@
+
+Al heb ik na dit alles nog een gemakkelijkere oplossing gevonden. Je kan de native ruby bindings namelijk ook installeren via "MacPorts":http://www.macports.org/. Duh.
+
+@sudo port install rb-mysql@
+
+... en dan heb je _geen_ problemen.
+

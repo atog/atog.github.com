@@ -1,0 +1,13 @@
+---
+layout: post
+title: Jamping.
+---
+Or "Camping":http://code.whytheluckystiff.net/camping goes Java. "Apparently the JRuby guys succeeded in running camping":http://redhanded.hobix.com/inspect/campingGetsAllJavayPlacingItAtTheVeryEpicenterOfHate.htmll from "JRuby":http://jruby.codehaus.org/.
+
+Ola Bini explains how in his "JRuby Tutorial #2: Going Camping":http://ola-bini.blogspot.com/2006/08/jruby-tutorial-2-going-camping.html.
+
+Diego was right when "he said":http://redhanded.hobix.com/inspect/campingGetsAllJavayPlacingItAtTheVeryEpicenterOfHate.html:
+bq. Camping has now officially reached Ã¢â‚¬ËœenterpriseÃ¢â‚¬â„¢ status.
+
+;)
+

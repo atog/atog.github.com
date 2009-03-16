@@ -1,0 +1,7 @@
+---
+layout: post
+title: open session in view
+---
+maybe <a href='http://hibernate.bluemars.net/43.html'>this pattern</a> can solve my problem :)  i will have to look in to it. i never worked with filters before.
+
+another useful link on the subject : <a href='http://www.javaworld.com/javaworld/jw-06-2001/jw-0622-filters.html'>Filter code with Servlet 2.3 model</a>

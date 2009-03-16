@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: In het geval dat
+--- 
+In het geval dat ge het gemist zou hebben vandaag:
+
+* "gmail":http://mail.google.com lag eruit. Én niet voor 5 min.
+* "Safari 4 beta":http://www.apple.com/safari/ was released. Top sites, cover flow voor history, er zitten mooie dingen in.
+* "Howto enable 1Password in Safari 4 beta":http://support.agilewebsolutions.com/showthread.php?t=11637
+
+Dat is alles voor vandaag.

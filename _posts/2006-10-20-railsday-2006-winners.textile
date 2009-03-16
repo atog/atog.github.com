@@ -1,0 +1,5 @@
+---
+layout: post
+title: Railsday 2006 winners.
+---
+"Grand tour of the 13 railsday winners":http://blog.evanweaver.com/articles/2006/10/19/grand-tour-of-the-13-railsday-winners.

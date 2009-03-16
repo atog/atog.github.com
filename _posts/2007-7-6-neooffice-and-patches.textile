@@ -1,0 +1,9 @@
+---
+layout: post
+title: NeoOffice and Patches.
+---
+Als er nu iets is waar ik stilaan een hekel aan begin te krijgen dan zijn het wel die "NeoOffice patches":http://www.neooffice.org/neojava/en/patch.php. Elke keer dat ik "NeoOffice":http://www.neooffice.org/neojava/en/index.php opstart krijg ik die "patch pagina":http://www.neooffice.org/neojava/en/patch.php te zien. Vreselijk irritant.
+
+Ik gebruik het dan al niet veel (daarom ook dat ik altijd moet patchen waarschijnlijk) maar kunnen ze nu niet gewoon een deftige release maken en hun onnozele patchen sparen voor een volgende release ipv mij altijd te koeieneren. Doeme toch.
+
+Gelukkig is "OpenOffice.org":http://www.openoffice.org/index.html begonnen met een "Aqua port":http://porting.openoffice.org/mac/news/. Ideaal. Ik kan niet wachten tot er iets non-alpha gereleased zal zijn.

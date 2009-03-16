@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: GPS
+--- 
+Een "GPS":http://en.wikipedia.org/wiki/GPS _works in mysterious ways_. Ik heb het al dikwijls gemerkt en nu vond ik het tijd voor een blogpost.
+
+Ik moest vanavond in Sint-Truiden zijn. Ik zet de GPS op, vertrek thuis (Edegem) en hij stuurt me over Hasselt. Ik vertrek in Sint-Truiden terug naar huis en hij stuurt me over Brussel.
+
+Ben ik nu de enige die dat raar vind? Niks veranderen aan de instellingen en toch een andere _'snellere'_ route?!

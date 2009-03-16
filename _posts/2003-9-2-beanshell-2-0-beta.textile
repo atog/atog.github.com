@@ -1,0 +1,10 @@
+---
+layout: post
+title: beanshell 2.0 beta
+---
+i was already very happy with the previous version, but i can't wait to start using this one :p
+...downloading as we speak :)
+
+via <a href='http://blogs.atlassian.com/rebelutionary/archives/000275.html'>mike</a> via <a href='http://crazybob.org/roller/page/crazybob/20030901'>crazy bob</a>
+
+you can read the announcement <a href='http://beanshell.org/bsh20announce.txt'>here</a>

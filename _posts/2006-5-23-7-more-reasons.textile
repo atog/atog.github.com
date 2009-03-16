@@ -1,0 +1,5 @@
+---
+layout: post
+title: 7 more reasons...
+---
+"7 More Reasons Why Web Apps Fail":http://bokardo.com/archives/7-more-reasons-why-web-apps-fail/ follow up on "7 Reasons Why Web Apps Fail":http://bokardo.com/archives/7-reasons-why-web-apps-fail/

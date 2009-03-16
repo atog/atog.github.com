@@ -1,0 +1,5 @@
+---
+layout: post
+title: Testing Java with Ruby.
+---
+"Testing Java with Ruby":http://ola-bini.blogspot.com/2007/07/rspec-and-rbehave-runs-on-jruby.html.

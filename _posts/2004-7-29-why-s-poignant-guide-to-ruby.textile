@@ -1,0 +1,5 @@
+---
+layout: post
+title: Why's (Poignant) Guide to Ruby
+---
+<a href="http://poignantguide.net/ruby/">Why's (Poignant) Guide to Ruby</a> by <a href="http://whytheluckystiff.net/">why the lucky stiff</a>

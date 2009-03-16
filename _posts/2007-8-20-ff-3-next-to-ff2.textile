@@ -1,0 +1,5 @@
+---
+layout: post
+title: FF 3 next to FF2.
+---
+"Howto run Firefox 3 next to Firefox 2":http://blog.codefront.net/2007/08/20/how-to-have-firefox-3-and-firefox-2-running-at-the-same-time/, profiles dus.

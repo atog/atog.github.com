@@ -1,0 +1,5 @@
+---
+layout: post
+title: Textmate creator interview.
+---
+"Interview with Allan Odgaard, creator of TextMate":http://blog.johnjosephbachir.org/2007/10/01/interview-with-allan-odgaard-creator-of-textmate/

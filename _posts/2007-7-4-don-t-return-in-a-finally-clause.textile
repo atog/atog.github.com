@@ -1,0 +1,5 @@
+---
+layout: post
+title: Don't return in a finally clause.
+---
+"Van mottige code gesproken":http://weblogs.java.net/blog/staufferjames/archive/2007/06/_dont_return_in.html, voor het geval dat ge het toch niet zo mottig zou vinden, niet doen dus.

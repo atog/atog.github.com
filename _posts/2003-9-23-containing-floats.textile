@@ -1,0 +1,5 @@
+---
+layout: post
+title: containing floats
+---
+Eric A. Meyer explains why a floated element (sometimes) sticks out of its parent element and how you can fix this. <a href='http://www.complexspiral.com/publications/containing-floats/'>good to know</a>

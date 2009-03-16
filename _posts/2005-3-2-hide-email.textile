@@ -1,0 +1,5 @@
+---
+layout: post
+title: Hide email.
+---
+Nifty! <a href="http://stunicholls.myby.co.uk/menu/email.html">Hiding email addresses via css</a>. <em>via <a href="http://weblogtoolscollection.com/archives/2005/03/01/hiding-email-address-with-css/">Weblog Tools Collection</a></em>

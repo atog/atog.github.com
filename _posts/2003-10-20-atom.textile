@@ -1,0 +1,7 @@
+---
+layout: post
+title: atom
+---
+<a href="http://www.xml.com/pub/a/2003/10/15/dive.html?page=1">interesting article on atom</a>
+
+via <a href="http://www.rollerweblogger.org/page/roller/20031019#with_schemas_and_everything">Dave</a>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Maven.
+---
+"Maven":http://maven.apache.org/ kan ongelooflijk gemakkelijk zijn, maar wanneer je "Maven: broken by design":http://fishbowl.pastiche.org/2007/12/20/maven_broken_by_design leest dan kunt ge niet ontkennen dat hij overschot van gelijk heeft.
+
+bq. We have a joke around the office, when a new hire is setting up their development environment for the first time. â€œNow we go to lunch while Maven downloads the Internet.â€ "[more]":http://fishbowl.pastiche.org/2007/12/20/maven_broken_by_design
+
+En gelijk heeft hij. Het is eigenlijk niet om te lachen, maar het is zo erg dat je er wel moet om lachen. Wanneer 1 enkele build 10 min duurt, dan weet je wel waarover ik het heb.
+
+Nog een mooie:
+
+bq. But there has to be something fundamentally wrong with any tool that, whenever I use it, seems to have at least a 50% chance of completely fucking up my day. "[more]":http://fishbowl.pastiche.org/2007/12/20/maven_broken_by_design

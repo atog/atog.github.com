@@ -1,0 +1,13 @@
+---
+layout: post
+title: Agile Web Development with Rails
+---
+This is probably gonna be the first book on <a href="http://www.rubyonrails.com/">rails</a>:
+
+<blockquote><a href="http://www.pragmaticprogrammer.com/titles/rails/index.html">Agile Web Development with Rails</a>
+
+A new approach to web development:
+<ul><li>develop sophisticated web applications quickly and easily;</li><li>use incremental and iterative development to create the web apps that users want; and</li><li>get to go home on time.</li></ul>
+<a href="http://www.pragmaticprogrammer.com/titles/rails/index.html">[more]</a></blockquote>
+
+Nice! ;)

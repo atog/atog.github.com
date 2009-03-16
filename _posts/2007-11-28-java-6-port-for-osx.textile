@@ -1,0 +1,12 @@
+---
+layout: post
+title: Java 6 Port for OSX.
+---
+Kijk nu: "Landon Fuller is bezig met een Java 6 Port voor Tiger en Leopard":http://landonf.bikemonkey.org/code/macosx/, straffe toeren.
+
+Het belangrijkste zit er nog niet in, native Swing, maar ik ben al blij dat er toch tenminste iemand mee bezig is. Dat er tenminste al iemand tijd aan *kan* en *wil* spenderen.
+
+<em>via "Charles":http://headius.blogspot.com/2007/11/java-6-port-for-os-x-tiger-and-leopard.html</em>.
+
+*[update]* Er is nu ook een "SoyLatte project page":http://landonf.bikemonkey.org/static/soylatte/.
+

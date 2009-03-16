@@ -1,0 +1,5 @@
+---
+layout: post
+title: keyboard spinner
+---
+<a href='http://weblogs.java.net/pub/wlg/403'>this is fun-stuff</a> :)  i tried it and it works!

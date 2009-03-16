@@ -1,0 +1,9 @@
+---
+layout: post
+title: pbcopy.
+---
+bq. The <code>pbcopy</code> command copies whatever is sent to it on STDIN to the clipboard, ensuring that you wonâ€™t have any extraneous newlines or other problems.
+
+via "GitHub guide":http://github.com/guides/providing-your-ssh-key
+
+Mooi. Dat weten we ook weeral. :)

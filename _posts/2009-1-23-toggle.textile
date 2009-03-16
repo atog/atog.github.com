@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Toggle
+--- 
+"Toggle":http://docs.jquery.com/Effects/toggle en "JQuery":http://jquery.com, de max.
+
+Om een hele hoop elementen te verbergen of terug te toveren, geef ze gewoon een style class mee:
+
+<% coderay :lang => 'javascript', :line_numbers => 'inline' do -%>
+$(".elements-to-toggle").toggle();
+<%- end -%>
+
+Werk natuurlijk evengoed om het displayen van 2 elementen te wisselen:
+
+<% coderay :lang => 'javascript', :line_numbers => 'inline' do -%>
+<span class="elements-to-toggle" style="display:none;">a</span>
+<span class="elements-to-toggle">b</span>
+
+$(".elements-to-toggle").toggle();
+<%- end -%>
+
+Niet meer. Niet minder.
+
+Tot voor kort deed ik dat altijd manueel. Ttz, ik heb wel steeds de toggle/show/hide functions gebruikt, maar nooit in groep. "Documentatie":http://docs.jquery.com, het is toch iets eh. :)

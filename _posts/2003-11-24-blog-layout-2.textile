@@ -1,0 +1,5 @@
+---
+layout: post
+title: blog layout (2)
+---
+oki do, fixed most of it but i'm still not happy with the general result...so expect some more changes soon :)

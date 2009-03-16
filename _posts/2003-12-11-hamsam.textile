@@ -1,0 +1,7 @@
+---
+layout: post
+title: hamsam
+---
+<blockquote>&lt;quote&gt;<a href="http://hamsam.sourceforge.net/index.html">Hamsam</a> is a multi-protocol instant messaging API, developed in Java, that helps in development of instant messaging applications.&lt;/quote&gt;</blockquote>
+
+could be useful, i only wonder if someone's actully using it...

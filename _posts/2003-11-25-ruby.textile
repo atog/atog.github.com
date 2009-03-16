@@ -1,0 +1,11 @@
+---
+layout: post
+title: ruby
+---
+for over the past week i started looking into  <a href="http://www.ruby-lang.org/en/">ruby</a>, just out of curiosity and i'm really starting to like it :)
+
+so for now i put these links here to an interview at <a href="http://artima.com">artima</a> with ruby's creator : Yukihiro Matsumoto. i haven't read them yet, will do some so when i got a free moment :)
+
+<a href="http://www.artima.com/intv/ruby.html">The Philosophy of Ruby</a>
+
+<a href="http://www.artima.com/intv/tuesday.html">Dynamic Productivity with Ruby</a>

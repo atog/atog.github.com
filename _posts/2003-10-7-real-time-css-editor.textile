@@ -1,0 +1,10 @@
+---
+layout: post
+title: real time css editor
+---
+another great <a href="http://mozilla.org/">mozilla firebird</a> extension : <a href="http://texturizer.net/firebird/extensions/#EditCSS">EditCSS</a>
+
+from the author:
+<blockquote>EditCSS is a useful extension for web developers and web designers, that works for MozillaFirebird. It allows you to edit current stylesheets of a page in live, and display the result as you type. It appears in a sidebar. The project is based on Jesse Ruderman's "Edit Style" bookmarklet, that has done the essential work.</blockquote>
+
+via <a href="http://blogs.cocoondev.org/tomk/archives/001088.html">nephilim, the blogless websiteless person</a> :p
