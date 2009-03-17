@@ -19,3 +19,8 @@
 	font-size: 0.8em;
 	text-transform: uppercase;
 }
+
+img {
+	float: left;
+	margin: 10px;
+}
