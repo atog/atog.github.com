@@ -1,14 +1,28 @@
+/* @override http://localhost:4000/css/screen.css */
+
+body {
+	background-color: #222;
+	font: 13px helvetica,arial,clean,sans-serif;
+}
+
+a {
+	color: blue;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
 .site {
+	margin: 2em;
+	padding: 0 20px 20px 20px;
 	width: 500px;
+	border: 1em #4183c4 solid;
+	background-color: #dce8f4;
 }
 
 .right {
 	float: right;
-}
-
-.contact {
-	float: left;
-	margin: 3em;
 }
 
 .adhese {
@@ -16,11 +30,25 @@
 }
 
 .date {
+	display: block;
 	font-size: 0.8em;
 	text-transform: uppercase;
+	margin-bottom: 1.5em;
+}
+
+.post {
+	margin: 2em 0;
+}
+
+.highlight {
+	margin: 1em 0 1em 0;
+	border: 1px solid #97BBDF;
+	background: #bad2eA;
+	padding: 5px;
 }
 
 pre {
+	background-color: #bad2eA;
 	overflow: auto;
 	width: 480px;
 }
@@ -28,4 +56,30 @@ pre {
 img {
 	float: left;
 	margin: 10px;
+}
+
+.footer {
+	margin-top: 2em;
+	padding: 20px;
+	border: 1px solid #97BBDF;
+	background: #bad2eA url(/images/10to1.png) no-repeat 340px;
+}
+
+div#twitter_div {
+	font-size: 15px;
+	background-color: #bad2eA;
+}
+
+div#twitter_div span.twit {
+	display: none;
+}
+
+div#twitter_div ul {
+	padding: 0;
+}
+
+div#twitter_div li {
+	padding: 10px;
+	border: 1px solid #97BBDF;	
+	list-style-type: none;
 }
