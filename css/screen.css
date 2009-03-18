@@ -20,6 +20,11 @@
 	text-transform: uppercase;
 }
 
+pre {
+	overflow: auto;
+	width: 480px;
+}
+
 img {
 	float: left;
 	margin: 10px;
