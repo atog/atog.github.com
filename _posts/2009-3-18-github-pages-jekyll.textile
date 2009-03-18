@@ -1,0 +1,11 @@
+---
+layout: post
+title: GitHub pages and Jekyll
+---
+De _move_ naar "webby":http://webby.rubyforge.org/ is nog niet "zo lang geleden":http://atog.be/2008/08/22/created-with-webby.html of ik heb al weer nieuw speelgoed gevonden: "Jekyll":http://github.com/mojombo/jekyll/tree/master.
+
+Eigenlijk doen ze beide hetzelfde: op een eenvoudige manier een statische website genereren. Door het gebruik van webby stonden mijn posts al in een git repo op "GitHub":https://github.com maar ik moest nog altijd wel zorgen dat ze ook op "atog.be":http://atog.be geraakten.
+
+"GitHub pages":http://pages.github.com/ en "Jekyll":http://github.com/mojombo/jekyll/tree/master zorgen er nu voor dat die laatste stap niet meer nodig is. Vanaf het moment dat je een nieuwe post _pushed_ naar jouw pages repository wordt de hele site opnieuw door "Jekyll":http://github.com/mojombo/jekyll/tree/master gedraaid en automatisch gepublished.
+
+Dat klonk als muziek in mijn oren. Ik heb al mijn posts nog eens mogen migreren, maar ook dat is plezant. Hoe lang zou ik deze keer uithouden? Gokje? :)
