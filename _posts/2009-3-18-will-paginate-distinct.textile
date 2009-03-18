@@ -1,0 +1,16 @@
+---
+layout: post
+title: Distinct and will_paginate
+---
+Combinatie van "MySQL":http://www.mysql.com/ met _distinct_ en de rails "will_paginate plugin":http://wiki.github.com/mislav/will_paginate werkt niet vanzelf blijkbaar.
+
+Hoe dan wel?
+
+{% highlight ruby %}
+Article.paginate(
+	:all, 
+	:page => params[:page], 
+	:per_page => 5, 
+	:count => {:select => "articles.id"}, 
+	:select => "distinct articles.id, articles.*"))
+{% endhighlight %}
