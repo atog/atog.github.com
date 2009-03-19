@@ -1,4 +1,7 @@
-/* @override http://localhost:4000/css/screen.css */
+/* @override 
+	http://localhost:4000/css/screen.css
+	http://atog.be/css/screen.css
+*/
 
 body {
 	background-color: #222;
@@ -56,6 +59,10 @@ pre {
 img {
 	float: left;
 	margin: 10px;
+}
+
+a img {
+	border: 0;
 }
 
 .footer {
