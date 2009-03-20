@@ -1,0 +1,7 @@
+---
+layout: post
+title: Nog te goed
+---
+"Zoals beloofd":http://atog.be/2009/03/17/twunch-1-jaar.html, "dit had ge nog te goed":http://www.flickr.com/photos/atog/3365497943/. :)
+
+<object type="application/x-shockwave-flash" width="500" height="281" data="http://www.flickr.com/apps/video/stewart.swf?v=68975" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&amp;photo_secret=5d768ea29a&amp;photo_id=3365497943&amp;show_info_box=true"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=68975"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=68975" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&amp;photo_secret=5d768ea29a&amp;photo_id=3365497943&amp;flickr_show_info_box=true" height="281" width="500"></embed></object>
