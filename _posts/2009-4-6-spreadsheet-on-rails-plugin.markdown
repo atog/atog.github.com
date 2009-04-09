@@ -16,7 +16,7 @@ In de view - "index.xls.rxls"
 
 {% highlight ruby %}
 sheet = workbook.create_worksheet
-sheet.name = "What's in a name?"
+sheet.name = "What's in a name"
 sheet.row(0).concat %w{Name Country Acknowlegement}
 sheet[1,0] = 'Japan'
 {% endhighlight %}
@@ -36,3 +36,5 @@ end
 {% endhighlight %}
 
 Onder het motto, give something back, [is it available on GitHub](http://github.com/10to1/spreadsheet_on_rails)
+
+**update** Removed the "?" in the example sheetname. Thanks rebo!
