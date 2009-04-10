@@ -1,0 +1,10 @@
+---
+layout: post
+title: git pus
+---
+Ik heb me vanmorgen mis-typed. `git pus` ipv `git push`. Wat ik zien kreeg was eigenlijk een aangename verrassing:
+
+<a href="http://www.flickr.com/photos/atog/3429899782/" title="git pus by atog, on Flickr"><img src="http://farm4.static.flickr.com/3651/3429899782_bb5ee53e84_o.jpg" width="353" height="66" alt="git pus" /></a>
+
+<div style="clear:both">&nbsp;</div>
+Dit was _(denk ik)_ de eerste keer dat ik zoiets tegenkom op de commandline. Dat zouden ze meer moeten doen mijn gedacht. :)
