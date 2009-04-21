@@ -1,0 +1,12 @@
+---
+layout: post
+title: Tweetie
+---
+[Get it while it's hot](http://www.atebits.com/tweetie-mac/). [Tweetie voor de iPhone](http://www.atebits.com/tweetie-iphone/) bestond al langer, maar gisteren is [Tweetie voor de mac](http://www.atebits.com/tweetie-mac/) beschikbaar gesteld voor de rest van de wereld.
+
+Kenmerken? Snel, mooi, véél shortcuts, mooi, conversations, mooi, url expansion, mooi, bookmarklet en waarschijnlijk nog vanalles wat ik nog niet ontdekt heb.
+
+<a href="http://www.flickr.com/photos/atog/3462859585/" title="tweetie search by atog, on Flickr"><img src="http://farm4.static.flickr.com/3618/3462859585_25253dd17d.jpg" width="342" height="500" alt="tweetie search" /></a>
+
+<div style="clear:both">&nbsp;</div>
+Ondertussen zijn er al verschillende twitter-clients (te veel?) maar [deze](http://www.atebits.com/tweetie-mac/), **is the one**.
