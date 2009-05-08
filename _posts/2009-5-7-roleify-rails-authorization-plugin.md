@@ -77,5 +77,13 @@ User.role_as
 User.role_bs
 {% endhighlight %}
 
+Methods:
+
+{% highlight ruby %}
+User.admin?
+User.role_a?
+User.role_b?
+{% endhighlight %}
+
 
 Questions? Shoot!
