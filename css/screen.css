@@ -16,6 +16,13 @@ h1 {
 	margin-bottom: 0;
 }
 
+hr {
+	border: 0;
+	color: #97BBDF;
+	background-color: #97BBDF;
+	height: 1px;
+}
+
 blockquote {
 	font-style: italic;
 }
