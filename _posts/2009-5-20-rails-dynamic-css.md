@@ -11,14 +11,14 @@ map.dynamic_stylesheet "/stylesheets/dynamic.:format",
 			:action => "index"
 {% endhighlight %}
 
-**some_controller.rb**
+**some\_controller.rb**
 {% highlight ruby %}
 def index
   @color = "#fff"
 end
 {% endhighlight %}
 
-**application.erb.html**
+**application.html.erb**
 {% highlight erb %}
 <%= stylesheet_link_tag dynamic_stylesheet_path("css") %>
 {% endhighlight %}
