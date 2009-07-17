@@ -2,7 +2,7 @@
 layout: post
 title: Flinke meid
 ---
-Vandaag was het zover. [De geplande NMR test voor ons Mila]((http://atog.be/2009/07/05/ziekenhuis.html)).
+Vandaag was het zover. [De geplande NMR test voor ons Mila](http://atog.be/2009/07/05/ziekenhuis.html).
 
 Het is toch in elk ziekenhuis wel iets. Dat kan toch echt nooit _vlot_ verlopen. We moesten ons ten laatste om 9.30hrs aanmelden vanmorgen. Ok, we waren daar om 9hrs. Na een half uurtje wachten op de kamer, kregen we te horen dat de test pas om 12.30hrs zou gebeuren.
 
