@@ -12,6 +12,11 @@ a {
 	color: blue;
 }
 
+a.hire_me {
+	clear: left;
+	float: right;
+}
+
 h1 {
 	margin-bottom: 0;
 }
